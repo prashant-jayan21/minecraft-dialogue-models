@@ -1,5 +1,6 @@
 # Setup
-- PyTorch 0.4.1
+- [PyTorch](https://pytorch.org/get-started/locally/) (we recommend `v0.4.1` or `v1.0.1` -- these are the ones we have tried out)
+- [NLTK](https://www.nltk.org/install.html)
 
 
 # Data
