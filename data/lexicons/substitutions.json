@@ -1,0 +1,138 @@
+{
+
+  "red": ["yellow","purple","orange","green","blue"],
+  "yellow": ["red","purple","orange","green","blue"],
+  "purple": ["yellow","red","orange","green","blue"],
+  "orange": ["yellow","purple","red","green","blue"],
+  "green": ["yellow","purple","orange","red","blue"],
+  "blue": ["yellow","purple","orange","green","red"],
+
+  "2": ["3","4","5","6","7","8","9"],
+  "3": ["2","4","5","6","7","8","9"],
+  "4": ["3","2","5","6","7","8","9"],
+  "5": ["3","4","2","6","7","8","9"],
+  "6": ["3","4","5","2","7","8","9"],
+  "7": ["3","4","5","6","2","8","9"],
+  "8": ["3","4","5","6","7","2","9"],
+  "9": ["3","4","5","6","7","8","2"],
+
+  "two": ["three","four","five","six","seven","eight","nine", "2"],
+  "three": ["two","four","five","six","seven","eight","nine", "3"],
+  "four": ["three","two","five","six","seven","eight","nine", "4"],
+  "five": ["three","four","two","six","seven","eight","nine", "5"],
+  "six": ["three","four","five","two","seven","eight","nine", "6"],
+  "seven": ["three","four","five","six","two","eight","nine", "7"],
+  "eight": ["three","four","five","six","seven","two","nine", "8"],
+  "nine": ["three","four","five","six","seven","eight","two", "9"],
+
+  "okay": ["ok"],
+  "ok": ["okay"],
+
+  "put": ["place", "add"],
+  "place": ["put", "add"],
+  "add": ["put", "place"],
+
+  "make": ["build"],
+  "build": ["make"],
+
+  "row": ["column"],
+  "column": ["row"],
+
+  "up": ["down"],
+  "down": ["up"],
+
+  "yes": ["yep", "ya", "yeah", "yup"],
+  "yep": ["yes", "ya", "yeah", "yup"],
+  "ya": ["yep", "yes", "yeah", "yup"],
+  "yeah": ["yes", "yep", "ya", "yup"],
+  "yup": ["yes", "yep", "ya", "yeah"],
+
+  "that": ["this"],
+  "this": ["that"],
+
+  "now": ["then"],
+  "then": ["now"],
+
+  "side": ["end", "edge"],
+  "edge": ["end"],
+
+  "corners": ["edges"],
+  "edges": ["corners"],
+
+  "left": ["right"],
+
+  "i": ["you"],
+
+  "with": ["without"],
+  "without": ["with"],
+
+  "middle": ["bottom"],
+
+  "center": ["middle", "bottom", "top"],
+
+  "bottom": ["top", "middle"],
+
+  "ground": ["floor", "bottom"],
+
+  "should": ["could", "would", "can", "will"],
+  "could": ["would", "can", "will"],
+  "would": ["could", "should", "will"],
+
+  "are": ["were"],
+
+  "perfect": ["good", "great", "awesome", "nice"],
+  "nice": ["good", "great", "awesome", "perfect"],
+  "cool": ["good", "great", "awesome", "perfect", "nice"],
+
+  "but": ["however"],
+
+  "square": ["rectangle"],
+  "layer": ["square", "rectangle", "row", "column"],
+
+  "start": ["begin"],
+
+  "above": ["below"],
+  "below": ["above"],
+  "behind": ["above", "below"],
+
+  "remove": ["delete"],
+
+  "last": ["first"],
+  "first": ["last"],
+
+  "line": ["row"],
+
+  "floating": ["levitating", "hovering"],
+
+  "need": ["want"],
+
+  "towards": ["toward"],
+  "toward": ["towards"],
+
+  "looks": ["seems"],
+
+  "brick": ["block"],
+  "block": ["brick"],
+  "bricks": ["blocks"],
+  "blocks": ["bricks"],
+
+  "done": ["finished"],
+
+  "those": ["these"],
+  "these": ["those"],
+  "them": ["these", "those"],
+  "they": ["these", "those"],
+
+  "me": ["us"],
+
+  "move": ["shift"],
+
+  "here": ["there"],
+
+  "your": ["my"],
+
+  "spaces": ["squares"],
+
+  "think": ["believe"]
+
+}

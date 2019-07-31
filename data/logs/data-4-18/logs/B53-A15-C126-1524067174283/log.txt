@@ -1,0 +1,1865 @@
+
+--------------------
+[Timestamp] 2018-04-18 15:59:56
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-18 16:00:02
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 5394-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-18 16:00:23
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 26758-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-18 16:00:31
+[Builder Position] (x, y, z): (0.928307723087, 1.0, -1.79652981384) (yaw, pitch): (-6.7499995, 36.14998)
+[Screenshot Path] 34705-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-18 16:00:32
+[Builder Position] (x, y, z): (0.928307723087, 1.0, -1.79652981384) (yaw, pitch): (-6.7499995, 36.14998)
+[Screenshot Path] 35155-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.757993680397, 1.24095948189, 1.69866569542)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:32
+[Builder Position] (x, y, z): (0.515420434845, 1.0, -1.82372487324) (yaw, pitch): (9.150002, 35.99998)
+[Screenshot Path] 36006-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.318039444972, 1.16061128992, 1.59744556876)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.30531485126, 1.06714188713, 1.4687958782)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:33
+[Builder Position] (x, y, z): (0.515420434845, 1.0, -1.82372487324) (yaw, pitch): (16.05, 34.349983)
+[Screenshot Path] 36755-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.40806857131, 1.24050590414, 1.81511022886)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.552952219668, 1.08450522792, 1.58684978917)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.51397301065, 0.928504551695, 1.35858934948)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:34
+[Builder Position] (x, y, z): (0.504148379081, 1.0, -1.82372487324) (yaw, pitch): (-27.450006, 13.9499855)
+[Screenshot Path] 38005-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.80936233372, 0.316736707712, 1.27510227171)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.92194893493, 0.427866042279, 1.72248100461)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.034535536144, 0.538995376846, 2.16985973751)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.034535536144, 1.50950191132, 1.92878492229)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:35
+[Builder Position] (x, y, z): (0.504148379081, 1.0, -1.82372487324) (yaw, pitch): (-3.7500076, 15.899985)
+[Screenshot Path] 38705-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.12866543775, 0.528826984731, 1.85646339847)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.130806523182, 0.546744794709, 1.91936442161)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.867052391381, 0.564662604687, 1.98226544476)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.130806523182, 1.50848617598, 1.6454054547)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.867052391381, 1.52640398596, 1.70830647785)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:36
+[Builder Position] (x, y, z): (0.504148379081, 1.0, -1.82372487324) (yaw, pitch): (19.949991, 13.649986)
+[Screenshot Path] 39505-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.257591127346, 0.524176558569, 2.15844521509)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.68239965807, 0.443656817057, 1.82688240873)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.62239044349, 0.363137075546, 1.49531960238)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.257591127346, 1.49593204654, 1.9224552331)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.68239965807, 1.41541230503, 1.59089242674)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.62239044349, 1.33489256351, 1.25932962038)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:37
+[Builder Position] (x, y, z): (0.504148379081, 4.22384710275, -1.82372487324) (yaw, pitch): (-20.850006, 51.600006)
+[Screenshot Path] 40755-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.64636082243, -0.677630098705, 3.29094416417)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.711845428502, -0.398695773081, 3.51202473887)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.222669965421, -0.119761447458, 3.73310531357)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.64636082243, -0.0564824004948, 2.5072506418)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.711845428502, 0.222451925129, 2.7283312165)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.222669965421, 0.501386250752, 2.9494117912)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.222669965421, 1.12253394896, 2.16571826882)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:38
+[Builder Position] (x, y, z): (0.504148379081, 4.24341321608, -1.82372487324) (yaw, pitch): (-1.050007, 50.100006)
+[Screenshot Path] 41805-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 12
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.03648218921, -0.404334200971, 3.57242474034)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.0366501070972, -0.390275857253, 3.58417933772)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.963181975011, -0.376217513534, 3.59593393509)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.03648218921, 0.237115350261, 2.80525952135)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.0366501070972, 0.251173693979, 2.81701411873)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.963181975011, 0.265232037698, 2.8287687161)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.0366501070972, 0.892623245211, 2.04984889974)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.963181975011, 0.90668158893, 2.06160349711)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:39
+[Builder Position] (x, y, z): (0.504148379081, 4.24341321608, -1.82372487324) (yaw, pitch): (19.949991, 48.6)
+[Screenshot Path] 43004-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 11
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.257591127346, -0.317802840276, 3.71922682366)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.68239965807, -0.573740608991, 3.49358732827)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.62239044349, -0.829678377706, 3.26794783288)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.257591127346, 0.343509025048, 2.96911575403)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.68239965807, 0.0875712563335, 2.74347625864)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.62239044349, -0.168366512382, 2.51783676325)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.257591127346, 1.00482089037, 2.2190046844)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.68239965807, 0.748883121657, 1.99336518901)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.62239044349, 0.492945352942, 1.76772569362)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:40
+[Builder Position] (x, y, z): (0.504148379081, 4.24341321608, -1.82372487324) (yaw, pitch): (-22.500008, 39.44998)
+[Screenshot Path] 44304-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 10
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.68924660181, -1.3856235185, 3.03751434289)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.765367122726, -1.14246472309, 3.33301478004)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.158512356353, -0.899305927682, 3.62851521718)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.68924660181, -0.613443924235, 2.40211000375)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.765367122726, -0.370285128826, 2.6976104409)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.158512356353, -0.127126333417, 2.99311087804)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.68924660181, 0.15873567003, 1.76670566461)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.765367122726, 0.401894465439, 2.06220610175)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.158512356353, 0.645053260848, 2.3577065389)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 0.158512356353, 1.41723285511, 1.72230219976)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:42
+[Builder Position] (x, y, z): (0.504148379081, 4.24341321608, -1.82372487324) (yaw, pitch): (-6.3000073, 38.399975)
+[Screenshot Path] 45304-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 9
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.21342981694, -1.18444986476, 3.33536603647)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.219468875462, -1.11628859987, 3.4213642271)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.774492066012, -1.04812733498, 3.50736241774)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.21342981694, -0.400756136412, 2.71421859814)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.219468875462, -0.332594871519, 2.80021678878)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.774492066012, -0.264433606626, 2.88621497941)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.21342981694, 0.382937591941, 2.09307115981)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.219468875462, 0.451098856834, 2.17906935045)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.774492066012, 0.519260121727, 2.26506754108)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.219468875462, 1.23479258519, 1.55792191212)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 0.774492066012, 1.30295385008, 1.64392010276)
+
+--------------------
+[Timestamp] 2018-04-18 16:00:43
+[Builder Position] (x, y, z): (-0.852642474671, 4.24341321608, -1.68115404488) (yaw, pitch): (-6.000007, 38.099976)
+[Screenshot Path] 46803-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.209057169542, -1.13349513657, 3.41635534967)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.785464713056, -1.06899728425, 3.49861258084)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.77998659565, -1.00449943192, 3.58086981201)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.209057169542, -0.346559856149, 2.79931980416)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.785464713056, -0.282062003823, 2.88157703533)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.77998659565, -0.217564151498, 2.9638342665)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.209057169542, 0.440375424276, 2.18228425865)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.785464713056, 0.504873276602, 2.26454148982)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.77998659565, 0.569371128927, 2.34679872099)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.209057169542, 1.2273107047, 1.56524871314)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.785464713056, 1.29180855703, 1.64750594431)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 1.77998659565, 1.35630640935, 1.72976317548)
+
+--------------------
+[Timestamp] 2018-04-18 16:01:25
+[Builder Position] (x, y, z): (-0.61641557167, 4.24341321608, -4.07394563079) (yaw, pitch): (-7.800008, 37.799973)
+[Screenshot Path] 89163-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.678578553845, 0.665713892873, 5.75294326055)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.312169267677, 0.748894958761, 5.86017974887)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.3029170892, 0.832076024649, 5.96741623719)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.678578553845, 1.45586919407, 5.14003657925)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.312169267677, 1.53905025996, 5.24727306757)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.3029170892, 1.62223132585, 5.35450955589)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.678578553845, 2.24602449528, 4.52712989795)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.312169267677, 2.32920556116, 4.63436638627)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.3029170892, 2.41238662705, 4.74160287459)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.678578553845, 3.03617979648, 3.91422321664)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.312169267677, 3.11936086236, 4.02145970497)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 1.3029170892, 3.20254192825, 4.12869619329)
+
+--------------------
+[Timestamp] 2018-04-18 16:01:33
+[Builder Position] (x, y, z): (-0.61641557167, 4.24341321608, -4.07394563079) (yaw, pitch): (-7.800008, 37.799973)
+[Screenshot Path] 96462-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.678578553845, 0.665713892873, 5.75294326055)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.312169267677, 0.748894958761, 5.86017974887)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.3029170892, 0.832076024649, 5.96741623719)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.678578553845, 1.45586919407, 5.14003657925)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.312169267677, 1.53905025996, 5.24727306757)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.3029170892, 1.62223132585, 5.35450955589)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.678578553845, 2.24602449528, 4.52712989795)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.312169267677, 2.32920556116, 4.63436638627)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.3029170892, 2.41238662705, 4.74160287459)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.678578553845, 3.03617979648, 3.91422321664)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.312169267677, 3.11936086236, 4.02145970497)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 1.3029170892, 3.20254192825, 4.12869619329)
+
+--------------------
+[Timestamp] 2018-04-18 16:01:38
+[Builder Position] (x, y, z): (-0.61641557167, 4.24341321608, -4.07394563079) (yaw, pitch): (-7.800008, 37.799973)
+[Screenshot Path] 101461-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.678578553845, 0.665713892873, 5.75294326055)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.312169267677, 0.748894958761, 5.86017974887)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.3029170892, 0.832076024649, 5.96741623719)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.678578553845, 1.45586919407, 5.14003657925)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.312169267677, 1.53905025996, 5.24727306757)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.3029170892, 1.62223132585, 5.35450955589)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.678578553845, 2.24602449528, 4.52712989795)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.312169267677, 2.32920556116, 4.63436638627)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.3029170892, 2.41238662705, 4.74160287459)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.678578553845, 3.03617979648, 3.91422321664)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.312169267677, 3.11936086236, 4.02145970497)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 1.3029170892, 3.20254192825, 4.12869619329)
+
+--------------------
+[Timestamp] 2018-04-18 16:01:51
+[Builder Position] (x, y, z): (-0.61641557167, 4.24341321608, -4.07394563079) (yaw, pitch): (9.299994, 36.149967)
+[Screenshot Path] 114408-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.8080185888, 0.488307559149, 5.75401265969)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.79487432213, 0.392977401279, 5.62352157725)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.78173005546, 0.297647243409, 5.49303049482)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.8080185888, 1.29578330439, 5.16411188765)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.79487432213, 1.20045314652, 5.03362080522)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.78173005546, 1.10512298865, 4.90312972279)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.8080185888, 2.10325904963, 4.57421111562)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.79487432213, 2.00792889176, 4.44372003319)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.78173005546, 1.9125987339, 4.31322895076)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 0.8080185888, 2.91073479488, 3.98431034359)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.79487432213, 2.81540463701, 3.85381926116)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.78173005546, 2.72007447914, 3.72332817873)
+
+--------------------
+[Timestamp] 2018-04-18 16:01:55
+[Builder Position] (x, y, z): (-0.61641557167, 4.24341321608, -4.07394563079) (yaw, pitch): (8.399996, 36.44997)
+[Screenshot Path] 119008-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.73041479749, 0.525607757783, 5.76109631135)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.71968714065, 0.43881685614, 5.64359069255)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.70895948381, 0.352025954497, 5.52608507376)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.73041479749, 1.32998370413, 5.16697566961)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.71968714065, 1.24319280249, 5.04947005082)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.70895948381, 1.15640190085, 4.93196443203)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.73041479749, 2.13435965048, 4.57285502788)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.71968714065, 2.04756874884, 4.45534940909)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.70895948381, 1.9607778472, 4.3378437903)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 0.73041479749, 2.93873559684, 3.97873438615)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.71968714065, 2.85194469519, 3.86122876736)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.70895948381, 2.76515379355, 3.74372314857)
+
+--------------------
+[Timestamp] 2018-04-18 16:02:08
+[Builder Position] (x, y, z): (-0.61641557167, 4.24341321608, -4.07394563079) (yaw, pitch): (5.249994, 39.44998)
+[Screenshot Path] 131656-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.457507571915, 0.847155107253, 5.75091427913)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.45331250907, 0.789014647976, 5.68025867688)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.44911744623, 0.730874188699, 5.60960307463)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.457507571915, 1.61933470152, 5.11550993999)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.45331250907, 1.56119424224, 5.04485433774)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.44911744623, 1.50305378296, 4.97419873549)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.457507571915, 2.39151429578, 4.48010560085)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.45331250907, 2.33337383651, 4.4094499986)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.44911744623, 2.27523337723, 4.33879439635)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 0.457507571915, 3.16369389005, 3.8447012617)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.45331250907, 3.10555343077, 3.77404565945)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.44911744623, 3.04741297149, 3.7033900572)
+
+--------------------
+[Timestamp] 2018-04-18 16:02:28
+[Builder Position] (x, y, z): (-0.61641557167, 4.24341321608, -4.07394563079) (yaw, pitch): (5.249994, 39.44998)
+[Screenshot Path] 152352-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.457507571915, 0.847155107253, 5.75091427913)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.45331250907, 0.789014647976, 5.68025867688)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.44911744623, 0.730874188699, 5.60960307463)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.457507571915, 1.61933470152, 5.11550993999)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.45331250907, 1.56119424224, 5.04485433774)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.44911744623, 1.50305378296, 4.97419873549)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.457507571915, 2.39151429578, 4.48010560085)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.45331250907, 2.33337383651, 4.4094499986)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.44911744623, 2.27523337723, 4.33879439635)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 0.457507571915, 3.16369389005, 3.8447012617)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.45331250907, 3.10555343077, 3.77404565945)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.44911744623, 3.04741297149, 3.7033900572)
+
+--------------------
+[Timestamp] 2018-04-18 16:02:40
+[Builder Position] (x, y, z): (-1.33862790881, 4.24341321608, -3.28963005679) (yaw, pitch): (-2.4000025, 41.99998)
+[Screenshot Path] 163701-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.831620038975, 0.472758741653, 5.00848353127)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.83074286725, 0.500779041532, 5.03960324883)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.82986569552, 0.528799341411, 5.07072296639)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.831620038975, 1.2159038007, 4.33935318431)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.83074286725, 1.24392410058, 4.37047290187)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.82986569552, 1.27194440046, 4.40159261944)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.831620038975, 1.95904885975, 3.67022283736)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.83074286725, 1.98706915963, 3.70134255492)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.82986569552, 2.01508945951, 3.73246227248)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 0.831620038975, 2.7021939188, 3.00109249041)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.83074286725, 2.73021421868, 3.03221220797)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.82986569552, 2.75823451856, 3.06333192553)
+
+--------------------
+[Timestamp] 2018-04-18 16:02:53
+[Builder Position] (x, y, z): (-2.1317315118, 4.24341321608, -1.95304833799) (yaw, pitch): (-21.750004, 29.399988)
+[Screenshot Path] 176716-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.1165040493, -1.33791391192, 3.73676398401)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.0453135763, -1.1560059107, 4.05959883597)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.9741231033, -0.974097909475, 4.38243368794)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.1165040493, -0.466699997983, 3.24586041286)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 2.0453135763, -0.284791996762, 3.56869526483)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.9741231033, -0.10288399554, 3.89153011679)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.1165040493, 0.404513915952, 2.75495684171)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 2.0453135763, 0.586421917173, 3.07779169368)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.9741231033, 0.768329918395, 3.40062654564)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): 0.187694522296, 1.09381982867, 1.9412184186)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 1.1165040493, 1.27572782989, 2.26405327056)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 2.0453135763, 1.45763583111, 2.58688812253)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.9741231033, 1.63954383233, 2.90972297449)
+
+--------------------
+[Timestamp] 2018-04-18 16:02:55
+[Builder Position] (x, y, z): (-4.47008428655, 4.24341321608, -0.319932120723) (yaw, pitch): (-76.49999, 25.34998)
+[Screenshot Path] 178664-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.03858774539, -0.945912948672, 5.01036522416)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.194857788176, -0.52959633777, 5.88910503909)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.428303321742, -0.113279726868, 6.76784485402)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.03858774539, -0.0422035338525, 4.58221887819)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.194857788176, 0.37411307705, 5.46095869312)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.428303321742, 0.790429687952, 6.33969850805)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.03858774539, 0.861505880968, 4.15407253222)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.194857788176, 1.27782249187, 5.03281234715)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.428303321742, 1.69413910277, 5.91155216208)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -0.505478812522, 0.932582073983, 1.96844655639)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -0.272033278956, 1.34889868489, 2.84718637132)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.03858774539, 1.76521529579, 3.72592618625)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.194857788176, 2.18153190669, 4.60466600118)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 0.428303321742, 2.59784851759, 5.48340581612)
+
+--------------------
+[Timestamp] 2018-04-18 16:02:57
+[Builder Position] (x, y, z): (-2.82785490434, 1.62392312856, -1.18954157423) (yaw, pitch): (-49.64999, -2.2500064)
+[Screenshot Path] 180965-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.229296551938, -0.11067834561, 2.81694398153)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.418158667894, -0.140598473507, 3.57845991981)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.06561388773, -0.170518601404, 4.33997585809)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.229296551938, 0.888550686245, 2.8562039089)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.418158667894, 0.858630558348, 3.61771984719)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.06561388773, 0.828710430451, 4.37923578547)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.87675177177, 1.917699846, 2.13394789799)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.229296551938, 1.8877797181, 2.89546383628)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.418158667894, 1.8578595902, 3.65697977456)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.06561388773, 1.82793946231, 4.41849571284)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -1.5242069916, 2.94684900575, 1.41169188709)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -0.87675177177, 2.91692887785, 2.17320782537)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.229296551938, 2.88700874995, 2.93472376365)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.418158667894, 2.85708862206, 3.69623970193)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 1.06561388773, 2.82716849416, 4.45775564022)
+
+--------------------
+[Timestamp] 2018-04-18 16:02:58
+[Builder Position] (x, y, z): (-2.66309520762, 1.62392312856, -1.36097956967) (yaw, pitch): (-40.04999, 18.899994)
+[Screenshot Path] 181714-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.24405518933, 0.912759524259, 2.66595332207)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.00953851513, 1.12118597966, 3.27471739017)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.77502184092, 1.32961243507, 3.88348145827)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -0.521428136467, 1.6504184616, 1.73327193484)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.24405518933, 1.85884491701, 2.34203600294)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.00953851513, 2.06727137241, 2.95080007105)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.77502184092, 2.27569782781, 3.55956413915)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.521428136467, 2.59650385435, 1.40935461571)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.24405518933, 2.80493030976, 2.01811868382)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.00953851513, 3.01335676516, 2.62688275192)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.77502184092, 3.22178322056, 3.23564682003)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -1.28691146226, 3.3341627917, 0.476673228485)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -0.521428136467, 3.5425892471, 1.08543729659)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 0.24405518933, 3.7510157025, 1.69420136469)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.00953851513, 3.95944215791, 2.3029654328)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 1.77502184092, 4.16786861331, 2.9117295009)
+
+--------------------
+[Timestamp] 2018-04-18 16:02:59
+[Builder Position] (x, y, z): (-3.18662202242, 1.62392312856, -0.931609937973) (yaw, pitch): (-49.499992, 17.249994)
+[Screenshot Path] 182414-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.18793858859, 0.869063952815, 2.79884436074)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.83738674309, 1.09455583254, 3.52504716079)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.4868348976, 1.32004771226, 4.25124996083)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.538490434086, 1.5985920486, 1.77610008573)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.18793858859, 1.82408392833, 2.50230288578)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.83738674309, 2.04957580805, 3.22850568582)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.4868348976, 2.27506768777, 3.95470848587)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 0.538490434086, 2.55361202412, 1.47955861077)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.18793858859, 2.77910390384, 2.20576141081)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.83738674309, 3.00459578356, 2.93196421086)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.4868348976, 3.23008766328, 3.6581670109)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -0.110957720417, 3.2831401199, 0.456814335756)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): 0.538490434086, 3.50863199963, 1.1830171358)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 1.18793858859, 3.73412387935, 1.90921993584)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.83738674309, 3.95961575907, 2.63542273589)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.4868348976, 4.18510763879, 3.36162553593)
+
+--------------------
+[Timestamp] 2018-04-18 16:02:59
+[Builder Position] (x, y, z): (-3.31458849915, 1.62392312856, -0.825656087995) (yaw, pitch): (-48.899986, 17.249994)
+[Screenshot Path] 182814-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.2185630581, 0.865327336199, 2.78681048417)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.87593848802, 1.0887900884, 3.50647842323)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.53331391795, 1.3122528406, 4.22614636229)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -0.096187801751, 1.37342180731, 1.05093313108)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.561187628173, 1.59688455951, 1.77060107014)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.2185630581, 1.82034731171, 2.4902690092)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.87593848802, 2.04381006391, 3.20993694826)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.53331391795, 2.26727281611, 3.92960488732)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 0.561187628173, 2.55190453502, 1.47405959518)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.2185630581, 2.77536728722, 2.19372753424)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.87593848802, 2.99883003942, 2.9133954733)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.53331391795, 3.22229279162, 3.63306341236)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -0.096187801751, 3.28346175833, 0.45785018115)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): 0.561187628173, 3.50692451053, 1.17751812021)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 1.2185630581, 3.73038726273, 1.89718605927)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.87593848802, 3.95385001493, 2.61685399833)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.53331391795, 4.17731276713, 3.33652193739)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:00
+[Builder Position] (x, y, z): (-3.39784874744, 1.62392312856, -0.764931622696) (yaw, pitch): (-49.199986, -2.7000024)
+[Screenshot Path] 183513-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.20326747089, -0.137758484815, 2.92115901542)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.85668825985, -0.173417859244, 3.67731355093)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.5101090488, -0.209077233673, 4.43346808644)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -0.103574107032, 0.932450137032, 1.45595643695)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.549846681927, 0.896790762603, 2.21211097246)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.20326747089, 0.861131388174, 2.96826550797)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.85668825985, 0.825472013745, 3.72442004348)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.5101090488, 0.789812639316, 4.48057457899)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -0.103574107032, 1.93134001002, 1.5030629295)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 0.549846681927, 1.89568063559, 2.25921746501)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.20326747089, 1.86002126116, 3.01537200052)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.85668825985, 1.82436188673, 3.77152653603)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.5101090488, 1.7887025123, 4.52768107154)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -0.103574107032, 2.93022988301, 1.55016942205)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): 0.549846681927, 2.89457050858, 2.30632395756)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 1.20326747089, 2.85891113415, 3.06247849307)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.85668825985, 2.82325175972, 3.81863302858)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.5101090488, 2.78759238529, 4.57478756409)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:02
+[Builder Position] (x, y, z): (-1.754097732, 1.62392312856, -2.13515529032) (yaw, pitch): (-6.1499863, -8.4000025)
+[Screenshot Path] 185863-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.672850308509, -0.451377129849, 3.05671901702)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.66709516676, -0.46702723087, 3.16270126167)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.66134002501, -0.482677331891, 3.26868350633)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -1.31563940799, 0.569195398782, 2.99083759943)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -0.32139454974, 0.553545297761, 3.09681984409)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.672850308509, 0.53789519674, 3.20280208874)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.66709516676, 0.522245095719, 3.3087843334)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.66134002501, 0.506594994698, 3.41476657806)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -0.21426303316, 1.68805996729, 2.25932399169)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.31563940799, 1.55846772537, 3.13692067116)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.32139454974, 1.54281762435, 3.24290291581)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.672850308509, 1.52716752333, 3.34888516047)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.66709516676, 1.51151742231, 3.45486740513)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.66134002501, 1.49586732129, 3.56084964979)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -1.31563940799, 2.54774005196, 3.28300374288)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -0.32139454974, 2.53208995094, 3.38898598754)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 0.672850308509, 2.51643984992, 3.4949682322)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.66709516676, 2.5007897489, 3.60095047686)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.66134002501, 2.48513964788, 3.70693272152)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:03
+[Builder Position] (x, y, z): (-1.37101959776, 1.62392312856, -2.00829991448) (yaw, pitch): (18.000015, -2.8500025)
+[Screenshot Path] 186414-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.87810816548, -0.126498846767, 2.54100526574)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.82916460087, -0.111134071411, 2.23237023796)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.78022103627, -0.0957692960551, 1.92373521018)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -0.024004705312, 0.841534727916, 3.20799673875)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.927051730083, 0.856899503272, 2.89936171097)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.87810816548, 0.872264278627, 2.59072668319)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 2.82916460087, 0.887629053983, 2.28209165541)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 3.78022103627, 0.902993829339, 1.97345662763)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -0.024004705312, 1.84029785331, 3.2577181562)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 0.927051730083, 1.85566262867, 2.94908312842)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.87810816548, 1.87102740402, 2.64044810064)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 2.82916460087, 1.88639217938, 2.33181307286)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 3.78022103627, 1.90175695473, 2.02317804508)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -0.024004705312, 2.8390609787, 3.30743957365)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): 0.927051730083, 2.85442575406, 2.99880454587)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 1.87810816548, 2.86979052942, 2.69016951809)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 2.82916460087, 2.88515530477, 2.38153449031)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 3.78022103627, 2.90052008013, 2.07289946253)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:03
+[Builder Position] (x, y, z): (-1.2694134094, 1.62392312856, -1.97465327673) (yaw, pitch): (4.650017, -6.0000024)
+[Screenshot Path] 186863-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.15884657426, -0.199894870348, 1.90187188268)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.15555506236, -0.191420844479, 1.82124694466)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.15226355046, -0.182946818611, 1.74062200664)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -0.834570401947, 0.777678968905, 2.16765026365)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.162138086155, 0.786152994773, 2.08702532563)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.15884657426, 0.794627020642, 2.00640038761)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 2.15555506236, 0.803101046511, 1.92577544959)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 3.15226355046, 0.811575072379, 1.84515051157)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -0.834570401947, 1.77220085989, 2.27217876858)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.15884657426, 1.78914891163, 2.11092889254)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 2.15555506236, 1.7976229375, 2.03030395451)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 3.15226355046, 1.80609696337, 1.94967901649)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -0.834570401947, 2.76672275088, 2.37670727351)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): 0.162138086155, 2.77519677675, 2.29608233548)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 1.15884657426, 2.78367080262, 2.21545739746)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 2.15555506236, 2.79214482849, 2.13483245944)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 3.15226355046, 2.80061885436, 2.05420752142)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:09
+[Builder Position] (x, y, z): (-0.944964059159, 1.62392312856, -6.83285444221) (yaw, pitch): (2.1000175, 0.44999778)
+[Screenshot Path] 192712-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.256508097538, 0.0549401114711, 6.99508292874)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.25583648012, 0.0546523144373, 6.95844004499)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.25516486271, 0.0543645174035, 6.92179716123)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -1.74214866763, 1.05548486349, 7.06051483411)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -0.742820285048, 1.05519706645, 7.02387195036)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.256508097538, 1.05490926942, 6.9872290666)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.25583648012, 1.05462147239, 6.95058618284)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.25516486271, 1.05433367535, 6.91394329908)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.74214866763, 2.05545402144, 7.05266097197)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.256508097538, 2.05487842737, 6.97937520446)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.25583648012, 2.05459063034, 6.9427323207)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.25516486271, 2.0543028333, 6.90608943694)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -1.74214866763, 3.05542317939, 7.04480710983)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -0.742820285048, 3.05513538235, 7.00816422607)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 0.256508097538, 3.05484758532, 6.97152134231)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.25583648012, 3.05455978828, 6.93487845856)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 2.25516486271, 3.05427199125, 6.8982355748)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:16
+[Builder Position] (x, y, z): (0.10824987327, 1.62392312856, -6.77070329636) (yaw, pitch): (1.0500177, 10.349998)
+[Screenshot Path] 199411-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.871555396814, 1.2607061435, 6.90297118711)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.128276681873, 1.25741381774, 6.88494412351)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.12810876056, 1.25412149199, 6.86691705991)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -2.87121955419, 2.25101943023, 6.75936460005)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.8713874755, 2.24772710447, 6.74133753645)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.871555396814, 2.24443477872, 6.72331047286)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.128276681873, 2.24114245296, 6.70528340926)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.12810876056, 2.23785012721, 6.68725634566)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -2.87121955419, 3.23474806545, 6.5797038858)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.871555396814, 3.22816341394, 6.5436497586)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.128276681873, 3.22487108818, 6.525622695)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.12810876056, 3.22157876243, 6.5075956314)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -2.87121955419, 4.21847670067, 6.40004317154)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -1.8713874755, 4.21518437492, 6.38201610794)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.871555396814, 4.21189204916, 6.36398904435)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.128276681873, 4.20859972341, 6.34596198075)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 1.12810876056, 4.20530739765, 6.32793491715)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:22
+[Builder Position] (x, y, z): (0.280350394692, 5.36828884983, -1.31824984228) (yaw, pitch): (-6.149982, 44.400005)
+[Screenshot Path] 205510-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.20850775021, -1.54157293069, 4.14283259583)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.214262883926, -1.46661698145, 4.2193750777)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.779981982363, -1.39166103221, 4.29591755957)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -3.19699748279, -0.977012210587, 3.29008422922)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -2.2027526165, -0.902056261349, 3.36662671109)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.20850775021, -0.827100312112, 3.44316919296)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.214262883926, -0.752144362874, 3.51971167484)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.779981982363, -0.677188413637, 3.59625415671)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -3.19699748279, -0.262539592011, 2.59042082636)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.20850775021, -0.112627693536, 2.7435057901)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.214262883926, -0.0376717442983, 2.82004827197)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.779981982363, 0.0372842049391, 2.89659075384)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -3.19699748279, 0.451933026565, 1.8907574235)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -2.2027526165, 0.526888975803, 1.96729990537)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -1.20850775021, 0.60184492504, 2.04384238724)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.214262883926, 0.676800874278, 2.12038486911)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 0.779981982363, 0.751756823515, 2.19692735098)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.214262883926, 1.39127349285, 1.42072146625)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:34
+[Builder Position] (x, y, z): (1.21246984382, 3.50674250002, -6.26890771002) (yaw, pitch): (2.1000185, 18.600006)
+[Screenshot Path] 217508-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+	<Architect> and one red block opposite the gap in the handle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.74214854426, 0.35905549149, 7.33730179315)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.742820162318, 0.347367532916, 7.30257173902)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.256508219629, 0.335679574341, 7.26784168489)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -3.74080530816, 1.33019978525, 7.08780249286)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -2.74147692621, 1.31851182667, 7.05307243873)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.74214854426, 1.3068238681, 7.0183423846)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.742820162318, 1.29513590952, 6.98361233047)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.256508219629, 1.28344795095, 6.94888227634)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -3.74080530816, 2.27796816185, 6.76884308431)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.74214854426, 2.25459224471, 6.69938297605)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.742820162318, 2.24290428613, 6.66465292192)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.256508219629, 2.23121632756, 6.62992286779)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -3.74080530816, 3.22573653846, 6.44988367576)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -2.74147692621, 3.21404857989, 6.41515362163)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -1.74214854426, 3.20236062131, 6.3804235675)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.742820162318, 3.19067266274, 6.34569351337)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 0.256508219629, 3.17898470417, 6.31096345925)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.742820162318, 4.13844103935, 6.02673410483)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:37
+[Builder Position] (x, y, z): (1.58800338514, 3.50674250002, -6.26531938048) (yaw, pitch): (2.1000185, 18.600006)
+[Screenshot Path] 221058-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+	<Architect> and one red block opposite the gap in the handle
+	<Architect> on the other side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 8
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.74214854426, 0.35905549149, 7.33730179315)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.742820162318, 0.347367532916, 7.30257173902)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.256508219629, 0.335679574341, 7.26784168489)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -3.74080530816, 1.33019978525, 7.08780249286)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -2.74147692621, 1.31851182667, 7.05307243873)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.74214854426, 1.3068238681, 7.0183423846)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.742820162318, 1.29513590952, 6.98361233047)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.256508219629, 1.28344795095, 6.94888227634)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -3.74080530816, 2.27796816185, 6.76884308431)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.74214854426, 2.25459224471, 6.69938297605)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.742820162318, 2.24290428613, 6.66465292192)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.256508219629, 2.23121632756, 6.62992286779)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -3.74080530816, 3.22573653846, 6.44988367576)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -2.74147692621, 3.21404857989, 6.41515362163)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -1.74214854426, 3.20236062131, 6.3804235675)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.742820162318, 3.19067266274, 6.34569351337)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 0.256508219629, 3.17898470417, 6.31096345925)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.742820162318, 4.13844103935, 6.02673410483)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:40
+[Builder Position] (x, y, z): (3.45450809427, 3.50674250002, -1.86029331597) (yaw, pitch): (28.950012, 30.449993)
+[Screenshot Path] 224007-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+	<Architect> and one red block opposite the gap in the handle
+	<Architect> on the other side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 7
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -2.53207665687, 0.144007064289, 4.19140188591)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.65703430799, -0.101300932221, 3.7741191586)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.781991959106, -0.346608928731, 3.35683643129)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -4.28216135464, 1.4966948623, 4.51918118933)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -3.40711900575, 1.25138686579, 4.10189846203)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.53207665687, 1.00607886928, 3.68461573472)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.65703430799, 0.760770872772, 3.26733300741)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.781991959106, 0.515462876262, 2.8500502801)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -4.28216135464, 2.35876666729, 4.01239503815)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -2.53207665687, 1.86815067427, 3.17782958353)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.65703430799, 1.62284267776, 2.76054685622)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.781991959106, 1.37753468126, 2.34326412891)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.093050389777, 1.13222668475, 1.9259814016)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -4.28216135464, 3.22083847229, 3.50560888696)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -3.40711900575, 2.97553047578, 3.08832615965)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -2.53207665687, 2.73022247927, 2.67104343234)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -1.65703430799, 2.48491448276, 2.25376070503)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): -0.781991959106, 2.23960648625, 1.83647797772)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -1.65703430799, 3.34698628775, 1.74697455384)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:51
+[Builder Position] (x, y, z): (1.2466093465, 3.50674250002, -0.303071880713) (yaw, pitch): (-1.7999939, 19.499994)
+[Screenshot Path] 235206-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+	<Architect> and one red block opposite the gap in the handle
+	<Architect> on the other side
+	<Architect> and one more red block diagonally up, for the spout
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 7
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -2.03042378009, -1.57261118037, 1.55057194243)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.03091721638, -1.56212609216, 1.58018092799)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.0314106526656, -1.55164100394, 1.60978991355)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -4.02943690751, -0.650939830745, 1.15754721078)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -3.0299303438, -0.640454742533, 1.18715619634)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.03042378009, -0.629969654321, 1.21676518191)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.03091721638, -0.619484566109, 1.24637416747)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.0314106526656, -0.608999477896, 1.27598315303)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -4.02943690751, 0.291701695303, 0.823740450259)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -2.03042378009, 0.312671871727, 0.882958421385)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.03091721638, 0.323156959939, 0.912567406948)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.0314106526656, 0.333642048152, 0.942176392511)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.968095911044, 0.344127136364, 0.971785378073)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -4.02943690751, 1.23434322135, 0.489933689738)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -3.0299303438, 1.24482830956, 0.519542675301)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -2.03042378009, 1.25531339778, 0.549151660864)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -1.03091721638, 1.26579848599, 0.578760646427)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): -0.0314106526656, 1.2762835742, 0.60836963199)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -1.03091721638, 2.20844001204, 0.244953885906)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:57
+[Builder Position] (x, y, z): (4.32876715938, 3.50674250002, -2.15232077112) (yaw, pitch): (25.200005, 31.799995)
+[Screenshot Path] 241008-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+	<Architect> and one red block opposite the gap in the handle
+	<Architect> on the other side
+	<Architect> and one more red block diagonally up, for the spout
+	<Builder> Ok cool
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 7
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -3.24679696497, 0.852460216265, 5.17026315074)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -2.34196994966, 0.628093340943, 4.80839635533)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -1.43714293435, 0.40372646562, 4.44652955992)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -5.05645099559, 2.15108670588, 5.36704102024)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -4.15162398028, 1.92671983056, 5.00517422483)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -3.24679696497, 1.70235295524, 4.64330742941)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -2.34196994966, 1.47798607991, 4.281440634)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.43714293435, 1.25361920459, 3.91957383859)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -5.05645099559, 3.00097944486, 4.84008529891)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -3.24679696497, 2.55224569421, 4.11635170808)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.34196994966, 2.32787881889, 3.75448491267)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.43714293435, 2.10351194356, 3.39261811726)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.532315919042, 1.87914506824, 3.03075132184)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -5.05645099559, 3.85087218383, 4.31312957758)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -4.15162398028, 3.6265053085, 3.95126278217)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -3.24679696497, 3.40213843318, 3.58939598675)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -2.34196994966, 3.17777155786, 3.22752919134)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): -1.43714293435, 2.95340468254, 2.86566239593)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -2.34196994966, 4.02766429683, 2.70057347001)
+
+--------------------
+[Timestamp] 2018-04-18 16:03:59
+[Builder Position] (x, y, z): (3.96848735978, 3.50674250002, 0.117712430168) (yaw, pitch): (70.65002, 41.699978)
+[Screenshot Path] 242604-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+	<Architect> and one red block opposite the gap in the handle
+	<Architect> on the other side
+	<Architect> and one more red block diagonally up, for the spout
+	<Builder> Ok cool
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 6
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.32535023646, 1.01733407634, 4.14831027381)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.994012677345, 0.389681338399, 3.44384773934)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.66267511823, -0.237971399544, 2.73938520487)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -1.98802535469, 3.01927798994, 4.89200527479)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.65668779558, 2.391625252, 4.18754274032)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.32535023646, 1.76397251406, 3.48308020585)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.994012677345, 1.13631977611, 2.77861767138)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.66267511823, 0.508667038171, 2.07415513691)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.98802535469, 3.76591642766, 4.22677520682)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.32535023646, 2.51061095177, 2.81785013788)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.994012677345, 1.88295821383, 2.11338760341)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.66267511823, 1.25530547589, 1.40892506894)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.331337559115, 0.627652737943, 0.70446253447)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -1.98802535469, 4.51255486537, 3.56154513886)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -1.65668779558, 3.88490212743, 2.85708260439)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -1.32535023646, 3.25724938949, 2.15262006992)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.994012677345, 2.62959665154, 1.44815753545)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): -0.66267511823, 2.0019439136, 0.743695000975)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 4, 0)  Perspective (x, y, z): -0.331337559115, 1.37429117566, 0.0392324665044)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.994012677345, 3.37623508926, 0.782927467479)
+
+--------------------
+[Timestamp] 2018-04-18 16:04:00
+[Builder Position] (x, y, z): (3.97647028365, 3.50674250002, -0.627993500261) (yaw, pitch): (59.85001, 26.999979)
+[Screenshot Path] 243604-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+	<Architect> and one red block opposite the gap in the handle
+	<Architect> on the other side
+	<Architect> and one more red block diagonally up, for the spout
+	<Builder> Ok cool
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 5
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.14434800071, 0.0162959442855, 4.43736431855)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.642082618484, -0.376275500115, 3.6668987795)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.139817236262, -0.768846944516, 2.89643324045)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -2.14887876515, 1.69244552367, 5.52430522348)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.64661338293, 1.29987407927, 4.75383968443)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.14434800071, 0.90730263487, 3.98337414538)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.642082618484, 0.51473119047, 3.21290860633)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.139817236262, 0.122159746069, 2.44244306728)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -2.14887876515, 2.58345221426, 5.07031505031)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.14434800071, 1.79830932546, 3.52938397221)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.642082618484, 1.40573788105, 2.75891843316)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.139817236262, 1.01316643665, 1.98845289411)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.36244814596, 0.620594992253, 1.21798735506)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -2.14887876515, 3.47445890484, 4.61632487714)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -1.64661338293, 3.08188746044, 3.84585933809)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -1.14434800071, 2.68931601604, 3.07539379904)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.642082618484, 2.29674457164, 2.30492825999)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): -0.139817236262, 1.90417312724, 1.53446272094)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 4, 0)  Perspective (x, y, z): 0.36244814596, 1.51160168284, 0.76399718189)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.864713528182, 1.11903023844, -0.00646835715997)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.642082618484, 3.18775126222, 1.85093808682)
+
+--------------------
+[Timestamp] 2018-04-18 16:04:01
+[Builder Position] (x, y, z): (3.71606829419, 3.50674250002, -1.35466177316) (yaw, pitch): (39.900017, 18.449986)
+[Screenshot Path] 244553-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+	<Architect> and one red block opposite the gap in the handle
+	<Architect> on the other side
+	<Architect> and one more red block diagonally up, for the spout
+	<Builder> Ok cool
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 6
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.78576012759, -0.599604989438, 4.5223372965)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.01859516609, -0.802608946795, 3.91385778563)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.251430204602, -1.00561290415, 3.30537827475)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -3.32009005057, 0.75500319723, 5.42281958286)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -2.55292508908, 0.551999239874, 4.81434007198)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.78576012759, 0.348995282517, 4.20586056111)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.01859516609, 0.14599132516, 3.59738105023)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.251430204602, -0.0570126321962, 2.98890153936)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -3.32009005057, 1.70360346919, 5.10634284746)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.78576012759, 1.29759555447, 3.88938382571)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.01859516609, 1.09459159712, 3.28090431484)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.251430204602, 0.891587639759, 2.67242480396)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.515734756891, 0.688583682402, 2.06394529309)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -3.32009005057, 2.65220374114, 4.78986611207)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -2.55292508908, 2.44919978378, 4.18138660119)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -1.78576012759, 2.24619582643, 3.57290709032)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -1.01859516609, 2.04319186907, 2.96442757944)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): -0.251430204602, 1.84018791171, 2.35594806857)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 1.28289971838, 1.434179997, 1.13898904682)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -1.01859516609, 2.99179214103, 2.64795084405)
+
+--------------------
+[Timestamp] 2018-04-18 16:04:11
+[Builder Position] (x, y, z): (-0.0431494105029, 3.50674250002, -5.41775278045) (yaw, pitch): (-9.449981, 10.949987)
+[Screenshot Path] 254952-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+	<Architect> and one red block opposite the gap in the handle
+	<Architect> on the other side
+	<Architect> and one more red block diagonally up, for the spout
+	<Builder> Ok cool
+	<Builder> That's a fine kettle we've built
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 6
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.985119116742, -0.839340999509, 6.19072265672)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.001310194881, -0.808153430478, 6.35191989214)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.987739506504, -0.776965861446, 6.51311712757)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -2.95797773999, 0.0800772274371, 5.67837611711)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.97154842836, 0.111264796469, 5.83957335254)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.985119116742, 0.142452365501, 6.00077058797)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.001310194881, 0.173639934532, 6.16196782339)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.987739506504, 0.204827503564, 6.32316505882)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -2.95797773999, 1.06187059245, 5.48842404836)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.985119116742, 1.12424573051, 5.81081851922)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.001310194881, 1.15543329954, 5.97201575464)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.987739506504, 1.18662086857, 6.13321299007)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 1.97416881813, 1.21780843761, 6.2944102255)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -2.95797773999, 2.04366395746, 5.29847197961)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -1.97154842836, 2.07485152649, 5.45966921504)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.985119116742, 2.10603909552, 5.62086645047)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.001310194881, 2.13722666455, 5.78206368589)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 0.987739506504, 2.16841423358, 5.94326092132)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 2.96059812975, 2.23078937165, 6.26565539217)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.001310194881, 3.11902002956, 5.59211161714)
+
+--------------------
+[Timestamp] 2018-04-18 16:04:13
+[Builder Position] (x, y, z): (-0.0431494105029, 3.50674250002, -5.41775278045) (yaw, pitch): (-9.449981, 10.949987)
+[Screenshot Path] 256903-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> alright, teapot take 2
+	<Architect> start with a vertical 3x4 block of red squares
+	<Architect> the short end should be on the ground
+	<Architect> cool! make a 2x3 rectangle of squares one side of the rectangle, like a handle
+	<Architect> orange*
+	<Builder> How high up should it be?
+	<Architect> the top row should be flush with the top of the red rectangel
+	<Architect> rectangle*
+	<Architect> also this is all in one 2D plane
+	<Builder> Is the short side on the top or the sides?
+	<Architect> the short side is on top, sorry
+	<Architect> and then you'll want to remove the inner orange block
+	<Builder> I see
+	<Architect> cool! one orange block on top of the center red
+	<Architect> and one red block opposite the gap in the handle
+	<Architect> on the other side
+	<Architect> and one more red block diagonally up, for the spout
+	<Builder> Ok cool
+	<Builder> That's a fine kettle we've built
+	<Architect> beautiful :o
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 6
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.985119116742, -0.839340999509, 6.19072265672)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.001310194881, -0.808153430478, 6.35191989214)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.987739506504, -0.776965861446, 6.51311712757)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -2.95797773999, 0.0800772274371, 5.67837611711)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.97154842836, 0.111264796469, 5.83957335254)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.985119116742, 0.142452365501, 6.00077058797)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.001310194881, 0.173639934532, 6.16196782339)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.987739506504, 0.204827503564, 6.32316505882)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -2.95797773999, 1.06187059245, 5.48842404836)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.985119116742, 1.12424573051, 5.81081851922)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.001310194881, 1.15543329954, 5.97201575464)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.987739506504, 1.18662086857, 6.13321299007)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 1.97416881813, 1.21780843761, 6.2944102255)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 4, 0)  Perspective (x, y, z): -2.95797773999, 2.04366395746, 5.29847197961)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -1.97154842836, 2.07485152649, 5.45966921504)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.985119116742, 2.10603909552, 5.62086645047)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.001310194881, 2.13722666455, 5.78206368589)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 0.987739506504, 2.16841423358, 5.94326092132)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 2.96059812975, 2.23078937165, 6.26565539217)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.001310194881, 3.11902002956, 5.59211161714)
+
+Time elapsed: 0:04:49 (289.08s)

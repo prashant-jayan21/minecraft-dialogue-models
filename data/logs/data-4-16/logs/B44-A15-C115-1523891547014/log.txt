@@ -1,0 +1,1658 @@
+
+--------------------
+[Timestamp] 2018-04-16 15:12:37
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-16 15:12:43
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 5231-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-16 15:12:48
+[Builder Position] (x, y, z): (0.139969348829, 1.0, -2.36629955546) (yaw, pitch): (-0.9000012, 19.049995)
+[Screenshot Path] 10862-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-16 15:13:00
+[Builder Position] (x, y, z): (0.139969348829, 1.0, -2.36629955546) (yaw, pitch): (-0.9000012, 19.049995)
+[Screenshot Path] 22677-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-16 15:13:05
+[Builder Position] (x, y, z): (0.139969348829, 1.0, -2.36629955546) (yaw, pitch): (-0.4500012, 19.199995)
+[Screenshot Path] 27725-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-16 15:13:11
+[Builder Position] (x, y, z): (0.889083448243, 1.0, -2.39386219901) (yaw, pitch): (-4.500002, 23.849995)
+[Screenshot Path] 33674-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.683080808887, 1.64411267464, 3.71891034062)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:12
+[Builder Position] (x, y, z): (0.889083448243, 1.0, -2.39386219901) (yaw, pitch): (-11.250002, 38.399998)
+[Screenshot Path] 34426-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.590604561089, 1.33960507399, 1.69016108646)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.200423848585, 2.55803021157, 3.2274311329)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:13
+[Builder Position] (x, y, z): (0.889083448243, 1.0, -2.39386219901) (yaw, pitch): (17.55, 23.399996)
+[Screenshot Path] 35824-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.55653009221, 0.63756935911, 1.473336141)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.252697667457, 1.63440415447, 3.77688587975)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 2.15960601209, 1.39489386364, 3.22341014792)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:14
+[Builder Position] (x, y, z): (0.889083448243, 1.0, -2.39386219901) (yaw, pitch): (30.449999, 33.0)
+[Screenshot Path] 36575-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.151500731008, 1.21505142367, 1.87101511654)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.87564423485, 0.663020284651, 1.02096170663)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.16507321394, 2.15408727783, 3.31700352813)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 2.88921671778, 1.60205613881, 2.46695011822)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:38
+[Builder Position] (x, y, z): (0.350318581615, 1.0, -2.62256217198) (yaw, pitch): (-1.1999991, 15.449993)
+[Screenshot Path] 60620-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.04166549216, 0.527098611995, 1.90711825949)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.957895875446, 0.53825660894, 1.94748949028)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.08355030052, 1.05977622246, 3.83442213437)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.916011067089, 1.07093421941, 3.87479336516)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:45
+[Builder Position] (x, y, z): (0.350318581615, 1.0, -2.62256217198) (yaw, pitch): (-20.999989, 14.549996)
+[Screenshot Path] 67719-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.65031603592, 0.379046138061, 1.46040439838)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.216844954677, 0.559107815851, 2.15415336406)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.36705157654, 0.848123115017, 3.2676832796)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.499890585945, 1.02818479281, 3.96143224528)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.216844954677, 1.52703660738, 1.90292865483)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:46
+[Builder Position] (x, y, z): (0.350318581615, 1.0, -2.62256217198) (yaw, pitch): (-20.999989, 14.549996)
+[Screenshot Path] 68218-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.65031603592, 0.379046138061, 1.46040439838)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.216844954677, 0.559107815851, 2.15415336406)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.36705157654, 0.848123115017, 3.2676832796)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.499890585945, 1.02818479281, 3.96143224528)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.716735540622, 1.43700576849, 1.55605417199)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.216844954677, 1.52703660738, 1.90292865483)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:47
+[Builder Position] (x, y, z): (-1.60266146802, 1.0, -1.74398359083) (yaw, pitch): (-46.94998, 20.099989)
+[Screenshot Path] 69170-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.048121447204, 0.485726505509, 1.32731084836)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.31715171656, 0.987990404191, 2.69981227436)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.50963750538, 0.954915617845, 2.60943111907)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.144364341612, 1.45717951653, 3.98193254507)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.048121447204, 1.42482082358, 0.983651334065)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.634515134679, 1.67595277292, 1.66990204707)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.31715171656, 1.92708472226, 2.35615276007)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:48
+[Builder Position] (x, y, z): (-2.55934267862, 1.0, 1.91583245224) (yaw, pitch): (-132.59998, 0.899992)
+[Screenshot Path] 70718-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.118443221316, 0.0443876371352, 2.8255974485)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.23530820416, 0.0675116600653, 4.29761047752)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.35375142547, 0.0231240229301, 1.47201302902)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -2.70750285094, 0.0462480458601, 2.94402605803)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.118443221316, 1.04426427181, 2.8098902708)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.55843249142, 1.05582628328, 3.54589678531)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.23530820416, 1.06738829474, 4.28190329982)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.617654102078, 1.03363246471, 2.13309806106)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:49
+[Builder Position] (x, y, z): (-2.55934267862, 1.0, 1.91583245224) (yaw, pitch): (-115.49997, 8.99999)
+[Screenshot Path] 71618-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.944149771098, 0.417083901524, 2.63336708965)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.083128522666, 0.699474553087, 4.4163135077)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.861021248432, 0.282390651563, 1.78294641806)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.72204249686, 0.564781303127, 3.56589283611)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.944149771098, 1.40477226942, 2.47693279699)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.513639146882, 1.5459675952, 3.36840600602)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.083128522666, 1.68716292098, 4.25987921505)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.041564261333, 1.33742564444, 2.0517224612)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.861021248432, 1.27007901946, 1.6265121254)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:51
+[Builder Position] (x, y, z): (0.575061972274, 1.0, 3.79830279012) (yaw, pitch): (-165.74992, -0.15000921)
+[Screenshot Path] 73034-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.95384915133, -0.00950590016261, 3.63075517375)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.015388019309, -0.0107948405405, 4.12306277908)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.46153985867, -0.00443071498683, 1.69230068554)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.476921273351, -0.00571965536471, 2.18460829088)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 1.95384915133, 0.990490672472, 3.63337332538)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.98461858532, 0.989846202283, 3.87952712805)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.015388019309, 0.989201732095, 4.12568093072)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.707694505, 0.99302826506, 2.66414608128)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.230766627021, 0.991739324682, 3.15645368661)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.46153985867, 0.995565857648, 1.69491883717)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:51
+[Builder Position] (x, y, z): (0.575061972274, 1.0, 3.79830279012) (yaw, pitch): (-165.74992, -0.15000921)
+[Screenshot Path] 73390-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.95384915133, -0.00950590016261, 3.63075517375)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.015388019309, -0.0107948405405, 4.12306277908)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.46153985867, -0.00443071498683, 1.69230068554)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.476921273351, -0.00571965536471, 2.18460829088)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 1.95384915133, 0.990490672472, 3.63337332538)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.98461858532, 0.989846202283, 3.87952712805)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.015388019309, 0.989201732095, 4.12568093072)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.707694505, 0.99302826506, 2.66414608128)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.230766627021, 0.991739324682, 3.15645368661)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.46153985867, 0.995565857648, 1.69491883717)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.476921273351, 0.99427691727, 2.18722644251)
+
+--------------------
+[Timestamp] 2018-04-16 15:13:52
+[Builder Position] (x, y, z): (0.575061972274, 1.0, 3.79830279012) (yaw, pitch): (-169.64992, 1.3499907)
+[Screenshot Path] 74234-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 12
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.70237686664, 0.0884722302783, 3.75420906029)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.265079889547, 0.0969377666646, 4.11343356839)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.34305262237, 0.0421197310426, 1.78729840312)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.624404133821, 0.0505852674289, 2.14652291122)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 1.70237686664, 1.08819466432, 3.73064945773)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.718648488548, 1.09242743251, 3.91026171178)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.265079889547, 1.09666020071, 4.08987396583)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.52271474451, 1.0650184147, 2.74719412915)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.444742011684, 1.07348395109, 3.10641863724)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.34305262237, 1.04184216508, 1.76373880056)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.359324244274, 1.04607493328, 1.94335105461)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.624404133821, 1.05030770147, 2.12296330866)
+
+--------------------
+[Timestamp] 2018-04-16 15:14:04
+[Builder Position] (x, y, z): (0.627901722519, 1.0, -2.68819191717) (yaw, pitch): (1.0500871, 12.299989)
+[Screenshot Path] 86186-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 12
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.963179153843, 0.429892930879, 1.97166883263)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.03648495913, 0.422084755746, 1.93585727481)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.926526251198, 0.855881774192, 3.92543188636)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.07313786178, 0.848073599058, 3.88962032854)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.963179153843, 1.40693854621, 1.75863863394)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0366529026452, 1.40303445865, 1.74073285503)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.03648495913, 1.39913037108, 1.72282707612)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.94485270252, 1.61993296787, 2.7355201608)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.05481141046, 1.61212479274, 2.69970860298)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.926526251198, 1.83292738953, 3.71240168766)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.0733058052904, 1.82902330196, 3.69449590875)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.07313786178, 1.82511921439, 3.67659012984)
+
+--------------------
+[Timestamp] 2018-04-16 15:14:07
+[Builder Position] (x, y, z): (0.627901722519, 1.0, -2.68819191717) (yaw, pitch): (36.000084, 9.149989)
+[Screenshot Path] 89982-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.36655674411, 0.350768183991, 2.17775063642)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.98458900938, 0.163829174705, 1.0171364045)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.54212962086, 0.608066863339, 3.77519415689)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 3.16016188613, 0.421127854053, 2.61457992496)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.17557287675, 1.24457412172, 1.43842402198)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.98458900938, 1.15110461707, 0.858116906019)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.954343182483, 1.46669296603, 2.81745289818)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.57237544776, 1.27975395675, 1.65683866625)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.54212962086, 1.59534230571, 3.61617465841)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 2.35114575349, 1.50187280106, 3.03586754244)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 3.16016188613, 1.40840329642, 2.45556042648)
+
+--------------------
+[Timestamp] 2018-04-16 15:14:10
+[Builder Position] (x, y, z): (0.627901722519, 1.0, -2.68819191717) (yaw, pitch): (27.00007, 6.749991)
+[Screenshot Path] 92231-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.016977207084, 0.262813686518, 2.22050461396)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.79898914615, 0.15609184864, 1.31881514505)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.924960383702, 0.472266454098, 3.99016449347)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 2.70697232277, 0.36554461622, 3.08847502456)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.016977207084, 1.25588216194, 2.10296737249)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.907983176618, 1.202521243, 1.65212263804)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.79898914615, 1.14916032406, 1.20127790359)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.470968795393, 1.36060854573, 2.98779731225)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.25298073446, 1.25388670785, 2.08610784334)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.924960383702, 1.46533492952, 3.872627252)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.81596635324, 1.41197401058, 3.42178251755)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.70697232277, 1.35861309164, 2.97093778309)
+
+--------------------
+[Timestamp] 2018-04-16 15:14:48
+[Builder Position] (x, y, z): (0.627901722519, 1.0, -2.68819191717) (yaw, pitch): (0.6000706, 6.4499907)
+[Screenshot Path] 130576-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.978999123959, 0.22583608342, 1.99763830027)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.02089118896, 0.223483090867, 1.97682485021)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.958053091457, 0.450495670564, 3.98486987551)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.04183722147, 0.44814267801, 3.96405642544)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.978999123959, 1.21950636743, 1.8853023458)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0209460325022, 1.21832987116, 1.87489562077)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.02089118896, 1.21715337488, 1.86448889573)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.968526107708, 1.33183616101, 2.87891813342)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.03136420521, 1.32948316845, 2.85810468335)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.958053091457, 1.44416595458, 3.87253392104)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.0418920650044, 1.4429894583, 3.862127196)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.04183722147, 1.44181296202, 3.85172047097)
+
+--------------------
+[Timestamp] 2018-04-16 15:14:54
+[Builder Position] (x, y, z): (0.627901722519, 1.0, -2.68819191717) (yaw, pitch): (0.6000706, 6.4499907)
+[Screenshot Path] 136926-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.978999123959, 0.22583608342, 1.99763830027)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.02089118896, 0.223483090867, 1.97682485021)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.958053091457, 0.450495670564, 3.98486987551)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.04183722147, 0.44814267801, 3.96405642544)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.978999123959, 1.21950636743, 1.8853023458)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0209460325022, 1.21832987116, 1.87489562077)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.02089118896, 1.21715337488, 1.86448889573)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.968526107708, 1.33183616101, 2.87891813342)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.03136420521, 1.32948316845, 2.85810468335)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.958053091457, 1.44416595458, 3.87253392104)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.0418920650044, 1.4429894583, 3.862127196)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.04183722147, 1.44181296202, 3.85172047097)
+
+--------------------
+[Timestamp] 2018-04-16 15:14:57
+[Builder Position] (x, y, z): (0.627901722519, 1.0, -2.68819191717) (yaw, pitch): (0.6000706, 6.4499907)
+[Screenshot Path] 139926-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.978999123959, 0.22583608342, 1.99763830027)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.02089118896, 0.223483090867, 1.97682485021)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.958053091457, 0.450495670564, 3.98486987551)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.04183722147, 0.44814267801, 3.96405642544)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.978999123959, 1.21950636743, 1.8853023458)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0209460325022, 1.21832987116, 1.87489562077)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.02089118896, 1.21715337488, 1.86448889573)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.968526107708, 1.33183616101, 2.87891813342)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.03136420521, 1.32948316845, 2.85810468335)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.958053091457, 1.44416595458, 3.87253392104)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.0418920650044, 1.4429894583, 3.862127196)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.04183722147, 1.44181296202, 3.85172047097)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:06
+[Builder Position] (x, y, z): (-0.226069828008, 1.0, -4.17261006328) (yaw, pitch): (0.6000706, 6.4499907)
+[Screenshot Path] 148522-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.0418920650044, 0.449319174287, 3.97446315048)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.04178237793, 0.446966181733, 3.95364970041)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.0628380975066, 0.67397876143, 5.96169472571)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 2.06272841043, 0.671625768877, 5.94088127565)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -2)  Perspective (x, y, z): 0.0314190487533, 1.33065966473, 2.86851140838)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.0418920650044, 1.4429894583, 3.862127196)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.04183722147, 1.44181296202, 3.85172047097)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.04178237793, 1.44063646575, 3.84131374594)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.0523650812555, 1.55531925187, 4.85574298362)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.05225539418, 1.55296625932, 4.83492953356)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.0628380975066, 1.66764904544, 5.84935877124)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.06278325397, 1.66647254917, 5.83895204621)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.06272841043, 1.66529605289, 5.82854532118)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:06
+[Builder Position] (x, y, z): (-0.226069828008, 1.0, -4.17261006328) (yaw, pitch): (0.6000706, 6.4499907)
+[Screenshot Path] 148724-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.0418920650044, 0.449319174287, 3.97446315048)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.04178237793, 0.446966181733, 3.95364970041)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.0628380975066, 0.67397876143, 5.96169472571)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 2.06272841043, 0.671625768877, 5.94088127565)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 0.0209460325022, 1.21832987116, 1.87489562077)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -2)  Perspective (x, y, z): 0.0314190487533, 1.33065966473, 2.86851140838)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.0418920650044, 1.4429894583, 3.862127196)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.04183722147, 1.44181296202, 3.85172047097)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.04178237793, 1.44063646575, 3.84131374594)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.0523650812555, 1.55531925187, 4.85574298362)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.05225539418, 1.55296625932, 4.83492953356)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.0628380975066, 1.66764904544, 5.84935877124)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.06278325397, 1.66647254917, 5.83895204621)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.06272841043, 1.66529605289, 5.82854532118)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:08
+[Builder Position] (x, y, z): (-3.68059163903, 1.0, -3.1410203524) (yaw, pitch): (-72.59994, 5.5499907)
+[Screenshot Path] 150272-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.96559467148, 0.363630447291, 3.74221999424)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.36751108841, 0.548207569371, 5.64175344055)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -3.8740747022, 0.421473623404, 4.33749987741)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -3.27599111913, 0.606050745485, 6.23703332373)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 2, -3)  Perspective (x, y, z): -0.356156432293, 1.208810904, 2.10045918649)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): -0.057114640759, 1.30109946504, 3.05022590965)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -2)  Perspective (x, y, z): -1.01135465612, 1.33002105309, 3.34786585124)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -1.96559467148, 1.35894264115, 3.64550579283)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.66655287995, 1.45123120219, 4.59527251598)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.36751108841, 1.54351976323, 5.54503923914)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.91983468684, 1.38786422921, 3.94314573441)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -2.32175110377, 1.57244135129, 5.84267918073)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -3.8740747022, 1.41678581726, 4.240785676)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.57503291067, 1.5090743783, 5.19055239916)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -3.27599111913, 1.60136293934, 6.14031912232)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:08
+[Builder Position] (x, y, z): (-3.68059163903, 1.0, -3.1410203524) (yaw, pitch): (-72.89994, 5.5499907)
+[Screenshot Path] 150622-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.98525414223, 0.362630101198, 3.73192516008)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.39717148996, 0.547507557919, 5.634549432)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -3.89683955599, 0.419506045277, 4.31725099489)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -3.30875690371, 0.604383501997, 6.21987526681)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -0.661751380743, 1.11618889426, 1.14726085195)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 2, -3)  Perspective (x, y, z): -0.367710054607, 1.20862762262, 2.09857298791)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): -0.073668728471, 1.30106635098, 3.04988512387)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -2)  Perspective (x, y, z): -1.02946143535, 1.32950432302, 3.34254804127)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -1.98525414223, 1.35794229506, 3.63521095867)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.69121281609, 1.45038102342, 4.58652309463)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.39717148996, 1.54281975178, 5.53783523059)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.94104684911, 1.3863802671, 3.92787387607)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -2.35296419684, 1.57125772382, 5.83049814799)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -3.89683955599, 1.41481823914, 4.22053679348)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.60279822985, 1.5072569675, 5.17184892944)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -3.30875690371, 1.59969569586, 6.12316106539)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:09
+[Builder Position] (x, y, z): (-4.15515356231, 1.0, -0.829927457397) (yaw, pitch): (-97.34994, 4.64999)
+[Screenshot Path] 151823-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.511716450836, 0.321609833542, 3.95407554163)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.767574676254, 0.482414750313, 5.93111331245)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.49528307903, 0.300867772218, 3.69905946683)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -2.75114130445, 0.461672688989, 5.67609723765)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): 1.72770840278, 1.1782555044, 2.15098527222)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 2, -3)  Perspective (x, y, z): 1.59977929007, 1.25865796279, 3.13950415763)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 1.47185017736, 1.33906042117, 4.12802304304)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.511716450836, 1.31831835985, 3.87300696824)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.639645563545, 1.39872081823, 4.86152585365)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.767574676254, 1.47912327662, 5.85004473906)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.50349976493, 1.30794732918, 3.74549893084)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.75935799035, 1.46875224596, 5.72253670166)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -2.49528307903, 1.29757629852, 3.61799089344)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.62321219174, 1.37797875691, 4.60650977885)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -2.75114130445, 1.45838121529, 5.59502866426)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:10
+[Builder Position] (x, y, z): (-4.15515356231, 1.0, -0.829927457397) (yaw, pitch): (-113.99994, 4.64999)
+[Screenshot Path] 152572-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.62694274565, 0.29623944603, 3.64215588532)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.44041411848, 0.444359169045, 5.46323382799)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -3.4540345128, 0.230292482342, 2.83136203212)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -4.26750588563, 0.378412205357, 4.65243997479)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): 1.01362039433, 1.21077521301, 2.55080322247)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 0.2001490215, 1.35889493602, 4.37188116514)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -1.62694274565, 1.29294797234, 3.56108731193)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.03367843206, 1.36700783384, 4.47162628327)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -2.44041411848, 1.44106769535, 5.3821652546)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.54048862923, 1.25997449049, 3.15569038533)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -3.35396000205, 1.40809421351, 4.976768328)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -3.4540345128, 1.22700100865, 2.75029345873)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.86077019922, 1.30106087015, 3.66083243006)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -4.26750588563, 1.37512073166, 4.5713714014)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:11
+[Builder Position] (x, y, z): (-3.35226141645, 1.0, 1.40265005453) (yaw, pitch): (-169.94995, 4.94999)
+[Screenshot Path] 153672-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.60495031221, 0.21509736961, 2.48353920697)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -4.57426169048, 0.245212696331, 2.83125426633)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.95396706741, 0.0451729900818, 0.521572589045)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -4.92327844568, 0.0752883168031, 0.869287648409)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -0.286622178732, 1.35117681397, 4.01150457361)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): -2.255933557, 1.38129214069, 4.35921963297)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -2)  Perspective (x, y, z): -0.461130556333, 1.26621462421, 3.03052126465)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -2.60495031221, 1.21136776116, 2.39725301505)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -3.58960600134, 1.22642542452, 2.57111054473)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -4.57426169048, 1.24148308788, 2.74496807441)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.77945868981, 1.1264055714, 1.41626970609)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -4.74877006808, 1.15652089812, 1.76398476545)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -2.95396706741, 1.04144338163, 0.43528639713)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.93862275654, 1.056501045, 0.609143926811)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -4.92327844568, 1.07155870836, 0.783001456493)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:11
+[Builder Position] (x, y, z): (-3.32064150111, 1.0, 1.41484751136) (yaw, pitch): (-169.94995, 4.94999)
+[Screenshot Path] 153971-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.60495031221, 0.21509736961, 2.48353920697)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -4.57426169048, 0.245212696331, 2.83125426633)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.95396706741, 0.0451729900818, 0.521572589045)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -4.92327844568, 0.0752883168031, 0.869287648409)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -0.286622178732, 1.35117681397, 4.01150457361)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): -2.255933557, 1.38129214069, 4.35921963297)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -2)  Perspective (x, y, z): -0.461130556333, 1.26621462421, 3.03052126465)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -0.635638933934, 1.18125243444, 2.04953795569)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -2.60495031221, 1.21136776116, 2.39725301505)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -3.58960600134, 1.22642542452, 2.57111054473)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -4.57426169048, 1.24148308788, 2.74496807441)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.77945868981, 1.1264055714, 1.41626970609)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -4.74877006808, 1.15652089812, 1.76398476545)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -2.95396706741, 1.04144338163, 0.43528639713)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.93862275654, 1.056501045, 0.609143926811)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -4.92327844568, 1.07155870836, 0.783001456493)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:13
+[Builder Position] (x, y, z): (-5.50197638708, 1.0, -0.0650034467306) (yaw, pitch): (-124.94994, 6.4499907)
+[Screenshot Path] 155376-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.86430257345, 0.460382438608, 4.07232351096)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -4.01002360283, 0.644535414051, 5.70125291535)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -4.50360831761, 0.331676773213, 2.9338545703)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -5.64932934699, 0.515829748656, 4.56278397468)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -0.07927579991, 1.39860541257, 3.46952709277)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): -1.22499682929, 1.58275838802, 5.09845649715)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -1.71858154407, 1.26989974718, 2.3310581521)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -2.86430257345, 1.45405272262, 3.95998755649)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -3.43716308814, 1.54612921034, 4.77445225868)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -4.01002360283, 1.63820569807, 5.58891696088)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -3.68395544553, 1.38969988992, 3.39075308616)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -4.82967647491, 1.57385286537, 5.01968249054)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -4.50360831761, 1.32534705723, 2.82151861583)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -5.0764688323, 1.41742354495, 3.63598331802)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -5.64932934699, 1.50950003267, 4.45044802021)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:17
+[Builder Position] (x, y, z): (-1.21770961433, 1.0, -5.16341541496) (yaw, pitch): (0.75003886, 8.699995)
+[Screenshot Path] 159221-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.06536568744, 0.754258824425, 4.92910636706)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 3.06519432483, 0.750298735595, 4.90322705556)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.09154623493, 1.05675437196, 6.90592477619)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 3.09137487233, 1.05279428313, 6.88004546469)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -0.960643497451, 1.44421726573, 2.82690653545)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 1.03918513994, 1.4402571769, 2.80102722395)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -0.934462949955, 1.74671281326, 4.80372494458)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 1.06536568744, 1.74275272443, 4.77784563308)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.06528000613, 1.74077268002, 4.76490597733)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 3.06519432483, 1.7387926356, 4.75196632158)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.07845596119, 1.8940004982, 5.76625483764)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 3.07828459858, 1.89004040937, 5.74037552614)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.09154623493, 2.04524827197, 6.7546640422)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 2.09146055363, 2.04326822756, 6.74172438645)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 3.09137487233, 2.04128818314, 6.7287847307)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:29
+[Builder Position] (x, y, z): (-1.21770961433, 1.0, -5.16341541496) (yaw, pitch): (0.75003886, 8.699995)
+[Screenshot Path] 172020-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.06536568744, 0.754258824425, 4.92910636706)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 3.06519432483, 0.750298735595, 4.90322705556)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.09154623493, 1.05675437196, 6.90592477619)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 3.09137487233, 1.05279428313, 6.88004546469)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -0.960643497451, 1.44421726573, 2.82690653545)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 1.03918513994, 1.4402571769, 2.80102722395)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -0.934462949955, 1.74671281326, 4.80372494458)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 1.06536568744, 1.74275272443, 4.77784563308)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.06528000613, 1.74077268002, 4.76490597733)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 3.06519432483, 1.7387926356, 4.75196632158)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.07845596119, 1.8940004982, 5.76625483764)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 3.07828459858, 1.89004040937, 5.74037552614)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.09154623493, 2.04524827197, 6.7546640422)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 2.09146055363, 2.04326822756, 6.74172438645)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 3.09137487233, 2.04128818314, 6.7287847307)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:34
+[Builder Position] (x, y, z): (-1.1353383625, 3.11650136793, -4.52482430132) (yaw, pitch): (-7.4999614, 23.399998)
+[Screenshot Path] 175834-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.469342852161, -0.208670392483, 4.55369893103)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.45223275078, -0.104994527557, 4.79327974201)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.208291803587, 0.57883008459, 6.37350533519)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 2.1911817022, 0.682505949516, 6.61308614618)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -1.25249599788, -0.182092094936, 2.09716385727)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 0.730393900735, -0.0784162300102, 2.33674466826)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -1.51354704646, 0.605408382137, 3.91697026144)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.469342852161, 0.709084247064, 4.15655107243)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.46078780147, 0.760922179527, 4.27634147792)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.45223275078, 0.81276011199, 4.39613188342)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.338817327874, 1.1028344856, 5.06645427451)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.32170722649, 1.20651035053, 5.3060350855)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.208291803587, 1.49658472414, 5.9763574766)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.1997367529, 1.5484226566, 6.09614788209)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.1911817022, 1.60026058906, 6.21593828758)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.469342852161, 1.62683888661, 3.75940321383)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:34
+[Builder Position] (x, y, z): (-1.12770394859, 3.11650136793, -4.54867607826) (yaw, pitch): (-8.699962, 21.6)
+[Screenshot Path] 176634-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.383453328516, -0.348314763951, 4.55320111241)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.36044130277, -0.236949603047, 4.8344774011)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.08093299921, 0.379463049736, 6.39135804376)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 2.05792097347, 0.49082821064, 6.67263433245)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -1.29101431643, -0.257681252653, 2.06564333969)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 0.685973657822, -0.146316091749, 2.34691962838)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -1.59353464574, 0.470096561033, 3.90380027103)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.383453328516, 0.581461721937, 4.18507655972)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.37194731564, 0.637144302389, 4.32571470407)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.36044130277, 0.692826882841, 4.46635284842)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.232193163863, 0.94535062878, 5.1041550254)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.20918113812, 1.05671578968, 5.38543131409)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.08093299921, 1.30923953562, 6.02323349107)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.06942698634, 1.36492211608, 6.16387163542)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.05792097347, 1.42060469653, 6.30450977976)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -2)  Perspective (x, y, z): 0.534713493169, 1.14734930098, 2.89787354137)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.383453328516, 1.51123820783, 3.81695200704)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:35
+[Builder Position] (x, y, z): (-1.12770394859, 3.11650136793, -4.5809098341) (yaw, pitch): (-8.699962, 21.6)
+[Screenshot Path] 177119-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.383453328516, -0.348314763951, 4.55320111241)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.36044130277, -0.236949603047, 4.8344774011)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.08093299921, 0.379463049736, 6.39135804376)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 2.05792097347, 0.49082821064, 6.67263433245)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -1.29101431643, -0.257681252653, 2.06564333969)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 0.685973657822, -0.146316091749, 2.34691962838)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -1.59353464574, 0.470096561033, 3.90380027103)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.383453328516, 0.581461721937, 4.18507655972)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.37194731564, 0.637144302389, 4.32571470407)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.36044130277, 0.692826882841, 4.46635284842)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.232193163863, 0.94535062878, 5.1041550254)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.20918113812, 1.05671578968, 5.38543131409)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.08093299921, 1.30923953562, 6.02323349107)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.06942698634, 1.36492211608, 6.16387163542)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.05792097347, 1.42060469653, 6.30450977976)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -3)  Perspective (x, y, z): 0.685973657822, 0.783460394139, 1.97879507569)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -2)  Perspective (x, y, z): 0.534713493169, 1.14734930098, 2.89787354137)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.383453328516, 1.51123820783, 3.81695200704)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:37
+[Builder Position] (x, y, z): (-5.24755665263, 1.99890843008, -2.76801048166) (yaw, pitch): (-90.0, 3.4499984)
+[Screenshot Path] 179784-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.0, 0.300887257973, 4.99093847468)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.0, 0.421242161162, 6.98731386455)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -4.0, 0.300887257973, 4.99093847468)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -4.0, 0.421242161162, 6.98731386455)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): 1.83697019872e-16, 1.17872004972, 2.93438563321)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 3.06161699787e-16, 1.29907495291, 4.93076102308)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.0, 1.17872004972, 2.93438563321)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -2.0, 1.29907495291, 4.93076102308)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.0, 1.3592524045, 5.92894871802)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -2.0, 1.4194298561, 6.92713641295)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -3.0, 1.29907495291, 4.93076102308)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -3.0, 1.4194298561, 6.92713641295)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -4.0, 1.29907495291, 4.93076102308)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -4.0, 1.3592524045, 5.92894871802)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -4.0, 1.4194298561, 6.92713641295)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -3)  Perspective (x, y, z): 2.4492935983e-16, 2.23708519625, 3.87239587655)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -3)  Perspective (x, y, z): 3.06161699787e-16, 2.29726264784, 4.87058357149)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -2)  Perspective (x, y, z): -1.0, 2.29726264784, 4.87058357149)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -2.0, 2.29726264784, 4.87058357149)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:38
+[Builder Position] (x, y, z): (-5.21249998107, 1.99890843008, -2.82427345265) (yaw, pitch): (-90.0, 3.4499984)
+[Screenshot Path] 179983-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 15
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.0, 0.300887257973, 4.99093847468)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.0, 0.421242161162, 6.98731386455)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -4.0, 0.300887257973, 4.99093847468)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -4.0, 0.421242161162, 6.98731386455)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): 1.83697019872e-16, 1.17872004972, 2.93438563321)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 3.06161699787e-16, 1.29907495291, 4.93076102308)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.0, 1.17872004972, 2.93438563321)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -2.0, 1.29907495291, 4.93076102308)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.0, 1.3592524045, 5.92894871802)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -2.0, 1.4194298561, 6.92713641295)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -3.0, 1.29907495291, 4.93076102308)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -3.0, 1.4194298561, 6.92713641295)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -4.0, 1.29907495291, 4.93076102308)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -4.0, 1.3592524045, 5.92894871802)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -4.0, 1.4194298561, 6.92713641295)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): 1.83697019872e-16, 2.17690774465, 2.87420818162)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -3)  Perspective (x, y, z): 2.4492935983e-16, 2.23708519625, 3.87239587655)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -3)  Perspective (x, y, z): 3.06161699787e-16, 2.29726264784, 4.87058357149)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -2)  Perspective (x, y, z): -1.0, 2.29726264784, 4.87058357149)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -2.0, 2.29726264784, 4.87058357149)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:39
+[Builder Position] (x, y, z): (-5.07454611834, 1.99890843008, -1.09589275366) (yaw, pitch): (-83.39998, 3.2999983)
+[Screenshot Path] 181334-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.418685239255, 0.292528786412, 5.07337457513)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.188810244765, 0.406893796263, 7.05682564118)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.40543069021, 0.305761309983, 5.30286839511)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -2.17555569572, 0.420126319834, 7.28631946117)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): 1.33818521721, 1.16327307131, 2.80286569175)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 1.5680602117, 1.27763808116, 4.7863167578)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -0.648560233745, 1.17650559488, 3.03235951174)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.418685239255, 1.29087060473, 5.01581057779)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.30374774201, 1.34805310966, 6.00753611082)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.188810244765, 1.40523561459, 6.99926164385)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.41205796474, 1.29748686652, 5.13055748778)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.18218297024, 1.41185187637, 7.11400855384)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -2.40543069021, 1.30410312831, 5.24530439778)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.29049319297, 1.36128563323, 6.2370299308)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -2.17555569572, 1.41846813816, 7.22875546383)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): 1.33818521721, 2.16161488963, 2.74530169441)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -3)  Perspective (x, y, z): 1.45312271446, 2.21879739456, 3.73702722744)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -3)  Perspective (x, y, z): 1.5680602117, 2.27597989949, 4.72875276047)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -2)  Perspective (x, y, z): 0.574687486225, 2.28259616127, 4.84349967046)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -0.5336227365, 2.23202991813, 3.96652104743)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.418685239255, 2.28921242306, 4.95824658045)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:39
+[Builder Position] (x, y, z): (-5.07454611834, 1.99890843008, -1.06523265847) (yaw, pitch): (-83.39998, 3.2999983)
+[Screenshot Path] 181533-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 13
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.418685239255, 0.292528786412, 5.07337457513)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.188810244765, 0.406893796263, 7.05682564118)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.40543069021, 0.305761309983, 5.30286839511)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -2.17555569572, 0.420126319834, 7.28631946117)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): 1.33818521721, 1.16327307131, 2.80286569175)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 1.5680602117, 1.27763808116, 4.7863167578)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -0.648560233745, 1.17650559488, 3.03235951174)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.418685239255, 1.29087060473, 5.01581057779)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.30374774201, 1.34805310966, 6.00753611082)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.188810244765, 1.40523561459, 6.99926164385)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.41205796474, 1.29748686652, 5.13055748778)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.18218297024, 1.41185187637, 7.11400855384)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -2.40543069021, 1.30410312831, 5.24530439778)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.29049319297, 1.36128563323, 6.2370299308)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -2.17555569572, 1.41846813816, 7.22875546383)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): 1.33818521721, 2.16161488963, 2.74530169441)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -3)  Perspective (x, y, z): 1.45312271446, 2.21879739456, 3.73702722744)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -3)  Perspective (x, y, z): 1.5680602117, 2.27597989949, 4.72875276047)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -2)  Perspective (x, y, z): 0.574687486225, 2.28259616127, 4.84349967046)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -0.648560233745, 2.17484741321, 2.9747955144)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -0.5336227365, 2.23202991813, 3.96652104743)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.418685239255, 2.28921242306, 4.95824658045)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:40
+[Builder Position] (x, y, z): (-5.07454611834, 1.99890843008, -0.950194658243) (yaw, pitch): (-110.70003, 2.699998)
+[Screenshot Path] 183083-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 12
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.76737666789, 0.220327033973, 4.67202693827)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.47432733504, 0.308457847562, 6.54083771358)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -3.63826435939, 0.187025121866, 3.96586107359)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -4.34521502654, 0.275155935456, 5.8346718489)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): 0.810461690771, 1.1643880091, 3.4622756118)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): 0.103511023617, 1.25251882269, 5.33108638711)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -1.06042600073, 1.13108609699, 2.75610974712)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -1.76737666789, 1.21921691058, 4.62492052243)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.12085200146, 1.26328231737, 5.55932591008)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -2.47432733504, 1.30734772417, 6.49373129774)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.70282051364, 1.20256595453, 4.27183759009)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -3.40977118079, 1.29069676811, 6.1406483654)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -3.63826435939, 1.18591499847, 3.91875465775)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.99173969296, 1.22998040527, 4.8531600454)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -4.34521502654, 1.27404581206, 5.78756543306)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): 0.810461690771, 2.1632778857, 3.41516919596)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -3)  Perspective (x, y, z): 0.456986357194, 2.2073432925, 4.34957458361)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -3)  Perspective (x, y, z): 0.103511023617, 2.25140869929, 5.28397997127)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -2)  Perspective (x, y, z): -0.12498215498, 2.14662692965, 3.06208626362)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -2)  Perspective (x, y, z): -0.831932822134, 2.23475774324, 4.93089703893)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -1.06042600073, 2.1299759736, 2.70900333128)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -1.41390133431, 2.17404138039, 3.64340871893)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.76737666789, 2.21810678718, 4.57781410659)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:56
+[Builder Position] (x, y, z): (-0.178471991683, 1.0, -5.10321133025) (yaw, pitch): (-1.6499954, 7.649995)
+[Screenshot Path] 198431-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+	<Architect> looks perfect! i think that's good :)
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 12
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.143969360582, 0.665330280197, 4.95344409895)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.85520138043, 0.672996432812, 5.01051929838)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.201557104815, 0.931462392276, 6.93482173853)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.7976136362, 0.939128544891, 6.99189693796)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -2.08555235736, 1.38263177449, 2.7818700079)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): -0.0863816163492, 1.3902979271, 2.83894520733)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.14314010159, 1.64876388657, 4.76324764749)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.143969360582, 1.65643003918, 4.82032284692)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.855616009923, 1.66026311549, 4.84886044663)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.85520138043, 1.66409619179, 4.87739804634)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.172763232698, 1.78949609522, 5.81101166671)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.82640750831, 1.79716224783, 5.86808686614)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.201557104815, 1.92256215126, 6.8017004865)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.79802826569, 1.92639522757, 6.83023808621)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.7976136362, 1.93022830387, 6.85877568593)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): -2.08555235736, 2.37373153347, 2.64874875587)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -3)  Perspective (x, y, z): -1.08596698685, 2.37756460978, 2.67728635558)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -3)  Perspective (x, y, z): -0.0863816163492, 2.38139768608, 2.7058239553)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -2)  Perspective (x, y, z): -2.11434622948, 2.50679758951, 3.63943757566)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -2)  Perspective (x, y, z): -0.115175488466, 2.51446374212, 3.69651277509)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -2.14314010159, 2.63986364555, 4.63012639545)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -1.14355473109, 2.64369672186, 4.65866399516)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.143969360582, 2.64752979816, 4.68720159488)
+
+--------------------
+[Timestamp] 2018-04-16 15:15:59
+[Builder Position] (x, y, z): (-0.178471991683, 1.0, -5.10321133025) (yaw, pitch): (-1.6499954, 7.649995)
+[Screenshot Path] 202081-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> okay, this looks easy enough
+	<Architect> put 4 yellow blocks down in the center in a 3x3 square
+	<Architect> like legs of a table
+	<Architect> yep! now you're gonna want 8 red blocks on top of those 4, to make a hollow square
+	<Architect> okay! now replace one corner with a blue block
+	<Architect> okay. using that blue block as the top left corner, you're gonna want to put 3 more blue legs in the same 3x3 grid as the yellow ones
+	<Architect> so four blue legs one tile off the gruond
+	<Architect> ground*
+	<Architect> perfect!
+	<Architect> now a layer of purple blocks on top of the blue ones, same as the red on the yellow
+	<Architect> looks perfect! i think that's good :)
+	<Builder> ncie
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 12
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.143969360582, 0.665330280197, 4.95344409895)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.85520138043, 0.672996432812, 5.01051929838)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.201557104815, 0.931462392276, 6.93482173853)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.7976136362, 0.939128544891, 6.99189693796)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -3)  Perspective (x, y, z): -2.08555235736, 1.38263177449, 2.7818700079)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -3)  Perspective (x, y, z): -0.0863816163492, 1.3902979271, 2.83894520733)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.14314010159, 1.64876388657, 4.76324764749)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.143969360582, 1.65643003918, 4.82032284692)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.855616009923, 1.66026311549, 4.84886044663)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.85520138043, 1.66409619179, 4.87739804634)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.172763232698, 1.78949609522, 5.81101166671)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.82640750831, 1.79716224783, 5.86808686614)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.201557104815, 1.92256215126, 6.8017004865)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.79802826569, 1.92639522757, 6.83023808621)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.7976136362, 1.93022830387, 6.85877568593)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): -2.08555235736, 2.37373153347, 2.64874875587)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -3)  Perspective (x, y, z): -1.08596698685, 2.37756460978, 2.67728635558)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -3)  Perspective (x, y, z): -0.0863816163492, 2.38139768608, 2.7058239553)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -2)  Perspective (x, y, z): -2.11434622948, 2.50679758951, 3.63943757566)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -2)  Perspective (x, y, z): -0.115175488466, 2.51446374212, 3.69651277509)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -2.14314010159, 2.63986364555, 4.63012639545)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -1.14355473109, 2.64369672186, 4.65866399516)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.143969360582, 2.64752979816, 4.68720159488)
+
+Time elapsed: 0:03:41 (221.23s)

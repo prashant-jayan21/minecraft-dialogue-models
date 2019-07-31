@@ -1,0 +1,2256 @@
+
+--------------------
+[Timestamp] 2018-04-06 17:03:10
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 17:03:13
+[Builder Position] (x, y, z): (0.0, 1.0, 0.426890507659) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 2899-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 17:03:22
+[Builder Position] (x, y, z): (0.231264576455, 1.0, -1.30321128383) (yaw, pitch): (0.74999845, 21.749994)
+[Screenshot Path] 11998-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 17:03:29
+[Builder Position] (x, y, z): (0.231264576455, 1.0, -1.30321128383) (yaw, pitch): (0.8999984, 21.599995)
+[Screenshot Path] 18246-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 17:03:44
+[Builder Position] (x, y, z): (0.231264576455, 1.0, -1.30321128383) (yaw, pitch): (0.8999984, 21.599995)
+[Screenshot Path] 33313-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 17:03:52
+[Builder Position] (x, y, z): (0.231264576455, 1.0, -1.30321128383) (yaw, pitch): (-1.8000015, 32.099983)
+[Screenshot Path] 41712-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.0942323557353, 1.59340834421, 2.54011222424)
+
+--------------------
+[Timestamp] 2018-04-06 17:03:56
+[Builder Position] (x, y, z): (0.231264576455, 1.0, -1.30321128383) (yaw, pitch): (-2.2500014, 32.399986)
+[Screenshot Path] 45210-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.117779520524, 1.60624045583, 2.53103132786)
+
+--------------------
+[Timestamp] 2018-04-06 17:03:57
+[Builder Position] (x, y, z): (0.231264576455, 1.0, -1.30321128383) (yaw, pitch): (1.7999985, 31.949984)
+[Screenshot Path] 46758-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 17:04:09
+[Builder Position] (x, y, z): (2.67980403235, 1.0, -0.0670762498441) (yaw, pitch): (-93.90006, 33.600006)
+[Screenshot Path] 58607-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): -0.204049006313, 1.65633028898, 2.49297693067)
+
+--------------------
+[Timestamp] 2018-04-06 17:04:10
+[Builder Position] (x, y, z): (2.67980403235, 1.0, -0.0670762498441) (yaw, pitch): (-93.90006, 33.600006)
+[Screenshot Path] 58937-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): -0.204049006313, 1.65633028898, 2.49297693067)
+
+--------------------
+[Timestamp] 2018-04-06 17:04:11
+[Builder Position] (x, y, z): (2.6828057187, 1.0, -0.0670762498441) (yaw, pitch): (-76.95006, 30.000002)
+[Screenshot Path] 60506-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 0.677400740151, 1.46126052349, 2.53097726575)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -0.296772883277, 1.57416065367, 2.72652601164)
+
+--------------------
+[Timestamp] 2018-04-06 17:04:13
+[Builder Position] (x, y, z): (4.44115959873, 1.0, -2.30282034786) (yaw, pitch): (-28.650053, 17.85001)
+[Screenshot Path] 63106-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): -0.081352883842, 0.684959742112, 2.12701947804)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -0.560811555867, 0.953956280168, 2.96233992214)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): -0.081352883842, 1.63682194937, 1.82049323381)
+
+--------------------
+[Timestamp] 2018-04-06 17:04:15
+[Builder Position] (x, y, z): (2.40485726157, 1.0, -1.10412467379) (yaw, pitch): (-59.700058, 10.500011)
+[Screenshot Path] 64855-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 0.650184188086, 0.563967586407, 3.04289353791)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -0.213211873249, 0.655910379023, 3.538971923)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 0.650184188086, 1.54722245898, 2.86065782364)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): -0.213211873249, 1.6391652516, 3.35673620874)
+
+--------------------
+[Timestamp] 2018-04-06 17:04:20
+[Builder Position] (x, y, z): (3.88405355195, 1.0, -2.59927489933) (yaw, pitch): (2.849943, 27.000008)
+[Screenshot Path] 69554-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 2.09696711458, 0.861713063294, 1.69120652699)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.14668749484, 1.31514218141, 2.58111097053)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 2.09696711458, 1.75271952409, 1.23721590284)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 2.14668749484, 2.20614864221, 2.12712034638)
+
+--------------------
+[Timestamp] 2018-04-06 17:04:45
+[Builder Position] (x, y, z): (3.88405355195, 1.0, -2.59927489933) (yaw, pitch): (-0.30005702, 19.650013)
+[Screenshot Path] 94750-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 1.98949865606, 0.676060392747, 1.8933666953)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.98426169706, 1.01232953725, 2.83511806202)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 1.98949865606, 1.61782467385, 1.55709293949)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 1.98426169706, 1.95409381835, 2.49884430621)
+
+--------------------
+[Timestamp] 2018-04-06 17:05:11
+[Builder Position] (x, y, z): (0.166547384439, 1.0, 0.36234208351) (yaw, pitch): (-91.95003, 10.200015)
+[Screenshot Path] 120247-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 0.829281515226, 0.89093805228, 4.95161807448)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -0.170139368989, 0.884912226317, 4.91812799212)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 0.829281515226, 1.87513361389, 4.7745330765)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): -0.170139368989, 1.86910778793, 4.74104299414)
+
+--------------------
+[Timestamp] 2018-04-06 17:05:39
+[Builder Position] (x, y, z): (0.166547384439, 1.0, 0.36234208351) (yaw, pitch): (-91.95003, 10.200015)
+[Screenshot Path] 149159-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 0.829281515226, 0.89093805228, 4.95161807448)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -0.170139368989, 0.884912226317, 4.91812799212)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 0.829281515226, 1.87513361389, 4.7745330765)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): -0.170139368989, 1.86910778793, 4.74104299414)
+
+--------------------
+[Timestamp] 2018-04-06 17:05:43
+[Builder Position] (x, y, z): (4.66645183765, 3.00063554903, 0.327329609343) (yaw, pitch): (-90.30001, 59.70001)
+[Screenshot Path] 152307-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 0.994750152972, -0.141150284562, 2.23395360971)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -0.00523613836195, -0.145671143587, 2.23131183405)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 0.994750152972, 0.363377188562, 1.37055797105)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): -0.00523613836195, 0.358856329537, 1.36791619539)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): -0.00523613836195, 0.863383802661, 0.504520556725)
+
+--------------------
+[Timestamp] 2018-04-06 17:05:44
+[Builder Position] (x, y, z): (4.59938277046, 3.74055788243, 0.327329609343) (yaw, pitch): (-91.95003, 52.500004)
+[Screenshot Path] 153457-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 0.965393010417, -0.397632679133, 2.21583045108)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -0.0340278737977, -0.42462880792, 2.19511559588)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 0.965393010417, 0.211128694489, 1.42247706829)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): -0.0340278737977, 0.184132565702, 1.40176221309)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): -0.0340278737977, 0.792893939324, 0.608408830301)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): -0.0340278737977, 1.40165531295, -0.18494455249)
+
+--------------------
+[Timestamp] 2018-04-06 17:05:45
+[Builder Position] (x, y, z): (4.59938277046, 4.81243540342, 0.327329609343) (yaw, pitch): (-90.75003, 49.35001)
+[Screenshot Path] 154357-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 0.986824201595, -1.18573954374, 2.93601766506)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -0.0130901191253, -1.19567105932, 2.92749028464)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 0.986824201595, -0.534303117558, 2.17731444071)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): -0.0130901191253, -0.544234633146, 2.16878706029)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): -0.0130901191253, 0.107201793032, 1.41008383593)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): -0.0130901191253, 0.75863821921, 0.651380611574)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): -0.0130901191253, 1.41007464539, -0.107322612782)
+
+--------------------
+[Timestamp] 2018-04-06 17:05:48
+[Builder Position] (x, y, z): (3.12212916428, 5.23088335349, 0.332834092933) (yaw, pitch): (-90.90003, 22.650007)
+[Screenshot Path] 157457-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 12
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 0.968460942565, -2.91534186673, 3.40042132725)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -0.031415681692, -2.92139097103, 3.38592496215)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 0.968460942565, -1.99246740909, 3.01532038537)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): -0.031415681692, -1.99851651339, 3.00082402027)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): -0.031415681692, -1.07564205575, 2.61572307839)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): -0.031415681692, -0.152767598114, 2.23062213651)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): -0.031415681692, 0.770106859526, 1.84552119464)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): -0.031415681692, 1.69298131717, 1.46042025276)
+
+--------------------
+[Timestamp] 2018-04-06 17:06:03
+[Builder Position] (x, y, z): (0.310230480137, 4.11329041564, 0.329385583321) (yaw, pitch): (-89.85003, 17.55)
+[Screenshot Path] 172904-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 12
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 1.01308391088, -1.35346714769, 5.66937277568)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 0.0130873364522, -1.35267788194, 5.67186841079)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 1.01308391088, -0.400012975366, 5.36783481574)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 0.0130873364522, -0.399223709619, 5.37033045085)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 0.0130873364522, 0.5542304627, 5.0687924909)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 0.0130873364522, 1.50768463502, 4.76725453096)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 0.0130873364522, 2.46113880734, 4.46571657102)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 0.0130873364522, 3.41459297966, 4.16417861107)
+
+--------------------
+[Timestamp] 2018-04-06 17:06:12
+[Builder Position] (x, y, z): (4.27338371083, 4.11329041564, 2.25783862275) (yaw, pitch): (-141.74997, -19.349997)
+[Screenshot Path] 181202-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 1.07196647478, -3.81628125406, 1.81297690742)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 0.452872114278, -3.55607614661, 1.07202112274)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 1.07196647478, -2.87276907269, 2.14431474648)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 0.452872114278, -2.61256396524, 1.4033589618)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 0.452872114278, -1.66905178386, 1.73469680086)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 0.452872114278, -0.725539602482, 2.06603463992)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 0.452872114278, 0.217972578895, 2.39737247898)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 0.452872114278, 1.16148476027, 2.72871031804)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): -0.166222246223, 1.42168986772, 1.98775453336)
+
+--------------------
+[Timestamp] 2018-04-06 17:06:15
+[Builder Position] (x, y, z): (2.61151324101, 4.11329041564, 2.23058827201) (yaw, pitch): (-103.64997, -2.6999953)
+[Screenshot Path] 184603-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 2.20729752971, -3.16734711791, 3.47789445642)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.23554197584, -3.15623049957, 3.24216672296)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 2.20729752971, -2.16845723908, 3.52500082519)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 1.23554197584, -2.15734062075, 3.28927309173)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 1.23554197584, -1.15845074192, 3.3363794605)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 1.23554197584, -0.159560863095, 3.38348582927)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 1.23554197584, 0.839329015731, 3.43059219805)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 1.23554197584, 1.83821889456, 3.47769856682)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 0.26378642197, 1.84933551289, 3.24197083336)
+
+--------------------
+[Timestamp] 2018-04-06 17:06:40
+[Builder Position] (x, y, z): (0.127638478146, 4.11329041564, 1.0204525347) (yaw, pitch): (-90.449936, 17.550009)
+[Screenshot Path] 209749-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 1.96067441327, -1.34798248656, 5.6867125003)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 0.960705246855, -1.35035040018, 5.67922523109)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 1.96067441327, -0.394528361611, 5.38517439059)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 0.960705246855, -0.396896275228, 5.37768712138)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 0.960705246855, 0.556557849726, 5.07614901166)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 0.960705246855, 1.51001197468, 4.77461090195)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 0.960705246855, 2.46346609963, 4.47307279224)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 0.960705246855, 3.41692022459, 4.17153468252)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): -0.0392639195622, 3.41455231097, 4.16404741331)
+
+--------------------
+[Timestamp] 2018-04-06 17:06:57
+[Builder Position] (x, y, z): (0.125590379431, 2.24351824692, -0.0364722378925) (yaw, pitch): (-91.199936, 22.950008)
+[Screenshot Path] 226495-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): -0.104706515588, 1.02836611365, 4.99314526945)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -1.10448722245, 1.02020051705, 4.97386156627)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): -0.104706515588, 1.94921153935, 4.60321745309)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): -1.10448722245, 1.94104594275, 4.58393374991)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): -1.10448722245, 2.86189136845, 4.19400593355)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): -1.10448722245, 3.78273679415, 3.80407811718)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): -1.10448722245, 4.70358221984, 3.41415030082)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): -1.10448722245, 5.62442764554, 3.02422248446)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): -2.10426792932, 5.61626204894, 3.00493878128)
+
+--------------------
+[Timestamp] 2018-04-06 17:06:58
+[Builder Position] (x, y, z): (0.125590379431, 2.24351824692, -0.0364722378925) (yaw, pitch): (-91.199936, 22.950008)
+[Screenshot Path] 227295-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): -0.104706515588, 1.02836611365, 4.99314526945)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -1.10448722245, 1.02020051705, 4.97386156627)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): -0.104706515588, 1.94921153935, 4.60321745309)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): -1.10448722245, 1.94104594275, 4.58393374991)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): -1.10448722245, 2.86189136845, 4.19400593355)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): -1.10448722245, 3.78273679415, 3.80407811718)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): -1.10448722245, 4.70358221984, 3.41415030082)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): -1.10448722245, 5.62442764554, 3.02422248446)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): -2.10426792932, 5.61626204894, 3.00493878128)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:10
+[Builder Position] (x, y, z): (3.17920963929, 1.0, 3.31656070606) (yaw, pitch): (-98.99994, 36.000004)
+[Screenshot Path] 239042-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 3.63788715618, 1.52889467462, 2.10434267951)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.65019865177, 1.43694540224, 1.97778538198)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 0.674821642942, 1.25304685746, 1.72467078691)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 3.63788715618, 2.33791162796, 1.51655737074)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 2.65019865177, 2.24596235558, 1.3900000732)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 2.65019865177, 3.05497930892, 0.802214764432)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 2.65019865177, 3.86399626226, 0.214429455659)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 2.65019865177, 4.6730132156, -0.373355853114)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 2.65019865177, 5.48203016894, -0.961141161887)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 1.66251014735, 5.39008089655, -1.08769845942)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:12
+[Builder Position] (x, y, z): (3.17920963929, 1.0, 3.31656070606) (yaw, pitch): (-87.74994, 35.550003)
+[Screenshot Path] 241344-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.07543770481, 1.07062277076, 1.49819037407)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.07620870968, 1.09344955532, 1.53013334205)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 1.07775071943, 1.13910312442, 1.59401927802)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.07543770481, 1.88423118982, 0.916777147148)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.07620870968, 1.90705797437, 0.948720115132)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.07620870968, 2.72066639343, 0.367306888212)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.07620870968, 3.53427481249, -0.214106338708)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.07620870968, 4.34788323155, -0.795519565628)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.07620870968, 5.16149165061, -1.37693279255)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.07697971455, 5.18431843516, -1.34498982456)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:13
+[Builder Position] (x, y, z): (3.16397793999, 1.0, 3.089753987) (yaw, pitch): (-88.799934, 32.999996)
+[Screenshot Path] 243158-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.0410097805, 1.04341228851, 1.60671427146)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.04122912115, 1.05481897388, 1.6242790293)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 1.04166780245, 1.07763234462, 1.65940854498)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): 0.041887143096, 1.08903903, 1.67697330282)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.0410097805, 1.88208289448, 1.06207529499)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.04122912115, 1.89348957985, 1.07964005284)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.04122912115, 2.73216018582, 0.53500107637)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.04122912115, 3.57083079179, -0.00963790009458)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.04122912115, 4.40950139775, -0.55427687656)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.04122912115, 5.24817200372, -1.09891585302)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.0414484618, 5.25957868909, -1.08135109518)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:18
+[Builder Position] (x, y, z): (2.79290855159, 3.00063554903, 2.99337304184) (yaw, pitch): (-98.09996, 42.450012)
+[Screenshot Path] 247408-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 2.54736964594, 0.814207940711, 3.85330680277)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.55734588985, 0.719107584402, 3.74934101695)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): -0.422701622313, 0.528906871783, 3.54140944533)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): -1.4127253784, 0.433806515474, 3.43744365952)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 2.54736964594, 1.55207441903, 3.17836009363)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 1.55734588985, 1.45697406272, 3.07439430781)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): -0.422701622313, 1.2667733501, 2.86646273619)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 1.55734588985, 2.19484054103, 2.39944759868)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 1.55734588985, 2.93270701935, 1.72450088954)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 1.55734588985, 3.67057349767, 1.0495541804)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 1.55734588985, 4.40843997598, 0.374607471259)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 0.567322133771, 4.31333961967, 0.270641685447)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:21
+[Builder Position] (x, y, z): (2.66698836763, 1.89621080114, 2.99661851703) (yaw, pitch): (-83.24995, 28.050009)
+[Screenshot Path] 250257-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 3.33181985537, 1.23513316642, 2.31806438921)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.33875150099, 1.29040459946, 2.42179631396)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 0.352614792222, 1.40094746554, 2.62926016345)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): -0.640453562162, 1.45621889858, 2.73299208819)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 3.33181985537, 2.11767065804, 1.84782234953)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 2.33875150099, 2.17294209108, 1.95155427427)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 0.352614792222, 2.28348495716, 2.15901812376)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): -0.640453562162, 2.3387563902, 2.26275004851)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 2.33875150099, 3.0554795827, 1.48131223459)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 2.33875150099, 3.93801707431, 1.0110701949)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 2.33875150099, 4.82055456593, 0.540828155216)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 2.33875150099, 5.70309205755, 0.0705861155298)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 1.34568314661, 5.75836349059, 0.174318040275)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:27
+[Builder Position] (x, y, z): (2.66698836763, 1.88304261118, 2.99661851703) (yaw, pitch): (-94.34996, 22.650013)
+[Screenshot Path] 256359-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 2.7638134958, 1.2396027947, 2.97064300646)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.76669412029, 1.21039357017, 2.90064463363)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): -0.227544630711, 1.15197512111, 2.76064788798)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): -1.22466400621, 1.12276589657, 2.69064951515)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 2.7638134958, 2.16247721202, 2.58554196794)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 1.76669412029, 2.13326798748, 2.51554359511)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): -0.227544630711, 2.07484953842, 2.37554684946)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): -1.22466400621, 2.04564031389, 2.30554847663)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 1.76669412029, 3.0561424048, 2.13044255659)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 1.76669412029, 3.97901682211, 1.74534151807)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 1.76669412029, 4.90189123942, 1.36024047955)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 1.76669412029, 5.82476565674, 0.975139441025)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 0.769574744792, 5.7955564322, 0.905141068198)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:41
+[Builder Position] (x, y, z): (2.66698836763, 1.88304261118, 2.99661851703) (yaw, pitch): (-94.34996, 22.650013)
+[Screenshot Path] 271105-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 2.7638134958, 1.2396027947, 2.97064300646)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.76669412029, 1.21039357017, 2.90064463363)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): -0.227544630711, 1.15197512111, 2.76064788798)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): -1.22466400621, 1.12276589657, 2.69064951515)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 2.7638134958, 2.16247721202, 2.58554196794)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 1.76669412029, 2.13326798748, 2.51554359511)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): -0.227544630711, 2.07484953842, 2.37554684946)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): -1.22466400621, 2.04564031389, 2.30554847663)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 1.76669412029, 3.0561424048, 2.13044255659)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 1.76669412029, 3.97901682211, 1.74534151807)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 1.76669412029, 4.90189123942, 1.36024047955)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 1.76669412029, 5.82476565674, 0.975139441025)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 0.769574744792, 5.7955564322, 0.905141068198)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:44
+[Builder Position] (x, y, z): (3.65812262765, 3.53292827534, 3.08856908271) (yaw, pitch): (-84.44996, 44.550026)
+[Screenshot Path] 273903-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 15
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.17467855822, -0.300185044032, 2.54596698229)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.17936644758, -0.232336360347, 2.61488982707)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 1.18874222629, -0.0966389929758, 2.75273551662)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): 0.193430115649, -0.0287903092903, 2.8216583614)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.17467855822, 0.412453156548, 1.84443523313)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.17936644758, 0.480301840233, 1.91335807791)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.18874222629, 0.615999207604, 2.05120376747)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.193430115649, 0.68384789129, 2.12012661224)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.17936644758, 1.19294004081, 1.21182632876)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.193430115649, 1.39648609187, 1.41859486309)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.17936644758, 1.90557824139, 0.510294579599)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.17936644758, 2.61821644197, -0.191237169557)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.17936644758, 3.33085464255, -0.892768918713)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.18405433693, 3.39870332624, -0.823846073936)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:45
+[Builder Position] (x, y, z): (4.21356307715, 3.53292827534, 3.11700431293) (yaw, pitch): (-82.79995, 42.600025)
+[Screenshot Path] 275003-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.09379246711, -1.13999745959, 1.71501283621)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.10167787517, -1.0551617793, 1.80727086464)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 1.11744869129, -0.885490418733, 1.9917869215)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): 0.125334099348, -0.800654738448, 2.08404494993)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.09379246711, -0.403900667813, 1.03813654535)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.10167787517, -0.319064987528, 1.13039457378)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.11744869129, -0.149393626956, 1.31491063064)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.125334099348, -0.0645579466706, 1.40716865907)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.10167787517, 0.417031804249, 0.453518282911)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.125334099348, 0.671538845106, 0.730292368202)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.10167787517, 1.15312859603, -0.223358007955)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 0.125334099348, 1.40763563688, 0.0534160773362)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.10167787517, 1.8892253878, -0.900234298821)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.10167787517, 2.62532217958, -1.57711058969)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.10956328323, 2.71015785987, -1.48485256126)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:47
+[Builder Position] (x, y, z): (4.26226792701, 5.01008555644, 3.11700431293) (yaw, pitch): (-81.29994, 48.750023)
+[Screenshot Path] 276253-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 13
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.10523676903, -2.34909175418, 3.26018389062)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.11674304062, -2.2353670299, 3.35991771631)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 1.1397555838, -2.00791758135, 3.55938536768)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): 0.151261855396, -1.89419285707, 3.65911919337)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.10523676903, -1.68974624089, 2.50834381846)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.11674304062, -1.57602151661, 2.60807764415)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.1397555838, -1.34857206806, 2.80754529553)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.151261855396, -1.23484734378, 2.90727912121)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.11674304062, -0.916676003318, 1.85623757199)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.151261855396, -0.575501830491, 2.15543904906)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.11674304062, -0.257330490026, 1.10439749984)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 0.151261855396, 0.083843682801, 1.4035989769)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.11674304062, 0.402015023266, 0.35255742768)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 0.151261855396, 0.743189196093, 0.651758904743)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.11674304062, 1.06136053656, -0.399282644477)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.12824931221, 1.17508526083, -0.299548818789)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:48
+[Builder Position] (x, y, z): (4.26226792701, 6.13241904268, 3.11700431293) (yaw, pitch): (-77.3999, 50.10003)
+[Screenshot Path] 278102-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 12
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.12181046951, -3.12796987441, 3.90211262244)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.14589408831, -2.96061660153, 4.04204152921)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 1.1940613259, -2.62591005577, 4.32189934276)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): 0.218144944692, -2.45855678289, 4.46182824954)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.12181046951, -2.48652064452, 3.13494713476)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.14589408831, -2.31916737165, 3.27487604154)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.1940613259, -1.98446082589, 3.55473385509)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.218144944692, -1.81710755301, 3.69466276186)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.14589408831, -1.67771814176, 2.50771055386)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.218144944692, -1.17565832313, 2.92749727418)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.14589408831, -1.03626891188, 1.74054506618)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 0.218144944692, -0.534209093245, 2.16033178651)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.14589408831, -0.394819682, 0.973379578504)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 0.218144944692, 0.107240136637, 1.39316629883)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.14589408831, 0.246629547882, 0.206214090827)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.1699777071, 0.413982820761, 0.346142997603)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): 0.218144944692, 0.748689366519, 0.626000811153)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:51
+[Builder Position] (x, y, z): (4.26226792701, 6.14558723264, 3.11700431293) (yaw, pitch): (-82.79994, 35.400005)
+[Screenshot Path] 280352-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.09379255276, -3.79134053697, 3.29645255808)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.1016779827, -3.71873674375, 3.39861600102)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 1.11744884257, -3.57352915729, 3.60294288689)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): 0.125334272504, -3.50092536407, 3.70510632983)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.09379255276, -2.9762127918, 2.7171713146)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.1016779827, -2.90360899857, 2.81933475754)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.11744884257, -2.75840141212, 3.02366164342)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.125334272504, -2.68579761889, 3.12582508636)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.1016779827, -2.08848125339, 2.24005351406)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.125334272504, -1.87066987371, 2.54654384288)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.1016779827, -1.27335350821, 1.66077227059)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 0.125334272504, -1.05554212854, 1.96726259941)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.1016779827, -0.458225763038, 1.08149102711)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 0.125334272504, -0.240414383359, 1.38798135593)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.1016779827, 0.356901982139, 0.502209783636)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.10956341263, 0.429505775365, 0.604373226575)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): 0.125334272504, 0.574713361818, 0.808700112454)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): 0.125334272504, 1.38984110699, 0.229418868978)
+
+--------------------
+[Timestamp] 2018-04-06 17:07:55
+[Builder Position] (x, y, z): (3.337762453, 6.14558723264, 6.41903236912) (yaw, pitch): (-135.59993, 4.050007)
+[Screenshot Path] 284501-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 10
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 3.46870584418, -4.53545586915, 6.73778300523)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.76904163077, -4.58591694774, 6.02509536817)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 1.36971320396, -4.68683910493, 4.59972009404)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): 0.670048990554, -4.73730018352, 3.88703245697)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 3.46870584418, -3.53795308136, 6.66715589743)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 2.76904163077, -3.58841415995, 5.95446826037)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.36971320396, -3.68933631714, 4.52909298624)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.670048990554, -3.73979739573, 3.81640534917)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 2.76904163077, -2.59091137217, 5.88384115257)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.670048990554, -2.74229460794, 3.74577824137)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 2.76904163077, -1.59340858438, 5.81321404477)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 0.670048990554, -1.74479182015, 3.67515113357)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 2.76904163077, -0.59590579659, 5.74258693697)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 0.670048990554, -0.747289032366, 3.60452402577)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 2.76904163077, 0.401596991198, 5.67195982917)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.06937741737, 0.351135912606, 4.95927219211)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): 0.670048990554, 0.250213755422, 3.53389691797)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): 0.670048990554, 1.24771654321, 3.46326981017)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 4)  Perspective (x, y, z): -0.029615222852, 1.19725546462, 2.75058217311)
+
+--------------------
+[Timestamp] 2018-04-06 17:08:14
+[Builder Position] (x, y, z): (-0.806471577745, 4.65052121319, 3.43394375518) (yaw, pitch): (-88.34992, 6.900005)
+[Screenshot Path] 304098-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 10
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.17111340027, -2.27158688438, 6.20013758145)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.17152807228, -2.2681274998, 6.22872437434)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 1.17235741631, -2.26120873063, 6.28589796012)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): 0.172772088316, -2.25774934605, 6.31448475301)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.17111340027, -1.27882955293, 6.08000065598)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.17152807228, -1.27537016835, 6.10858744887)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.17235741631, -1.26845139918, 6.16576103465)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.172772088316, -1.2649920146, 6.19434782754)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.17152807228, -0.282612836903, 5.9884505234)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.172772088316, -0.272234683155, 6.07421090207)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.17152807228, 0.710144494543, 5.86831359793)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 0.172772088316, 0.720522648291, 5.9540739766)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.17152807228, 1.70290182599, 5.74817667246)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 0.172772088316, 1.71327997974, 5.83393705113)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.17152807228, 2.69565915743, 5.62803974699)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.17194274429, 2.69911854202, 5.65662653988)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): 0.172772088316, 2.70603731118, 5.71380012566)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): 0.172772088316, 3.69879464263, 5.59366320019)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 4)  Perspective (x, y, z): -0.826813239673, 3.70225402721, 5.62224999309)
+
+--------------------
+[Timestamp] 2018-04-06 17:08:20
+[Builder Position] (x, y, z): (-0.203180403235, 2.03301108867, 3.43958035735) (yaw, pitch): (-88.34992, 8.400004)
+[Screenshot Path] 309499-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 10
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.17111340027, -0.129963250996, 5.96530992954)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.17152807228, -0.125756737356, 5.99379637039)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): 1.17235741631, -0.117343710074, 6.0507692521)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): 0.172772088316, -0.113137196433, 6.07925569295)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.17111340027, 0.859309071768, 5.81922683191)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.17152807228, 0.863515585408, 5.84771327276)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.17235741631, 0.87192861269, 5.90468615447)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.172772088316, 0.876135126331, 5.93317259532)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.17152807228, 1.85278790817, 5.70163017514)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.172772088316, 1.86540744909, 5.7870894977)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.17152807228, 2.84206023094, 5.55554707751)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 0.172772088316, 2.85467977186, 5.64100640007)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.17152807228, 3.8313325537, 5.40946397988)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 0.172772088316, 3.84395209462, 5.49492330244)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.17152807228, 4.82060487646, 5.26338088226)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.17194274429, 4.82481139011, 5.29186732311)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): 0.172772088316, 4.83322441739, 5.34884020481)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): 0.172772088316, 5.82249674015, 5.20275710719)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 4)  Perspective (x, y, z): -0.826813239673, 5.82670325379, 5.23124354804)
+
+--------------------
+[Timestamp] 2018-04-06 17:08:24
+[Builder Position] (x, y, z): (4.10130383384, 3.15060402652, 2.35794333835) (yaw, pitch): (-92.249916, 51.3)
+[Screenshot Path] 313297-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 9
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 2.95842893058, -0.378741311827, 2.25925945421)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.95919983678, -0.409379722543, 2.23471345866)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 2)  Perspective (x, y, z): -0.0392583508127, -0.470656543975, 2.18562146757)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): -1.03848744461, -0.501294954691, 2.16107547202)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 2.95842893058, 0.246501344509, 1.47882904687)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 1.95919983678, 0.215862933793, 1.45428305132)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): -0.0392583508127, 0.154586112361, 1.40519106023)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): -1.03848744461, 0.123947701645, 1.38064506469)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 1.95919983678, 0.841105590129, 0.673852643985)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): -0.0392583508127, 0.779828768697, 0.624760652894)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): -1.03848744461, 0.749190357981, 0.600214657349)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 1.95919983678, 1.46634824647, -0.106577763353)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): -1.03848744461, 1.37443301432, -0.180215749989)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 1.95919983678, 2.0915909028, -0.887008170691)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): -1.03848744461, 1.99967567065, -0.960646157327)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 1.95919983678, 2.71683355914, -1.66743857803)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 0.959970742985, 2.68619514842, -1.69198457357)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): -1.03848744461, 2.62491832699, -1.74107656467)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): -1.03848744461, 3.25016098332, -2.521506972)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 4)  Perspective (x, y, z): -2.03771653841, 3.21952257261, -2.54605296755)
+
+--------------------
+[Timestamp] 2018-04-06 17:08:26
+[Builder Position] (x, y, z): (3.64492810386, 1.01347239497, 2.20373474573) (yaw, pitch): (-83.99989, 49.05)
+[Screenshot Path] 315598-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 10
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 3.19262582928, 1.26543862804, 1.09809170512)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.1981041346, 1.34438851731, 1.16660092919)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 3)  Perspective (x, y, z): -0.785460949462, 1.5812381851, 1.37212860142)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 3.19262582928, 1.92083879895, 0.342809892835)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 2.1981041346, 1.99978868822, 0.41131911691)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 0.209060745224, 2.15768846675, 0.548337565061)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): -0.785460949462, 2.23663835602, 0.616846789136)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 2.1981041346, 2.65518885913, -0.343962695375)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 0.209060745224, 2.81308863766, -0.206944247224)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): -0.785460949462, 2.89203852693, -0.138435023149)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 2.1981041346, 3.31058903004, -1.09924450766)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): -0.785460949462, 3.54743869784, -0.893716835434)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 2.1981041346, 3.96598920096, -1.85452631995)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): -0.785460949462, 4.20283886875, -1.64899864772)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 2.1981041346, 4.62138937187, -2.60980813223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 1.20358243991, 4.70033926113, -2.54129890815)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): -0.785460949462, 4.85823903966, -2.40428046)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): -0.785460949462, 5.51363921058, -3.15956227229)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 4)  Perspective (x, y, z): -1.77998264415, 5.59258909984, -3.09105304821)
+
+--------------------
+[Timestamp] 2018-04-06 17:08:27
+[Builder Position] (x, y, z): (3.64492810386, 1.01347239497, 2.20373474573) (yaw, pitch): (-57.149887, 34.350002)
+[Screenshot Path] 316348-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 3.60516383927, 0.0298234817366, 0.043637735254)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.76507135519, 0.335895301503, 0.491482194116)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 3.60516383927, 0.855429672796, -0.520609034596)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 2.76507135519, 1.16150149256, -0.0727645757338)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.08488638703, 1.7736451321, 0.82292434199)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.244793902944, 2.07971695186, 1.27076880085)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 2.76507135519, 1.98710768362, -0.637011345584)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 1.08488638703, 2.59925132316, 0.25867757214)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.244793902944, 2.90532314292, 0.706522031003)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 2.76507135519, 2.81271387468, -1.20125811543)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 0.244793902944, 3.73092933398, 0.142275261153)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 2.76507135519, 3.63832006574, -1.76550488528)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 0.244793902944, 4.55653552504, -0.421971508697)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 2.76507135519, 4.4639262568, -2.32975165513)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 1.92497887111, 4.76999807657, -1.88190719627)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): 0.244793902944, 5.3821417161, -0.986218278547)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): 0.244793902944, 6.20774790716, -1.5504650484)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 4)  Perspective (x, y, z): -0.595298581138, 6.51381972692, -1.10262058954)
+
+--------------------
+[Timestamp] 2018-04-06 17:08:28
+[Builder Position] (x, y, z): (3.64492810386, 2.39918708471, 2.20373474573) (yaw, pitch): (-83.09989, 20.700008)
+[Screenshot Path] 317248-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+	<Architect> so remove the bottom 2 purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 3.21854882343, -0.361012511716, 1.87366310675)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.22579171215, -0.318546471978, 1.98604617251)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 3.21854882343, 0.574431469759, 1.52018813236)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 2.22579171215, 0.616897509497, 1.63257119811)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 0.240277489584, 0.701829588975, 1.85733732963)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): -0.752479621697, 0.744295628714, 1.96972039539)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 2.22579171215, 1.55234149097, 1.27909622372)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 0.240277489584, 1.63727357045, 1.50386235524)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): -0.752479621697, 1.67973961019, 1.61624542099)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 2.22579171215, 2.48778547245, 0.925621249329)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): -0.752479621697, 2.61518359166, 1.2627704466)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 2.22579171215, 3.42322945392, 0.572146274937)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): -0.752479621697, 3.55062757314, 0.90929547221)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 2.22579171215, 4.3586734354, 0.218671300545)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 1.23303460086, 4.40113947514, 0.331054366303)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): -0.752479621697, 4.48607155461, 0.555820497818)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): -0.752479621697, 5.42151553609, 0.202345523426)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 4)  Perspective (x, y, z): -1.74523673298, 5.46398157583, 0.314728589184)
+
+--------------------
+[Timestamp] 2018-04-06 17:08:43
+[Builder Position] (x, y, z): (-0.255763336011, 3.11650136793, 3.40299510951) (yaw, pitch): (-91.34989, 1.5000088)
+[Screenshot Path] 332195-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+	<Architect> so remove the bottom 2 purple blocks
+	<Architect> ok remove the thing sticking out on the right of the purple one. my bad
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 3.85754282877, -1.83982891509, 6.14283264361)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.85782035332, -1.84044559121, 6.11928287089)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 3.85754282877, -0.840171594137, 6.11665554177)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 2.85782035332, -0.840788270258, 6.09310576905)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 0.858375402422, -0.8420216225, 6.0460062236)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): -0.141347073026, -0.842638298621, 6.02245645087)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 2.85782035332, 0.158869050697, 6.0669286672)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 0.858375402422, 0.157635698455, 6.01982912175)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): -0.141347073026, 0.157019022334, 5.99627934903)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 2.85782035332, 1.15852637165, 6.04075156536)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): -0.141347073026, 1.15667634329, 5.97010224718)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 2.85782035332, 2.15818369261, 6.01457446351)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): -0.141347073026, 2.15633366424, 5.94392514534)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 2.85782035332, 3.15784101356, 5.98839736167)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 1.85809787787, 3.15722433744, 5.96484758895)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): -0.141347073026, 3.1559909852, 5.9177480435)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): -0.141347073026, 4.15564830615, 5.89157094165)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 4)  Perspective (x, y, z): -1.14106954847, 4.15503163003, 5.86802116893)
+
+--------------------
+[Timestamp] 2018-04-06 17:08:50
+[Builder Position] (x, y, z): (2.93879714867, 6.11092799538, 3.75703422872) (yaw, pitch): (-74.54988, 9.000007)
+[Screenshot Path] 339809-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+	<Architect> so remove the bottom 2 purple blocks
+	<Architect> ok remove the thing sticking out on the right of the purple one. my bad
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 12
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.65464905195, -4.65279350161, 2.58568266316)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.69078631416, -4.61111942701, 2.84880220673)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.65464905195, -3.66510518013, 2.42924807745)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.69078631416, -3.62343110553, 2.69236762102)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.76306083858, -3.54008295633, 3.21860670815)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.799198100787, -3.49840888173, 3.48172625172)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.69078631416, -2.63574278405, 2.53593303531)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 1.76306083858, -2.55239463485, 3.06217212244)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.799198100787, -2.51072056025, 3.32529166601)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.69078631416, -1.64805446256, 2.3794984496)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 0.799198100787, -1.52303223877, 3.1688570803)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.69078631416, -0.660366141079, 2.22306386389)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 0.799198100787, -0.535343917283, 3.01242249459)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.69078631416, 0.327322180404, 2.06662927818)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.72692357637, 0.368996255002, 2.32974882175)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): 0.799198100787, 0.4523444042, 2.85598790888)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): 0.799198100787, 1.44003272568, 2.69955332317)
+
+--------------------
+[Timestamp] 2018-04-06 17:08:55
+[Builder Position] (x, y, z): (0.155522284139, 4.61586197593, 3.03399589176) (yaw, pitch): (-89.99989, 14.550003)
+[Screenshot Path] 344359-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+	<Architect> so remove the bottom 2 purple blocks
+	<Architect> ok remove the thing sticking out on the right of the purple one. my bad
+	<Architect> and just move it to the left of the highest purple block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 12
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.0000095993, -1.64766407433, 5.59331085348)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.0000095993, -1.64766359202, 5.59331271177)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.0000095993, -0.679735313498, 5.34208602599)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.0000095993, -0.679734831181, 5.34208788428)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.00000959931, -0.679733866547, 5.34209160086)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 9.5993108865e-06, -0.67973338423, 5.34209345915)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.0000095993, 0.288193929655, 5.09086305679)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 1.00000959931, 0.288194894289, 5.09086677337)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 9.5993108865e-06, 0.288195376606, 5.09086863166)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.0000095993, 1.25612269049, 4.8396382293)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 9.5993108865e-06, 1.25612413744, 4.83964380417)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.0000095993, 2.22405145133, 4.58841340181)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 9.5993108865e-06, 2.22405289828, 4.58841897668)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.0000095993, 3.19198021216, 4.33718857432)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.00000959931, 3.19198069448, 4.33719043261)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): 9.5993108865e-06, 3.19198165911, 4.33719414919)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): 9.5993108865e-06, 4.15991041995, 4.0859693217)
+
+--------------------
+[Timestamp] 2018-04-06 17:09:19
+[Builder Position] (x, y, z): (0.155522284139, 4.61586197593, 3.56663370829) (yaw, pitch): (-89.99989, 14.550003)
+[Screenshot Path] 368605-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+	<Architect> so remove the bottom 2 purple blocks
+	<Architect> ok remove the thing sticking out on the right of the purple one. my bad
+	<Architect> and just move it to the left of the highest purple block
+	<Builder> on the opposite side?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 12
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.0000095993, -1.64766407433, 5.59331085348)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.0000095993, -1.64766359202, 5.59331271177)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.0000095993, -0.679735313498, 5.34208602599)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.0000095993, -0.679734831181, 5.34208788428)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.00000959931, -0.679733866547, 5.34209160086)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 9.5993108865e-06, -0.67973338423, 5.34209345915)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.0000095993, 0.288193929655, 5.09086305679)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 1.00000959931, 0.288194894289, 5.09086677337)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 9.5993108865e-06, 0.288195376606, 5.09086863166)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.0000095993, 1.25612269049, 4.8396382293)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 9.5993108865e-06, 1.25612413744, 4.83964380417)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.0000095993, 2.22405145133, 4.58841340181)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 9.5993108865e-06, 2.22405289828, 4.58841897668)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.0000095993, 3.19198021216, 4.33718857432)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.00000959931, 3.19198069448, 4.33719043261)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): 9.5993108865e-06, 3.19198165911, 4.33719414919)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): 9.5993108865e-06, 4.15991041995, 4.0859693217)
+
+--------------------
+[Timestamp] 2018-04-06 17:09:21
+[Builder Position] (x, y, z): (4.69999998808, 5.73345491378, 1.60609497177) (yaw, pitch): (-27.299896, 2.550004)
+[Screenshot Path] 370704-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+	<Architect> so remove the bottom 2 purple blocks
+	<Architect> ok remove the thing sticking out on the right of the purple one. my bad
+	<Architect> and just move it to the left of the highest purple block
+	<Builder> on the opposite side?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 1.8059139482, -4.05470476087, -1.13931738943)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.34726600668, -4.01516901067, -0.251579257885)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 1.8059139482, -3.0556949879, -1.18380866386)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 1.34726600668, -3.01615923769, -0.296070532318)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 0.429970123651, -2.93708773729, 1.47940573077)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): -0.028677817866, -2.89755198709, 2.36714386232)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 1.34726600668, -2.01714946472, -0.34056180675)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 0.429970123651, -1.93807796431, 1.43491445634)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): -0.028677817866, -1.89854221411, 2.32265258788)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 1.34726600668, -1.01813969174, -0.385053081182)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): -0.028677817866, -0.899532441135, 2.27816131345)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 1.34726600668, -0.019129918769, -0.429544355615)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): -0.028677817866, 0.0994773318396, 2.23367003902)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 1.34726600668, 0.979879854206, -0.474035630047)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 0.888618065168, 1.01941560441, 0.413702501498)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): -0.028677817866, 1.09848710481, 2.18917876459)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 2)  Perspective (x, y, z): 0.429970123651, 2.05796112759, 1.25694935861)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): -0.028677817866, 2.09749687779, 2.14468749016)
+
+--------------------
+[Timestamp] 2018-04-06 17:09:25
+[Builder Position] (x, y, z): (-1.73085417344, 5.73345491378, 2.6114100346) (yaw, pitch): (-82.649925, 12.750002)
+[Screenshot Path] 374855-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+	<Architect> so remove the bottom 2 purple blocks
+	<Architect> ok remove the thing sticking out on the right of the purple one. my bad
+	<Architect> and just move it to the left of the highest purple block
+	<Builder> on the opposite side?
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 3.87086918481, -2.45388368729, 7.27975457028)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.87908617214, -2.42564954016, 7.40453152615)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 3.87086918481, -1.47854137448, 7.05905710121)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 2.87908617214, -1.45030722735, 7.18383405709)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 0.895520146801, -1.3938389331, 7.43338796884)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): -0.096262865868, -1.36560478597, 7.55816492472)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 2.87908617214, -0.474964914549, 6.96313658802)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 0.895520146801, -0.418496620292, 7.21269049978)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): -0.096262865868, -0.390262473164, 7.33746745565)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 2.87908617214, 0.500377398256, 6.74243911895)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): -0.096262865868, 0.585079839641, 7.11676998659)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 2.87908617214, 1.47571971106, 6.52174164989)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): -0.096262865868, 1.56042215245, 6.89607251752)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 2.87908617214, 2.45106202387, 6.30104418082)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 1.88730315947, 2.47929617099, 6.4258211367)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): -0.096262865868, 2.53576446525, 6.67537504845)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 2)  Perspective (x, y, z): 0.895520146801, 3.48287263093, 6.32990062351)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): -0.096262865868, 3.51110677806, 6.45467757938)
+
+--------------------
+[Timestamp] 2018-04-06 17:09:26
+[Builder Position] (x, y, z): (-1.81224200881, 5.73345491378, 3.21743851661) (yaw, pitch): (-82.649925, 12.750002)
+[Screenshot Path] 375953-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+	<Architect> so remove the bottom 2 purple blocks
+	<Architect> ok remove the thing sticking out on the right of the purple one. my bad
+	<Architect> and just move it to the left of the highest purple block
+	<Builder> on the opposite side?
+	<Builder> here?
+	<Architect> ok what you have is perfect. we're done
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 4.86265219748, -2.48211783442, 7.1549776144)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 3.87086918481, -2.45388368729, 7.27975457028)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 4.86265219748, -1.50677552161, 6.93428014533)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 3.87086918481, -1.47854137448, 7.05905710121)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 1.88730315947, -1.42207308023, 7.30861101296)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): 0.895520146801, -1.3938389331, 7.43338796884)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 3.87086918481, -0.503199061677, 6.83835963214)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 1.88730315947, -0.44673076742, 7.0879135439)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): 0.895520146801, -0.418496620292, 7.21269049978)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 3.87086918481, 0.472143251128, 6.61766216307)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): 0.895520146801, 0.556845692513, 6.99199303071)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 3.87086918481, 1.44748556393, 6.39696469401)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): 0.895520146801, 1.53218800532, 6.77129556164)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 3.87086918481, 2.42282787674, 6.17626722494)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 2.87908617214, 2.45106202387, 6.30104418082)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): 0.895520146801, 2.50753031812, 6.55059809257)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 2)  Perspective (x, y, z): 1.88730315947, 3.4546384838, 6.20512366763)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): 0.895520146801, 3.48287263093, 6.32990062351)
+
+--------------------
+[Timestamp] 2018-04-06 17:09:31
+[Builder Position] (x, y, z): (-1.90534999412, 4.23838889433, 2.61829989146) (yaw, pitch): (-86.84992, 10.800004)
+[Screenshot Path] 380352-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> we first begin with the color blue
+	<Architect> make a vertical 2x2 square on the platform
+	<Builder> anywhere?
+	<Architect> perferably more left of
+	<Architect> thats fine
+	<Architect> ok now look at the blue square from the center of the platform
+	<Architect> place 4 blocks directly vertical of the top right blue block. these blocks are also blue
+	<Builder> ok so looks like a d?
+	<Architect> yes like a d. place a block to the right of the highest blue block
+	<Builder> here?
+	<Architect> yes. ok now make an exact copy of this except in purple. Additionally, the exact copy needs to be one block higher than the blue.
+	<Builder> where?
+	<Architect> the exact copy is right next to the blue one on the right
+	<Builder> here?
+	<Architect> yes, but remember to move the copy up by one block
+	<Builder> so its a longer tail in the d?
+	<Builder> oh is the purple floating?
+	<Architect> yes the purple is floating
+	<Architect> so remove the bottom 2 purple blocks
+	<Architect> ok remove the thing sticking out on the right of the purple one. my bad
+	<Architect> and just move it to the left of the highest purple block
+	<Builder> on the opposite side?
+	<Builder> here?
+	<Architect> ok what you have is perfect. we're done
+	<Builder> good
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, -1)  Perspective (x, y, z): 3.38012808064, -1.66806464238, 7.26583061373)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.38163905991, -1.65776774042, 7.31980884362)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, -1)  Perspective (x, y, z): 3.38012808064, -0.685777404732, 7.07844923056)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 2, 0)  Perspective (x, y, z): 2.38163905991, -0.675480502776, 7.13242746046)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 2)  Perspective (x, y, z): 0.384661018463, -0.654886698865, 7.24038392025)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 3)  Perspective (x, y, z): -0.613828002262, -0.64458979691, 7.29436215014)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 3, 0)  Perspective (x, y, z): 2.38163905991, 0.306806734871, 6.9450460773)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 2)  Perspective (x, y, z): 0.384661018463, 0.327400538782, 7.05300253708)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 3, 3)  Perspective (x, y, z): -0.613828002262, 0.337697440737, 7.10698076698)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 4, 0)  Perspective (x, y, z): 2.38163905991, 1.28909397252, 6.75766469413)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 4, 3)  Perspective (x, y, z): -0.613828002262, 1.31998467838, 6.91959938382)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 5, 0)  Perspective (x, y, z): 2.38163905991, 2.27138121016, 6.57028331097)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 5, 3)  Perspective (x, y, z): -0.613828002262, 2.30227191603, 6.73221800065)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 0)  Perspective (x, y, z): 2.38163905991, 3.25366844781, 6.38290192781)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (5, 6, 1)  Perspective (x, y, z): 1.38315003919, 3.26396534977, 6.4368801577)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 6, 3)  Perspective (x, y, z): -0.613828002262, 3.28455915368, 6.54483661749)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 2)  Perspective (x, y, z): 0.384661018463, 4.25654948937, 6.30347700444)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 7, 3)  Perspective (x, y, z): -0.613828002262, 4.26684639133, 6.35745523433)
+
+Time elapsed: 0:06:39 (399.51s)

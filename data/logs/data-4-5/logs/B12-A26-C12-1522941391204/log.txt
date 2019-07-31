@@ -1,0 +1,963 @@
+
+--------------------
+[Timestamp] 2018-04-05 15:16:45
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-05 15:17:09
+[Builder Position] (x, y, z): (4.06755463792, 1.0, 3.07885826061) (yaw, pitch): (-7.499959, 35.999996)
+[Screenshot Path] 23729-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -0.261050965514, 1.16551333376, 1.60419171617)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:10
+[Builder Position] (x, y, z): (4.38867377708, 1.0, 2.85024531027) (yaw, pitch): (-23.399952, 30.449987)
+[Screenshot Path] 24981-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -1.19144136533, 1.39531626075, 2.3735121667)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:11
+[Builder Position] (x, y, z): (4.38867377708, 1.0, 2.85024531027) (yaw, pitch): (-23.249952, 30.299988)
+[Screenshot Path] 25488-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -1.18422925998, 1.39066664022, 2.37984187617)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): -0.265437719129, 1.58982536037, 2.72066134254)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:12
+[Builder Position] (x, y, z): (4.58094116185, 1.0, 3.44621784621) (yaw, pitch): (-20.699959, 17.39999)
+[Screenshot Path] 27078-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -0.706948348778, 0.559471687871, 1.78527741896)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 0.228495934993, 0.665174826153, 2.1225767497)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 0.228495934993, 1.61941520686, 1.82353612399)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:14
+[Builder Position] (x, y, z): (4.06050472963, 1.0, 1.83298486728) (yaw, pitch): (-11.699956, 21.29999)
+[Screenshot Path] 29729-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 0.168076792883, 1.49647758123, 3.83826849511)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 0.168076792883, 2.42816887222, 3.47501742725)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:15
+[Builder Position] (x, y, z): (4.06050472963, 1.0, 1.83607427071) (yaw, pitch): (-24.899952, 16.649992)
+[Screenshot Path] 30829-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): -0.777095846919, 2.11827120444, 3.5929165241)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:16
+[Builder Position] (x, y, z): (4.06050472963, 1.0, 1.83607427071) (yaw, pitch): (-21.89995, 3.2999907)
+[Screenshot Path] 31479-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-05 15:17:23
+[Builder Position] (x, y, z): (0.969388633236, 1.0, -0.627710355147) (yaw, pitch): (4.5000486, 39.299984)
+[Screenshot Path] 37628-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-05 15:17:23
+[Builder Position] (x, y, z): (0.969388633236, 1.0, -0.627710355147) (yaw, pitch): (4.5000486, 39.299984)
+[Screenshot Path] 38177-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-05 15:17:26
+[Builder Position] (x, y, z): (4.29078556535, 1.0, 1.95028920486) (yaw, pitch): (-11.999948, 26.69998)
+[Screenshot Path] 40427-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -0.831643212316, 1.75800032085, 3.49539760818)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:27
+[Builder Position] (x, y, z): (4.67174958745, 1.0, 3.6585071585) (yaw, pitch): (-24.149948, 36.74998)
+[Screenshot Path] 41676-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -0.818252149514, 1.09191539834, 1.46225311854)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 0.094225715946, 1.33670547917, 1.79006703126)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:28
+[Builder Position] (x, y, z): (4.63165835599, 1.0, 3.57212104192) (yaw, pitch): (-24.149948, 16.64998)
+[Screenshot Path] 42576-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -0.818252149514, 0.522894014228, 1.74844081104)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 0.094225715946, 0.640118542983, 2.14041345664)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 0.094225715946, 1.59819154246, 1.85388923835)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:41
+[Builder Position] (x, y, z): (4.06032968952, 1.0, 1.02575584247) (yaw, pitch): (-4.649956, 22.649986)
+[Screenshot Path] 56025-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): -0.243203945793, 1.15149922094, 2.75951107715)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -0.324271927724, 1.53533229459, 3.67934810287)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 0.672436646688, 1.56655162336, 3.75416368417)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 0.672436646688, 2.48942622215, 3.36906308054)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:42
+[Builder Position] (x, y, z): (4.06032968952, 1.0, 1.02878891778) (yaw, pitch): (5.8500443, 34.04999)
+[Screenshot Path] 57173-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -0.790941613057, 1.17106958652, 1.73291874831)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 0.305775674847, 1.67100003071, 2.47270300158)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 0.407700899796, 2.22800004095, 3.29693733544)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 1.40249296275, 2.1709304749, 3.21248725485)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 1.40249296275, 2.9994798417, 2.65257123724)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:43
+[Builder Position] (x, y, z): (4.06032968952, 1.0, 1.02878891778) (yaw, pitch): (39.000046, 39.899994)
+[Screenshot Path] 58223-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): -0.92496989743, 1.30585496941, 1.56178535264)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 0.481496573758, 1.40067689089, 1.67519112246)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 1.88796304495, 1.49549881238, 1.78859689229)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 2.51728405993, 1.9939984165, 2.38479585638)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 3.29442951613, 1.59032073386, 1.90200266211)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 3.29442951613, 2.35748595285, 1.26055311088)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:45
+[Builder Position] (x, y, z): (2.39872367571, 1.0, -0.338325236865) (yaw, pitch): (34.500046, 38.249996)
+[Screenshot Path] 59653-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.30868806327, 1.37108147297, 1.73920880692)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): 1.69922069573, 1.5306336304, 1.94159978284)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 3.08975332819, 1.69018578783, 2.14399075875)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 4.48028596064, 1.84973794526, 2.34638173466)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 5.04669285922, 2.3599491554, 2.99358166227)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 5.8708185931, 2.00929010269, 2.54877271057)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 5.8708185931, 2.7946070768, 1.92967881609)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:45
+[Builder Position] (x, y, z): (2.39872367571, 1.0, -0.338325236865) (yaw, pitch): (34.500046, 38.249996)
+[Screenshot Path] None
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.30868806327, 1.37108147297, 1.73920880692)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): 1.69922069573, 1.5306336304, 1.94159978284)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 3.08975332819, 1.69018578783, 2.14399075875)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 4.48028596064, 1.84973794526, 2.34638173466)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 5.04669285922, 2.3599491554, 2.99358166227)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 5.8708185931, 2.00929010269, 2.54877271057)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 5.8708185931, 2.7946070768, 1.92967881609)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:46
+[Builder Position] (x, y, z): (2.39872367571, 1.0, -0.338325236865) (yaw, pitch): (65.55005, 38.25)
+[Screenshot Path] 60572-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.082526774791, 1.38339300836, 1.75482566538)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.40674814789, 1.07605931053, 1.3649747282)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): 2.73096952098, 0.768725612702, 0.975123791032)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 4.05519089408, 0.461391914872, 0.585272853861)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 5.37941226717, 0.154058217042, 0.195421916689)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 6.28973544084, 0.410300087943, 0.520463180366)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 6.70363364027, -0.153275480788, -0.194429020483)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 6.70363364027, 0.632041450093, -0.813522969793)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:55
+[Builder Position] (x, y, z): (1.49592928968, 1.0, -1.43169507133) (yaw, pitch): (0.60005087, 19.800003)
+[Screenshot Path] 70422-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.978999816235, 0.680986277906, 1.89151184218)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.0314180157498, 1.01615817943, 2.82248746014)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): 1.04183584773, 1.35133008095, 3.75346307811)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 2.05225367972, 1.68650198247, 4.68443869607)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 3.0626715117, 2.021673884, 5.61541431403)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 3.07314418362, 2.36039327714, 6.55624346741)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 4.07308934369, 2.35684578552, 6.54638993199)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 4.07308934369, 3.29772653674, 6.20765196248)
+
+--------------------
+[Timestamp] 2018-04-05 15:17:58
+[Builder Position] (x, y, z): (1.49592928968, 1.046959543, -1.43169507133) (yaw, pitch): (-7.199951, 34.34999)
+[Screenshot Path] 73020-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.24277957869, 1.04887643715, 1.53471728288)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.375997155291, 1.6793922134, 2.45728873615)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): 0.490785268113, 2.30990798964, 3.37986018942)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 1.35756769152, 2.94042376588, 4.30243164269)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 2.22435011492, 3.57093954212, 5.22500309596)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 2.09901772982, 4.13073694659, 6.04409934134)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 3.09113253832, 4.20145531837, 6.14757454923)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 3.09113253832, 5.0270616276, 5.5833279523)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:03
+[Builder Position] (x, y, z): (3.37980123939, 1.0, 1.60026270976) (yaw, pitch): (-19.799953, 11.699993)
+[Screenshot Path] 78469-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -2.48390599203, -0.396873259106, -1.91642965928)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.88176209364, -0.137383099287, -0.663398301892)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): -1.27961819526, 0.122107060532, 0.589633055495)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -0.677474296872, 0.381597220351, 1.84266441288)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): -0.075330398486, 0.64108738017, 3.09569577027)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -0.414067546922, 0.831885990345, 4.01702797671)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 0.5268134999, 0.900577539988, 4.34872712765)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): -0.075330398486, 1.62031021557, 2.89290859454)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 0.5268134999, 1.87980037539, 4.14593995193)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:05
+[Builder Position] (x, y, z): (3.37980123939, 1.0, 1.60026270976) (yaw, pitch): (-10.3499565, 16.499992)
+[Screenshot Path] 79869-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -2.77152629432, -0.432472452492, -1.46000328003)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.9674575307, -0.102052346536, -0.344523124696)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): -1.16338876708, 0.22836775942, 0.770957030639)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -0.359320003456, 0.558787865375, 1.88643718597)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 0.444748760167, 0.889207971331, 3.00191734131)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 0.265088758439, 1.16860190402, 3.94513593429)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 1.24881752379, 1.21962807729, 4.11739749664)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): -0.359320003456, 1.5176076399, 1.60242197515)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): 0.444748760167, 1.84802774586, 2.71790213048)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 1.24881752379, 2.17844785181, 3.83338228582)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:06
+[Builder Position] (x, y, z): (2.30000001192, 1.0, 0.370256101109) (yaw, pitch): (-7.3499565, 16.499992)
+[Screenshot Path] 81269-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.98356655451, -0.0726677900708, -0.245322473708)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.11971267558, 0.245347641549, 0.828280181421)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): -0.255858796644, 0.563363073169, 1.90188283655)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 0.60799508229, 0.881378504789, 2.97548549168)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 1.47184896122, 1.19939393641, 4.04908814681)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 1.3439195629, 1.48107547299, 5.00002956508)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 2.33570284016, 1.51740936803, 5.12269080194)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): -0.255858796644, 1.52218284769, 1.61786762572)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): 0.60799508229, 1.84019827931, 2.69147028085)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): 1.47184896122, 2.15821371093, 3.76507293598)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 2.33570284016, 2.47622914255, 4.83867559111)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:07
+[Builder Position] (x, y, z): (1.30000001192, 1.0, -0.266982324055) (yaw, pitch): (-7.3499565, 17.549992)
+[Screenshot Path] 82319-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.11971267558, 0.260484621341, 0.823645121514)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.255858796644, 0.598120348194, 1.89123989099)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): 0.60799508229, 0.935756075048, 2.95883466046)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 1.47184896122, 1.2733918019, 4.02642942993)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 2.33570284016, 1.61102752875, 5.0940241994)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 2.20777344184, 1.91008770285, 6.03964414489)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 3.19955671909, 1.94866325561, 6.16161896887)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.255858796644, 1.55157456262, 1.58970206417)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.60799508229, 1.88921028947, 2.65729683364)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): 1.47184896122, 2.22684601632, 3.72489160311)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): 2.33570284016, 2.56448174318, 4.79248637258)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 3.19955671909, 2.90211747003, 5.86008114206)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:10
+[Builder Position] (x, y, z): (0.144569095882, 1.0, -1.31871734667) (yaw, pitch): (-10.199956, 18.899988)
+[Screenshot Path] 84918-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.354167969024, 0.637595898737, 1.8622665007)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.452943790424, 1.01375440008, 2.96093632809)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): 1.26005554987, 1.38991290143, 4.05960615549)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 2.06716730932, 1.76607140278, 5.15827598288)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 2.87427906877, 2.14222990413, 6.25694581027)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): 2.69719508426, 2.46102785349, 7.18807906062)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 3.68139082822, 2.51838840547, 7.35561563767)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.354167969024, 1.58368132541, 1.53834928065)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.452943790424, 1.95983982675, 2.63701910804)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 1.26005554987, 2.3359983281, 3.73568893544)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): 2.06716730932, 2.71215682945, 4.83435876283)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): 2.87427906877, 3.08831533079, 5.93302859022)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): 3.68139082822, 3.46447383214, 7.03169841762)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:25
+[Builder Position] (x, y, z): (2.24090010533, 1.0, 4.82281103377) (yaw, pitch): (-103.49995, 36.299988)
+[Screenshot Path] 100065-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+	<Architect> Great. Now make a diagonal eminating from the remaining purple block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 4.35636952707, -0.598502767341, -0.814763144155)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 3.15055488765, -0.161049193497, -0.219242005914)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): 1.94474024823, 0.276404380348, 0.376279132327)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 0.738925608814, 0.713857954192, 0.971800270567)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): -0.466889030606, 1.15131152804, 1.56732140881)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -1.43925915472, 1.01310933786, 1.37918184264)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): -1.67270367003, 1.58876510188, 2.16284254705)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 4.35636952707, 0.207425638898, -1.40677615416)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 3.15055488765, 0.644879212742, -0.81125501592)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 1.94474024823, 1.08233278659, -0.215733877679)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): 0.738925608814, 1.51978636043, 0.379787260561)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): -0.466889030606, 1.95723993428, 0.975308398802)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): -1.67270367003, 2.39469350812, 1.57082953704)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:30
+[Builder Position] (x, y, z): (1.08024043787, 1.0, 5.03037398506) (yaw, pitch): (-98.849976, 22.79998)
+[Screenshot Path] 105515-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+	<Architect> Great. Now make a diagonal eminating from the remaining purple block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 5.09432057743, -0.0848099572085, -0.201755112741)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 3.95237825716, 0.238473415506, 0.567306392017)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): 2.81043593689, 0.56175678822, 1.33636789677)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 1.66849361662, 0.885040160935, 2.10542940153)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, 4)  Perspective (x, y, z): 0.680399052328, 0.825421807058, 1.96360280353)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): 0.526551296347, 1.20832353365, 2.87449090629)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -0.461543267943, 1.14870517977, 2.73266430829)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): -0.615391023924, 1.53160690636, 3.64355241105)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 5.09432057743, 0.837053329648, -0.589270377402)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 3.95237825716, 1.16033670236, 0.179791127356)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 2.81043593689, 1.48362007508, 0.948852632114)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): 1.66849361662, 1.80690344779, 1.71791413687)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): 0.526551296347, 2.13018682051, 2.48697564163)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): -0.615391023924, 2.45347019322, 3.25603714639)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:31
+[Builder Position] (x, y, z): (-0.0510768330658, 1.0, 4.59732955125) (yaw, pitch): (-110.399994, 20.099981)
+[Screenshot Path] 106514-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+	<Architect> Great. Now make a diagonal eminating from the remaining purple block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 3.40055615481, 0.801265847078, 2.18956408454)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 2.11470217964, 1.00358158895, 2.74241840093)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): 0.828848204478, 1.20589733081, 3.29527271731)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, 3)  Perspective (x, y, z): -0.108433821516, 1.08610730977, 2.96793076368)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -0.457005770686, 1.40821307268, 3.8481270337)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, 4)  Perspective (x, y, z): -1.39428779668, 1.28842305164, 3.52078508007)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): -1.74285974585, 1.61052881455, 4.40098135009)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -2.68014177184, 1.49073879351, 4.07363939646)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): -3.02871372101, 1.81284455641, 4.95383566647)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 3.40055615481, 1.74036021313, 1.84590470137)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.11470217964, 1.942675955, 2.39875901776)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.828848204478, 2.14499169687, 2.95161333414)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): -0.457005770686, 2.34730743874, 3.50446765053)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): -1.74285974585, 2.5496231806, 4.05732196692)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): -3.02871372101, 2.75193892247, 4.6101762833)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:32
+[Builder Position] (x, y, z): (-1.32342181148, 1.0, 3.84925146038) (yaw, pitch): (-110.399994, 20.099981)
+[Screenshot Path] 107414-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+	<Architect> Great. Now make a diagonal eminating from the remaining purple block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.11470217964, 1.00358158895, 2.74241840093)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.828848204478, 1.20589733081, 3.29527271731)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 2)  Perspective (x, y, z): -0.108433821516, 1.08610730977, 2.96793076368)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): -0.457005770686, 1.40821307268, 3.8481270337)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, 3)  Perspective (x, y, z): -1.39428779668, 1.28842305164, 3.52078508007)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -1.74285974585, 1.61052881455, 4.40098135009)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, 4)  Perspective (x, y, z): -2.68014177184, 1.49073879351, 4.07363939646)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): -3.02871372101, 1.81284455641, 4.95383566647)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -3.96599574701, 1.69305453537, 4.62649371284)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): -4.31456769618, 2.01516029828, 5.50668998286)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 2.11470217964, 1.942675955, 2.39875901776)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.828848204478, 2.14499169687, 2.95161333414)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): -0.457005770686, 2.34730743874, 3.50446765053)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): -1.74285974585, 2.5496231806, 4.05732196692)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): -3.02871372101, 2.75193892247, 4.6101762833)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): -4.31456769618, 2.95425466434, 5.16303059969)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:33
+[Builder Position] (x, y, z): (-2.59576678989, 1.0, 3.10117336951) (yaw, pitch): (-110.399994, 20.099981)
+[Screenshot Path] 108564-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+	<Architect> Great. Now make a diagonal eminating from the remaining purple block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.76613023047, 1.32568735185, 3.62261467095)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.828848204478, 1.20589733081, 3.29527271731)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.480276255308, 1.52800309372, 4.17546898733)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 2)  Perspective (x, y, z): -0.457005770686, 1.40821307268, 3.8481270337)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): -0.805577719856, 1.73031883559, 4.72832330372)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, 3)  Perspective (x, y, z): -1.74285974585, 1.61052881455, 4.40098135009)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -2.09143169502, 1.93263457746, 5.2811776201)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, 4)  Perspective (x, y, z): -3.02871372101, 1.81284455641, 4.95383566647)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): -3.37728567018, 2.13495031932, 5.83403193649)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -4.31456769618, 2.01516029828, 5.50668998286)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): -4.66313964535, 2.33726606119, 6.38688625288)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.76613023047, 2.26478171791, 3.27895528778)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.480276255308, 2.46709745978, 3.83180960416)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): -0.805577719856, 2.66941320165, 4.38466392055)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): -2.09143169502, 2.87172894351, 4.93751823693)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): -3.37728567018, 3.07404468538, 5.49037255332)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): -4.66313964535, 3.27636042725, 6.04322686971)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:35
+[Builder Position] (x, y, z): (-3.11804113934, 1.0, 1.69124565442) (yaw, pitch): (-111.45, 20.24998)
+[Screenshot Path] 109663-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+	<Architect> Great. Now make a diagonal eminating from the remaining purple block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.166330388004, 1.09300211857, 2.96271506744)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.532019532779, 1.41514578115, 3.83592461277)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.4627565791, 1.28857465031, 3.49283818132)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.82844572387, 1.61071831289, 4.36604772665)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 2)  Perspective (x, y, z): -2.7591827702, 1.48414718206, 4.0229612952)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): -3.12487191497, 1.80629084463, 4.89617084053)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, 3)  Perspective (x, y, z): -4.05560896129, 1.6797197138, 4.55308440908)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -4.42129810607, 2.00186337638, 5.42629395441)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, 4)  Perspective (x, y, z): -5.35203515239, 1.87529224554, 5.08320752296)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): -5.71772429716, 2.19743590812, 5.95641706829)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -6.64846134348, 2.07086477728, 5.61333063684)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): -7.01415048826, 2.39300843986, 6.48654018217)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.532019532779, 2.35333723789, 3.48980788318)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.82844572387, 2.54890976963, 4.01993099706)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): -3.12487191497, 2.74448230137, 4.55005411094)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): -4.42129810607, 2.94005483312, 5.08017722482)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): -5.71772429716, 3.13562736486, 5.6103003387)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): -7.01415048826, 3.3311998966, 6.14042345258)
+
+--------------------
+[Timestamp] 2018-04-05 15:18:45
+[Builder Position] (x, y, z): (1.09638762884, 3.0, 1.51482965486) (yaw, pitch): (-53.550014, 38.249977)
+[Screenshot Path] 119413-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, this time we'll start with a diagonal line from the left corner to the center. It will be purple, blue, green, yellow, orange, and then red
+	<Architect> You can actually keep the L you made
+	<Builder> no more L's?
+	<Architect> So you make the diagonal starting from the corner of the purple L
+	<Builder> like that?
+	<Architect> Good job. Now repeat the same thing on the second level
+	<Architect> Great. Now make a diagonal eminating from the remaining purple block
+	<Architect> Good job!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.383865952271, -2.93441865516, -0.491766293013)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.210254914085, -2.43643473009, 0.139923826062)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.594120866356, -2.06861828387, 0.606497149052)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.0, -1.5706343588, 1.23818726813)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 2)  Perspective (x, y, z): -0.804375780441, -1.20281791258, 1.70476059112)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 2)  Perspective (x, y, z): -0.210254914085, -0.704833987512, 2.33645071019)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, 3)  Perspective (x, y, z): -1.01463069453, -0.337017541287, 2.80302403318)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -0.42050982817, 0.160966383779, 3.43471415225)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, 4)  Perspective (x, y, z): -1.22488560861, 0.528782830004, 3.90128747524)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 1, 4)  Perspective (x, y, z): -0.630764742255, 1.02676675507, 4.53297759432)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 5)  Perspective (x, y, z): -1.4351405227, 1.39458320129, 4.99955091731)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): -0.84101965634, 1.89256712636, 5.63124103638)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.210254914085, -1.65111755069, -0.479169808001)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.0, -0.785317179401, 0.619093634063)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): -0.210254914085, 0.0804831918895, 1.71735707613)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 3)  Perspective (x, y, z): -0.42050982817, 0.94628356318, 2.81562051819)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, 4)  Perspective (x, y, z): -0.630764742255, 1.81208393447, 3.91388396026)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (5, 2, 5)  Perspective (x, y, z): -0.84101965634, 2.67788430576, 5.01214740232)
+
+Time elapsed: 0:02:19 (139.49s)

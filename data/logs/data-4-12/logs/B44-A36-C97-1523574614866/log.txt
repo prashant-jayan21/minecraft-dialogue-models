@@ -1,0 +1,3029 @@
+
+--------------------
+[Timestamp] 2018-04-12 23:10:30
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-12 23:10:33
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 3265-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-12 23:10:43
+[Builder Position] (x, y, z): (0.210139955953, 1.0, -2.15484383381) (yaw, pitch): (1.0500002, 16.799994)
+[Screenshot Path] 12729-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-12 23:11:25
+[Builder Position] (x, y, z): (0.210139955953, 1.0, -2.15484383381) (yaw, pitch): (1.0500002, 16.799994)
+[Screenshot Path] 55339-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-12 23:11:30
+[Builder Position] (x, y, z): (0.486468825805, 1.0, -1.74755251526) (yaw, pitch): (-2.8500001, 63.60001)
+[Screenshot Path] 60637-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.0497213756118, 0.894603956482, 0.444085066011)
+
+--------------------
+[Timestamp] 2018-04-12 23:11:36
+[Builder Position] (x, y, z): (0.486468825805, 1.0, -1.74755251526) (yaw, pitch): (0.7499995, 40.20001)
+[Screenshot Path] 66291-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.0130895868454, 0.645402523167, 0.763730479819)
+
+--------------------
+[Timestamp] 2018-04-12 23:11:39
+[Builder Position] (x, y, z): (0.486468825805, 1.0, -1.74755251526) (yaw, pitch): (2.9999988, 31.950006)
+[Screenshot Path] 69537-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.0523359353277, 0.528453868859, 0.847347306812)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0523359353277, 1.37696402842, 0.318168216982)
+
+--------------------
+[Timestamp] 2018-04-12 23:11:54
+[Builder Position] (x, y, z): (0.486468825805, 1.0, -1.74755251526) (yaw, pitch): (1.7999988, 31.800007)
+[Screenshot Path] 83883-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.0314107381445, 0.526695878752, 0.849473258459)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0314107381445, 1.37658850736, 0.322517359128)
+
+--------------------
+[Timestamp] 2018-04-12 23:11:58
+[Builder Position] (x, y, z): (1.6596676092, 1.0, -2.49501691321) (yaw, pitch): (22.35, 6.1500077)
+[Screenshot Path] 87783-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.164351402701, 0.238906238697, 2.21718569938)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.164351402701, 1.23315105693, 2.11005381145)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.760526825466, 1.19241271962, 1.73197888378)
+
+--------------------
+[Timestamp] 2018-04-12 23:11:59
+[Builder Position] (x, y, z): (0.232447645219, 1.0, -3.17093276483) (yaw, pitch): (2.1000001, 4.2000055)
+[Screenshot Path] 89382-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.109931131352, 0.219567316695, 2.98993400258)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.109931131352, 1.21688178689, 2.91669570972)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.10925952507, 1.21419806409, 2.88015040705)
+
+--------------------
+[Timestamp] 2018-04-12 23:12:02
+[Builder Position] (x, y, z): (0.831315894912, 1.0, -2.64625777217) (yaw, pitch): (-13.800001, 36.900017)
+[Screenshot Path] 92233-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.477066949056, 1.16617778217, 1.55320201728)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.49406732669, 1.3093981613, 1.7439535349)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.477066949056, 1.96586226251, 0.952781554682)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.49406732669, 2.10908264163, 1.1435330723)
+
+--------------------
+[Timestamp] 2018-04-12 23:12:11
+[Builder Position] (x, y, z): (0.831315894912, 1.0, -2.63319010815) (yaw, pitch): (2.249995, 18.150023)
+[Screenshot Path] 100932-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.0785194571198, 0.622532030467, 1.89902305565)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.07774849679, 0.610302382625, 1.86171672911)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0785194571198, 1.57277615882, 1.58751688152)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.07774849679, 1.56054651098, 1.55021055497)
+
+--------------------
+[Timestamp] 2018-04-12 23:12:13
+[Builder Position] (x, y, z): (2.261403811, 1.0, -2.94090073145) (yaw, pitch): (-10.500007, 36.600025)
+[Screenshot Path] 103330-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -2.33098106184, 0.955175753234, 1.28614407039)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.34772617654, 1.06382924209, 1.43244598388)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -0.364471291238, 1.17248273095, 1.57874789738)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.33098106184, 1.75799296827, 0.689918845126)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.34772617654, 1.86664645713, 0.836220758622)
+
+--------------------
+[Timestamp] 2018-04-12 23:12:24
+[Builder Position] (x, y, z): (2.29517718986, 1.0, -2.94553792897) (yaw, pitch): (1.7999903, 4.8000355)
+[Screenshot Path] 114296-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -1.93619195164, 0.172531121476, 2.05460306106)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.936685385954, 0.169902731665, 2.02330263419)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 0.0628211797294, 0.167274341854, 1.99200220731)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.93619195164, 1.16902392888, 1.97092460031)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.936685385954, 1.16639553907, 1.93962417344)
+
+--------------------
+[Timestamp] 2018-04-12 23:12:27
+[Builder Position] (x, y, z): (3.32557927418, 1.0, -3.07950864393) (yaw, pitch): (-2.7000098, 34.05003)
+[Screenshot Path] 116895-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -3.1379894654, 1.59875770472, 2.36579709964)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.1390995985, 1.62513348391, 2.40482724269)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -1.14020973159, 1.65150926311, 2.44385738574)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -0.141319864686, 1.6778850423, 2.4828875288)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -3.1379894654, 2.42730668062, 1.80588050359)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -2.1390995985, 2.45368245982, 1.84491064665)
+
+--------------------
+[Timestamp] 2018-04-12 23:12:34
+[Builder Position] (x, y, z): (2.50245109645, 1.0, -3.06414132971) (yaw, pitch): (0.8999902, 2.4000306)
+[Screenshot Path] 124544-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -1.95263183146, 0.126928574649, 3.02838538956)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.952755196296, 0.126270819249, 3.01269202145)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 0.0471214388721, 0.125613063848, 2.99699865335)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 1.04699807404, 0.124955308448, 2.98130528525)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.95263183146, 1.12605138238, 2.98650920223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.952755196296, 1.12539362698, 2.97081583412)
+
+--------------------
+[Timestamp] 2018-04-12 23:12:36
+[Builder Position] (x, y, z): (2.91693373909, 1.0, -3.07764819697) (yaw, pitch): (-12.75001, 12.60003)
+[Screenshot Path] 126543-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -2.61277737973, 0.542006868255, 2.4247933765)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.63743509774, 0.590150672007, 2.64017584358)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -0.662092815753, 0.638294475759, 2.85555831065)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 0.313249466237, 0.686438279511, 3.07094077773)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.61277737973, 1.51792351597, 2.20664962412)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.63743509774, 1.56606731973, 2.42203209119)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 0.313249466237, 1.66235492723, 2.85279702535)
+
+--------------------
+[Timestamp] 2018-04-12 23:12:46
+[Builder Position] (x, y, z): (2.9282628964, 1.0, -3.07764819697) (yaw, pitch): (3.1499891, 1.3500291)
+[Screenshot Path] 136592-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -1.83212824593, 0.0731633001451, 3.10450531035)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.833639138027, 0.0718686634032, 3.0495705735)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 0.164849969877, 0.0705740266613, 2.99463583666)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 1.16333907778, 0.0692793899194, 2.93970109981)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.83212824593, 1.0728857184, 3.08094503776)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.833639138027, 1.07159108166, 3.02601030092)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.16333907778, 1.06900180817, 2.91614082723)
+
+--------------------
+[Timestamp] 2018-04-12 23:12:50
+[Builder Position] (x, y, z): (5.1915597053, 1.0, -2.58259877865) (yaw, pitch): (26.849985, 8.250031)
+[Screenshot Path] 140041-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -3.55764853316, 0.580094705215, 4.00082829518)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.66545640117, 0.515285150598, 3.55384628073)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -1.77326426917, 0.450475595982, 3.10686426628)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -0.88107213718, 0.385666041366, 2.65988225183)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -3.55764853316, 1.5697460144, 3.85733513773)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -2.66545640117, 1.50493645978, 3.41035312328)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -0.88107213718, 1.37531735055, 2.51638909439)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 0.011119994813, 1.31050779593, 2.06940707994)
+
+--------------------
+[Timestamp] 2018-04-12 23:13:31
+[Builder Position] (x, y, z): (3.56355650326, 1.0, -3.47609007051) (yaw, pitch): (2.2499835, 3.1500301)
+[Screenshot Path] 180685-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -2.87990855864, 0.171197036409, 3.1107584716)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.88067951109, 0.169039697688, 3.07155826205)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -0.881450463542, 0.166882358968, 3.03235805251)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 0.117778584005, 0.164725020247, 2.99315784296)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.87990855864, 1.16968610499, 3.05580776714)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.88067951109, 1.16752876627, 3.01660755759)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 0.117778584005, 1.16321408883, 2.9382071385)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.11700763155, 1.16105675011, 2.89900692895)
+
+--------------------
+[Timestamp] 2018-04-12 23:13:36
+[Builder Position] (x, y, z): (-1.59812758102, 1.0, -1.68321805106) (yaw, pitch): (-39.450012, 28.800022)
+[Screenshot Path] 185633-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.908953708367, 0.984218038432, 1.79028433744)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.68113294776, 1.29032683492, 2.34709366474)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.45331218714, 1.5964356314, 2.90390299205)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 3.22549142653, 1.90254442789, 3.46071231935)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.273548937958, 1.35621848389, 2.46695002027)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.908953708367, 1.8605245335, 1.30853032686)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.68113294776, 2.16663332998, 1.86533965416)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.22549142653, 2.77885092295, 2.97895830877)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.99767066592, 3.08495971944, 3.53576763607)
+
+--------------------
+[Timestamp] 2018-04-12 23:13:52
+[Builder Position] (x, y, z): (0.592475655278, 1.0, -3.77092208584) (yaw, pitch): (2.8499866, 20.250036)
+[Screenshot Path] 201681-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.149163420851, 1.03706864162, 2.81109211988)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.14792656004, 1.01985927756, 2.76444418767)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.14668969924, 1.00264991351, 2.71779625545)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 3.14545283843, 0.985440549446, 2.67114832324)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.198884561135, 1.38275818883, 3.7481228265)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.149163420851, 1.97525976008, 2.46497447332)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.14792656004, 1.95805039602, 2.41832654111)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.14545283843, 1.9236316679, 2.32503067668)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 4.14421597762, 1.90642230384, 2.27838274446)
+
+--------------------
+[Timestamp] 2018-04-12 23:13:55
+[Builder Position] (x, y, z): (-1.66347367201, 1.0, -1.4761686618) (yaw, pitch): (-41.55002, 21.150043)
+[Screenshot Path] 205131-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.833480273935, 0.748656584966, 1.93515476145)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.58185723301, 0.987973360975, 2.55374946547)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.33023419209, 1.22729013698, 3.17234416949)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 3.07861115117, 1.46660691299, 3.79093887351)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.833480273935, 1.68129533732, 1.57434323502)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.58185723301, 1.92061211333, 2.19293793904)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.07861115117, 2.39924566535, 3.43012734708)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.82698811025, 2.63856244136, 4.0487220511)
+
+--------------------
+[Timestamp] 2018-04-12 23:13:56
+[Builder Position] (x, y, z): (0.0380888022127, 1.0, -4.07195808396) (yaw, pitch): (-3.9000206, 25.350042)
+[Screenshot Path] 206280-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.204046948112, 1.28146753076, 2.70484857443)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.272062597482, 1.70862337434, 3.6064647659)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.725621656899, 1.7377440926, 3.66793111708)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 1.72330591128, 1.76686481086, 3.72939746826)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.72099016566, 1.79598552912, 3.79086381944)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.272062597482, 2.61233232586, 3.17831744203)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.725621656899, 2.64145304412, 3.23978379321)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.72099016566, 2.69969448064, 3.36271649557)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.71867442004, 2.7288151989, 3.42418284675)
+
+--------------------
+[Timestamp] 2018-04-12 23:14:21
+[Builder Position] (x, y, z): (1.04556086874, 1.0, -3.58459423788) (yaw, pitch): (1.3499794, 23.550047)
+[Screenshot Path] 231394-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.952603627898, 0.808291269866, 1.85451113536)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.929044222502, 1.20773032512, 2.77096811502)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0706782161868, 1.19831716576, 2.74937093896)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 1.07040065488, 1.18890400639, 2.72777376291)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.07012309356, 1.17949084703, 2.70617658686)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.929044222502, 2.1244417484, 2.37141816015)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.0706782161868, 2.11502858903, 2.3498209841)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.07012309356, 2.09620227031, 2.306626632)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.06984553225, 2.08678911095, 2.28502945595)
+
+--------------------
+[Timestamp] 2018-04-12 23:14:36
+[Builder Position] (x, y, z): (1.04556086874, 1.0, -3.58459423788) (yaw, pitch): (4.6499796, 24.000046)
+[Screenshot Path] 246491-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.753503363601, 1.24916939665, 2.80567433953)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.243205177419, 1.21619585138, 2.7316147043)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 1.23991371844, 1.18322230611, 2.65755506907)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.23662225946, 1.15024876083, 2.58349543384)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.753503363601, 2.16271452775, 2.39893696302)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.243205177419, 2.12974098247, 2.32487732779)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.23662225946, 2.06379389193, 2.17675805733)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.23333080048, 2.03082034665, 2.1026984221)
+
+--------------------
+[Timestamp] 2018-04-12 23:14:58
+[Builder Position] (x, y, z): (-1.90624120763, 1.0, -1.34674218893) (yaw, pitch): (-50.55002, 28.800041)
+[Screenshot Path] 267786-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.498629084021, 1.050110455, 1.91014058877)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.13403342316, 1.42211129581, 2.58680645922)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 1.76943776231, 1.79411213663, 3.26347232967)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.40484210145, 2.16611297745, 3.94013820012)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.273550510244, 1.35621922837, 2.46694943665)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.498629084021, 1.92641679031, 1.4283862876)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.13403342316, 2.29841763112, 2.10505215805)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.40484210145, 3.04241931275, 3.45838389895)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.04024644059, 3.41442015357, 4.1350497694)
+
+--------------------
+[Timestamp] 2018-04-12 23:15:13
+[Builder Position] (x, y, z): (-0.289063155736, 1.0, -2.29915232299) (yaw, pitch): (-15.300013, 28.200043)
+[Screenshot Path] 283484-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.436810820953, 1.03629960059, 1.93268710466)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.40136817954, 1.16099329013, 2.16523943379)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.36592553813, 1.28568697967, 2.39779176293)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 3.33048289671, 1.4103806692, 2.63034409206)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.172937552136, 1.49210255612, 2.78275449242)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.436810820953, 1.91760269801, 1.46013567838)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.40136817954, 2.04229638755, 1.69268800751)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.33048289671, 2.29168376662, 2.15779266578)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 4.2950402553, 2.41637745616, 2.39034499491)
+
+--------------------
+[Timestamp] 2018-04-12 23:15:46
+[Builder Position] (x, y, z): (0.538535341709, 1.0, -3.44942932679) (yaw, pitch): (0.74998796, 14.250043)
+[Screenshot Path] 316428-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.0392681563551, 0.738398797482, 2.90744307387)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.03918248668, 0.735176792628, 2.89475643932)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.03909681701, 0.731954787774, 2.88206980477)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 3.03901114733, 0.728732782921, 2.86938317022)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0523575418068, 0.984531729976, 3.87659076516)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0392681563551, 1.70762952245, 2.66128905344)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.03918248668, 1.7044075176, 2.64860241889)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.03901114733, 1.69796350789, 2.62322914979)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 4.03892547766, 1.69474150304, 2.61054251524)
+
+--------------------
+[Timestamp] 2018-04-12 23:16:15
+[Builder Position] (x, y, z): (0.538535341709, 1.0, -3.44942932679) (yaw, pitch): (0.74998796, 14.250043)
+[Screenshot Path] 345240-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.0392681563551, 0.738398797482, 2.90744307387)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.03918248668, 0.735176792628, 2.89475643932)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.03909681701, 0.731954787774, 2.88206980477)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 3.03901114733, 0.728732782921, 2.86938317022)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0523575418068, 0.984531729976, 3.87659076516)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0392681563551, 1.70762952245, 2.66128905344)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.03918248668, 1.7044075176, 2.64860241889)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.03901114733, 1.69796350789, 2.62322914979)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 4.03892547766, 1.69474150304, 2.61054251524)
+
+--------------------
+[Timestamp] 2018-04-12 23:16:50
+[Builder Position] (x, y, z): (0.538535341709, 1.0, -3.44942932679) (yaw, pitch): (0.74998796, 14.250043)
+[Screenshot Path] 380534-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.0392681563551, 0.738398797482, 2.90744307387)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.03918248668, 0.735176792628, 2.89475643932)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.03909681701, 0.731954787774, 2.88206980477)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 3.03901114733, 0.728732782921, 2.86938317022)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0523575418068, 0.984531729976, 3.87659076516)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0392681563551, 1.70762952245, 2.66128905344)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.03918248668, 1.7044075176, 2.64860241889)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.03901114733, 1.69796350789, 2.62322914979)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 4.03892547766, 1.69474150304, 2.61054251524)
+
+--------------------
+[Timestamp] 2018-04-12 23:17:05
+[Builder Position] (x, y, z): (0.538535341709, 1.0, -3.44942932679) (yaw, pitch): (0.74998796, 14.250043)
+[Screenshot Path] 394682-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.0392681563551, 0.738398797482, 2.90744307387)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.03918248668, 0.735176792628, 2.89475643932)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.03909681701, 0.731954787774, 2.88206980477)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 3.03901114733, 0.728732782921, 2.86938317022)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0523575418068, 0.984531729976, 3.87659076516)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0392681563551, 1.70762952245, 2.66128905344)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.03918248668, 1.7044075176, 2.64860241889)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.03901114733, 1.69796350789, 2.62322914979)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 4.03892547766, 1.69474150304, 2.61054251524)
+
+--------------------
+[Timestamp] 2018-04-12 23:17:13
+[Builder Position] (x, y, z): (-2.32157672007, 1.0, -0.00488284102149) (yaw, pitch): (-78.75003, 13.350046)
+[Screenshot Path] 403580-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.585269425434, 0.679389120648, 2.86284650696)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.780359233912, 0.905852160864, 3.81712867594)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 0.97544904239, 1.13231520108, 4.77141084493)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 1.17053885087, 1.3587782413, 5.72569301391)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.395515957118, 0.724435296834, 3.05266451291)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.585269425434, 1.65236668125, 2.63194681754)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.780359233912, 1.87882972146, 3.58622898653)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.17053885087, 2.33175580189, 5.4947933245)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.36562865935, 2.55821884211, 6.44907549348)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.395515957118, 1.69741285743, 2.82176482349)
+
+--------------------
+[Timestamp] 2018-04-12 23:17:16
+[Builder Position] (x, y, z): (-2.32157672007, 1.0, -0.00488284102149) (yaw, pitch): (-78.75003, 16.500044)
+[Screenshot Path] 406329-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.585269425434, 0.835676462037, 2.82118849963)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.780359233912, 1.11423528272, 3.76158466618)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 0.97544904239, 1.3927941034, 4.70198083272)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 1.17053885087, 1.67135292407, 5.64237699926)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.585269425434, 1.7944959788, 2.53717241861)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.780359233912, 2.07305479948, 3.47756858515)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.17053885087, 2.63017244083, 5.35836091824)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.36562865935, 2.90873126151, 6.29875708478)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.395515957118, 1.84990462165, 2.7242283345)
+
+--------------------
+[Timestamp] 2018-04-12 23:17:26
+[Builder Position] (x, y, z): (0.315807226709, 1.0, -3.57055310171) (yaw, pitch): (-0.300017, 13.05005)
+[Screenshot Path] 416428-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.0157087816, 0.677397064217, 2.92247950405)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.984277509094, 0.678579422931, 2.92758052867)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 1.98426379979, 0.679761781644, 2.9326815533)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.98425009048, 0.680944140358, 2.93778257793)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.0157087816, 1.65157025414, 2.69667738705)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.984277509094, 1.65275261285, 2.70177841168)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.98425009048, 1.65511733028, 2.71198046093)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.98423638118, 1.65629968899, 2.71708148556)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.0209450421333, 1.87736927554, 3.67083722173)
+
+--------------------
+[Timestamp] 2018-04-12 23:17:43
+[Builder Position] (x, y, z): (0.315807226709, 1.0, -3.57055310171) (yaw, pitch): (-0.300017, 13.05005)
+[Screenshot Path] 433041-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.0157087816, 0.677397064217, 2.92247950405)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.984277509094, 0.678579422931, 2.92758052867)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 1.98426379979, 0.679761781644, 2.9326815533)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.98425009048, 0.680944140358, 2.93778257793)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.0157087816, 1.65157025414, 2.69667738705)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.984277509094, 1.65275261285, 2.70177841168)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.98425009048, 1.65511733028, 2.71198046093)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.98423638118, 1.65629968899, 2.71708148556)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.0209450421333, 1.87736927554, 3.67083722173)
+
+--------------------
+[Timestamp] 2018-04-12 23:17:57
+[Builder Position] (x, y, z): (0.315807226709, 1.0, -3.57055310171) (yaw, pitch): (-0.300017, 13.05005)
+[Screenshot Path] 447289-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.0157087816, 0.677397064217, 2.92247950405)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.984277509094, 0.678579422931, 2.92758052867)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 1.98426379979, 0.679761781644, 2.9326815533)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.98425009048, 0.680944140358, 2.93778257793)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.0157087816, 1.65157025414, 2.69667738705)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.984277509094, 1.65275261285, 2.70177841168)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.98425009048, 1.65511733028, 2.71198046093)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.98423638118, 1.65629968899, 2.71708148556)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.0209450421333, 1.87736927554, 3.67083722173)
+
+--------------------
+[Timestamp] 2018-04-12 23:18:01
+[Builder Position] (x, y, z): (-0.258046488972, 1.0, 3.22797999984) (yaw, pitch): (-164.70004, 2.4000492)
+[Screenshot Path] 451539-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.090931903632, 0.172619285509, 4.11848685456)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.873625699044, 0.183669340168, 4.38212776074)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -1.83818330172, 0.194719394827, 4.64576866692)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -2.8027409044, 0.205769449487, 4.90940957311)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.090931903632, 1.17174207965, 4.07661034288)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.873625699044, 1.18279213431, 4.34025124906)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.8027409044, 1.20489224363, 4.86753306143)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -3.76729850707, 1.21594229829, 5.13117396761)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.172940472945, 1.13134977194, 3.11289885579)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.436812849522, 1.09095746422, 2.14918736869)
+
+--------------------
+[Timestamp] 2018-04-12 23:18:11
+[Builder Position] (x, y, z): (0.965377936729, 1.0, 5.50794894817) (yaw, pitch): (-174.44998, 4.65005)
+[Screenshot Path] 461287-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.580288262372, 0.484137446891, 5.95221609697)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.41502388203, 0.491978071435, 6.04861246523)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -1.41033602643, 0.499818695978, 6.14500883349)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -2.40564817083, 0.507659320522, 6.24140520175)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.580288262372, 1.4808458883, 5.87114647983)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.41502388203, 1.48868651284, 5.96754284809)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.40564817083, 1.50436776193, 6.16033558461)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -3.40096031524, 1.51220838647, 6.25673195287)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.483573551976, 1.40015631382, 4.87911046367)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.386858841581, 1.31946673934, 3.88707444751)
+
+--------------------
+[Timestamp] 2018-04-12 23:18:17
+[Builder Position] (x, y, z): (0.965377936729, 1.0, 5.50794894817) (yaw, pitch): (-174.44998, 4.65005)
+[Screenshot Path] 466736-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.580288262372, 0.484137446891, 5.95221609697)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.41502388203, 0.491978071435, 6.04861246523)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -1.41033602643, 0.499818695978, 6.14500883349)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -2.40564817083, 0.507659320522, 6.24140520175)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.580288262372, 1.4808458883, 5.87114647983)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.41502388203, 1.48868651284, 5.96754284809)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.40564817083, 1.50436776193, 6.16033558461)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -3.40096031524, 1.51220838647, 6.25673195287)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.483573551976, 1.40015631382, 4.87911046367)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.386858841581, 1.31946673934, 3.88707444751)
+
+--------------------
+[Timestamp] 2018-04-12 23:18:20
+[Builder Position] (x, y, z): (1.52653024918, 1.0, 5.13989813395) (yaw, pitch): (-196.64992, 2.40005)
+[Screenshot Path] 470535-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.761065990505, 0.252723283244, 6.02966910371)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.71913929003, 0.240724686488, 5.74339722871)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -2.67721258955, 0.228726089732, 5.45712535372)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -3.63528588908, 0.216727492976, 5.17085347872)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.761065990505, 1.2518460768, 5.98779257808)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.71913929003, 1.23984748004, 5.70152070308)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -3.63528588908, 1.21585028653, 5.12897695309)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -4.5933591886, 1.20385168977, 4.8427050781)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.4745427755, 1.21172529572, 5.03055970663)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.188019560495, 1.17160451464, 4.07332683517)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 0.09850365451, 1.13148373356, 3.11609396372)
+
+--------------------
+[Timestamp] 2018-04-12 23:18:27
+[Builder Position] (x, y, z): (1.897178871, 1.0, 5.60745403207) (yaw, pitch): (-176.99994, 4.3500504)
+[Screenshot Path] 477336-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 1.31265149198, 0.450505228653, 5.92232987088)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.314022012032, 0.454474978922, 5.97451610337)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -0.684607467916, 0.458444729192, 6.02670233587)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -1.68323694786, 0.462414479462, 6.07888856836)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.31265149198, 1.44762448448, 5.84648008741)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.314022012032, 1.45159423475, 5.8986663199)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.68323694786, 1.45953373529, 6.00303878489)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.68186642781, 1.46350348556, 6.05522501738)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.26031448997, 1.37187865466, 4.85072740352)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.20797748797, 1.29613282484, 3.85497471962)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 1.15564048596, 1.22038699502, 2.85922203573)
+
+--------------------
+[Timestamp] 2018-04-12 23:18:37
+[Builder Position] (x, y, z): (1.897178871, 1.0, 5.60745403207) (yaw, pitch): (-176.99994, 4.3500504)
+[Screenshot Path] 487583-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 1.31265149198, 0.450505228653, 5.92232987088)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.314022012032, 0.454474978922, 5.97451610337)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -0.684607467916, 0.458444729192, 6.02670233587)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -1.68323694786, 0.462414479462, 6.07888856836)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.31265149198, 1.44762448448, 5.84648008741)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.314022012032, 1.45159423475, 5.8986663199)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.68323694786, 1.45953373529, 6.00303878489)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.68186642781, 1.46350348556, 6.05522501738)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.26031448997, 1.37187865466, 4.85072740352)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.20797748797, 1.29613282484, 3.85497471962)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 1.15564048596, 1.22038699502, 2.85922203573)
+
+--------------------
+[Timestamp] 2018-04-12 23:18:41
+[Builder Position] (x, y, z): (1.897178871, 1.0, 5.60745403207) (yaw, pitch): (-202.9499, 27.450048)
+[Screenshot Path] 490982-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -1.41871032296, 2.72666922637, 5.24905095703)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.33955648365, 2.54692300536, 4.90302546032)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -3.26040264435, 2.36717678435, 4.55699996361)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -4.18124880504, 2.18743056334, 4.21097446691)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.248932081135, 1.45320772369, 2.79753822687)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.41871032296, 3.61408228724, 4.78807583906)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -2.33955648365, 3.43433606623, 4.44205034235)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -4.18124880504, 3.07484362421, 3.74999934893)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -5.10209496573, 2.89509740321, 3.40397385223)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.02878424235, 3.18959511968, 3.970904929)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.638858161744, 2.76510795212, 3.15373401895)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): -0.248932081135, 2.34062078456, 2.3365631089)
+
+--------------------
+[Timestamp] 2018-04-12 23:18:58
+[Builder Position] (x, y, z): (1.897178871, 1.0, 5.60745403207) (yaw, pitch): (-175.49983, 12.150055)
+[Screenshot Path] 508479-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 1.46768942278, 1.24242887285, 5.77081088359)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.470772321845, 1.25894299299, 5.84751536649)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -0.526144779091, 1.27545711313, 5.9242198494)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -1.52306188003, 1.29197123327, 6.0009243323)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 1.23230326186, 0.612957376357, 2.84705320034)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.46768942278, 2.22002860858, 5.56033818534)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.470772321845, 2.23654272872, 5.63704266824)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.52306188003, 2.269570969, 5.79045163405)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.51997898096, 2.28608508914, 5.86715611696)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.38922736914, 2.01020477641, 4.58575229093)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.3107653155, 1.80038094425, 3.61116639651)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 1.23230326186, 1.59055711208, 2.63658050209)
+
+--------------------
+[Timestamp] 2018-04-12 23:19:02
+[Builder Position] (x, y, z): (1.897178871, 1.0, 5.60745403207) (yaw, pitch): (-211.19981, 25.050053)
+[Screenshot Path] 512229-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -2.25277905925, 2.39235877183, 5.11875043512)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -3.10814503725, 2.17302223891, 4.6494525244)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -3.96351101525, 1.95368570599, 4.18015461367)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -4.81887699325, 1.73434917307, 3.71085670295)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.698706540627, 1.30584765237, 2.79402417292)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): -0.180682367752, 0.943677279223, 2.01911541886)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.25277905925, 3.29829701814, 4.69534059364)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -3.10814503725, 3.07896048523, 4.22604268292)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -4.81887699325, 2.64028741939, 3.28744686147)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -5.67424297124, 2.42095088647, 2.81814895074)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.73475488638, 2.93612664499, 3.92043183957)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.2167307135, 2.57395627184, 3.14552308551)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): -0.698706540627, 2.21178589869, 2.37061433144)
+
+--------------------
+[Timestamp] 2018-04-12 23:19:07
+[Builder Position] (x, y, z): (1.897178871, 1.0, 5.60745403207) (yaw, pitch): (-175.94977, 18.300055)
+[Screenshot Path] 517128-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 1.42128845387, 1.85707737534, 5.61526515428)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.423785940981, 1.87925503778, 5.68232399456)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -0.573716571912, 1.90143270022, 5.74938283484)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -1.57121908481, 1.92361036266, 5.81644167513)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 1.20939548338, 0.917449856449, 2.774103157)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): 1.13876449322, 0.604240683486, 1.8270491579)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.42128845387, 2.80650255157, 5.30127178693)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.423785940981, 2.82868021401, 5.36833062721)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.57121908481, 2.87303553889, 5.50244830778)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.5687215977, 2.89521320133, 5.56950714806)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.35065746371, 2.49329337861, 4.35421778783)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.28002647355, 2.18008420564, 3.40716378874)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 1.20939548338, 1.86687503268, 2.46010978965)
+
+--------------------
+[Timestamp] 2018-04-12 23:19:26
+[Builder Position] (x, y, z): (1.897178871, 1.0, 5.60745403207) (yaw, pitch): (-175.94977, 18.300055)
+[Screenshot Path] 535691-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 1.42128845387, 1.85707737534, 5.61526515428)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.423785940981, 1.87925503778, 5.68232399456)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -0.573716571912, 1.90143270022, 5.74938283484)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -1.57121908481, 1.92361036266, 5.81644167513)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 1.20939548338, 0.917449856449, 2.774103157)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): 1.13876449322, 0.604240683486, 1.8270491579)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.42128845387, 2.80650255157, 5.30127178693)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.423785940981, 2.82868021401, 5.36833062721)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.57121908481, 2.87303553889, 5.50244830778)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.5687215977, 2.89521320133, 5.56950714806)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.35065746371, 2.49329337861, 4.35421778783)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.28002647355, 2.18008420564, 3.40716378874)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 1.20939548338, 1.86687503268, 2.46010978965)
+
+--------------------
+[Timestamp] 2018-04-12 23:19:50
+[Builder Position] (x, y, z): (1.897178871, 1.0, 5.60745403207) (yaw, pitch): (-175.94977, 18.300055)
+[Screenshot Path] 560487-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 1.42128845387, 1.85707737534, 5.61526515428)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.423785940981, 1.87925503778, 5.68232399456)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): -0.573716571912, 1.90143270022, 5.74938283484)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): -1.57121908481, 1.92361036266, 5.81644167513)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 1.20939548338, 0.917449856449, 2.774103157)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): 1.13876449322, 0.604240683486, 1.8270491579)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.42128845387, 2.80650255157, 5.30127178693)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.423785940981, 2.82868021401, 5.36833062721)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.57121908481, 2.87303553889, 5.50244830778)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.5687215977, 2.89521320133, 5.56950714806)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.35065746371, 2.49329337861, 4.35421778783)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.28002647355, 2.18008420564, 3.40716378874)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 1.20939548338, 1.86687503268, 2.46010978965)
+
+--------------------
+[Timestamp] 2018-04-12 23:19:57
+[Builder Position] (x, y, z): (-3.29653297375, 1.0, 2.32898876995) (yaw, pitch): (-96.89975, 10.350061)
+[Screenshot Path] 567386-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.4977435699, 0.778192310493, 4.26094986909)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.37761106279, 0.956552971634, 5.23755401371)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.25747855568, 1.13491363278, 6.21415815834)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.13734604856, 1.31327429392, 7.19076230296)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.480530028448, 0.713442644564, 3.90641657849)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): -1.47328789456, 0.691859422588, 3.78823881495)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.4977435699, 1.76192074817, 4.08128807317)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.37761106279, 1.94028140931, 5.05789221779)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.13734604856, 2.29700273159, 7.01110050704)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.01721354145, 2.47536339273, 7.98770465166)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.50498570378, 1.74033752619, 3.96311030964)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.512227837668, 1.71875430421, 3.8449325461)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): -0.480530028448, 1.69717108224, 3.72675478257)
+
+--------------------
+[Timestamp] 2018-04-12 23:20:08
+[Builder Position] (x, y, z): (-3.29653297375, 1.0, 2.32898876995) (yaw, pitch): (-96.89975, 10.350061)
+[Screenshot Path] 577635-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.4977435699, 0.778192310493, 4.26094986909)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.37761106279, 0.956552971634, 5.23755401371)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.25747855568, 1.13491363278, 6.21415815834)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.13734604856, 1.31327429392, 7.19076230296)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.480530028448, 0.713442644564, 3.90641657849)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): -1.47328789456, 0.691859422588, 3.78823881495)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.4977435699, 1.76192074817, 4.08128807317)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.37761106279, 1.94028140931, 5.05789221779)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.13734604856, 2.29700273159, 7.01110050704)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.01721354145, 2.47536339273, 7.98770465166)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.50498570378, 1.74033752619, 3.96311030964)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.512227837668, 1.71875430421, 3.8449325461)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): -0.480530028448, 1.69717108224, 3.72675478257)
+
+--------------------
+[Timestamp] 2018-04-12 23:20:09
+[Builder Position] (x, y, z): (-3.29653297375, 1.0, 2.32898876995) (yaw, pitch): (-96.89975, 10.350061)
+[Screenshot Path] 578986-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.4977435699, 0.778192310493, 4.26094986909)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.37761106279, 0.956552971634, 5.23755401371)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.25747855568, 1.13491363278, 6.21415815834)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.13734604856, 1.31327429392, 7.19076230296)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.480530028448, 0.713442644564, 3.90641657849)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): -1.47328789456, 0.691859422588, 3.78823881495)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.4977435699, 1.76192074817, 4.08128807317)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.37761106279, 1.94028140931, 5.05789221779)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.13734604856, 2.29700273159, 7.01110050704)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.01721354145, 2.47536339273, 7.98770465166)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.50498570378, 1.74033752619, 3.96311030964)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.512227837668, 1.71875430421, 3.8449325461)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): -0.480530028448, 1.69717108224, 3.72675478257)
+
+--------------------
+[Timestamp] 2018-04-12 23:20:13
+[Builder Position] (x, y, z): (-2.22513777233, 1.0, 2.28153644333) (yaw, pitch): (-91.64974, 9.750061)
+[Screenshot Path] 583834-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.91238824736, 0.522467582138, 3.04056282985)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.88359883096, 0.69174793926, 4.02571019456)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.85480941457, 0.861028296382, 5.01085755927)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.82601999818, 1.0303086535, 5.99600492398)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.0863682491805, 0.507841071367, 2.95544209413)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): -1.08595374803, 0.502965567777, 2.92706851556)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.91238824736, 1.5080234609, 2.87121227673)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.88359883096, 1.67730381802, 3.85635964144)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.82601999818, 2.01586453226, 5.82665437086)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.79723058178, 2.18514488939, 6.81180173557)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.91280274851, 1.50314795731, 2.84283869815)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.913217249665, 1.49827245372, 2.81446511958)
+
+--------------------
+[Timestamp] 2018-04-12 23:20:14
+[Builder Position] (x, y, z): (-2.22513777233, 1.0, 2.28153644333) (yaw, pitch): (-101.09974, 26.400059)
+[Screenshot Path] 584585-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.36632807218, 1.56575630922, 3.15418747619)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.17381055862, 2.00207484225, 4.03314318878)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 1.98129304506, 2.43839337528, 4.91209890138)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 1.7887755315, 2.87471190831, 5.79105461398)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.403740996942, 1.3945558358, 2.80930725059)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.577552540677, 1.3089555991, 2.63686713779)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): -1.5588460783, 1.22335536239, 2.46442702499)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.36632807218, 2.4614676116, 2.70955137465)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.17381055862, 2.89778614463, 3.58850708725)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.7887755315, 3.77042321069, 5.34641851244)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.59625801794, 4.20674174372, 6.22537422503)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.38503453456, 2.37586737489, 2.53711126185)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.403740996942, 2.29026713818, 2.36467114905)
+
+--------------------
+[Timestamp] 2018-04-12 23:20:16
+[Builder Position] (x, y, z): (-2.22513777233, 1.0, 2.28153644333) (yaw, pitch): (-67.19974, 22.650059)
+[Screenshot Path] 586334-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 3.92814348846, 0.617327729972, 1.47939014729)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 4.31566325819, 0.972338192859, 2.33015215826)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 4.70318302792, 1.32734865575, 3.18091416923)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 5.09070279765, 1.68235911863, 4.0316761802)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 2.08442070228, 0.915796835764, 2.19465407103)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 1.16255930919, 1.06503138866, 2.55228603291)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 3.92814348846, 1.54020183811, 1.09428836784)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.31566325819, 1.89521230099, 1.9450503788)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 5.09070279765, 2.60523322677, 3.64657440074)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 5.47822256738, 2.96024368965, 4.49733641171)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 3.00628209537, 1.689436391, 1.45192032971)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 2.08442070228, 1.8386709439, 1.80955229158)
+
+--------------------
+[Timestamp] 2018-04-12 23:20:19
+[Builder Position] (x, y, z): (-3.29765715281, 1.0, 2.27283707697) (yaw, pitch): (-89.54975, 11.700059)
+[Screenshot Path] 589283-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 3.03134042641, 0.806347477012, 3.89368449743)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 3.03919869048, 1.0091295193, 4.87287686413)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 3.04705695456, 1.21191156158, 5.85206923084)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 3.05491521864, 1.41469360387, 6.83126159754)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.03140217967, 0.809534605097, 3.90907447702)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 0.0314330563088, 0.811128169139, 3.91676946682)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 3.03134042641, 1.78557007881, 3.69089619373)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 3.03919869048, 1.9883521211, 4.67008856043)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.05491521864, 2.39391620567, 6.62847329384)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.06277348272, 2.59669824795, 7.60766566054)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 2.03137130304, 1.78716364286, 3.69859118352)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.03140217967, 1.7887572069, 3.70628617332)
+
+--------------------
+[Timestamp] 2018-04-12 23:20:41
+[Builder Position] (x, y, z): (-3.29765715281, 1.0, 2.27283707697) (yaw, pitch): (-89.54975, 11.700059)
+[Screenshot Path] 611331-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+	<Architect> wait no it's 3 sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 3.03134042641, 0.806347477012, 3.89368449743)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 3.03919869048, 1.0091295193, 4.87287686413)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 3.04705695456, 1.21191156158, 5.85206923084)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 3.05491521864, 1.41469360387, 6.83126159754)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.03140217967, 0.809534605097, 3.90907447702)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 0.0314330563088, 0.811128169139, 3.91676946682)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 3.03134042641, 1.78557007881, 3.69089619373)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 3.03919869048, 1.9883521211, 4.67008856043)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.05491521864, 2.39391620567, 6.62847329384)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 3.06277348272, 2.59669824795, 7.60766566054)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 2.03137130304, 1.78716364286, 3.69859118352)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.03140217967, 1.7887572069, 3.70628617332)
+
+--------------------
+[Timestamp] 2018-04-12 23:20:58
+[Builder Position] (x, y, z): (-2.22493933405, 1.0, 2.27664226951) (yaw, pitch): (-99.749756, 21.300055)
+[Screenshot Path] 627929-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+	<Architect> wait no it's 3 sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.44863442046, 1.25856191122, 3.22803522139)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.27928911371, 1.61656750579, 4.14626948417)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.10994380695, 1.97457310035, 5.06450374695)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 1.9405985002, 2.33257869492, 5.98273800973)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.508035920265, 1.0740167837, 2.75470278834)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.44863442046, 2.19025279011, 2.86478309656)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.27928911371, 2.54825838468, 3.78301735934)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.9405985002, 3.26426957381, 5.6194858849)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.77125319344, 3.62227516837, 6.53772014768)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.46307764022, 2.1287377476, 2.70700561888)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.477520859977, 2.06722270509, 2.54922814119)
+
+--------------------
+[Timestamp] 2018-04-12 23:20:58
+[Builder Position] (x, y, z): (-2.22493933405, 1.0, 2.27664226951) (yaw, pitch): (-90.14972, 13.950063)
+[Screenshot Path] 628845-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+	<Architect> wait no it's 3 sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.99215044557, 0.725115785631, 2.91911678569)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.98953734159, 0.966191090518, 3.88961968062)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.9869242376, 1.20726639541, 4.86012257555)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.98431113362, 1.44834170029, 5.83062547047)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.00783931194669, 0.723225914661, 2.91150868478)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.99215044557, 1.69562199402, 2.67804065773)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.98953734159, 1.93669729891, 3.64854355266)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.98431113362, 2.41884790868, 5.58954934251)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.98169802964, 2.65992321357, 6.56005223744)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.99215385973, 1.69499203703, 2.6755046241)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.992157273891, 1.69436208004, 2.67296859046)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): -0.00783931194669, 1.69373212305, 2.67043255682)
+
+--------------------
+[Timestamp] 2018-04-12 23:20:59
+[Builder Position] (x, y, z): (-2.26276510178, 1.0, 3.34743195564) (yaw, pitch): (-84.29972, 28.950064)
+[Screenshot Path] 629495-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+	<Architect> wait no it's 3 sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 4.27819417583, 1.25264958585, 2.26449190967)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 4.37751878833, 1.73430317706, 3.13520681102)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 4.47684340083, 2.21595676827, 4.00592171236)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 4.57616801333, 2.69761035948, 4.87663661371)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 1.29302892208, 1.39688297669, 2.52523150544)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): 0.297973837504, 1.44496077363, 2.61214470404)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 4.27819417583, 2.12769149542, 1.78044474618)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.37751878833, 2.60934508663, 2.65115964752)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 4.57616801333, 3.57265226906, 4.39258945021)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 4.67549262583, 4.05430586027, 5.26330435156)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 3.28313909125, 2.17576929237, 1.86735794477)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 2.28808400667, 2.22384708932, 1.95427114336)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 1.29302892208, 2.27192488626, 2.04118434195)
+
+--------------------
+[Timestamp] 2018-04-12 23:21:11
+[Builder Position] (x, y, z): (-2.26276510178, 1.0, 3.34743195564) (yaw, pitch): (-84.89972, 28.950064)
+[Screenshot Path] 641493-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+	<Architect> wait no it's 3 sorry
+	<Builder> ok I'm just restoring it to what it was like before you said wait no. what do I do to change this?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 4.25086001724, 1.27426637291, 2.3035699088)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 4.33975918168, 1.75639701506, 3.17514720454)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 4.42865834612, 2.23852765721, 4.04672450029)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 4.51755751056, 2.72065829936, 4.91830179604)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 1.2627381243, 1.40336053806, 2.53694139263)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): 0.266697493321, 1.44639192645, 2.61473188724)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 4.25086001724, 2.14930828249, 1.8195227453)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.33975918168, 2.63143892464, 2.69110004105)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 4.51755751056, 3.59570020893, 4.43425463254)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 4.606456675, 4.07783085108, 5.30583192829)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 3.25481938626, 2.19233967087, 1.89731323991)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 2.25877875528, 2.23537105926, 1.97510373453)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 1.2627381243, 2.27840244764, 2.05289422914)
+
+--------------------
+[Timestamp] 2018-04-12 23:21:14
+[Builder Position] (x, y, z): (-3.37809995368, 1.0, 2.1996750353) (yaw, pitch): (-90.299736, 8.400062)
+[Screenshot Path] 644094-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+	<Architect> wait no it's 3 sorry
+	<Builder> ok I'm just restoring it to what it was like before you said wait no. what do I do to change this?
+	<Architect> the first red block that you put down at the bottom corner
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.97903352418, 0.586621054267, 3.97256025762)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.97380216796, 0.732703154363, 4.96181889567)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.96857081173, 0.878785254459, 5.95107753371)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.96333945551, 1.02486735456, 6.94033617175)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.0209254249012, 0.584328400384, 3.95703455217)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): -1.02091174126, 0.583564182423, 3.95185931702)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.97903352418, 1.57589322915, 3.82647615856)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.97380216796, 1.72197532925, 4.81573479661)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.96333945551, 2.01413952944, 6.79425207269)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.95810809928, 2.16022162954, 7.78351071074)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.97904720782, 1.57512901119, 3.82130092341)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.979060891461, 1.57436479323, 3.81612568826)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): -0.0209254249012, 1.57360057527, 3.81095045311)
+
+--------------------
+[Timestamp] 2018-04-12 23:21:31
+[Builder Position] (x, y, z): (-3.37809995368, 1.0, 2.1996750353) (yaw, pitch): (-90.299736, 8.400062)
+[Screenshot Path] 661541-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+	<Architect> wait no it's 3 sorry
+	<Builder> ok I'm just restoring it to what it was like before you said wait no. what do I do to change this?
+	<Architect> the first red block that you put down at the bottom corner
+	<Architect> there should be a red block to the right of it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.97903352418, 0.586621054267, 3.97256025762)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.97380216796, 0.732703154363, 4.96181889567)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 2.96857081173, 0.878785254459, 5.95107753371)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 2.96333945551, 1.02486735456, 6.94033617175)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -0.0209254249012, 0.584328400384, 3.95703455217)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): -1.02091174126, 0.583564182423, 3.95185931702)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.97903352418, 1.57589322915, 3.82647615856)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.97380216796, 1.72197532925, 4.81573479661)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.96333945551, 2.01413952944, 6.79425207269)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.95810809928, 2.16022162954, 7.78351071074)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.97904720782, 1.57512901119, 3.82130092341)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.979060891461, 1.57436479323, 3.81612568826)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): -0.0209254249012, 1.57360057527, 3.81095045311)
+
+--------------------
+[Timestamp] 2018-04-12 23:21:35
+[Builder Position] (x, y, z): (-2.73150963112, 1.0, 1.10910508653) (yaw, pitch): (-101.549736, 24.750061)
+[Screenshot Path] 665140-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+	<Architect> wait no it's 3 sorry
+	<Builder> ok I'm just restoring it to what it was like before you said wait no. what do I do to change this?
+	<Architect> the first red block that you put down at the bottom corner
+	<Architect> there should be a red block to the right of it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 1.35884707649, 1.39819730172, 3.03291591182)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.15862858683, 1.80838065969, 3.92266990549)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 0.958410097179, 2.21856401766, 4.81242389915)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 0.758191607526, 2.62874737563, 5.70217789282)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.379095803763, 1.31437368781, 2.85108894641)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): -1.58040674168, 1.14672645999, 2.48743501559)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): -2.5601580144, 1.06290284608, 2.30560805018)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.35884707649, 2.30634002982, 2.61425520743)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.15862858683, 2.71652338779, 3.50400920109)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 0.758191607526, 3.53689010373, 5.28351718843)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 0.557973117873, 3.94707346169, 6.1732711821)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.379095803763, 2.22251641591, 2.43242824202)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.600655468959, 2.138692802, 2.25060127661)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): -1.58040674168, 2.05486918809, 2.0687743112)
+
+--------------------
+[Timestamp] 2018-04-12 23:21:38
+[Builder Position] (x, y, z): (-4.17972649433, 1.0, 3.13284119516) (yaw, pitch): (-88.79973, 10.200062)
+[Screenshot Path] 668190-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+	<Architect> wait no it's 3 sorry
+	<Builder> ok I'm just restoring it to what it was like before you said wait no. what do I do to change this?
+	<Architect> the first red block that you put down at the bottom corner
+	<Architect> there should be a red block to the right of it
+	<Builder> is this good?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 4.10385799529, 0.870396991583, 4.83743306223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 4.12480512653, 1.04744394158, 5.82141253112)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 4.14575225777, 1.22449089158, 6.805392)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 4.16669938901, 1.40153784158, 7.78937146889)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 3.10407741052, 0.874106431187, 4.85804913278)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 1.10451624097, 0.881525310396, 4.89928127388)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): 0.104735656193, 0.885234750001, 4.91989734443)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 4.10385799529, 1.85459240793, 4.66034725691)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.12480512653, 2.03163935793, 5.64432672579)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 4.16669938901, 2.38573325793, 7.61228566357)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 4.18764652025, 2.56278020793, 8.59626513245)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 3.10407741052, 1.85830184753, 4.68096332746)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 2.10429682574, 1.86201128714, 4.70157939801)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 1.10451624097, 1.86572072674, 4.72219546856)
+
+--------------------
+[Timestamp] 2018-04-12 23:21:43
+[Builder Position] (x, y, z): (-4.17972649433, 1.0, 3.13284119516) (yaw, pitch): (-88.79973, 10.200062)
+[Screenshot Path] 673440-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hi
+	<Architect> ok place a red block where you're standing
+	<Architect> then place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> and underneath
+	<Architect> then place a blue block left of that one
+	<Architect> place another blue block left of that one
+	<Architect> place a blue block on top of that
+	<Architect> then place a blue block to the left of that
+	<Architect> ok then go to the red block and place a red block behind it
+	<Architect> other side sorry
+	<Architect> oh i meant the other side of where you are right now
+	<Builder> I'm confused. I went to the red block and placed a red block behind it. what am I doing wrong?
+	<Architect> you placed a red block in front of it not behind
+	<Builder> the red block is behind the first red block from my perspective. I think it would be easier if you gave me instructions from my point of view
+	<Architect> oh!! i'm so sorry i didn't see that :(
+	<Architect> place a red block on top of the one you just put down
+	<Architect> then place a red block in front of that
+	<Builder> there is already a blue block in front of the red block I just placed
+	<Architect> oh i meant behind sorry :(
+	<Architect> ok then place another red block behind that
+	<Builder> would you like me to shift points of views to this side?
+	<Architect> sure
+	<Architect> place a red block underneath the one you just put down
+	<Architect> then place a red block in front of the one you just put down
+	<Architect> ok cool
+	<Architect> ok wait no
+	<Architect> you know how there's 4 red blocks on the top right now
+	<Architect> i mean 3
+	<Builder> should it be 2?
+	<Architect> get rid of one
+	<Builder> like this?
+	<Architect> wait no it's 3 sorry
+	<Builder> ok I'm just restoring it to what it was like before you said wait no. what do I do to change this?
+	<Architect> the first red block that you put down at the bottom corner
+	<Architect> there should be a red block to the right of it
+	<Builder> is this good?
+	<Architect> ok i think that's good
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 4.10385799529, 0.870396991583, 4.83743306223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 4.12480512653, 1.04744394158, 5.82141253112)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -1)  Perspective (x, y, z): 4.14575225777, 1.22449089158, 6.805392)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -1)  Perspective (x, y, z): 4.16669938901, 1.40153784158, 7.78937146889)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 3.10407741052, 0.874106431187, 4.85804913278)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 2)  Perspective (x, y, z): 1.10451624097, 0.881525310396, 4.89928127388)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, 3)  Perspective (x, y, z): 0.104735656193, 0.885234750001, 4.91989734443)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 4.10385799529, 1.85459240793, 4.66034725691)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.12480512653, 2.03163935793, 5.64432672579)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 4.16669938901, 2.38573325793, 7.61228566357)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 4.18764652025, 2.56278020793, 8.59626513245)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 3.10407741052, 1.85830184753, 4.68096332746)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 2.10429682574, 1.86201128714, 4.70157939801)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 2)  Perspective (x, y, z): 1.10451624097, 1.86572072674, 4.72219546856)
+
+Time elapsed: 0:11:47 (707.22s)

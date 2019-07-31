@@ -1,0 +1,2719 @@
+
+--------------------
+[Timestamp] 2018-04-03 14:50:05
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:50:17
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (-27.75, 23.849998)
+[Screenshot Path] 11680-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:50:21
+[Builder Position] (x, y, z): (-1.54037402552, 1.0, 1.30743996373) (yaw, pitch): (-119.99997, 36.75001)
+[Screenshot Path] 15997-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:50:31
+[Builder Position] (x, y, z): (1.68299385417, 3.3742933131, 1.3055236382) (yaw, pitch): (-230.24995, 65.250046)
+[Screenshot Path] 25346-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:50:37
+[Builder Position] (x, y, z): (3.83609968796, 3.3742933131, 1.86180342336) (yaw, pitch): (-266.99985, 65.10004)
+[Screenshot Path] 32294-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:50:43
+[Builder Position] (x, y, z): (0.809746064064, 3.52086910284, -2.44206854375) (yaw, pitch): (-86.249985, 77.700066)
+[Screenshot Path] 38244-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.065403390469, 0.548895351401, 2.16666478481)
+
+--------------------
+[Timestamp] 2018-04-03 14:50:53
+[Builder Position] (x, y, z): (-0.179202731171, 3.500639392, -1.56583511299) (yaw, pitch): (-89.39999, 67.05002)
+[Screenshot Path] 48008-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 1.02088908482, 1.05209245813, 2.6174199006)
+
+--------------------
+[Timestamp] 2018-04-03 14:50:57
+[Builder Position] (x, y, z): (-0.179202731171, 3.500639392, -1.56583511299) (yaw, pitch): (-89.39999, 67.05002)
+[Screenshot Path] 51308-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 1.02088908482, 1.05209245813, 2.6174199006)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.0209439172792, 1.06173551533, 2.62150320385)
+
+--------------------
+[Timestamp] 2018-04-03 14:50:58
+[Builder Position] (x, y, z): (-0.185099624036, 3.500639392, -0.783528928301) (yaw, pitch): (-86.54998, 66.45002)
+[Screenshot Path] 52858-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.1167310003, 0.920671789669, 2.58298535189)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.11854332805, 0.975837520052, 2.6070293358)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.120355655805, 1.03100325043, 2.63107331972)
+
+--------------------
+[Timestamp] 2018-04-03 14:51:06
+[Builder Position] (x, y, z): (-0.185099624036, 3.500639392, -0.510601119122) (yaw, pitch): (-90.600006, 64.65)
+[Screenshot Path] 61207-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 1.97894655888, 0.969953189933, 2.67263191002)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.979001390608, 0.960489646971, 2.66814840578)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.0209437776606, 0.951026104009, 2.66366490153)
+
+--------------------
+[Timestamp] 2018-04-03 14:51:09
+[Builder Position] (x, y, z): (-0.18676256976, 3.500639392, 0.510656592775) (yaw, pitch): (-90.15001, 70.34999)
+[Screenshot Path] 64306-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.99475338696, 1.21837181297, 2.55871496589)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.99475681436, 1.21590611825, 2.5578345457)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.99476024176, 1.21344042353, 2.55695412551)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.00523633083948, 1.21097472881, 2.55607370532)
+
+--------------------
+[Timestamp] 2018-04-03 14:51:24
+[Builder Position] (x, y, z): (-0.18676256976, 3.500639392, 0.546399719284) (yaw, pitch): (-92.25002, 61.799984)
+[Screenshot Path] 78453-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.9191667385, 0.919946028373, 2.76263730115)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.91993771596, 0.885345915002, 2.7440848707)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.920708693424, 0.850745801631, 2.72553244025)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.0785203291116, 0.816145688261, 2.7069800098)
+
+--------------------
+[Timestamp] 2018-04-03 14:51:33
+[Builder Position] (x, y, z): (-0.335530198886, 3.500639392, -2.21813180086) (yaw, pitch): (-90.45, 76.20002)
+[Screenshot Path] 87652-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): -0.00785390088871, 0.494038173924, 2.18079448801)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.0157078017774, 1.46514258503, 2.41932024968)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.01567695942, 1.45751539199, 2.41744683421)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.01564611707, 1.44988819895, 2.41557341873)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.01561527471, 1.44226100591, 2.41370000326)
+
+--------------------
+[Timestamp] 2018-04-03 14:51:34
+[Builder Position] (x, y, z): (-1.01913364527, 3.500639392, -2.21505993207) (yaw, pitch): (-92.85002, 81.000046)
+[Screenshot Path] 89201-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -0.0497217225028, 0.67359946026, 2.13161711324)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): -0.0994434450056, 1.66006626467, 2.2878572941)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.149165167508, 2.64653306907, 2.44409747496)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.14792827772, 2.59742349724, 2.43631932333)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.14669138792, 2.5483139254, 2.42854117169)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.14545449813, 2.49920435357, 2.42076302006)
+
+--------------------
+[Timestamp] 2018-04-03 14:51:55
+[Builder Position] (x, y, z): (-2.99060426609, 3.500639392, -2.13677245351) (yaw, pitch): (-94.05009, 57.30004)
+[Screenshot Path] 109798-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -0.14125710561, 0.598339816141, 2.76080348713)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): -0.211885658414, 1.4377494572, 3.29969407159)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.282514211219, 2.27715909827, 3.83858465605)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.28001689669, 2.21772438293, 3.80042830554)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.27751958217, 2.15828966759, 3.76227195503)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.27502226764, 2.09885495226, 3.72411560452)
+
+--------------------
+[Timestamp] 2018-04-03 14:51:56
+[Builder Position] (x, y, z): (-2.39233180954, 3.500639392, -2.18061319801) (yaw, pitch): (-96.00011, 61.350044)
+[Screenshot Path] 111597-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): -0.313591117836, 1.6593587316, 3.18562226428)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.418121490448, 2.53211643303, 3.66245283776)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.41264318513, 2.44038420816, 3.61233499942)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.40716487982, 2.3486519833, 3.56221716108)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.40168657451, 2.25691975843, 3.51209932274)
+
+--------------------
+[Timestamp] 2018-04-03 14:51:57
+[Builder Position] (x, y, z): (-2.00277943834, 3.500639392, -2.18383935487) (yaw, pitch): (-95.7001, 62.700047)
+[Screenshot Path] 112598-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.397285945772, 2.6195973379, 3.60275917382)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.39234134239, 2.53133851611, 3.55720549071)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.387396739, 2.44307969431, 3.5116518076)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.38245213561, 2.35482087252, 3.46609812449)
+
+--------------------
+[Timestamp] 2018-04-03 14:52:00
+[Builder Position] (x, y, z): (2.18888184874, 3.500639392, -2.46467837669) (yaw, pitch): (-91.50006, 83.55009)
+[Screenshot Path] 114547-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.0261779951466, -1.21799901877, 1.87504482689)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.0, -0.224669109816, 1.98734088447)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.973479302416, -1.24401131878, 1.87210413346)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.97313659998, -1.2700236188, 1.86916344002)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.97279389754, -1.29603591881, 1.86622274659)
+
+--------------------
+[Timestamp] 2018-04-03 14:52:01
+[Builder Position] (x, y, z): (2.76685820678, 3.500639392, -2.48422111129) (yaw, pitch): (-91.35006, 76.80009)
+[Screenshot Path] 115298-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.0235608117405, -1.43000768299, 1.71887257082)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.0, -0.456698681632, 1.94715852313)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.0235608117405, 0.516610319729, 2.17544447544)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.976161593806, -1.45294600069, 1.71349247499)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.97588399935, -1.47588431839, 1.70811237916)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.9756064049, -1.49882263608, 1.70273228333)
+
+--------------------
+[Timestamp] 2018-04-03 14:52:25
+[Builder Position] (x, y, z): (-1.94904198776, 3.500639392, 0.401761173521) (yaw, pitch): (-122.550095, 49.650093)
+[Screenshot Path] 139995-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.91465365333, 1.86239622209, 4.20652933026)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.376616854167, 2.50479051092, 4.75228200358)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.161419944996, 3.14718479974, 5.2980346769)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.071732303057, 1.45235587035, 3.85817533331)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.771189047216, 1.0423155186, 3.50982133635)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -1.61411039749, 0.632275166859, 3.1614673394)
+
+--------------------
+[Timestamp] 2018-04-03 14:52:37
+[Builder Position] (x, y, z): (-0.787131573192, 3.500639392, -2.21453434195) (yaw, pitch): (-90.60003, 71.10017)
+[Screenshot Path] 151858-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.0209446153726, 1.2442396582, 2.53996633758)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.0314169230589, 2.1902740984, 2.86386318647)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.0418892307452, 3.13630853861, 3.18776003535)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.02088977925, 1.23433195116, 2.53657420411)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.02083494314, 1.22442424412, 2.53318207064)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.02078010702, 1.21451653708, 2.52978993717)
+
+--------------------
+[Timestamp] 2018-04-03 14:52:48
+[Builder Position] (x, y, z): (-0.787131573192, 3.500639392, -2.21453434195) (yaw, pitch): (-90.60003, 71.10017)
+[Screenshot Path] 163306-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.0209446153726, 1.2442396582, 2.53996633758)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.0314169230589, 2.1902740984, 2.86386318647)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.0418892307452, 3.13630853861, 3.18776003535)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.02088977925, 1.23433195116, 2.53657420411)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.02083494314, 1.22442424412, 2.53318207064)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.02078010702, 1.21451653708, 2.52978993717)
+
+--------------------
+[Timestamp] 2018-04-03 14:53:04
+[Builder Position] (x, y, z): (-0.787131573192, 3.500639392, -2.21453434195) (yaw, pitch): (-92.10001, 73.3502)
+[Screenshot Path] 179254-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.0732877662446, 1.34181847335, 2.48880535356)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.109931649367, 2.29924891845, 2.77513413072)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.146575532489, 3.25667936355, 3.06146290788)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.07261615363, 1.30671092535, 2.47830610388)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.07194454101, 1.27160337735, 2.46780685421)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.07127292839, 1.23649582935, 2.45730760454)
+
+--------------------
+[Timestamp] 2018-04-03 14:53:09
+[Builder Position] (x, y, z): (-0.787131573192, 3.500639392, -2.21453434195) (yaw, pitch): (-93.150024, 73.35021)
+[Screenshot Path] 183553-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): -0.0549505981586, 0.383584288787, 2.20223602848)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.109901196317, 1.34021065998, 2.48832415772)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.164851794476, 2.29683703118, 2.77441228696)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.219802392634, 3.25346340238, 3.0605004162)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.10839027075, 1.28756392337, 2.47257965512)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.10687934518, 1.23491718676, 2.45683515252)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.10536841962, 1.18227045015, 2.44109064993)
+
+--------------------
+[Timestamp] 2018-04-03 14:53:09
+[Builder Position] (x, y, z): (-0.787131573192, 3.500639392, -2.21453434195) (yaw, pitch): (-94.950035, 87.60023)
+[Screenshot Path] 184302-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): 0.0, -0.0837432859856, 1.99824599638)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): -0.0862869743848, 0.91165330692, 2.0399614717)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.17257394877, 1.90704989983, 2.08167694702)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.258860923154, 2.90244649273, 2.12339242235)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.345147897539, 3.89784308564, 2.16510789767)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.16884427255, 1.82083859927, 2.07806396964)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.16511459634, 1.73462729872, 2.07445099225)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.16138492012, 1.64841599817, 2.07083801486)
+
+--------------------
+[Timestamp] 2018-04-03 14:53:17
+[Builder Position] (x, y, z): (-2.3957679972, 3.500639392, -0.956164545696) (yaw, pitch): (-87.90005, 57.15022)
+[Screenshot Path] 191802-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): 2.07194252477, 0.532619304055, 2.72458636329)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 2.1085853614, 1.37215075418, 3.26666038662)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.14522819802, 2.21168220431, 3.80873440995)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 2.18187103465, 3.05121365444, 4.35080843328)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 2.21851387128, 3.89074510456, 4.89288245662)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.14589977227, 2.24246569148, 3.82861088836)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.146571346512, 2.27324917865, 3.84848736677)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.852757079244, 2.30403266581, 3.86836384518)
+
+--------------------
+[Timestamp] 2018-04-03 14:53:19
+[Builder Position] (x, y, z): (-1.68366108088, 3.500639392, -2.27566339868) (yaw, pitch): (-91.350006, 71.400246)
+[Screenshot Path] 193953-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): -0.0471197390486, 1.25710292965, 2.53327297275)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.0706796085729, 2.20460963452, 2.85213967967)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.0942394780972, 3.15211633938, 3.17100638659)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.117799347622, 4.09962304425, 3.48987309351)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.07040203632, 2.18228030217, 2.84462513583)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.07012446407, 2.15995096983, 2.83711059199)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.06984689183, 2.13762163749, 2.82959604815)
+
+--------------------
+[Timestamp] 2018-04-03 14:53:19
+[Builder Position] (x, y, z): (-1.53853640237, 3.500639392, -2.52254198605) (yaw, pitch): (-89.40002, 65.25025)
+[Screenshot Path] 194350-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.0314143052085, 1.88697407913, 3.07218846527)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.041885740278, 2.79506928885, 3.49082128665)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.0523571753475, 3.70316449856, 3.90945410803)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.968530867812, 1.89648366054, 3.07657239203)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.96847604083, 1.90599324194, 3.0809563188)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.96842121385, 1.91550282335, 3.08534024556)
+
+--------------------
+[Timestamp] 2018-04-03 14:53:38
+[Builder Position] (x, y, z): (-1.41713923173, 3.500639392, -1.69660261094) (yaw, pitch): (-90.450035, 65.25027)
+[Screenshot Path] 213150-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.976405617642, 1.89417351973, 3.07550625865)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.968551105907, 2.80229065274, 3.49414880233)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.960696594171, 3.71040778575, 3.91279134601)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.0235635352053, 1.88704048301, 3.07221792445)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.02353268805, 1.8799074463, 3.06892959024)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.0235018409, 1.87277440959, 3.06564125603)
+
+--------------------
+[Timestamp] 2018-04-03 14:53:42
+[Builder Position] (x, y, z): (-1.41713923173, 3.500639392, -1.69660261094) (yaw, pitch): (-90.450035, 65.25027)
+[Screenshot Path] 217047-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.976405617642, 1.89417351973, 3.07550625865)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.968551105907, 2.80229065274, 3.49414880233)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.960696594171, 3.71040778575, 3.91279134601)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.0235635352053, 1.88704048301, 3.07221792445)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.02353268805, 1.8799074463, 3.06892959024)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.0235018409, 1.87277440959, 3.06564125603)
+
+--------------------
+[Timestamp] 2018-04-03 14:53:53
+[Builder Position] (x, y, z): (-1.41713923173, 3.500639392, -1.69660261094) (yaw, pitch): (-90.450035, 65.25027)
+[Screenshot Path] 227896-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.976405617642, 1.89417351973, 3.07550625865)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.968551105907, 2.80229065274, 3.49414880233)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.960696594171, 3.71040778575, 3.91279134601)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.0235635352053, 1.88704048301, 3.07221792445)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.02353268805, 1.8799074463, 3.06892959024)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.0235018409, 1.87277440959, 3.06564125603)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:07
+[Builder Position] (x, y, z): (-0.220974932493, 3.500639392, -3.09198874988) (yaw, pitch): (-78.45004, 77.10028)
+[Screenshot Path] 241342-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.579305849901, 1.65872611436, 2.43167275961)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.379083529875, 2.61374994085, 2.65039750303)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.178861209849, 3.56877376735, 2.86912224644)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.55905633985, 1.85389528057, 2.476371462)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.53880682981, 2.04906444678, 2.5210701644)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.51855731976, 2.244233613, 2.5657688668)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:12
+[Builder Position] (x, y, z): (-2.12836375051, 3.500639392, -2.58551355827) (yaw, pitch): (-87.75007, 78.000244)
+[Screenshot Path] 246742-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.157034379882, 3.49376261353, 2.78728595659)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.196292974852, 4.47115702955, 2.99503320267)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.235551569823, 5.44855144558, 3.20278044874)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.842194704323, 3.53216334877, 2.79544811391)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.84142378853, 3.57056408401, 2.80361027124)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.84065287273, 3.60896481925, 2.81177242857)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:14
+[Builder Position] (x, y, z): (-2.96390535258, 3.500639392, -2.58935538752) (yaw, pitch): (-88.80008, 82.80027)
+[Screenshot Path] 248409-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -3)  Perspective (x, y, z): 0.0, -0.250657116666, 1.98423058384)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.0837640957048, 3.71693381795, 2.48543488534)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.104705119631, 4.7088315516, 2.61073596071)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.125646143557, 5.70072928525, 2.73603703609)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.91601661701, 3.73770972801, 2.48805939368)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.91579732973, 3.75848563808, 2.49068390202)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.91557804244, 3.77926154814, 2.49330841035)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:15
+[Builder Position] (x, y, z): (-3.14898198788, 3.500639392, -2.58935538752) (yaw, pitch): (-88.65008, 90.0)
+[Screenshot Path] 249409-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-4, 1, -3)  Perspective (x, y, z): 0.0, -1.22464679915e-16, 2.0)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -3)  Perspective (x, y, z): 0.0235583689577, 0.999722463113, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.117791844788, 4.99861231556, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.141350213746, 5.99833477868, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.164908582704, 6.99805724179, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.881930618324, 5.02217068452, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.88165308144, 5.04572905348, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.88137554455, 5.06928742244, 2.0)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:19
+[Builder Position] (x, y, z): (-4.56350197551, 3.500639392, -0.47914467447) (yaw, pitch): (-89.5501, 54.449997)
+[Screenshot Path] 253458-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-4, 1, -3)  Perspective (x, y, z): 2.00779049832, -0.36202027706, 2.19948144658)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -3)  Perspective (x, y, z): 2.01564265393, 0.45156305955, 2.78087674932)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.04705127638, 3.70589640599, 5.10645796026)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 2.05490343199, 4.5194797426, 5.687853263)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 2.06275558761, 5.33306307921, 6.26924856573)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.04708210503, 3.7122849859, 5.1110233074)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0471129336797, 3.71867356582, 5.11558865453)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.952856237671, 3.72506214573, 5.12015400166)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:25
+[Builder Position] (x, y, z): (-4.56350197551, 3.500639392, -0.47284557286) (yaw, pitch): (-100.0501, 59.55002)
+[Screenshot Path] 259708-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-4, 1, -3)  Perspective (x, y, z): 1.79480183682, 0.13615100376, 2.40003109787)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -3)  Perspective (x, y, z): 1.62029259995, 0.984994892929, 2.89904069504)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.922255652446, 4.3803704496, 4.89507908371)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.747746415571, 5.22921433877, 5.39408868088)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.573237178696, 6.07805822794, 5.89309827805)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.062399884402, 4.22993093672, 4.80664025334)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.04705542125, 4.07949142383, 4.71820142297)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.0317109581, 3.92905191094, 4.62976259261)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:48
+[Builder Position] (x, y, z): (-3.91292837171, 3.500639392, -1.25687144346) (yaw, pitch): (-84.000084, 54.000015)
+[Screenshot Path] 282205-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-4, 1, -3)  Perspective (x, y, z): 0.994522048614, -1.26013422066, 1.55659488652)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -3)  Perspective (x, y, z): 1.09904905384, -0.455548829016, 2.14116006913)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 1.51715707472, 2.76279273758, 4.47942079959)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 1.62168407995, 3.56737812923, 5.06398598221)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 1.72621108517, 4.37196352087, 5.64855116482)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.52263502611, 2.84735687726, 4.54086020959)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.471887022504, 2.93192101694, 4.60229961958)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -1.46640907112, 3.01648515662, 4.66373902958)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:57
+[Builder Position] (x, y, z): (-0.268442403961, 3.500639392, 0.894543242132) (yaw, pitch): (-97.5001, 78.750046)
+[Screenshot Path] 291801-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-4, 1, -3)  Perspective (x, y, z): 3.36591766854, -2.92330278695, 1.45770335268)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -3)  Perspective (x, y, z): 3.23538974592, -1.95090832873, 1.65112382482)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.71327805545, 1.93866950415, 2.42480571335)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 2.58275013283, 2.91106396236, 2.61822618549)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 2.45222221021, 3.88345842058, 2.81164665762)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.72183342189, 1.81064961852, 2.39934108168)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.730388788325, 1.68262973289, 2.37387645)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.130527922618, 0.582215389037, 2.1549913462)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.261055845236, 1.55460984726, 2.34841181833)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:58
+[Builder Position] (x, y, z): (-0.268442403961, 3.500639392, 0.747368042666) (yaw, pitch): (-101.85011, 90.0)
+[Screenshot Path] 292501-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-4, 1, -3)  Perspective (x, y, z): 3.5521207233, -2.32000826876, 2.0)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -3)  Perspective (x, y, z): 3.34676864754, -1.34132010341, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.52536034451, 2.57343255796, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 2.32000826876, 3.5521207233, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 2.114656193, 4.53080888865, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.54667217917, 2.3680804822, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.567984013827, 2.16272840644, 2.0)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.0, -1.22464679915e-16, 2.0)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.205352075758, 0.978688165343, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.410704151516, 1.95737633069, 2.0)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:59
+[Builder Position] (x, y, z): (-3.36028391883, 3.500639392, -1.95646238945) (yaw, pitch): (-109.20011, 78.45)
+[Screenshot Path] 293851-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-4, 1, -3)  Perspective (x, y, z): 0.944375738857, -0.078237019383, 2.02534773129)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.699966560193, 4.54802528481, 2.97077646809)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -1.02883502, 5.47327774565, 3.15986221544)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -1.35770347981, 6.39853020648, 3.3489479628)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.64434229905, 4.22581629615, 2.90492943713)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.58871803791, 3.90360730749, 2.83908240618)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -2.87535685714, 1.73089339715, 2.39506388052)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -3.20422531695, 2.65614585799, 2.58414962787)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -3.53309377676, 3.58139831883, 2.77323537523)
+
+--------------------
+[Timestamp] 2018-04-03 14:54:59
+[Builder Position] (x, y, z): (-3.66605436687, 3.500639392, -2.25131243364) (yaw, pitch): (-112.20011, 84.59999)
+[Screenshot Path] 294300-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -1.88921282181, 4.42058703079, 2.42678495485)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -2.26705538617, 5.34234783178, 2.51391716655)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -2.64489795053, 6.26410863277, 2.60104937825)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.81508268122, 4.04442135131, 2.39122676276)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -3.74095254062, 3.66825567183, 2.35566857068)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -3.9111372713, 1.44856839037, 2.1458459552)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -4.28897983567, 2.37032919136, 2.2329781669)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -4.66682240003, 3.29208999235, 2.32011037859)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:02
+[Builder Position] (x, y, z): (-3.86321840867, 3.500639392, -2.44143488273) (yaw, pitch): (-89.85015, 45.749992)
+[Screenshot Path] 296651-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.0130768645125, 2.18591586116, 4.92154455872)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.015692237415, 2.90221525734, 5.61933273207)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.0183076103175, 3.61851465352, 6.31712090542)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.986919715393, 2.1877892576, 4.92336954125)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.9869162953, 2.18966265404, 4.92519452377)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -2.99214362101, 0.758937258128, 3.5314431596)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -2.98952824811, 1.4752366543, 4.22923133294)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -2.98691287521, 2.19153605048, 4.92701950629)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:05
+[Builder Position] (x, y, z): (-1.08014386467, 3.500639392, -0.24652837915) (yaw, pitch): (-58.950172, 66.90002)
+[Screenshot Path] 300400-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 3.2607881138, 0.630555282031, 2.44328895409)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 3.77657144025, 1.41858401457, 2.77941136759)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 4.2923547667, 2.2066127471, 3.1155337811)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.40406904657, 1.10498394429, 2.64564973157)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.54734997934, 1.57941260656, 2.84801050906)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.340935740787, 0.477783803747, 2.37812645953)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.690630912105, 2.05384126882, 3.05037128654)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:06
+[Builder Position] (x, y, z): (-0.967867077352, 3.500639392, -0.170056665047) (yaw, pitch): (-46.20017, 75.45002)
+[Screenshot Path] 301199-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.82780662817, -0.445106353519, 1.95074088687)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 3.51994766054, 0.253508190238, 2.13206521114)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 4.2120886929, 0.952122733994, 2.31338953542)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.10604434645, 0.22483692806, 2.12462362939)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.38428206472, 0.894780209639, 2.29850637191)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.662519782999, 1.56472349122, 2.47238911443)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:08
+[Builder Position] (x, y, z): (4.8692765121, 3.500639392, -0.0498951583887) (yaw, pitch): (85.04982, 56.55004)
+[Screenshot Path] 302999-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -2.25140869784, 1.24735503705, 3.22106570669)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -2.16511920217, 0.416099594856, 2.67191316617)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -2.0788297065, -0.415155847337, 2.12276062565)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.25513859243, 1.31935219173, 3.26862920931)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.25886848702, 1.39134934641, 3.31619271193)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.737401618391, 1.46334650109, 3.36375621455)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:10
+[Builder Position] (x, y, z): (3.54635036465, 3.500639392, 0.0895994513577) (yaw, pitch): (77.54981, 73.35001)
+[Screenshot Path] 304499-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -3.36063298044, 0.678381542584, 2.29040268368)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -3.14504218966, -0.257161171431, 2.01061626303)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -2.92945139887, -1.19270388545, 1.73082984238)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.38414918082, 0.884933247391, 2.35217470254)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.4076653812, 1.0914849522, 2.41394672139)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.431181581572, 1.298036657, 2.47571874024)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): -0.215590790786, 0.362493942989, 2.19593231959)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:11
+[Builder Position] (x, y, z): (3.2314926694, 3.500639392, 0.096433649319) (yaw, pitch): (64.799805, 87.30004)
+[Screenshot Path] 305599-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -3.56604155219, 0.437501680299, 2.02285440104)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -3.14025918115, -0.466319483266, 1.98023190934)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -2.7144768101, -1.37014064683, 1.93760941764)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.66121594882, 0.862811393675, 2.04291120039)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.75639034546, 1.28812110705, 2.06296799974)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.851564742088, 1.71343082043, 2.0830247991)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): -0.425782371044, 0.80960965686, 2.0404023074)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): 0.0, -0.0942115067058, 1.9977798157)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:12
+[Builder Position] (x, y, z): (3.21728314711, 3.500639392, 0.096433649319) (yaw, pitch): (44.9998, 86.100044)
+[Screenshot Path] 306649-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -3.53553143764, -0.841510717738, 1.94727429125)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -2.82842218819, -1.54697761116, 1.89918092764)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -2.12131293874, -2.25244450459, 1.85108756402)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.82842712473, -0.136038899209, 1.99536799062)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.12132281182, 0.569432919321, 2.04346168999)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -1.4142184989, 1.27490473785, 2.09155538936)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): -0.707109249451, 0.569437844427, 2.04346202575)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:18
+[Builder Position] (x, y, z): (3.21728314711, 3.500639392, 0.096433649319) (yaw, pitch): (1.9497952, 81.60004)
+[Screenshot Path] 313348-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -2.10091338172, -3.19094611298, 1.5504921369)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -1.10149235807, -3.22460489882, 1.54552186385)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.102071334413, -3.25826368467, 1.54055159079)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.06688960358, -2.20224644337, 1.6964898966)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.03286582545, -1.21354677376, 1.8424876563)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -1.99884204731, -0.224847104151, 1.98848541601)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): -0.999421023654, -0.258505889996, 1.98351514295)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:21
+[Builder Position] (x, y, z): (3.21728314711, 3.500639392, 0.096433649319) (yaw, pitch): (-3.9002054, 87.45003)
+[Screenshot Path] 316198-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -1.79131146819, -3.21497277605, 1.85880425898)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.793627433192, -3.1470212611, 1.86183046475)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.204056601808, -3.07906974616, 1.86485667051)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.85933033546, -2.2182766484, 1.90319190172)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.92734920273, -1.22158052075, 1.94757954447)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -1.99536807, -0.224884393105, 1.99196718722)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): -0.997684035001, -0.156932878161, 1.99499339298)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): 0.0, -0.088981363216, 1.99801959875)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:40
+[Builder Position] (x, y, z): (-0.0726813848346, 3.500639392, 0.445004556801) (yaw, pitch): (-99.75018, 68.4)
+[Screenshot Path] 334996-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.61796138095, 1.56882379985, 2.77219589728)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 2.44860878089, 2.48517015442, 3.13500308481)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 2.27925618082, 3.40151650898, 3.49781027234)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.63240585392, 1.41136373449, 2.70985304713)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.646850326898, 1.25390366912, 2.64751019699)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.338705200128, 1.09644360376, 2.58516734684)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): -0.508057800192, 2.01278995833, 2.94797453437)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): -0.677410400256, 2.92913631289, 3.31078172191)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:45
+[Builder Position] (x, y, z): (2.47274750207, 3.500639392, 0.125016907496) (yaw, pitch): (-87.45012, 78.150055)
+[Screenshot Path] 340494-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.95254049542, -1.51904122377, 1.72482416014)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 2.99702960778, -0.541321496883, 1.92997009487)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 3.04151872015, 0.436398230005, 2.13511602959)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.95353062616, -1.4755002297, 1.73395996633)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.954520756894, -1.43195923563, 1.74309577251)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.044489112367, -1.38841824156, 1.75223157869)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): 0.0, -0.410698514674, 1.95737751342)
+
+--------------------
+[Timestamp] 2018-04-03 14:55:56
+[Builder Position] (x, y, z): (-0.715430554803, 3.500639392, 0.111942499211) (yaw, pitch): (-88.80013, 76.35004)
+[Screenshot Path] 350909-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 3.04122249587, 1.41005982827, 2.40056181159)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 3.06216264733, 2.38160234744, 2.63649960743)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 3.08310279878, 3.35314486661, 2.87243740327)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.04144176488, 1.43040853761, 2.40550346832)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.04166103389, 1.45075724694, 2.41044512506)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.0418803029058, 1.47110595628, 2.41538678179)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): 0.0628204543587, 2.44264847545, 2.65132457762)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:18
+[Builder Position] (x, y, z): (2.40668263037, 3.500639392, 1.23853120667) (yaw, pitch): (-179.55005, 76.05005)
+[Screenshot Path] 372955-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 1.0313812775, 3.39213718692, 2.90338732613)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.031412113004, 3.39975860333, 2.90528048874)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.968557051494, 3.40738001973, 2.90717365135)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.02352824925, 2.42166042914, 2.66232054586)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.015675221, 1.45118367135, 2.4212537656)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.00782219275, 0.480706913567, 2.18018698534)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): 0.007853028251, 0.488328329973, 2.18208014795)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:27
+[Builder Position] (x, y, z): (2.40398173018, 3.500639392, 2.29528441281) (yaw, pitch): (-180.60008, 85.04998)
+[Screenshot Path] 382305-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.947579253228, 4.81893922019, 2.42485429478)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.0523659015155, 4.80850510123, 2.42395059847)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -1.05231105626, 4.79807098226, 2.42304690216)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.958052433531, 3.82272351452, 2.33857231363)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.968525613834, 2.82650780885, 2.25229033249)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.978998794137, 1.83029210318, 2.16600835134)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): -0.0209463606062, 1.81985798422, 2.16510465504)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:30
+[Builder Position] (x, y, z): (2.40398173018, 3.500639392, 2.29528441281) (yaw, pitch): (-180.60008, 85.04998)
+[Screenshot Path] 385102-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+	<Builder> just hte L shape again?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.947579253228, 4.81893922019, 2.42485429478)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.0523659015155, 4.80850510123, 2.42395059847)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -1.05231105626, 4.79807098226, 2.42304690216)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.958052433531, 3.82272351452, 2.33857231363)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.968525613834, 2.82650780885, 2.25229033249)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.978998794137, 1.83029210318, 2.16600835134)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): -0.0209463606062, 1.81985798422, 2.16510465504)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:34
+[Builder Position] (x, y, z): (3.46258467683, 3.500639392, 1.18763298283) (yaw, pitch): (-176.70015, 77.70002)
+[Screenshot Path] 388953-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+	<Builder> just hte L shape again?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.22692958785, 3.36316235343, 2.78027401441)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 1.22858762054, 3.41940248184, 2.79253632489)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.230245653226, 3.47564261025, 2.80479863537)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.16936817455, 2.38773667826, 2.56759717997)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.11180676124, 1.41231100309, 2.35492034552)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.05424534793, 0.436885327911, 2.14224351108)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): 1.05590338062, 0.493125456321, 2.15450582156)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): 0.0575614133066, 0.549365584731, 2.16676813204)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:35
+[Builder Position] (x, y, z): (3.49602092766, 3.500639392, 4.03101087493) (yaw, pitch): (-178.65013, 59.70002)
+[Screenshot Path] 390052-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+	<Builder> just hte L shape again?
+	<Architect> yes the L shape
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.16434744309, 4.9923593136, 5.23373180718)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 1.16462495942, 5.01269875545, 5.24561720783)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.164902475747, 5.03303819729, 5.25750260848)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.14078994655, 4.1292031933, 4.72934449932)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.11723245002, 3.26604707299, 4.22495719145)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.09367495348, 2.40289095268, 3.72056988359)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): 1.09395246981, 2.42323039452, 3.73245528424)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): 0.0942299861412, 2.44356983636, 3.74434068489)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:37
+[Builder Position] (x, y, z): (3.50025776673, 3.500639392, 2.98469656414) (yaw, pitch): (-179.2501, 70.35002)
+[Screenshot Path] 391402-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+	<Builder> just hte L shape again?
+	<Architect> yes the L shape
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.06526795279, 4.01122129334, 3.5559488212)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 1.06535360238, 4.02354696589, 3.56034991471)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.065439251958, 4.03587263844, 3.56475100822)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.0521801024, 3.06953748029, 3.21970440947)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.03909225201, 2.12785366725, 2.88345999774)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.02600440162, 1.1861698542, 2.547215586)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): 1.0260900512, 1.19849552675, 2.55161667951)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): 0.0261757007832, 1.2108211993, 2.55601777302)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 1)  Perspective (x, y, z): 0.0130878503916, 0.26913738626, 2.21977336129)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:38
+[Builder Position] (x, y, z): (3.50025776673, 3.500639392, 2.48434853421) (yaw, pitch): (-180.1501, 88.35002)
+[Screenshot Path] 392502-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+	<Builder> just hte L shape again?
+	<Architect> yes the L shape
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 1.98689445592, 4.94555983389, 2.14328914299)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.986897887432, 4.94294118388, 2.14321371134)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.0130986810534, 4.94032253387, 2.1431382797)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.98951419213, 3.94597788574, 2.11449563835)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.99213392834, 2.94639593759, 2.08570213371)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.99475366455, 1.94681398943, 2.05690862906)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): 0.994757096064, 1.94419533942, 2.05683319742)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): -0.00523947242136, 1.94157668941, 2.05675776577)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 1)  Perspective (x, y, z): -0.00261973621068, 0.941994741259, 2.02796426113)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 2)  Perspective (x, y, z): 0.0, -0.0575872068942, 1.99917075649)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:41
+[Builder Position] (x, y, z): (3.59036174306, 3.500639392, 3.31323532317) (yaw, pitch): (-174.30006, 90.0)
+[Screenshot Path] 395651-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+	<Builder> just hte L shape again?
+	<Architect> yes the L shape
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.58602359428, 5.77169662836, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 1.59096792031, 5.87101533608, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.595912246343, 5.97033404381, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.48670488656, 4.77664095439, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.38738617883, 3.78158528042, 2.0)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.28806747111, 2.78652960646, 2.0)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): 1.29301179714, 2.88584831418, 2.0)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): 0.297956123171, 2.9851670219, 2.0)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 1)  Perspective (x, y, z): 0.198637415448, 1.99011134794, 2.0)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 2)  Perspective (x, y, z): 0.0993187077238, 0.995055673968, 2.0)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): 0.0, -1.22464679915e-16, 2.0)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:42
+[Builder Position] (x, y, z): (2.64272189047, 3.500639392, 3.70442768845) (yaw, pitch): (-183.45004, 88.94999)
+[Screenshot Path] 397001-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+	<Builder> just hte L shape again?
+	<Architect> yes the L shape
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 0.637118593227, 6.0116380798, 2.11051830025)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -0.361069058015, 5.95147000851, 2.1094155288)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -1.35925670926, 5.89130193723, 2.10831275734)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.697296769563, 5.01361804308, 2.09222640584)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.757474945899, 4.01559800636, 2.07393451142)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.817653122235, 3.01757796964, 2.055642617)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): -0.180534529007, 2.95740989836, 2.05453984555)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): -1.17872218025, 2.89724182707, 2.05343707409)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 1)  Perspective (x, y, z): -1.11854400391, 1.89922179035, 2.03514517968)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 2)  Perspective (x, y, z): -1.05836582758, 0.901201753634, 2.01685328526)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 1, 3)  Perspective (x, y, z): 0.0, -0.0366502117994, 1.9996641623)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -0.998187651242, -0.096818283085, 1.99856139084)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:43
+[Builder Position] (x, y, z): (1.51649144859, 3.500639392, 3.86212307161) (yaw, pitch): (-194.39996, 84.29998)
+[Screenshot Path] 398351-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+	<Builder> just hte L shape again?
+	<Architect> yes the L shape
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -1.4921352658, 5.58412505762, 2.56730981563)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): -2.46071860054, 5.33666548168, 2.54260997905)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -3.42930193529, 5.08920590574, 2.51791014247)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.24344605483, 4.62033084899, 2.47111002479)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.994756843864, 3.65653664036, 2.37491023395)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.746067632898, 2.69274243173, 2.27871044311)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): -1.71465096764, 2.44528285579, 2.25401060653)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): -2.68323430239, 2.19782327985, 2.22931076995)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 1)  Perspective (x, y, z): -2.43454509143, 1.23402907122, 2.13311097911)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 2)  Perspective (x, y, z): -2.18585588046, 0.270234862586, 2.03691118827)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 3)  Perspective (x, y, z): 0.0, -0.198640194167, 1.99011107058)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 1, 3)  Perspective (x, y, z): -0.968583334747, -0.446099770106, 1.96541123401)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -1.93716666949, -0.693559346045, 1.94071139743)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:51
+[Builder Position] (x, y, z): (2.40821840919, 3.500639392, 3.65540261198) (yaw, pitch): (-164.24977, 56.099983)
+[Screenshot Path] 405751-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+	<Builder> just hte L shape again?
+	<Architect> yes the L shape
+	<Architect> that's it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 2.59112002725, 3.45229885812, 4.72945341436)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 1.62866588044, 3.67760092804, 4.88085021937)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): 0.666211733622, 3.90290299797, 5.03224702438)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.31967571384, 2.65345025169, 4.19264908434)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.04823140044, 1.85460164527, 3.65584475431)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.77678708703, 1.05575303885, 3.11904042428)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): 0.814332940218, 1.28105510877, 3.27043722929)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): -0.148121206596, 1.5063571787, 3.42183403431)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 1)  Perspective (x, y, z): -0.419565520002, 0.707508572275, 2.88502970428)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 2)  Perspective (x, y, z): -0.691009833408, -0.0913400341485, 2.34822537425)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 3)  Perspective (x, y, z): 0.962454146814, -1.34079278042, 1.50862743421)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 1, 3)  Perspective (x, y, z): 0.0, -1.1154907105, 1.66002423922)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -0.962454146814, -0.890188640572, 1.81142104423)
+
+--------------------
+[Timestamp] 2018-04-03 14:56:58
+[Builder Position] (x, y, z): (2.00782037175, 6.78851303238, 2.14394967332) (yaw, pitch): (-177.89972, 76.50006)
+[Screenshot Path] 412498-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> so 3 colours
+	<Architect> 7 blocks long so leave space for that
+	<Architect> start with green
+	<Architect> three across
+	<Architect> add one more sorry
+	<Architect> so from the first green you placed add two 90 degrees to what you just made
+	<Architect> other side sorry
+	<Architect> add one yellow block to the other end of what you first made
+	<Architect> same side as the two green you just added
+	<Builder> 90 degrees to the first line?
+	<Architect> yeah so how you did those two green
+	<Architect> delete that
+	<Architect> see the 90 degree joint made by the green?
+	<Builder> yep
+	<Architect> count 3 below that and place the yellow
+	<Builder> three blank spaces or two blank spaces?
+	<Architect> 3 blank
+	<Builder> here?
+	<Architect> it's attached to the green
+	<Architect> uhm, attached to the 4th green block
+	<Architect> other side
+	<Architect> and just one yello
+	<Architect> nice, now red
+	<Architect> red blocks look like green but rotated 180 degrees
+	<Architect> the entire shape looks like an S
+	<Builder> i don't know where to put the red blocks
+	<Architect> one red next to the yellow
+	<Builder> just hte L shape again?
+	<Architect> yes the L shape
+	<Architect> that's it
+	<Builder> sweet
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): 1.18257117642, 3.65572697861, 6.0197330232)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 1, -3)  Perspective (x, y, z): 0.183242961729, 3.69136297639, 6.02828842986)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 1, -3)  Perspective (x, y, z): -0.816085252963, 3.72699897417, 6.03684383651)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.14592258408, 2.68401003774, 5.78644550209)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.10927399173, 1.71229309687, 5.55315798098)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.07262539938, 0.740576155999, 5.31987045987)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 1, 0)  Perspective (x, y, z): 0.0732971846918, 0.776212153781, 5.32842586653)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 0)  Perspective (x, y, z): -0.92603103, 0.811848151562, 5.33698127318)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 1)  Perspective (x, y, z): -0.962679622346, -0.159868789308, 5.10369375207)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 2)  Perspective (x, y, z): -0.999328214692, -1.13158573018, 4.87040623096)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, 3)  Perspective (x, y, z): 0.962679622346, -2.17457466661, 4.62000789654)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 1, 3)  Perspective (x, y, z): -0.0366485923459, -2.13893866883, 4.62856330319)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (3, 1, 3)  Perspective (x, y, z): -1.03597680704, -2.10330267105, 4.63711870985)
+
+Time elapsed: 0:07:08 (428.24s)

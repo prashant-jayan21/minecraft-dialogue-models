@@ -1,0 +1,410 @@
+
+--------------------
+[Timestamp] 2018-04-03 14:45:47
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:46:21
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 33549-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:46:38
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 50712-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:47:23
+[Builder Position] (x, y, z): (0.0, 1.0, 1.29149833291) (yaw, pitch): (-32.999996, 49.199993)
+[Screenshot Path] 96024-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:47:38
+[Builder Position] (x, y, z): (-0.268711618387, 1.0, 0.869304905207) (yaw, pitch): (-32.999996, 49.199993)
+[Screenshot Path] 110702-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:47:39
+[Builder Position] (x, y, z): (-0.268711618387, 1.0, 0.869304905207) (yaw, pitch): (-32.999996, 49.199993)
+[Screenshot Path] 111852-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:48:01
+[Builder Position] (x, y, z): (-0.268711618387, 1.0, 0.869304905207) (yaw, pitch): (-32.999996, 49.199993)
+[Screenshot Path] 134148-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+	<Builder> how about we set this up like a cartesian plane and you just give me (x,Y)
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:48:03
+[Builder Position] (x, y, z): (-0.268711618387, 1.0, 0.869304905207) (yaw, pitch): (-32.999996, 49.199993)
+[Screenshot Path] 135399-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+	<Builder> how about we set this up like a cartesian plane and you just give me (x,Y)
+	<Architect> Can we agree that you are facing north?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:48:24
+[Builder Position] (x, y, z): (2.91365781377, 1.0, 0.793087073134) (yaw, pitch): (-94.500015, 33.899975)
+[Screenshot Path] 156111-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+	<Builder> how about we set this up like a cartesian plane and you just give me (x,Y)
+	<Architect> Can we agree that you are facing north?
+	<Architect> x,y is ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-03 14:48:40
+[Builder Position] (x, y, z): (-4.6140277262, 3.11766146085, 5.08663811464) (yaw, pitch): (-3.4498596, 80.84998)
+[Screenshot Path] 171958-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+	<Builder> how about we set this up like a cartesian plane and you just give me (x,Y)
+	<Architect> Can we agree that you are facing north?
+	<Architect> x,y is ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-5, 1, 5)  Perspective (x, y, z): 0.0, -0.318040065294, 1.97455071266)
+
+--------------------
+[Timestamp] 2018-04-03 14:48:49
+[Builder Position] (x, y, z): (-4.6140277262, 3.11766146085, 5.08663811464) (yaw, pitch): (-293.6999, 74.39998)
+[Screenshot Path] 180807-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+	<Builder> how about we set this up like a cartesian plane and you just give me (x,Y)
+	<Architect> Can we agree that you are facing north?
+	<Architect> x,y is ok
+	<Builder> purple is the origin
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-5, 1, 5)  Perspective (x, y, z): 0.0, -0.537840313644, 1.92632494585)
+
+--------------------
+[Timestamp] 2018-04-03 14:49:04
+[Builder Position] (x, y, z): (4.04219658247, 3.11766146085, 5.53608322462) (yaw, pitch): (-92.69991, 68.39995)
+[Screenshot Path] 196254-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+	<Builder> how about we set this up like a cartesian plane and you just give me (x,Y)
+	<Architect> Can we agree that you are facing north?
+	<Architect> x,y is ok
+	<Builder> purple is the origin
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-5, 1, 5)  Perspective (x, y, z): 0.423943934913, -9.09494731886, -1.44989820583)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): -0.047104881657, 0.1924933375, 2.2272690554)
+
+--------------------
+[Timestamp] 2018-04-03 14:49:09
+[Builder Position] (x, y, z): (4.04219658247, 2.37370804889, 5.53608322462) (yaw, pitch): (-209.39992, 28.199947)
+[Screenshot Path] 201204-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+	<Builder> how about we set this up like a cartesian plane and you just give me (x,Y)
+	<Architect> Can we agree that you are facing north?
+	<Architect> x,y is ok
+	<Builder> purple is the origin
+	<Builder> green is x
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-5, 1, 5)  Perspective (x, y, z): 7.84093046895, 1.20647983379, 4.36625878662)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): -0.87121449655, -1.11327985841, 0.0399156344219)
+
+--------------------
+[Timestamp] 2018-04-03 14:49:27
+[Builder Position] (x, y, z): (-3.59457674118, 2.37370804889, -3.55146974726) (yaw, pitch): (-227.6999, 75.0)
+[Screenshot Path] 219651-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+	<Builder> how about we set this up like a cartesian plane and you just give me (x,Y)
+	<Architect> Can we agree that you are facing north?
+	<Architect> x,y is ok
+	<Builder> purple is the origin
+	<Builder> green is x
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-5, 1, -5)  Perspective (x, y, z): -0.06661611594, 1.10569001199, 1.3315449262)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-5, 1, 5)  Perspective (x, y, z): 7.32968308755, -5.39512413929, -0.410342975781)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 0.59954504346, -12.5394005589, -2.32464607292)
+
+--------------------
+[Timestamp] 2018-04-03 14:49:35
+[Builder Position] (x, y, z): (-3.59457674118, 1.0, -3.55146974726) (yaw, pitch): (-232.9499, 78.6)
+[Screenshot Path] 227749-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+	<Builder> how about we set this up like a cartesian plane and you just give me (x,Y)
+	<Architect> Can we agree that you are facing north?
+	<Architect> x,y is ok
+	<Builder> purple is the origin
+	<Builder> green is x
+	<Builder> yellow is y
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-5, 1, -5)  Perspective (x, y, z): -0.195595843919, 1.37298947076, 0.27684323908)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-5, 1, 5)  Perspective (x, y, z): 7.78549387359, -4.53327304469, -0.914068184827)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 1.76036259527, -12.3569052368, -2.49158915172)
+
+--------------------
+[Timestamp] 2018-04-03 14:50:05
+[Builder Position] (x, y, z): (-3.59457674118, 1.0, -3.55146974726) (yaw, pitch): (-2.6999142, 28.800005)
+[Screenshot Path] 257262-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Test chat.
+	<Architect> Ready?
+	<Builder> ready
+	<Architect> ok. first let's orient ourselves.
+	<Builder> Lets first lay some bricks for a grid system.
+	<Builder> how about we set this up like a cartesian plane and you just give me (x,Y)
+	<Architect> Can we agree that you are facing north?
+	<Architect> x,y is ok
+	<Builder> purple is the origin
+	<Builder> green is x
+	<Builder> yellow is y
+	<Builder> lets do this!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-5, 1, -5)  Perspective (x, y, z): -0.951784990623, -0.50391196634, -0.916612274522)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (-5, 1, 5)  Perspective (x, y, z): -1.42283453942, 4.30827781022, 7.83672662426)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (5, 1, 5)  Perspective (x, y, z): 8.5660649156, 4.53520769706, 8.24951047069)
+
+Time elapsed: 0:05:33 (333.64s)

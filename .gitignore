@@ -1,0 +1,7 @@
+embeddings/
+models/
+*.pyc
+*.cdsenv
+*.cdsinit
+*cds.lib
+*.DS_Store

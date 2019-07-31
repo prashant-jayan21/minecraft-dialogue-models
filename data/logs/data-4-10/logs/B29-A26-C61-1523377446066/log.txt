@@ -1,0 +1,793 @@
+
+--------------------
+[Timestamp] 2018-04-10 16:24:14
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-10 16:26:09
+[Builder Position] (x, y, z): (-0.0643493081492, 1.0, 0.634220583891) (yaw, pitch): (15.150001, 22.499989)
+[Screenshot Path] 113767-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-10 16:26:25
+[Builder Position] (x, y, z): (-0.645684224343, 1.0, 0.0483327573568) (yaw, pitch): (-94.05, 41.099995)
+[Screenshot Path] 129868-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-10 16:26:42
+[Builder Position] (x, y, z): (-1.30093469496, 1.0, -0.557627145996) (yaw, pitch): (-93.149994, 44.699993)
+[Screenshot Path] 147029-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.109900150702, 1.4046637186, 1.41945123006)
+
+--------------------
+[Timestamp] 2018-04-10 16:26:42
+[Builder Position] (x, y, z): (-1.3063078729, 1.0, -1.18565086731) (yaw, pitch): (-66.14997, 38.09999)
+[Screenshot Path] 148046-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-10 16:26:51
+[Builder Position] (x, y, z): (-0.94432700435, 1.0, -2.34952031676) (yaw, pitch): (-22.049982, 40.649994)
+[Screenshot Path] 156728-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-10 16:26:58
+[Builder Position] (x, y, z): (-0.94432700435, 1.0, -2.34952031676) (yaw, pitch): (-22.94998, 40.799995)
+[Screenshot Path] 163526-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.779854732704, 1.20339887584, 1.39415126206)
+
+--------------------
+[Timestamp] 2018-04-10 16:26:59
+[Builder Position] (x, y, z): (0.957770683319, 1.0, -2.09147353991) (yaw, pitch): (-11.249981, 42.600002)
+[Screenshot Path] 164477-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.37096533865, 1.19568837767, 1.30030125114)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.590605351548, 1.45979184918, 1.58751159863)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:01
+[Builder Position] (x, y, z): (3.27958302173, 1.0, 0.169708717542) (yaw, pitch): (58.20002, 39.899998)
+[Screenshot Path] 165876-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.95771487224, 1.84263840361, 2.20377096089)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.90380387458, 0.752311503575, 0.899754526914)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.204018120727, 1.42834229651, 1.70827834103)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:02
+[Builder Position] (x, y, z): (0.188603836121, 1.0, 2.87016396548) (yaw, pitch): (145.05006, 47.7)
+[Screenshot Path] 167576-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.89892867199, 2.24242770359, 2.04045221381)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.53823441615, 1.39501680409, 1.26936762405)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.24679235739, 1.02994620103, 0.937178934526)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.39251338677, 0.182535301529, 0.166094344762)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:14
+[Builder Position] (x, y, z): (0.726979996711, 1.0, 3.34819780208) (yaw, pitch): (147.75024, 16.95001)
+[Screenshot Path] 179675-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.28871383644, 1.14181464625, 3.74639506211)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.98017395024, 0.830679719194, 2.72553378817)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.221491889774, 0.648691054888, 2.12841284954)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.91295200357, 0.337556127833, 1.1075515756)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:19
+[Builder Position] (x, y, z): (0.726979996711, 1.0, 3.34819780208) (yaw, pitch): (145.80032, 17.25001)
+[Screenshot Path] 184224-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.42123132069, 1.14773919364, 3.69632199307)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -3.07539874774, 0.814379565614, 2.62272920171)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.297073803581, 0.657209503823, 2.11655919438)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.95124123063, 0.323849875802, 1.04296640301)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.297073803581, 1.61222939652, 1.82001745272)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:20
+[Builder Position] (x, y, z): (1.96147897416, 1.0, 2.48870301344) (yaw, pitch): (114.90034, 9.300007)
+[Screenshot Path] 185123-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.87904215566, 0.497288718999, 3.03675888197)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.7211245474, 0.204125750574, 1.24652070802)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.064959124063, 0.361204885283, 2.20574507662)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.907041515799, 0.0680419168581, 0.415506902672)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.064959124063, 1.34806058195, 2.04414113495)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.486000319931, 1.20147909773, 1.14902204798)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:20
+[Builder Position] (x, y, z): (2.15736618325, 1.0, 2.30000001192) (yaw, pitch): (113.70034, 18.300009)
+[Screenshot Path] 185824-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.54112099345, 1.2411626093, 3.75292705242)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.34502741405, 0.666141541031, 2.01422488185)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.290199422783, 0.988741938039, 2.98967785471)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.513706997817, 0.413720869767, 1.25097568414)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.290199422783, 1.93816736636, 2.67568524961)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.111753787517, 1.65065683222, 1.80633416432)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.513706997817, 1.36314629809, 0.936983079038)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:22
+[Builder Position] (x, y, z): (2.91878631408, 1.0, 0.48826015043) (yaw, pitch): (68.2503, 14.700014)
+[Screenshot Path] 187823-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.0404692159, 0.613049797564, 2.33680451143)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.29936406736, 0.14166276773, 0.539985815263)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.182846229714, 0.801111291937, 3.05365157708)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.558258918824, 0.329724262103, 1.25683288091)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.370552574269, 1.20296120569, 0.644651167153)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.182846229714, 1.76837898271, 2.79989339615)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.187706344555, 1.53268546779, 1.90148404806)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.558258918824, 1.29699195287, 1.00307469998)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:24
+[Builder Position] (x, y, z): (1.95211986317, 1.0, -1.70003773397) (yaw, pitch): (19.050297, 17.25001)
+[Screenshot Path] 189423-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.56406677303, 0.47388215857, 1.52614901936)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.326398050737, 0.280300865692, 0.902715756575)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.911270671557, 1.03448388995, 3.33158053251)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.979194152211, 0.840902597075, 2.70814726972)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.326398050737, 1.23532075839, 0.606174014917)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.652796101474, 1.51562162408, 1.50888977149)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.911270671557, 1.98950378265, 3.03503879085)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.033961740327, 1.89271313622, 2.72332215946)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.979194152211, 1.79592248978, 2.41160552807)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:25
+[Builder Position] (x, y, z): (0.117217737546, 1.0, -1.30000001192) (yaw, pitch): (-14.699703, 11.70001)
+[Screenshot Path] 190573-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.22102199877, 0.144692129666, 0.698691252358)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.713516137525, 0.247607957383, 1.19565255026)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.72852786003, 0.536992216716, 2.59303505497)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.206010276275, 0.639908044432, 3.08999635287)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.713516137525, 1.22683073261, 0.992865083993)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.50750586125, 1.37152286228, 1.69155633635)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.4597632069, 1.42298077614, 1.9400369853)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.72852786003, 1.51621499194, 2.39024758871)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.761258791875, 1.5676729058, 2.63872823766)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.206010276275, 1.61913081966, 2.88720888661)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:26
+[Builder Position] (x, y, z): (-0.489922163285, 1.0, -1.30000001192) (yaw, pitch): (-5.099704, 11.400011)
+[Screenshot Path] 191322-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.0888891511432, 0.196875106122, 0.976390757534)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.90319389814, 0.232014325986, 1.15066169599)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.26666745343, 0.590625318365, 2.9291722726)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.72541559585, 0.62576453823, 3.10344321106)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.90319389814, 1.21228546266, 0.953004167415)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.177778302286, 1.37402134892, 1.75512398649)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.818263222355, 1.39159095885, 1.84225945572)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.814304747, 1.40916056878, 1.92939492495)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.26666745343, 1.57089645504, 2.73151474403)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.729374071211, 1.58846606497, 2.81865021325)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.72541559585, 1.6060356749, 2.90578568248)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:27
+[Builder Position] (x, y, z): (-0.545586477659, 1.0, -1.88125435378) (yaw, pitch): (-4.6497045, 17.850014)
+[Screenshot Path] 191973-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 12
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.0810636068748, 0.305517511213, 0.948729541009)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.91235425363, 0.355213767905, 1.10305230508)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.243190820624, 0.91655253364, 2.84618862303)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.75022703988, 0.966248790332, 3.00051138709)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.0810636068748, 1.25737969707, 0.642203230327)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.91235425363, 1.30707595376, 0.796525994393)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.16212721375, 1.56289720828, 1.59093277134)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.8345817165, 1.58774533663, 1.66809415337)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.83129064675, 1.61259346497, 1.7452555354)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.243190820624, 1.8684147195, 2.53966231234)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.753518109626, 1.89326284784, 2.61682369438)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.75022703988, 1.91811097619, 2.69398507641)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:27
+[Builder Position] (x, y, z): (0.488941909946, 1.0, -2.03723907978) (yaw, pitch): (-1.4997056, 14.850017)
+[Screenshot Path] 192673-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.0520010831, 0.505696175913, 1.90724017859)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.947313835828, 0.519111305415, 1.95783552655)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.10434470674, 1.01809991658, 3.83977803116)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.89497021219, 1.03151504608, 3.89037337912)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -1.0520010831, 1.47229620189, 1.65095051866)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.052343623638, 1.47900376664, 1.67624819264)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.947313835828, 1.48571133139, 1.70154586662)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.07817289492, 1.72849807222, 2.61721944494)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.078515435457, 1.73520563697, 2.64251711893)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.921142024009, 1.74191320172, 2.66781479291)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.10434470674, 1.98469994255, 3.58348837123)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.104687247276, 1.9914075073, 3.60878604521)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.89497021219, 1.99811507205, 3.63408371919)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:48
+[Builder Position] (x, y, z): (-0.769038695986, 2.78351091432, -2.03597067603) (yaw, pitch): (-28.349705, 39.75003)
+[Screenshot Path] 213470-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+	<Architect> add a 3x2 rectangle of yellow bricks, they'll be back of the chair
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.949703717328, 0.356655932299, 1.9927015319)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.810427769038, 0.963933911801, 2.72287315989)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.89940743466, 1.48215336186, 3.34596365926)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.13927594829, 2.08943134136, 4.07613528725)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.949703717328, 1.12549742956, 1.35326212736)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.069637974145, 1.42913641931, 1.71834794135)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.810427769038, 1.73277540907, 2.08343375535)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.42455557599, 1.68824614434, 2.02989319104)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.544489832809, 1.9918851341, 2.39497900503)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.335575910374, 2.29552412385, 2.76006481903)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.89940743466, 2.25099485913, 2.70652425472)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.01934169147, 2.55463384888, 3.07161006871)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.13927594829, 2.85827283863, 3.43669588271)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:57
+[Builder Position] (x, y, z): (0.604241366757, 2.78351091432, -3.10724847138) (yaw, pitch): (-21.599722, 30.150023)
+[Screenshot Path] 222618-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+	<Architect> add a 3x2 rectangle of yellow bricks, they'll be back of the chair
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 15
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.0341383962, 0.351380331209, 2.59592235014)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.17458185215, 0.721168604472, 3.23255889673)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.77037847898, 1.2853721357, 4.20390551226)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.910821934932, 1.65516040896, 4.84054205885)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -2.0341383962, 1.21609357011, 2.09365646988)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.10436012417, 1.40098770674, 2.41197474317)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.17458185215, 1.58588184337, 2.73029301647)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.40225843759, 1.68308947235, 2.89764805094)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.47248016556, 1.86798360898, 3.21596632423)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.542701893541, 2.05287774562, 3.53428459753)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -2.77037847898, 2.1500853746, 3.701639632)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.84060020696, 2.33497951123, 4.01995790529)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.910821934932, 2.51987364786, 4.33827617858)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -0.17458185215, 2.45059508227, 2.22802713621)
+
+--------------------
+[Timestamp] 2018-04-10 16:27:59
+[Builder Position] (x, y, z): (-0.176831576127, 2.78351091432, -3.2961409905) (yaw, pitch): (-8.849723, 28.500027)
+[Screenshot Path] 224169-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+	<Architect> add a 3x2 rectangle of yellow bricks, they'll be back of the chair
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.461530178601, 0.535619244197, 3.08222353496)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.51466030865, 0.68243481685, 3.35262387842)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.769216964335, 1.47857666553, 4.81893310868)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.20697352291, 1.62539223819, 5.08933345213)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.461530178601, 1.414436132, 2.60506436057)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.526565065022, 1.48784391833, 2.7402645323)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.51466030865, 1.56125170466, 2.87546470403)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.615373571468, 1.88591484267, 3.47341914743)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.372721672155, 1.959322629, 3.60861931916)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.36081691578, 2.03273041532, 3.74381949088)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.769216964335, 2.35739355334, 4.34177393428)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.218878279288, 2.43080133967, 4.47697410601)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.20697352291, 2.50420912599, 4.61217427774)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.526565065022, 2.36666080614, 2.26310535791)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.51466030865, 2.44006859246, 2.39830552964)
+
+--------------------
+[Timestamp] 2018-04-10 16:28:00
+[Builder Position] (x, y, z): (-1.91937610651, 2.78351091432, -2.98566292049) (yaw, pitch): (-33.59972, 22.200033)
+[Screenshot Path] 225668-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+	<Architect> add a 3x2 rectangle of yellow bricks, they'll be back of the chair
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 13
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.273851012551, -0.0873515458017, 2.43256558604)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.39199687761, 0.330833765224, 3.45729572245)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.38062597018, 0.542074620073, 3.97492478378)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.285221919979, 0.960259931098, 4.9996549202)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.273851012551, 0.838518821387, 2.05472426595)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.55907293253, 1.0476114769, 2.56708933416)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.39199687761, 1.25670413241, 3.07945440237)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.827238491367, 1.15323190432, 2.82590386483)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.005685453714, 1.36232455984, 3.33826893304)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.838609398795, 1.57141721535, 3.85063400125)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.38062597018, 1.46794498726, 3.5970834637)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.547702025102, 1.67703764277, 4.10944853191)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.285221919979, 1.88613029829, 4.62181360012)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.273851012551, 1.76438918858, 1.67688294587)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.55907293253, 1.97348184409, 2.18924801408)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.39199687761, 2.1825744996, 2.70161308229)
+
+--------------------
+[Timestamp] 2018-04-10 16:28:02
+[Builder Position] (x, y, z): (2.07376009712, 2.78351091432, -1.45686222765) (yaw, pitch): (5.4002795, 28.800037)
+[Screenshot Path] 227169-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+	<Architect> add a 3x2 rectangle of yellow bricks, they'll be back of the chair
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 12
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.89257134668, -0.26067213662, 1.60158703841)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.90144833565, -0.351350973862, 1.4366430981)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.70434500695, 0.698559816295, 3.34642081431)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.713221995924, 0.607880979053, 3.18147687401)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -2.89257134668, 0.615634232321, 1.11983279841)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.89700984116, 0.5702948137, 1.03736082826)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.90144833565, 0.524955395079, 0.954888858106)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.79845817681, 1.09525020878, 1.99224968636)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.8028966713, 1.04991079016, 1.90977771621)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.807335165787, 1.00457137154, 1.82730574606)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -2.70434500695, 1.57486618524, 2.86466657432)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.70878350144, 1.52952676662, 2.78219460417)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.713221995924, 1.48418734799, 2.69972263401)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -2.89257134668, 1.49194060126, 0.638078558414)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.89700984116, 1.44660118264, 0.555606588262)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -0.90144833565, 1.40126176402, 0.47313461811)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 4, -1)  Perspective (x, y, z): -0.90144833565, 2.27756813296, -0.00861962188621)
+
+--------------------
+[Timestamp] 2018-04-10 16:28:03
+[Builder Position] (x, y, z): (1.14883102488, 2.78351091432, -2.0189680632) (yaw, pitch): (21.75029, 15.750044)
+[Screenshot Path] 228468-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+	<Architect> add a 3x2 rectangle of yellow bricks, they'll be back of the chair
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.11649107733, -0.257050052484, 2.77261121414)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.741124277266, -0.458221707486, 2.05931242711)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.375366800068, 0.247183268032, 4.56048245226)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.48224855453, 0.0460116130308, 3.84718366523)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -1.11649107733, 0.705404975518, 2.50117002516)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.187683400034, 0.604819148017, 2.14452063164)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.741124277266, 0.504233320516, 1.78787123813)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.745928938701, 0.957521635776, 3.39510564422)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.182878738599, 0.856935808275, 3.03845625071)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.1116864159, 0.756349980775, 2.68180685719)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.375366800068, 1.20963829603, 4.28904126329)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.553440877232, 1.10905246853, 3.93239186977)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.48224855453, 1.00846664103, 3.57574247626)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.11649107733, 1.66786000352, 2.22972883618)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.187683400034, 1.56727417602, 1.87307944266)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.741124277266, 1.46668834852, 1.51643004915)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): -0.187683400034, 2.52972920402, 1.60163825369)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 4, -1)  Perspective (x, y, z): 0.741124277266, 2.42914337652, 1.24498886017)
+
+--------------------
+[Timestamp] 2018-04-10 16:28:04
+[Builder Position] (x, y, z): (-0.0724554502572, 2.78351091432, -2.53626507168) (yaw, pitch): (12.750295, 9.900046)
+[Screenshot Path] 229418-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> We're building a chair
+	<Architect> place the corners of a yellow 3x3 square on the ground
+	<Architect> add a 3x3 layer of orange bricks on top of the legs
+	<Architect> add a 3x2 rectangle of yellow bricks, they'll be back of the chair
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 10
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.441404913568, -0.649728580808, 2.09356501536)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.39208728194, -0.725619279562, 1.65873297933)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.882809827136, -0.314347973495, 4.01520013955)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 2.83349219551, -0.390238672249, 3.58036810352)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.441404913568, 0.335380607313, 1.92163512419)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.41674609775, 0.297435257936, 1.70421910617)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.39208728194, 0.259489908559, 1.48680308815)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.662107370352, 0.50307091097, 2.88245268628)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.63744855454, 0.465125561593, 2.66503666826)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.61278973872, 0.427180212215, 2.44762065025)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.882809827136, 0.670761214626, 3.84327024838)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.85815101132, 0.632815865249, 3.62585423036)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.83349219551, 0.594870515872, 3.40843821234)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.441404913568, 1.32048979543, 1.74970523301)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.41674609775, 1.28254444606, 1.53228921499)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 2.39208728194, 1.24459909668, 1.31487319698)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 4, -1)  Perspective (x, y, z): 0.441404913568, 2.30559898356, 1.57777534184)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): 1.41674609775, 2.26765363418, 1.36035932382)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 4, -1)  Perspective (x, y, z): 2.39208728194, 2.2297082848, 1.1429433058)
+
+Time elapsed: 0:04:01 (241.38s)

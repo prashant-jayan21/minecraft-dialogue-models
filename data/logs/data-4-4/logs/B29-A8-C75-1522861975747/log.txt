@@ -1,0 +1,947 @@
+
+--------------------
+[Timestamp] 2018-04-04 17:13:04
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 17:13:29
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 24712-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 17:13:35
+[Builder Position] (x, y, z): (-0.383718182542, 1.0, -0.497428925178) (yaw, pitch): (-39.600018, 45.899982)
+[Screenshot Path] 30410-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.13308881071, 1.01107647449, 0.979801883648)
+
+--------------------
+[Timestamp] 2018-04-04 17:13:46
+[Builder Position] (x, y, z): (-1.92181949175, 1.0, 0.214995765967) (yaw, pitch): (-78.29998, 28.199966)
+[Screenshot Path] 41509-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.40557527434, 0.925463885153, 1.7259853111)
+
+--------------------
+[Timestamp] 2018-04-04 17:13:49
+[Builder Position] (x, y, z): (-1.92181949175, 1.0, 0.214995765967) (yaw, pitch): (-67.04998, 31.499962)
+[Screenshot Path] 44908-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.779856018448, 0.9622796997, 1.57030008917)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.140989325583, 1.16601630436, 1.90276850616)
+
+--------------------
+[Timestamp] 2018-04-04 17:14:26
+[Builder Position] (x, y, z): (-1.92181949175, 1.0, 0.214995765967) (yaw, pitch): (-69.14999, 31.199963)
+[Screenshot Path] 82070-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.711845558986, 0.968207371314, 1.5987027198)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.222669810089, 1.15258478774, 1.90314646382)
+
+--------------------
+[Timestamp] 2018-04-04 17:14:36
+[Builder Position] (x, y, z): (1.4735400803, 1.0, -0.300000011921) (yaw, pitch): (-1.6499895, 47.54996)
+[Screenshot Path] 91368-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.02837914265, 0.716314262026, 0.655232948629)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.05717291184, 1.45387447162, 1.3299001674)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.0575875383694, 1.47512041919, 1.34933443753)
+
+--------------------
+[Timestamp] 2018-04-04 17:14:36
+[Builder Position] (x, y, z): (1.4735400803, 1.0, -0.300000011921) (yaw, pitch): (-2.3999894, 22.349958)
+[Screenshot Path] 92118-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.04099830673, 0.364005502364, 0.885337517351)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.08287377562, 0.743934685047, 1.80940475584)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.0837509377732, 0.759858365365, 1.84813447698)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.0837509377732, 1.68473687228, 1.46787174222)
+
+--------------------
+[Timestamp] 2018-04-04 17:14:41
+[Builder Position] (x, y, z): (1.4735400803, 3.1395541568, -0.300000011921) (yaw, pitch): (-4.7999897, 47.099945)
+[Screenshot Path] 96316-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.08017053849, -0.69276744071, 2.08645749558)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.16384820268, 0.0372056868908, 2.76479169161)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.167355328388, 0.0985031109043, 2.82175288273)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.167355328388, 0.779224683053, 2.08921063739)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.167355328388, 1.4599462552, 1.35666839205)
+
+--------------------
+[Timestamp] 2018-04-04 17:15:05
+[Builder Position] (x, y, z): (1.223954233, 3.15814676124, -1.71128762395) (yaw, pitch): (-3.2999878, 52.799942)
+[Screenshot Path] 120113-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.11346945764, 0.335365940706, 2.76545031645)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.17103327202, 1.1305744648, 3.36904770749)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.172691443148, 1.17642572992, 3.40385078513)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.172691443148, 1.7810256511, 2.60732147914)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.172691443148, 2.38562557229, 1.81079217314)
+
+--------------------
+[Timestamp] 2018-04-04 17:15:13
+[Builder Position] (x, y, z): (-0.106725162154, 3.15814676124, 2.84649569817) (yaw, pitch): (-111.00001, 66.29992)
+[Screenshot Path] 128911-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.50879261541, 0.70723413112, 2.49466725786)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.575212251464, 0.379090056996, 2.35062153365)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.216844138978, 1.23393415019, 2.72587327886)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 2)  Perspective (x, y, z): -0.716736224972, 0.905790076068, 2.58182755464)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.216844138978, 1.63588320535, 1.81021124674)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.216844138978, 2.03783226052, 0.894549214629)
+
+--------------------
+[Timestamp] 2018-04-04 17:15:36
+[Builder Position] (x, y, z): (-0.0721095064534, 3.15814676124, 2.8317173895) (yaw, pitch): (-95.84999, 58.799923)
+[Screenshot Path] 151359-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.88766003693, -0.0107827162781, 2.33165677534)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.89286787738, -0.0979650335321, 2.2788571271)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.790943595209, 0.752943933482, 2.794187478)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 2)  Perspective (x, y, z): -0.203848564342, 0.665761616228, 2.74138782976)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.790943595209, 1.27097209238, 1.93882391402)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.790943595209, 1.78900025128, 1.08346035004)
+
+--------------------
+[Timestamp] 2018-04-04 17:15:39
+[Builder Position] (x, y, z): (-0.0721095064534, 3.15814676124, 2.8317173895) (yaw, pitch): (-117.29998, 33.59992)
+[Screenshot Path] 154506-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.31858554121, -0.666467539638, 2.61096786444)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.429968148456, -0.9202796221, 2.22894881244)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.028681095842, -0.428527299882, 2.96909780034)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 1, 2)  Perspective (x, y, z): -0.917298488596, -0.682339382344, 2.58707874834)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.028681095842, 0.404394713508, 2.41570741408)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.028681095842, 1.2373167269, 1.86231702781)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.917298488596, 0.983504644436, 1.48029797581)
+
+--------------------
+[Timestamp] 2018-04-04 17:15:40
+[Builder Position] (x, y, z): (-0.0721095064534, 3.15814676124, 2.8317173895) (yaw, pitch): (-106.04996, 64.65)
+[Screenshot Path] 156007-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.64556652907, 0.511897076196, 2.45562052886)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.684545545079, 0.262043660402, 2.33724849273)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.408070106164, 1.13052722785, 2.74870641858)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.408070106164, 1.55867388927, 1.84499715321)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.408070106164, 1.98682055069, 0.941287887841)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.55295087783, 1.7369671349, 0.822915851705)
+
+--------------------
+[Timestamp] 2018-04-04 17:15:49
+[Builder Position] (x, y, z): (-0.678482865322, 3.15814676124, 2.29682611735) (yaw, pitch): (-86.69991, 35.40002)
+[Screenshot Path] 164955-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.05424904753, -1.11862770108, 1.87849219244)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.05590732134, -1.08528101926, 1.92541549749)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.11347291649, -0.506960169651, 2.73919138627)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.11347291649, 0.30816742387, 2.15990992939)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.11347291649, 1.12329501739, 1.58062847252)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): 0.115131190302, 1.15664169922, 1.62755177756)
+
+--------------------
+[Timestamp] 2018-04-04 17:15:52
+[Builder Position] (x, y, z): (-0.835261309291, 3.15814676124, 1.03674913568) (yaw, pitch): (-88.64992, 33.90001)
+[Screenshot Path] 167055-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.02328355803, -1.11557507879, 1.92571623128)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.0235611607094, -1.10243395323, 1.94527228183)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.0471223214188, -0.544843530965, 2.77505405597)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.0471223214188, 0.285168656785, 2.21730880213)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.0235611607094, 0.557590422267, 0.829781774143)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.0471223214188, 1.11518084453, 1.65956354829)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.952600075902, 1.1283219701, 1.67911959883)
+
+--------------------
+[Timestamp] 2018-04-04 17:15:52
+[Builder Position] (x, y, z): (-0.0650647913273, 3.15814676124, 4.32591331466) (yaw, pitch): (-122.099915, 26.700003)
+[Screenshot Path] 168254-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.85709351612, -0.451046611143, 3.55437386817)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 2.00997080639, -0.689813548942, 3.07963871666)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.47857348361, -0.309185181676, 3.836433888)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.47857348361, 0.584186183126, 3.38711484261)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 2.00997080639, 1.09692918066, 2.18100062587)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.47857348361, 1.47755754793, 2.93779579722)
+
+--------------------
+[Timestamp] 2018-04-04 17:16:21
+[Builder Position] (x, y, z): (-0.0425485467376, 3.15814676124, -1.24483668563) (yaw, pitch): (-4.949934, 27.749985)
+[Screenshot Path] 196567-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.823700039533, -0.802044350402, 2.77096429152)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.737414821357, -0.338166581483, 3.65265146769)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.73368529724, -0.297990951002, 3.72901282959)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.73368529724, 0.586996808359, 3.26339854095)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.737414821357, 1.43180893724, 2.72142289042)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.73368529724, 1.47198456772, 2.79778425232)
+
+--------------------
+[Timestamp] 2018-04-04 17:16:28
+[Builder Position] (x, y, z): (-1.38866849474, 3.15814676124, -0.856831337678) (yaw, pitch): (-24.149927, 21.44999)
+[Screenshot Path] 203815-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.41583029051, -1.22856551219, 2.34223213425)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.00670455019, -0.894882355336, 3.19150928539)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.9191825656, -0.745269579714, 3.57229779462)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.9191825656, 0.185467530431, 3.20660881228)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.00670455019, 0.966591864954, 2.46013132073)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.9191825656, 1.11620464058, 2.84091982995)
+
+--------------------
+[Timestamp] 2018-04-04 17:16:31
+[Builder Position] (x, y, z): (-0.10704018628, 3.15814676124, -0.998260393987) (yaw, pitch): (-24.599947, 31.499977)
+[Screenshot Path] 206564-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.492956542922, -1.0127007617, 2.17518528269)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.076676591727, -0.537626309743, 2.95043702718)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.985913085844, -0.320120775204, 3.3053741205)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.985913085844, 0.532519598894, 2.78287589805)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.492956542922, 0.692579986496, 1.1301888378)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.076676591727, 1.16765443845, 1.90544058229)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.985913085844, 1.38515997299, 2.26037767561)
+
+--------------------
+[Timestamp] 2018-04-04 17:16:33
+[Builder Position] (x, y, z): (-0.842601721467, 3.15814676124, -0.640513858467) (yaw, pitch): (-52.19995, 22.79999)
+[Screenshot Path] 208914-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.17724673432, -1.30001818491, 2.06846230666)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.967401211833, -1.06250697998, 2.63347941189)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.35449346864, -0.756309931366, 3.36189376221)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.35449346864, 0.165553287857, 2.97437833666)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.17724673432, 0.54370825354, 1.29343145555)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.967401211833, 0.78121945847, 1.85844856078)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.35449346864, 1.08741650708, 2.5868629111)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.17724673432, 1.46557147276, 0.905916029993)
+
+--------------------
+[Timestamp] 2018-04-04 17:16:36
+[Builder Position] (x, y, z): (-0.845716297393, 1.68098948014, -0.640513858467) (yaw, pitch): (-51.59995, 10.199988)
+[Screenshot Path] 211464-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.162544451092, 0.248775681291, 1.38263876765)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.946237366364, 0.358771467733, 1.99397038103)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.325088902184, 0.497551362582, 2.76527753531)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.325088902184, 1.48174700764, 2.58819300112)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.162544451092, 2.21716697141, 1.02846969927)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.946237366364, 2.32716275785, 1.63980131265)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.325088902184, 2.4659426527, 2.41110846693)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.162544451092, 3.20136261647, 0.851385165084)
+
+--------------------
+[Timestamp] 2018-04-04 17:16:38
+[Builder Position] (x, y, z): (-0.845716297393, 4.26814794196, -0.640513858467) (yaw, pitch): (-50.999943, 31.349989)
+[Screenshot Path] 212964-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.147824171201, -1.83028125834, 2.7619229768)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.924969506586, -1.50286785667, 3.29936654788)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.295648342402, -1.09854680038, 3.96305273559)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.295648342402, -0.24454156161, 3.44278832958)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.147824171201, -0.122270780805, 1.72139416479)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.924969506586, 0.205142620866, 2.25883773587)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.295648342402, 0.609463677159, 2.92252392358)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.147824171201, 0.731734457964, 1.20112975879)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.147824171201, 1.58573969673, 0.68086535278)
+
+--------------------
+[Timestamp] 2018-04-04 17:16:44
+[Builder Position] (x, y, z): (-1.56983062276, 5.02485841257, 0.904971297316) (yaw, pitch): (-100.34995, 18.749994)
+[Screenshot Path] 219663-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.359319780256, -3.15530233794, 3.14880238371)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.34304856599, -3.21305209915, 2.97867701464)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.52270845612, -2.89684294181, 3.91019947422)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.52270845612, -1.94991277865, 3.58876010808)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.359319780256, -1.26144201163, 2.50592365143)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.34304856599, -1.31919177283, 2.33579828236)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.52270845612, -1.00298261549, 3.26732074194)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.359319780256, -0.314511848475, 2.18448428529)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.359319780256, 0.632418314681, 1.86304491915)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): -0.359319780256, 1.57934847784, 1.54160555301)
+
+--------------------
+[Timestamp] 2018-04-04 17:16:57
+[Builder Position] (x, y, z): (-1.52924734991, 5.02485841257, 0.763383526317) (yaw, pitch): (-94.49984, 11.100016)
+[Screenshot Path] 232710-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+	<Architect> yes
+	<Architect> one less orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.156912623618, -3.54131283908, 2.72662461742)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.15383017645, -3.55641742402, 2.64963601841)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.23228648826, -3.3644886231, 3.62790384601)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.23228648826, -2.38319601287, 3.43538160546)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.156912623618, -1.57872761862, 2.34158013631)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.15383017645, -1.59383220356, 2.2645915373)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.23228648826, -1.40190340264, 3.2428593649)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.156912623618, -0.597435008392, 2.14905789575)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.156912623618, 0.383857601838, 1.9565356552)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): -0.156912623618, 1.36515021207, 1.76401341464)
+
+--------------------
+[Timestamp] 2018-04-04 17:16:58
+[Builder Position] (x, y, z): (-1.52924734991, 5.02485841257, 0.763383526317) (yaw, pitch): (-94.49984, 11.100016)
+[Screenshot Path] 233760-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+	<Architect> yes
+	<Architect> one less orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.156912623618, -3.54131283908, 2.72662461742)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.15383017645, -3.55641742402, 2.64963601841)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.23228648826, -3.3644886231, 3.62790384601)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.23228648826, -2.38319601287, 3.43538160546)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.156912623618, -1.57872761862, 2.34158013631)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.15383017645, -1.59383220356, 2.2645915373)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.23228648826, -1.40190340264, 3.2428593649)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.156912623618, -0.597435008392, 2.14905789575)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.156912623618, 0.383857601838, 1.9565356552)
+
+--------------------
+[Timestamp] 2018-04-04 17:17:15
+[Builder Position] (x, y, z): (-2.3612881046, 5.02485841257, -0.690011678202) (yaw, pitch): (-38.549828, 27.90001)
+[Screenshot Path] 250208-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+	<Architect> yes
+	<Architect> one less orange
+	<Architect> now a blue from there
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.72300444348, -2.29427498988, 4.21515811786)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.09980943724, -1.92832264501, 4.90632153232)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.88187592048, -1.63671102537, 5.45707980878)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.88187592048, -0.752945476951, 4.98914984027)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.72300444348, -0.526743893044, 3.27929818085)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.09980943724, -0.160791548172, 3.97046159531)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.88187592048, 0.130820071469, 4.52121987176)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.72300444348, 0.357021655376, 2.81136821234)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 1.72300444348, 1.2407872038, 2.34343824383)
+
+--------------------
+[Timestamp] 2018-04-04 17:17:21
+[Builder Position] (x, y, z): (-2.3612881046, 5.02485841257, -0.690011678202) (yaw, pitch): (-46.049843, 21.600014)
+[Screenshot Path] 255908-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+	<Architect> yes
+	<Architect> one less orange
+	<Architect> now a blue from there
+	<Architect> above the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.36215318083, -2.66852759266, 4.12595433799)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.642209352443, -2.4130370916, 4.77124922239)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.33624168885, -2.14800792825, 5.44063600043)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.33624168885, -1.21823153231, 5.07251122055)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.36215318083, -0.808974800783, 3.38970477824)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.642209352443, -0.55348429972, 4.03499966265)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.33624168885, -0.288455136376, 4.70438644068)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.36215318083, 0.120801595155, 3.02157999837)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 1.36215318083, 1.05057799109, 2.6534552185)
+
+--------------------
+[Timestamp] 2018-04-04 17:17:25
+[Builder Position] (x, y, z): (-1.32158602318, 5.02485841257, 1.69190387786) (yaw, pitch): (-112.64988, 29.099995)
+[Screenshot Path] 260556-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+	<Architect> yes
+	<Architect> one less orange
+	<Architect> now a blue from there
+	<Architect> above the yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.152677518714, -2.41014818264, 3.89459565462)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.770197792526, -2.59743537149, 3.5581069196)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.15529668879, -2.14860852629, 4.36448977105)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.15529668879, -1.27483626081, 3.87815446688)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.152677518714, -0.662603651692, 2.92192504627)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.770197792526, -0.849890840543, 2.58543631125)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.15529668879, -0.401063995338, 3.39181916271)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.152677518714, 0.211168613784, 2.4355897421)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.152677518714, 1.08494087926, 1.94925443793)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.770197792526, 0.897653690409, 1.61276570291)
+
+--------------------
+[Timestamp] 2018-04-04 17:17:38
+[Builder Position] (x, y, z): (-1.32158602318, 5.02485841257, 1.69190387786) (yaw, pitch): (-94.34988, 34.649994)
+[Screenshot Path] 273254-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+	<Architect> yes
+	<Architect> one less orange
+	<Architect> now a blue from there
+	<Architect> above the yellow
+	<Architect> and a red above the puple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.845425845415, -2.11359068586, 3.97718362068)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.151693635991, -2.15671428654, 3.91478895051)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.227540453987, -1.58979027468, 4.7350598966)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.227540453987, -0.767149697123, 4.16649813201)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.845425845415, -0.468309530737, 2.8400600915)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.151693635991, -0.511433131415, 2.77766542134)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.227540453987, 0.0554908804378, 3.59793636742)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.845425845415, 0.354331046824, 2.27149832691)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.845425845415, 1.17697162438, 1.70293656232)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.151693635991, 1.13384802371, 1.64054189216)
+
+--------------------
+[Timestamp] 2018-04-04 17:17:44
+[Builder Position] (x, y, z): (2.00334694651, 5.02485841257, 3.87533334884) (yaw, pitch): (-204.74995, 24.599985)
+[Screenshot Path] 279419-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with a green block on the ground
+	<Architect> now a blue block next to it
+	<Architect> now a tower of three purple blocks to the left of the blue block
+	<Architect> now a yellow block to the right of the top purple
+	<Architect> the highest purple
+	<Architect> above the blue
+	<Architect> now a tower of orange starting to the right of the yellow
+	<Architect> above the greean
+	<Architect> yes
+	<Architect> one less orange
+	<Architect> now a blue from there
+	<Architect> above the yellow
+	<Architect> and a red above the puple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.560310243249, -2.15425822937, 4.9035929595)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.978969188282, -2.53230072518, 4.07787596252)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.070825649108, -2.70658030284, 3.69721608669)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.070825649108, -1.79734408482, 3.28093553247)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.560310243249, -0.335785793316, 4.07103185106)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.978969188282, -0.713828289118, 3.24531485407)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.070825649108, -0.888107866786, 2.86465497824)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.560310243249, 0.573450424713, 3.65475129683)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.560310243249, 1.48268664274, 3.23847074261)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): 0.978969188282, 1.10464414694, 2.41275374562)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 5, 1)  Perspective (x, y, z): 0.070825649108, 0.930364569272, 2.0320938698)
+
+Time elapsed: 0:05:00 (300.32s)

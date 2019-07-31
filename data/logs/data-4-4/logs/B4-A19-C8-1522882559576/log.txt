@@ -1,0 +1,590 @@
+
+--------------------
+[Timestamp] 2018-04-04 22:56:08
+[Builder Position] (x, y, z): (0.0, 3.10351920379, 0.0) (yaw, pitch): (-84.15002, 65.849976)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:56:15
+[Builder Position] (x, y, z): (0.0, 6.11822922664, 0.0) (yaw, pitch): (-129.14996, 80.999985)
+[Screenshot Path] 7167-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:56:44
+[Builder Position] (x, y, z): (0.917009550648, 3.87363336239, -1.16162648664) (yaw, pitch): (-270.6, 83.84998)
+[Screenshot Path] 35812-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:56:51
+[Builder Position] (x, y, z): (2.24902895842, 3.87363336239, 1.78272942025) (yaw, pitch): (-266.54984, 90.0)
+[Screenshot Path] 43161-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:56:55
+[Builder Position] (x, y, z): (1.9343279317, 2.80578691996, 1.86409059375) (yaw, pitch): (-264.59998, 86.39999)
+[Screenshot Path] 46709-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.0, -0.0627906937178, 0.998026717469)
+
+--------------------
+[Timestamp] 2018-04-04 22:56:56
+[Builder Position] (x, y, z): (-0.353300319851, 2.75604042454, 1.64942046122) (yaw, pitch): (-266.84988, 84.14997)
+[Screenshot Path] 47508-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.0, -0.101924976667, 0.994792088394)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.109904542286, -2.08850285667, 0.791250155935)
+
+--------------------
+[Timestamp] 2018-04-04 22:56:57
+[Builder Position] (x, y, z): (-0.595613924908, 2.75604042454, -0.819233788487) (yaw, pitch): (-268.79987, 86.399994)
+[Screenshot Path] 48311-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.0, -0.0627906240424, 0.998026721853)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.99956127191, -0.104597341278, 0.995396461754)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.95767189528, -2.10021292263, 0.86984276168)
+
+--------------------
+[Timestamp] 2018-04-04 22:56:58
+[Builder Position] (x, y, z): (1.36876919431, 2.75604042454, -0.222369035609) (yaw, pitch): (-275.3998, 90.0)
+[Screenshot Path] 49608-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.188209676302, 1.99112458619, 1.0)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -6.12323399574e-17, 1.0)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.80291490989, 2.1793342625, 1.0)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.99112458619, 0.188209676302, 1.0)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:08
+[Builder Position] (x, y, z): (3.27853550798, 2.75604042454, 0.296733741487) (yaw, pitch): (-271.04987, 54.149994)
+[Screenshot Path] 60009-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.07312277732, 2.64115081209, 3.14209005164)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.03647745162, 1.02031699971, 1.9709560402)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.926541474526, 2.67085378993, 3.16355194818)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.963186800224, 1.05001997755, 1.99241793673)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:12
+[Builder Position] (x, y, z): (3.27853550798, 2.75604042454, 0.296733741487) (yaw, pitch): (-296.09985, 49.799995)
+[Screenshot Path] 64006-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.65777600281, 1.76216317571, 2.79839376448)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.77790236516, 0.390341725521, 1.63911455282)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.86171854778, 2.43420711628, 3.36631502677)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.018155089868, 1.0623856661, 2.20703581511)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.018155089868, 1.70784342047, 1.44323984281)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:13
+[Builder Position] (x, y, z): (3.27853550798, 2.75604042454, 0.296733741487) (yaw, pitch): (-298.49985, 46.35)
+[Screenshot Path] 65106-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.78744419994, 1.50803839786, 2.82063379807)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.8331312809, 0.236265581785, 1.60742286964)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.02980747622, 2.19855038596, 3.47934947401)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.075494557182, 0.926777569891, 2.26613854558)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.95431291904, 1.27177281607, 1.21321092843)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.075494557182, 1.61702881012, 1.5425687664)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:15
+[Builder Position] (x, y, z): (0.708862841364, 2.75604042454, -4.12641636205) (yaw, pitch): (-12.599823, 33.60002)
+[Screenshot Path] 66806-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+	<Architect> with the center missing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.84847834207, 1.20662091307, 3.62314694582)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.103356529585, 1.44805495577, 3.98653411786)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.2847587952, 2.28675040405, 5.24887129175)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.332923923537, 2.52818444675, 5.61225846379)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.114783696976, 2.8210407488, 4.24600445083)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.332923923537, 3.36110549429, 5.0588666238)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:16
+[Builder Position] (x, y, z): (0.708862841364, 2.75604042454, -3.46759991999) (yaw, pitch): (-13.3497925, 36.60002)
+[Screenshot Path] 67906-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+	<Architect> with the center missing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.66566473588, 0.799860014945, 2.75423037238)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.280292428491, 1.07519128794, 3.12496397561)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.127455505, 1.96008862729, 4.31647838491)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.181498340637, 2.23541990028, 4.68721198814)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.280292428491, 1.87800855501, 2.52873882041)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.049397043927, 2.45812286118, 3.30986282667)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.181498340637, 3.03823716735, 4.09098683294)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:18
+[Builder Position] (x, y, z): (-2.4224334354, 2.75604042454, -1.68464531116) (yaw, pitch): (-75.14978, 29.550009)
+[Screenshot Path] 69755-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+	<Architect> with the center missing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.454012948711, 0.209894414128, 2.39787751508)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.058573220507, 1.16331499272, 4.07961608556)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -2.38721118457, 0.462693218188, 2.84378932872)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.87462501535, 1.41611379678, 4.52552789919)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.197719864102, 1.55653026992, 2.74556376254)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.058573220507, 2.03324055922, 3.58643304778)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.908025897422, 2.15963996125, 3.8093889546)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.87462501535, 2.28603936328, 4.03234486141)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:20
+[Builder Position] (x, y, z): (-2.19014669416, 2.75604042454, -0.828566276938) (yaw, pitch): (-79.34976, 40.05002)
+[Screenshot Path] 71305-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+	<Architect> with the center missing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.369626340008, 0.499260503415, 2.14804918903)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.739252680016, 1.76400399572, 3.65264224613)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.59592100584, 0.737098838419, 2.43099186455)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.22629466583, 2.00184233072, 3.93558492165)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.369626340008, 1.2647434923, 1.50459305709)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.554439510012, 1.89711523845, 2.25688958564)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.739252680016, 2.5294869846, 3.00918611419)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.243520992908, 2.6484061521, 3.15065745195)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.22629466583, 2.7673253196, 3.29212878971)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:22
+[Builder Position] (x, y, z): (-1.40405240046, 2.75604042454, 2.78949112322) (yaw, pitch): (-158.69965, 33.450027)
+[Screenshot Path] 73355-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+	<Architect> with the center missing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.158081756939, 0.906531155281, 3.18641042909)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.70529626025, 1.30699246293, 3.79258953311)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.568432086749, -0.1205804461, 1.63166948822)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -2.43181010393, 0.279880861554, 2.23784859223)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.158081756939, 1.7408980559, 2.63520096332)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.773607251654, 1.94112870972, 2.93829051533)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.70529626025, 2.14135936355, 3.24138006734)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.205175164905, 1.22734225521, 1.85783049288)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -2.06855318209, 1.62780356286, 2.4640095969)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -2.43181010393, 1.11424776217, 1.68663912646)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:23
+[Builder Position] (x, y, z): (-1.07551081907, 2.75604042454, 2.78440096897) (yaw, pitch): (-161.8498, 43.050034)
+[Screenshot Path] 74304-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+	<Architect> with the center missing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.015715837056, 1.42790245666, 2.99346748549)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.91620216913, 1.85319759559, 3.44874294761)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.638734056376, 0.130560623673, 1.60467215616)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -2.53922038845, 0.555855762606, 2.05994761828)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): -0.015715837056, 2.15866031895, 2.31083072505)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.965959003092, 2.37130788841, 2.53846845611)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.91620216913, 2.58395545788, 2.76610618717)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.327224946716, 1.50998940245, 1.61643306039)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -2.22771127879, 1.93528454139, 2.0717085225)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.638734056376, 0.86131848596, 0.922035395723)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -2.53922038845, 1.28661362489, 1.37731085784)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:24
+[Builder Position] (x, y, z): (-1.01581200353, 2.75604042454, 2.78440096897) (yaw, pitch): (-122.6998, 39.450035)
+[Screenshot Path] 75455-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+	<Architect> with the center missing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 12
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.98430062016, 0.792331173368, 2.53668333865)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.903825854061, 1.86173402194, 3.83628013278)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.301275284687, 0.105792017766, 1.70236343118)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.779199481409, 1.17519486633, 3.00196022531)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 1.98430062016, 1.56451015769, 1.90127825827)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.44406323711, 2.09921158197, 2.55107665533)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.903825854061, 2.63391300626, 3.20087505239)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.14278795242, 1.22124057989, 1.48411830453)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.062313186326, 2.29064342846, 2.78371509866)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.301275284687, 0.877971002086, 1.0669583508)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.238962098361, 1.41267242637, 1.71675674786)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.779199481409, 1.94737385065, 2.36655514493)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:26
+[Builder Position] (x, y, z): (-1.01581200353, 3.96228047248, 2.78440096897) (yaw, pitch): (-155.24963, 54.000046)
+[Screenshot Path] 78155-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+	<Architect> with the center missing
+	<Architect> k thats it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 12
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.347856335963, 1.36724308578, 3.46549308381)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.46842460448, 2.04465865498, 3.95766347301)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.489474868159, -0.102159918704, 2.39791111271)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -2.3057558086, 0.575255650491, 2.89008150191)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.347856335963, 1.95502768855, 2.65647561753)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.560284134257, 2.29373547315, 2.90256081213)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.46842460448, 2.63244325775, 3.14864600673)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.070809266098, 1.22032618631, 2.12268463198)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.88709020654, 1.89774175551, 2.61485502118)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.489474868159, 0.485624684068, 1.58889364643)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.39761533838, 0.824332468666, 1.83497884103)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -2.3057558086, 1.16304025326, 2.08106403563)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:33
+[Builder Position] (x, y, z): (-1.01581200353, 4.25110644399, 2.78440096897) (yaw, pitch): (-155.24963, 54.000046)
+[Screenshot Path] 85103-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+	<Architect> with the center missing
+	<Architect> k thats it
+	<Architect> next mission
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 12
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.347856335963, 0.77945848301, 4.27451055009)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.46842460448, 1.45687405221, 4.76668093929)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.489474868159, -0.689944521476, 3.20692857899)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -2.3057558086, -0.0125289522805, 3.69909896819)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.347856335963, 1.36724308578, 3.46549308381)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.560284134257, 1.70595087038, 3.71157827841)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.46842460448, 2.04465865498, 3.95766347301)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.070809266098, 0.632541583539, 2.93170209826)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.88709020654, 1.30995715273, 3.42387248746)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.489474868159, -0.102159918704, 2.39791111271)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.39761533838, 0.236547865894, 2.64399630731)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -2.3057558086, 0.575255650491, 2.89008150191)
+
+--------------------
+[Timestamp] 2018-04-04 22:57:35
+[Builder Position] (x, y, z): (-1.01581200353, 4.25110644399, 2.78440096897) (yaw, pitch): (-155.24963, 54.000046)
+[Screenshot Path] 87104-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> ok get some orange blocks
+	<Architect> ok place four in the corners of a 3 by 3 square
+	<Architect> only in the corners
+	<Architect> then place red blocks in a 3 by 3 square right on top
+	<Architect> with the center missing
+	<Architect> k thats it
+	<Architect> next mission
+	<Builder> easy
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 12
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.347856335963, 0.77945848301, 4.27451055009)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.46842460448, 1.45687405221, 4.76668093929)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.489474868159, -0.689944521476, 3.20692857899)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -2.3057558086, -0.0125289522805, 3.69909896819)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -1)  Perspective (x, y, z): 0.347856335963, 1.36724308578, 3.46549308381)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.560284134257, 1.70595087038, 3.71157827841)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.46842460448, 2.04465865498, 3.95766347301)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.070809266098, 0.632541583539, 2.93170209826)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.88709020654, 1.30995715273, 3.42387248746)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.489474868159, -0.102159918704, 2.39791111271)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.39761533838, 0.236547865894, 2.64399630731)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -2.3057558086, 0.575255650491, 2.89008150191)
+
+Time elapsed: 0:01:41 (101.47s)

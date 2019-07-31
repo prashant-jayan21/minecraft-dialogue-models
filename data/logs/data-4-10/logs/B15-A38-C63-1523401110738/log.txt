@@ -1,0 +1,776 @@
+
+--------------------
+[Timestamp] 2018-04-10 22:58:41
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-10 22:58:45
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (-0.8999995, 27.0)
+[Screenshot Path] 3165-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-10 22:59:05
+[Builder Position] (x, y, z): (-0.0050144008128, 1.66591797647, -5.97528801253) (yaw, pitch): (-0.5999996, 51.750004)
+[Screenshot Path] 23863-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-10 22:59:33
+[Builder Position] (x, y, z): (-0.0050144008128, 1.66591797647, -5.97528801253) (yaw, pitch): (-3.2999985, 42.449993)
+[Screenshot Path] 51273-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-10 22:59:37
+[Builder Position] (x, y, z): (-0.00219726527575, 1.66591797647, -5.47434111522) (yaw, pitch): (-24.150002, 68.84998)
+[Screenshot Path] 55523-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.50335054512, 1.23257968377, 0.476849611378)
+
+--------------------
+[Timestamp] 2018-04-10 22:59:38
+[Builder Position] (x, y, z): (-0.00219726527575, 1.66591797647, -5.46384467578) (yaw, pitch): (-18.75, 53.549976)
+[Screenshot Path] 56772-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.625490664192, 1.02024528292, 0.753565519173)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -5)  Perspective (x, y, z): 0.625490664192, 1.61436668276, -0.0508098672317)
+
+--------------------
+[Timestamp] 2018-04-10 22:59:40
+[Builder Position] (x, y, z): (-0.319686912071, 1.66591797647, -6.78658896122) (yaw, pitch): (-16.050001, 6.1499796)
+[Screenshot Path] 58271-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.408068532938, 0.235530279704, 2.18586494545)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -5)  Perspective (x, y, z): 0.408068532938, 1.22977515048, 2.07873354514)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.408068532938, 2.22402002126, 1.97160214482)
+
+--------------------
+[Timestamp] 2018-04-10 22:59:40
+[Builder Position] (x, y, z): (-0.35047561291, 1.66591797647, -6.97413893238) (yaw, pitch): (-16.8, 10.199979)
+[Screenshot Path] 58971-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.379255903644, 0.39023567503, 2.16884325793)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.379255903644, 2.35862702078, 1.81467449875)
+
+--------------------
+[Timestamp] 2018-04-10 22:59:44
+[Builder Position] (x, y, z): (-0.35047561291, 1.66591797647, -7.02170084853) (yaw, pitch): (-18.149998, 3.4499772)
+[Screenshot Path] 62721-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.015726985734, 0.190294289475, 3.15650768181)
+
+--------------------
+[Timestamp] 2018-04-10 22:59:50
+[Builder Position] (x, y, z): (-0.010793331584, 1.66591797647, -6.03047723751) (yaw, pitch): (-19.949997, 23.699976)
+[Screenshot Path] 68670-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.257590894743, 0.89279808413, 2.03385311955)
+
+--------------------
+[Timestamp] 2018-04-10 22:59:52
+[Builder Position] (x, y, z): (-0.010793331584, 1.66591797647, -6.03047723751) (yaw, pitch): (-17.099995, 39.449974)
+[Screenshot Path] 70669-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.36771255681, 1.40146435764, 1.70313978575)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -5)  Perspective (x, y, z): 0.36771255681, 2.17364401845, 1.06773552747)
+
+--------------------
+[Timestamp] 2018-04-10 22:59:53
+[Builder Position] (x, y, z): (-0.010793331584, 1.66591797647, -6.03047723751) (yaw, pitch): (-16.799994, 10.799975)
+[Screenshot Path] 71520-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.379256134411, 0.412925777977, 2.16463786495)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -5)  Perspective (x, y, z): 0.379256134411, 1.39521311047, 1.97725697897)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.379256134411, 2.37750044296, 1.78987609299)
+
+--------------------
+[Timestamp] 2018-04-10 22:59:53
+[Builder Position] (x, y, z): (-0.010793331584, 1.66591797647, -6.03047723751) (yaw, pitch): (-19.349993, 20.849974)
+[Screenshot Path] 72170-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.280836658127, 0.789564331249, 2.07309404955)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.280836658127, 2.65859551667, 1.36124966491)
+
+--------------------
+[Timestamp] 2018-04-10 23:00:00
+[Builder Position] (x, y, z): (-0.010793331584, 1.66591797647, -6.03047723751) (yaw, pitch): (-19.349993, 20.849974)
+[Screenshot Path] 78368-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.280836658127, 0.789564331249, 2.07309404955)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.280836658127, 2.65859551667, 1.36124966491)
+
+--------------------
+[Timestamp] 2018-04-10 23:00:36
+[Builder Position] (x, y, z): (0.44033685386, 3.15814676124, -7.00371121687) (yaw, pitch): (5.8499937, 24.299973)
+[Screenshot Path] 114663-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.305773039236, -0.594694458548, 3.54299892033)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.305773039236, 1.22811248257, 2.7199710621)
+
+--------------------
+[Timestamp] 2018-04-10 23:00:50
+[Builder Position] (x, y, z): (-0.724395166747, 3.15814676124, -6.08342880678) (yaw, pitch): (-27.900007, 24.299974)
+[Screenshot Path] 128160-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): -0.052094271546, -0.902883523682, 2.86043484973)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): -0.052094271546, 0.919923403068, 2.03740695968)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -5)  Perspective (x, y, z): -0.052094271546, 1.83132686644, 1.62589301466)
+
+--------------------
+[Timestamp] 2018-04-10 23:00:50
+[Builder Position] (x, y, z): (-1.27818087943, 3.15814676124, -5.74289890007) (yaw, pitch): (-46.500008, 14.999973)
+[Screenshot Path] 128960-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.651334481699, -1.37821216858, 2.58385266827)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.651334481699, 0.553639727925, 2.06621548843)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -0.037019992713, 1.33182527943, 1.10673887851)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -5)  Perspective (x, y, z): 0.651334481699, 1.51956567618, 1.80739689851)
+
+--------------------
+[Timestamp] 2018-04-10 23:00:52
+[Builder Position] (x, y, z): (-0.0203152810961, 4.65321278068, -6.21454611452) (yaw, pitch): (10.649992, 34.499977)
+[Screenshot Path] 130360-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.35239230516, -1.46375757799, 3.16677261669)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 1.35239230516, 0.184495253989, 2.03396080449)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): 0.369617832296, 1.11329853159, 1.6198608081)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -5)  Perspective (x, y, z): 1.35239230516, 1.00862166998, 1.46755489839)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): 0.369617832296, 1.93742494758, 1.053454902)
+
+--------------------
+[Timestamp] 2018-04-10 23:00:53
+[Builder Position] (x, y, z): (0.527774497721, 5.38641664982, -6.41915648206) (yaw, pitch): (25.949993, 23.999973)
+[Screenshot Path] 131810-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.875173048688, -2.92272746496, 3.26982205945)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.875173048688, -1.09563616633, 2.45634963429)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -0.024003259781, -0.00410823143305, 2.44936868722)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -5)  Perspective (x, y, z): 0.875173048688, -0.18209051702, 2.04961342171)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): -0.024003259781, 0.90943741788, 2.04263247465)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 6, -5)  Perspective (x, y, z): -0.024003259781, 1.82298306719, 1.63589626207)
+
+--------------------
+[Timestamp] 2018-04-10 23:00:55
+[Builder Position] (x, y, z): (1.14343286894, 5.39716619265, -6.13583739634) (yaw, pitch): (37.34999, 16.949982)
+[Screenshot Path] 133110-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.418419965242, -3.18585727349, 3.26729829762)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.418419965242, -1.27273802183, 2.68422477831)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -0.376524494032, -0.139308229693, 2.97301572861)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -5)  Perspective (x, y, z): 0.418419965242, -0.316178395997, 2.39268801865)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): -0.376524494032, 0.817251396137, 2.68147896895)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 6, -5)  Perspective (x, y, z): -0.376524494032, 1.77381102197, 2.38994220929)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -5)  Perspective (x, y, z): 0.418419965242, 1.59694085566, 1.80961449933)
+
+--------------------
+[Timestamp] 2018-04-10 23:00:58
+[Builder Position] (x, y, z): (0.932391498222, 5.39716619265, -11.2504027598) (yaw, pitch): (7.349993, 27.29998)
+[Screenshot Path] 136176-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+	<Builder> like so?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.895510210924, -0.37030527832, 8.00380756034)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.895510210924, 1.40692950719, 7.08650907174)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -0.096272984835, 2.35422191159, 6.74154067728)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -5)  Perspective (x, y, z): 0.895510210924, 2.29554689994, 6.62785982745)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): -0.096272984835, 3.24283930434, 6.28289143298)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 6, -5)  Perspective (x, y, z): -0.096272984835, 4.13145669709, 5.82424218868)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -5)  Perspective (x, y, z): 0.895510210924, 4.07278168545, 5.71056133885)
+
+--------------------
+[Timestamp] 2018-04-10 23:01:18
+[Builder Position] (x, y, z): (-2.37149383267, 5.39716619265, -9.33153152762) (yaw, pitch): (1.9499934, 25.649984)
+[Screenshot Path] 155873-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+	<Builder> like so?
+	<Architect> Sorry, you should use the first block as part of the c
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 3.16839889474, -1.48690101795, 6.1441332836)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 3.16839889474, 0.316009458037, 5.27838862402)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): 2.16897798879, 1.23219414468, 4.8761903238)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -5)  Perspective (x, y, z): 3.16839889474, 1.21746469603, 4.84551629424)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): 2.16897798879, 2.13364938268, 4.44331799402)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 6, -5)  Perspective (x, y, z): 2.16897798879, 3.03510462067, 4.01044566423)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -5)  Perspective (x, y, z): 3.16839889474, 3.02037517202, 3.97977163466)
+
+--------------------
+[Timestamp] 2018-04-10 23:01:31
+[Builder Position] (x, y, z): (-0.0629597770955, 5.39716619265, -7.17768680471) (yaw, pitch): (-6.1500096, 19.64998)
+[Screenshot Path] 169870-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+	<Builder> like so?
+	<Architect> Sorry, you should use the first block as part of the c
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.67284905198, -2.72801860762, 4.25501922789)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.67284905198, -0.844489658062, 3.58247280111)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -0.321395762703, 0.0612492214174, 3.14530655049)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -5)  Perspective (x, y, z): 0.67284905198, 0.0972748167156, 3.24619958771)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): -0.321395762703, 1.0030136962, 2.8090333371)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 6, -5)  Perspective (x, y, z): -0.321395762703, 1.94477817097, 2.47276012371)
+
+--------------------
+[Timestamp] 2018-04-10 23:01:32
+[Builder Position] (x, y, z): (-0.0694564680352, 5.39716619265, -6.87086357517) (yaw, pitch): (13.799993, 17.849983)
+[Screenshot Path] 170670-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+	<Builder> like so?
+	<Architect> Sorry, you should use the first block as part of the c
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.44820098692, -3.28521059474, 2.84782465221)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 1.44820098692, -1.38148589133, 2.23477306086)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): 0.477066677864, -0.356506918122, 2.15529817014)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -5)  Perspective (x, y, z): 1.44820098692, -0.429623539633, 1.92824726518)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): 0.477066677864, 0.595355433579, 1.84877237446)
+
+--------------------
+[Timestamp] 2018-04-10 23:01:35
+[Builder Position] (x, y, z): (0.893825379819, 5.39716619265, -7.88985258428) (yaw, pitch): (8.399994, 28.949966)
+[Screenshot Path] 173220-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+	<Builder> like so?
+	<Architect> Sorry, you should use the first block as part of the c
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.438248774898, -2.06361196961, 4.53314941847)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.438248774898, -0.313526494615, 3.56505808487)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -0.551023573363, 0.632227049709, 3.20884122063)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -5)  Perspective (x, y, z): 0.438248774898, 0.561516242885, 3.08101241807)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): -0.551023573363, 1.50726978721, 2.72479555383)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -5)  Perspective (x, y, z): 0.438248774898, 1.43655898039, 2.59696675127)
+
+--------------------
+[Timestamp] 2018-04-10 23:01:36
+[Builder Position] (x, y, z): (0.870725256711, 5.39716619265, -7.27730636818) (yaw, pitch): (11.099992, 44.249973)
+[Screenshot Path] 174469-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+	<Builder> like so?
+	<Architect> Sorry, you should use the first block as part of the c
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.577565488536, -0.811000048698, 4.89986704181)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.577565488536, 0.621604495804, 3.50428679723)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -0.403727202337, 1.47224659901, 2.94440049888)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): -0.403727202337, 2.18854887126, 2.24661037658)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -5)  Perspective (x, y, z): 0.577565488536, 2.05420904031, 2.10870655265)
+
+--------------------
+[Timestamp] 2018-04-10 23:01:39
+[Builder Position] (x, y, z): (-1.789726186, 2.4027395652, -7.28310418051) (yaw, pitch): (-30.300013, 10.649975)
+[Screenshot Path] 177069-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+	<Builder> like so?
+	<Architect> Sorry, you should use the first block as part of the c
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.213207413127, -0.317603573886, 3.72205192989)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -5)  Perspective (x, y, z): -0.650188023006, 1.5547043891, 2.85659759106)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.213207413127, 1.64794548151, 3.35243468079)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -0.650188023006, 2.5374789168, 2.67178896651)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): -0.650188023006, 3.52025344449, 2.48698034195)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -5)  Perspective (x, y, z): 0.213207413127, 3.6134945369, 2.98281743168)
+
+--------------------
+[Timestamp] 2018-04-10 23:01:42
+[Builder Position] (x, y, z): (0.749041346442, 2.4027395652, -10.8090633604) (yaw, pitch): (-1.6500152, 5.0999765)
+[Screenshot Path] 180018-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+	<Builder> like so?
+	<Architect> Sorry, you should use the first block as part of the c
+	<Builder> like that?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): -0.17276530529, -0.462898925319, 6.06266251199)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -5)  Perspective (x, y, z): -1.17235066584, 1.52662364846, 5.85619451114)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): -0.17276530529, 1.52918327842, 5.88487473531)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -1.17235066584, 2.52266475033, 5.7673006228)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): -1.17235066584, 3.51870585221, 5.67840673446)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -5)  Perspective (x, y, z): -0.17276530529, 3.52126548216, 5.70708695863)
+
+--------------------
+[Timestamp] 2018-04-10 23:01:46
+[Builder Position] (x, y, z): (0.171718909894, 2.4027395652, -10.8434157737) (yaw, pitch): (2.3999882, 10.799976)
+[Screenshot Path] 184717-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready!
+	<Architect> Ok, this one is a vertical question mark.
+	<Architect> Go ahead and put down a single blue block
+	<Architect> You had it right
+	<Builder> okay!
+	<Architect> Now just make a 3 block tall c facing the wrong way. It should only be two blocks wide
+	<Builder> like so?
+	<Architect> Sorry, you should use the first block as part of the c
+	<Builder> like that?
+	<Architect> Yup, perfect
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.251252687766, 0.141011909903, 6.07593513199)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -5)  Perspective (x, y, z): -0.747870150957, 2.1134332276, 5.74230704768)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -5)  Perspective (x, y, z): 0.251252687766, 2.10558656834, 5.70117332574)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -0.747870150957, 3.09572055682, 5.55492614455)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 5, -5)  Perspective (x, y, z): -0.747870150957, 4.07800788604, 5.36754524142)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -5)  Perspective (x, y, z): 0.251252687766, 4.07016122678, 5.32641151949)
+
+Time elapsed: 0:03:30 (210.43s)

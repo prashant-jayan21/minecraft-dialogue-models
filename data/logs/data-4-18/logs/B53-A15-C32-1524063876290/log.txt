@@ -1,0 +1,345 @@
+
+--------------------
+[Timestamp] 2018-04-18 15:05:04
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-18 15:05:17
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (11.099945, 13.650019)
+[Screenshot Path] 13211-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-18 15:05:33
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (7.1998596, 23.700016)
+[Screenshot Path] 29156-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-18 15:05:43
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (7.1998596, 23.700016)
+[Screenshot Path] 38955-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-18 15:05:55
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (341.09998, 42.300022)
+[Screenshot Path] 51202-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.323917748444, 0.636727477929, 0.699753821778)
+
+--------------------
+[Timestamp] 2018-04-18 15:05:56
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (17.399902, 42.900024)
+[Screenshot Path] 52102-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.6552016799, 0.853134235284, 0.918081006907)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.299039160101, 0.649571946608, 0.699022078984)
+
+--------------------
+[Timestamp] 2018-04-18 15:05:58
+[Builder Position] (x, y, z): (-1.67606284594, 1.0, -0.355239438395) (yaw, pitch): (352.64996, 38.400013)
+[Screenshot Path] 53652-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -0.255861687394, 1.23208808346, 1.55450755917)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.735921403423, 1.3115520658, 1.65476610633)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.72770449424, 1.39101604814, 1.7550246535)
+
+--------------------
+[Timestamp] 2018-04-18 15:06:07
+[Builder Position] (x, y, z): (-1.52574290094, 1.0, -2.37766085415) (yaw, pitch): (358.5, 21.000011)
+[Screenshot Path] 63000-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+	<Architect> and then on one side, stack two more blue blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -0.104707793232, 1.43298129989, 3.73304177209)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.894949531744, 1.44236228387, 3.75748005686)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.89460685672, 1.45174326786, 3.78191834162)
+
+--------------------
+[Timestamp] 2018-04-18 15:06:13
+[Builder Position] (x, y, z): (-1.77836061417, 1.0, -1.21914036047) (yaw, pitch): (355.50006, 20.550009)
+[Screenshot Path] 69149-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+	<Architect> and then on one side, stack two more blue blocks
+	<Architect> so you have an "L" shape
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -0.235374155275, 1.04982819636, 2.80043920933)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.76154326062, 1.07736891794, 2.87390467428)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.75846067651, 1.10490963952, 2.94737013923)
+
+--------------------
+[Timestamp] 2018-04-18 15:06:17
+[Builder Position] (x, y, z): (1.12972698368, 3.53292827534, -0.716068688712) (yaw, pitch): (13.350006, 54.0)
+[Screenshot Path] 72648-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+	<Architect> and then on one side, stack two more blue blocks
+	<Architect> so you have an "L" shape
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -2.45713514509, 0.959144189168, 3.16899499892)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.48415742329, 0.772342965972, 3.03327596598)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.511179701494, 0.585541742775, 2.89755693305)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.511179701494, 1.17332699507, 2.08853993867)
+
+--------------------
+[Timestamp] 2018-04-18 15:06:18
+[Builder Position] (x, y, z): (1.23147212004, 3.53292827534, -0.702164835622) (yaw, pitch): (21.75, 39.3)
+[Screenshot Path] 73865-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+	<Architect> and then on one side, stack two more blue blocks
+	<Architect> so you have an "L" shape
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -2.0453137836, 0.333011970139, 3.56451883911)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.11650423072, 0.0983079770103, 3.27776659396)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.187694677852, -0.136396016119, 2.9910143488)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.187694677852, 0.637444193608, 2.35763347617)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.187694677852, 1.41128440334, 1.72425260354)
+
+--------------------
+[Timestamp] 2018-04-18 15:06:22
+[Builder Position] (x, y, z): (1.24188575725, 3.53292827534, -0.702164835622) (yaw, pitch): (21.75, 39.3)
+[Screenshot Path] 77414-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+	<Architect> and then on one side, stack two more blue blocks
+	<Architect> so you have an "L" shape
+	<Builder> Ok, like this?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -2.0453137836, 0.333011970139, 3.56451883911)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.11650423072, 0.0983079770103, 3.27776659396)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.187694677852, -0.136396016119, 2.9910143488)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.187694677852, 0.637444193608, 2.35763347617)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.187694677852, 1.41128440334, 1.72425260354)
+
+--------------------
+[Timestamp] 2018-04-18 15:06:25
+[Builder Position] (x, y, z): (-0.989497241873, 3.53292827534, -2.95885921389) (yaw, pitch): (354.60004, 34.500008)
+[Screenshot Path] 80715-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+	<Architect> and then on one side, stack two more blue blocks
+	<Architect> so you have an "L" shape
+	<Builder> Ok, like this?
+	<Architect> perfect! all done
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -1.37199250344, 0.554015259233, 4.33713081)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.37643047314, 0.607318412001, 4.41468735534)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.619131557163, 0.660621564768, 4.49224390067)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.619131557163, 1.48474767431, 3.92583754868)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.619131557163, 2.30887378384, 3.35943119668)
+
+--------------------
+[Timestamp] 2018-04-18 15:06:28
+[Builder Position] (x, y, z): (-0.989497241873, 3.53292827534, -3.11128303119) (yaw, pitch): (345.45004, 22.950005)
+[Screenshot Path] 84015-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> hello! this one's pretty easy
+	<Architect> put a row of 3 blue blocks on the ground anywhere
+	<Builder> That does sound easy
+	<Architect> and then on one side, stack two more blue blocks
+	<Architect> so you have an "L" shape
+	<Builder> Ok, like this?
+	<Architect> perfect! all done
+	<Builder> Cool
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -2.22404945471, -0.0525382704802, 5.00508179285)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.25612050533, 0.0454209825532, 5.23642036227)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.288191555952, 0.143380235587, 5.46775893169)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.288191555952, 1.0642256817, 5.07783116355)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.288191555952, 1.98507112781, 4.6879033954)
+
+Time elapsed: 0:01:56 (116.59s)

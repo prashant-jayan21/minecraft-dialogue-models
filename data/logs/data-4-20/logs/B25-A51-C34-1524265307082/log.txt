@@ -1,0 +1,891 @@
+
+--------------------
+[Timestamp] 2018-04-20 23:01:59
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-20 23:02:22
+[Builder Position] (x, y, z): (0.0740031173658, 5.25115308358, -7.80294775396) (yaw, pitch): (-2.849991, 42.600025)
+[Screenshot Path] 22077-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-20 23:02:37
+[Builder Position] (x, y, z): (0.853930382753, 2.25672645614, -7.54440916474) (yaw, pitch): (-10.349991, 43.50002)
+[Screenshot Path] 37725-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 0.444746874964, 1.42975922122, 2.95938993486)
+
+--------------------
+[Timestamp] 2018-04-20 23:02:38
+[Builder Position] (x, y, z): (1.12218218637, 2.25672645614, -7.11067083686) (yaw, pitch): (11.400009, 46.650017)
+[Screenshot Path] 38774-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): -0.387298660494, 1.5957620906, 2.88158690617)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 0.59297248308, 1.45203066127, 2.74590433064)
+
+--------------------
+[Timestamp] 2018-04-20 23:02:39
+[Builder Position] (x, y, z): (1.13734828083, 2.25672645614, -7.04649364871) (yaw, pitch): (41.100018, 43.650013)
+[Screenshot Path] 39940-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.465000076037, 1.74438321939, 3.27733155375)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.21856326182, 1.29062886935, 2.80167462396)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 1.9721264476, 0.836874519309, 2.32601769417)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:01
+[Builder Position] (x, y, z): (1.13734828083, 10.5010581543, -7.04332339516) (yaw, pitch): (33.90002, 90.0)
+[Screenshot Path] 61938-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.013212015315, 3.60552706864, 9.0)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.843224105721, 3.04778166993, 9.0)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 1.67323619613, 2.49003627122, 9.0)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:09
+[Builder Position] (x, y, z): (-0.392294057195, 2.63101244399, -5.84244428072) (yaw, pitch): (18.000029, 60.59994)
+[Screenshot Path] 69369-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.309017475748, 0.337668281027, 1.3380913017)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.26007383564, 0.0684481471351, 1.18639318099)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.21113019552, -0.200771986756, 1.03469506029)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -5)  Perspective (x, y, z): 0.309017475748, 0.828572946975, 0.466878004648)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:09
+[Builder Position] (x, y, z): (-0.403164279208, 2.63101244399, -5.84244428072) (yaw, pitch): (-2.0999713, 43.799942)
+[Screenshot Path] 69936-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): -0.0366432081335, -0.0300833199754, 1.41341864611)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.962685204001, -0.00472100036979, 1.43986628204)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 1.96201361613, 0.0206413192358, 1.46631391797)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -5)  Perspective (x, y, z): -0.0366432081335, 0.691677608773, 0.721276202866)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, -5)  Perspective (x, y, z): -0.0366432081335, 1.41343853752, 0.0291337596271)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:10
+[Builder Position] (x, y, z): (-0.403164279208, 5.23050321133, -5.84244428072) (yaw, pitch): (1.3500284, 66.449936)
+[Screenshot Path] 70752-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.0235602603695, -0.681744064752, 4.06628453804)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.02328267891, -0.703342021775, 4.05687103066)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.02300509745, -0.724939978799, 4.04745752329)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -5)  Perspective (x, y, z): 0.0235602603695, -0.282193837897, 3.14957323331)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, -5)  Perspective (x, y, z): 0.0235602603695, 0.117356388958, 2.23286192858)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): 0.0235602603695, 0.516906615813, 1.31615062385)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:33
+[Builder Position] (x, y, z): (-0.125113360833, 2.63101244399, -11.8339060442) (yaw, pitch): (2.8556586e-05, 23.399948)
+[Screenshot Path] 93465-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 3.4888451418e-06, 1.86227441782, 6.82143196057)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.00000348885, 1.86227421988, 6.82143150316)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.00000348885, 1.86227402194, 6.82143104574)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -5)  Perspective (x, y, z): 3.4888451418e-06, 2.78002940395, 6.42428490287)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, -5)  Perspective (x, y, z): 3.4888451418e-06, 3.69778439007, 6.02713784516)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): 3.4888451418e-06, 4.6155393762, 5.62999078745)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:36
+[Builder Position] (x, y, z): (-1.2715315029, 2.63101244399, -5.5634681306) (yaw, pitch): (-31.79997, 55.79995)
+[Screenshot Path] 97515-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.322937618406, 0.576679723719, 1.60098463168)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.17283058731, 1.01251399915, 1.8971778554)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.02272355621, 1.44834827457, 2.19337107912)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 2, -5)  Perspective (x, y, z): 0.322937618406, 1.13876382333, 0.773904547914)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): 0.322937618406, 2.26293202257, -0.880255619614)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:37
+[Builder Position] (x, y, z): (-1.88898801741, 2.63101244399, -5.12593531502) (yaw, pitch): (-53.249973, 49.49995)
+[Screenshot Path] 98015-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): -0.202928552584, 0.414798342364, 1.66935985866)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.395396425569, 1.02407585298, 2.18973293211)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 0.993721403722, 1.6333533636, 2.71010600556)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, -5)  Perspective (x, y, z): -0.202928552584, 2.36314447809, -0.611856337884)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:38
+[Builder Position] (x, y, z): (-2.21716365223, 2.63101244399, -4.89338839693) (yaw, pitch): (-80.099976, -4.6500483)
+[Screenshot Path] 98964-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.343859025842, -1.1564332457, 1.88266383579)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.515788538763, -1.23629564664, 2.86453054747)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 0.687718051684, -1.31615804758, 3.84639725915)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:40
+[Builder Position] (x, y, z): (-2.07278843792, 2.63101244399, -4.65275239308) (yaw, pitch): (-57.599976, 60.599976)
+[Screenshot Path] 101281-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 1.0716542973, 0.980275442756, 1.7001814972)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.60748144595, 1.71586522341, 2.11466544305)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.1433085946, 2.45145500406, 2.5291493889)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.227326596245, 1.44709534485, 1.9632212513)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:41
+[Builder Position] (x, y, z): (-2.17328115564, 2.63101244399, -4.11838154714) (yaw, pitch): (-44.699978, 52.49998)
+[Screenshot Path] 102280-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 1.42159948791, 0.507318636099, 1.64975231396)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 2.13239923187, 1.06535880712, 2.07795190705)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.84319897583, 1.62339897814, 2.50615150013)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.718205058031, 1.0712338362, 2.08245997868)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): 0.014810628148, 1.6351490363, 2.51516764339)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:42
+[Builder Position] (x, y, z): (-0.415179983986, 2.63101244399, -2.23168778486) (yaw, pitch): (-13.049972, 70.19999)
+[Screenshot Path] 103280-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.451601581596, -2.17190018777, 0.280901381007)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.42577507891, -1.95944857945, 0.357388708352)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.39994857623, -1.74699697112, 0.433876035696)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.225800790798, -1.25531913612, 0.61089104542)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): 0.0, -0.33873808446, 0.940880709833)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.225800790798, 0.577842967196, 1.27087037425)
+
+--------------------
+[Timestamp] 2018-04-20 23:03:57
+[Builder Position] (x, y, z): (0.622032573288, 6.37537816527, -5.85440688124) (yaw, pitch): (5.4000287, 70.79997)
+[Screenshot Path] 117478-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): -0.901453105458, -0.615276605451, 5.08023788788)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.0941088120049, -0.704150727535, 5.04928859191)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 1.08967072947, -0.793024849618, 5.01833929594)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -0.807344293453, 0.324908373079, 5.40764548958)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -0.713235481448, 1.26509335161, 5.73505309127)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.619126669443, 2.20527833014, 6.06246069297)
+
+--------------------
+[Timestamp] 2018-04-20 23:04:08
+[Builder Position] (x, y, z): (0.89933281802, 3.12361643861, -2.99904307928) (yaw, pitch): (24.450027, 69.44999)
+[Screenshot Path] 129076-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): -1.73812146306, -2.0192787948, 1.37892963146)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): -0.827798845642, -2.40684020705, 1.23364066441)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 0.082523771779, -2.7944016193, 1.08835169736)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -1.32422204024, -1.16688350319, 1.69847545702)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -0.910322617421, -0.314488211588, 2.01802128259)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.4964231946, 0.537907080018, 2.33756710815)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.413899422821, 0.150345667768, 2.19227814111)
+
+--------------------
+[Timestamp] 2018-04-20 23:04:24
+[Builder Position] (x, y, z): (1.36895176164, 6.00761599062, -6.57403916261) (yaw, pitch): (11.850027, 61.649998)
+[Screenshot Path] 144025-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): -1.54667560963, -0.290223394245, 5.52481356609)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): -0.567987146806, -0.470944968233, 5.42730148766)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 0.410701316014, -0.651666542221, 5.32978940924)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -1.34132495162, 0.571084386122, 5.98955006642)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -1.13597429361, 1.43239216649, 6.45428656675)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.930623635605, 2.29369994686, 6.91902306708)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.048064827215, 2.11297837287, 6.82151098865)
+
+--------------------
+[Timestamp] 2018-04-20 23:04:34
+[Builder Position] (x, y, z): (2.27192314083, 3.14262010172, -2.5518381173) (yaw, pitch): (34.95003, 73.5)
+[Screenshot Path] 155222-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): -3.60467952109, -0.492014058911, 1.94015662153)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): -2.78502754886, -1.04128526021, 1.77745507931)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): -1.96537557663, -1.59055646151, 1.61475353709)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -3.03181771889, 0.293884427788, 2.17295035896)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -2.4589559167, 1.07978291449, 2.40574409639)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -1.8860941145, 1.86568140119, 2.63853783382)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -1.06644214227, 1.31641019989, 2.4758362916)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.246790170035, 0.76713899859, 2.31313474939)
+
+--------------------
+[Timestamp] 2018-04-20 23:04:57
+[Builder Position] (x, y, z): (0.602325372081, 4.51413273386, -7.92454614085) (yaw, pitch): (4.5000305, 51.149998)
+[Screenshot Path] 177819-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): -0.76153841273, 0.508422675917, 4.26163884305)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.235378879237, 0.447319038234, 4.21242239825)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 1.2322961712, 0.386215400551, 4.16320595345)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -0.683078786318, 1.28481272254, 4.88698881109)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -0.604619159905, 2.06120276916, 5.51233877913)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.526159533493, 2.83759281578, 6.13768874717)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.470757758474, 2.7764891781, 6.08847230237)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.46767505044, 2.71538554042, 6.03925585757)
+
+--------------------
+[Timestamp] 2018-04-20 23:05:07
+[Builder Position] (x, y, z): (0.812631438493, 2.26953686961, -0.679168159712) (yaw, pitch): (-39.59997, 71.7)
+[Screenshot Path] 187417-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 1.77918076871, -3.84535953057, -0.218462520717)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 2.54969434524, -3.24017333767, -0.0183163233603)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 3.32020792177, -2.63498714478, 0.181829873996)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 1.1417571824, -3.11381431014, 0.0234729295338)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): 0.504333596088, -2.38226908971, 0.265408379784)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.133089990221, -1.65072386929, 0.507343830035)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.637423586309, -1.04553767639, 0.707490027391)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.40793716284, -0.440351483502, 0.907636224748)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.77051357653, 0.291193736925, 1.149571675)
+
+--------------------
+[Timestamp] 2018-04-20 23:05:07
+[Builder Position] (x, y, z): (0.919472883658, 2.26953686961, 0.0807776179605) (yaw, pitch): (-52.049973, 75.0)
+[Screenshot Path] 187966-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 3.32776320492, -3.99059344515, -0.0340001105406)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 3.94273714839, -3.22891511757, 0.170090982227)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 4.55771109186, -2.46723678999, 0.374182074995)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 2.53921577524, -3.39657423066, 0.125166858272)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): 1.75066834556, -2.80255501616, 0.284333827084)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.962120915885, -2.20853580167, 0.443500795897)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.57709485936, -1.44685747409, 0.647591888664)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.19206880283, -0.68517914651, 0.851682981432)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.40352137315, -0.0911599320166, 1.01084995024)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.614973943471, 0.502859282477, 1.17001691906)
+
+--------------------
+[Timestamp] 2018-04-20 23:05:08
+[Builder Position] (x, y, z): (0.944814000693, 2.26953686961, 0.35007867593) (yaw, pitch): (-21.44997, 58.2)
+[Screenshot Path] 188517-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.897706049415, -4.79288580083, -1.7950959721)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.82844328721, -4.48208968296, -1.60239421472)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.75918052501, -4.17129356509, -1.40969245733)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.532017391973, -4.00185902334, -1.30463859056)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): 0.166328734531, -3.21083224584, -0.814181209022)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.199359922911, -2.41980546835, -0.323723827481)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.731377314884, -2.10900935048, -0.131022070095)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.66211455268, -1.79821323261, 0.0616796872917)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.29642589524, -1.00718645512, 0.552137068833)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.930737237795, -0.216159677629, 1.04259445037)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 2)  Perspective (x, y, z): 0.199359922911, 1.36589387736, 2.02350921346)
+
+--------------------
+[Timestamp] 2018-04-20 23:05:08
+[Builder Position] (x, y, z): (0.944814000693, 2.26953686961, 0.421507065016) (yaw, pitch): (-18.149971, 50.550003)
+[Screenshot Path] 189116-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.60728214754, -4.54473837796, -2.44470069112)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.55752655861, -4.30420039147, -2.24676879302)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.50777096968, -4.06366240498, -2.04883689491)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.295776835818, -3.81097921332, -1.84091105137)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -0.015728475904, -3.07722004867, -1.23712141162)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.327233787626, -2.34346088403, -0.633331771869)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.623010623444, -2.10292289754, -0.435399873766)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.57325503451, -1.86238491105, -0.237467975662)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.26174972279, -1.12862574641, 0.366321664088)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.95024441107, -0.394866581764, 0.970111303839)
+
+--------------------
+[Timestamp] 2018-04-20 23:05:09
+[Builder Position] (x, y, z): (0.944814000693, 2.26953686961, 0.454514660958) (yaw, pitch): (-23.099972, 70.5)
+[Screenshot Path] 190069-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 1.04186164642, -5.03895012266, -0.723537124905)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.96168333547, -4.66911730178, -0.5925724543)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.88150502452, -4.2992844809, -0.461607783695)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.649524979322, -4.17188803415, -0.416494335827)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): 0.257188312228, -3.30482594564, -0.109451546748)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.135148354866, -2.43776385713, 0.19759124233)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.784673334188, -2.06793103625, 0.328555912935)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.70449502324, -1.69809821537, 0.45952058354)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.31215835615, -0.831036126863, 0.766563372619)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.919821689054, 0.0360259616456, 1.0736061617)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.52748502196, 0.903088050154, 1.38064895078)
+
+--------------------
+[Timestamp] 2018-04-20 23:05:23
+[Builder Position] (x, y, z): (0.802382208404, 5.63892542697, -6.28264015832) (yaw, pitch): (3.900027, 60.900005)
+[Screenshot Path] 203181-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+	<Architect> great so on the top green now, place 2 additional greens to its right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): -0.861652725158, -0.14241328219, 4.49858567088)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.136031521626, -0.201843567604, 4.46550720516)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 1.13371576841, -0.261273853017, 4.43242873944)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -0.793636964345, 0.729335542352, 4.98379474251)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -0.725621203532, 1.60108436689, 5.46900381414)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.657605442719, 2.47283319144, 5.95421288576)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.340078804065, 2.41340290602, 5.92113442004)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.33776305085, 2.35397262061, 5.88805595432)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.40577881166, 3.22572144515, 6.37326502594)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.47379457247, 4.09747026969, 6.85847409757)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.54181033329, 4.96921909424, 7.3436831692)
+
+--------------------
+[Timestamp] 2018-04-20 23:05:37
+[Builder Position] (x, y, z): (-0.248384536056, 3.39432956273, 0.771145850092) (yaw, pitch): (-30.749966, 77.10001)
+[Screenshot Path] 217778-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+	<Architect> great so on the top green now, place 2 additional greens to its right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 2.55646288048, -4.6350816378, 0.990209953337)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 3.41586959538, -4.13669345582, 1.10435599328)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 4.27527631029, -3.63830527385, 1.21850203322)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 2.04517030438, -3.79736528859, 1.18207245593)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): 1.53387772829, -2.95964893939, 1.37393495853)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 1.02258515219, -2.12193259018, 1.56579746112)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.8819918671, -1.6235444082, 1.67994350107)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.74139858201, -1.12515622622, 1.79408954101)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.23010600591, -0.287439877018, 1.9859520436)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.71881342982, 0.55027647219, 2.1778145462)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.348114138814, 0.889604639419, 2.25553100885)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.20752085372, 1.3879928214, 2.36967704879)
+
+--------------------
+[Timestamp] 2018-04-20 23:05:37
+[Builder Position] (x, y, z): (-0.579063624423, 3.39432956273, 0.667419567577) (yaw, pitch): (-8.999967, 76.500015)
+[Screenshot Path] 218228-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+	<Architect> great so on the top green now, place 2 additional greens to its right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.782169480865, -5.26888312406, 0.791884794786)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 1.76985791156, -5.11677149933, 0.828403522774)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 2.75754634225, -4.9646598746, 0.864922250763)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.625735584692, -4.30848454296, 1.02245582843)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): 0.469301688519, -3.34808596187, 1.25302686208)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.312867792346, -2.38768738077, 1.48359789573)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.30055622304, -2.23557575604, 1.52011662372)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.28824465374, -2.08346413131, 1.55663535171)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.13181075756, -1.12306555022, 1.78720638536)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.97537686139, -0.162666969121, 2.017777419)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.156433896173, 0.493508362516, 2.17531099667)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.831254534522, 0.645619987245, 2.21182972466)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.81894296522, 0.797731611975, 2.24834845265)
+
+--------------------
+[Timestamp] 2018-04-20 23:05:46
+[Builder Position] (x, y, z): (-0.560605820515, 6.39421957243, -4.02978631146) (yaw, pitch): (-6.8999677, 70.65002)
+[Screenshot Path] 226827-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+	<Architect> great so on the top green now, place 2 additional greens to its right
+	<Architect> and its done :^)
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.0, -1.65668779558, 4.71756139844)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.992757409655, -1.54333774094, 4.75736705994)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 1.98551481931, -1.4299876863, 4.79717272144)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -0.120136279176, -0.720008988815, 5.04649921534)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -0.240272558352, 0.216669817944, 5.37543703225)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.360408837528, 1.1533486247, 5.70437484916)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.632348572127, 1.26669867934, 5.74418051066)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.62510598178, 1.38004873398, 5.78398617217)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.50496970261, 2.31672754074, 6.11292398908)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.38483342343, 3.2534063475, 6.44186180598)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.720817675056, 3.96338504498, 6.69118829989)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.271939734599, 4.07673509962, 6.73099396139)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.26469714425, 4.19008515426, 6.77079962289)
+
+--------------------
+[Timestamp] 2018-04-20 23:05:49
+[Builder Position] (x, y, z): (-0.560605820515, 6.39421957243, -4.02978631146) (yaw, pitch): (-6.8999677, 70.65002)
+[Screenshot Path] 229176-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> okay so edge closest to you, form a 3x1 layer of red
+	<Architect> rightmost red block, place 3 additional red blocks (on the ground) on top
+	<Architect> it's going to be flat on the ground, so the additional 3 reds should be on the ground
+	<Architect> great so the top red, place one yellow to its left
+	<Architect> so to the left of the yellow, place one green block
+	<Architect> place three additional green blocks on above the green block, but they're all be touching the ground
+	<Architect> great so on the top green now, place 2 additional greens to its right
+	<Architect> and its done :^)
+	<Builder> yay
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -5)  Perspective (x, y, z): 0.0, -1.65668779558, 4.71756139844)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 1, -5)  Perspective (x, y, z): 0.992757409655, -1.54333774094, 4.75736705994)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 1, -5)  Perspective (x, y, z): 1.98551481931, -1.4299876863, 4.79717272144)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -0.120136279176, -0.720008988815, 5.04649921534)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -3)  Perspective (x, y, z): -0.240272558352, 0.216669817944, 5.37543703225)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.360408837528, 1.1533486247, 5.70437484916)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.632348572127, 1.26669867934, 5.74418051066)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.62510598178, 1.38004873398, 5.78398617217)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.50496970261, 2.31672754074, 6.11292398908)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.38483342343, 3.2534063475, 6.44186180598)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.720817675056, 3.96338504498, 6.69118829989)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.271939734599, 4.07673509962, 6.73099396139)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.26469714425, 4.19008515426, 6.77079962289)
+
+Time elapsed: 0:04:06 (246.07s)

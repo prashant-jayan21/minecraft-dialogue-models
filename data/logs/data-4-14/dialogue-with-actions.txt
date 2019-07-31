@@ -1,0 +1,777 @@
+B49-A39-C103-1523765212662
+<Builder> Mission has started.
+<Architect> hi
+<Builder> hey
+<Architect> so we're going to make a green chair thing
+<Builder> ready
+<Architect> first, put two green blocks on the ground with a space between them
+[Builder puts down a green block at X:1 Y:1 Z:0]
+[Builder puts down a green block at X:-1 Y:1 Z:0]
+<Builder> one space?
+<Architect> yup, that looks good
+<Architect> behind them and in the middle of them, put another green block
+[Builder puts down a green block at X:0 Y:1 Z:1]
+<Architect> it should also have a blank space between these two and it though
+<Architect> sorry, wasn't fast enough
+<Architect> so move that one you placed backwards a space
+<Builder> one more over?
+<Architect> yeah
+[Builder picks up a green block at X:0 Y:1 Z:1]
+[Builder puts down a green block at X:0 Y:1 Z:2]
+<Architect> nice
+<Architect> in the middle of all three of these blocks, on the layer above them, place another green block
+[Builder puts down a green block at X:0 Y:1 Z:1]
+[Builder puts down a green block at X:0 Y:2 Z:1]
+[Builder picks up a green block at X:0 Y:1 Z:1]
+<Builder> like so?
+<Architect> yup, exactly
+<Architect> now make a 3x3 platform on top of that last block, centered at that block
+[Builder picks up a green block at X:0 Y:2 Z:1]
+[Builder puts down a green block at X:0 Y:1 Z:1]
+[Builder puts down a green block at X:0 Y:2 Z:1]
+[Builder picks up a green block at X:0 Y:1 Z:1]
+[Builder puts down a green block at X:0 Y:3 Z:1]
+[Builder puts down a green block at X:0 Y:3 Z:0]
+[Builder puts down a green block at X:1 Y:3 Z:0]
+[Builder puts down a green block at X:1 Y:3 Z:1]
+[Builder puts down a green block at X:1 Y:3 Z:2]
+[Builder puts down a green block at X:0 Y:3 Z:2]
+[Builder puts down a green block at X:-1 Y:3 Z:2]
+[Builder puts down a green block at X:-1 Y:3 Z:1]
+[Builder puts down a green block at X:-1 Y:3 Z:0]
+<Builder> OK
+<Architect> cool, that's the seat of the chair
+<Architect> the back will be aligned with the row that is aligned with the one-block leg
+<Builder> OK
+<Architect> and it goes straight up by two blocks
+[Builder puts down a green block at X:1 Y:4 Z:2]
+[Builder puts down a green block at X:0 Y:4 Z:2]
+[Builder puts down a green block at X:-1 Y:4 Z:2]
+[Builder puts down a green block at X:1 Y:5 Z:2]
+[Builder puts down a green block at X:0 Y:5 Z:2]
+[Builder puts down a green block at X:-1 Y:5 Z:2]
+<Builder> OK
+<Architect> beautiful :)
+<Builder> THANKS
+
+B49-A39-C74-1523765872040
+<Builder> Mission has started.
+<Architect> hi!
+<Architect> not really sure how to describe this one
+<Builder> salut
+<Architect> close to an edge, start by placing 2 orange blocks with 3 blank spaces between them
+[Builder puts down a orange block at X:5 Y:1 Z:-3]
+[Builder puts down a orange block at X:5 Y:1 Z:1]
+<Builder> k
+<Architect> on the left block, put another orange block diagonally up and right of it
+[Builder puts down a orange block at X:5 Y:1 Z:-2]
+[Builder puts down a orange block at X:5 Y:2 Z:-2]
+[Builder picks up a orange block at X:5 Y:1 Z:-2]
+<Builder> ok
+<Architect> do the same for the other block, except going inwards
+[Builder puts down a orange block at X:5 Y:1 Z:0]
+[Builder puts down a orange block at X:5 Y:2 Z:0]
+[Builder picks up a orange block at X:5 Y:1 Z:0]
+<Builder> ok
+<Architect> on those two top blocks, put one orange block each going towards you
+<Builder> same level?
+<Architect> yes
+[Builder puts down a orange block at X:4 Y:2 Z:0]
+[Builder puts down a orange block at X:4 Y:2 Z:-2]
+<Architect> now connect those last two in the middle, such that they make a U shape if you look from above
+[Builder puts down a orange block at X:4 Y:2 Z:-1]
+<Builder> ok
+<Architect> cool, done with orange blocks
+<Architect> let's use green
+<Architect> on that middle block you just placed, put a green block on the face going towards you, same level
+[Builder puts down a green block at X:3 Y:2 Z:-1]
+<Architect> wait, can you go back to the perspective you were at before
+<Architect> oh okay, this works
+<Architect> now, one more green block diagonally towards you and up
+[Builder puts down a green block at X:3 Y:3 Z:-1]
+[Builder puts down a green block at X:2 Y:3 Z:-1]
+[Builder puts down a green block at X:2 Y:3 Z:0]
+[Builder picks up a green block at X:3 Y:3 Z:-1]
+[Builder picks up a green block at X:2 Y:3 Z:-1]
+<Builder> is this what you meant
+<Architect> oh, wait
+<Architect> you had it and then removed it
+<Architect> it's to the left of the top block you have here
+[Builder puts down a green block at X:2 Y:3 Z:-1]
+[Builder picks up a green block at X:2 Y:3 Z:0]
+<Architect> yup!
+<Builder> i thought you said right for some reason
+<Architect> oh haha
+<Architect> can you do that one more time
+[Builder picks up a green block at X:2 Y:3 Z:-1]
+[Builder puts down a green block at X:3 Y:3 Z:-1]
+[Builder puts down a green block at X:2 Y:3 Z:-1]
+[Builder puts down a green block at X:2 Y:4 Z:-1]
+[Builder puts down a green block at X:1 Y:4 Z:-1]
+[Builder picks up a green block at X:3 Y:3 Z:-1]
+[Builder picks up a green block at X:2 Y:4 Z:-1]
+<Architect> okay cool, we finished one part of the structure
+<Architect> can you go behind the structure now
+<Architect> so opposite here
+<Builder> ready
+<Architect> two to the left and three forwards from the bottom left orange block, place a purple block
+[Builder puts down a purple block at X:2 Y:1 Z:3]
+<Builder> correct?
+<Architect> i think so!
+<Architect> then put another purple diagaonally up and to the right of that one
+[Builder puts down a purple block at X:1 Y:1 Z:2]
+<Architect> diagonally*
+<Architect> that's close, but when i said "up" i meant up one layer
+[Builder puts down a purple block at X:2 Y:2 Z:3]
+[Builder puts down a purple block at X:2 Y:2 Z:2]
+[Builder picks up a purple block at X:2 Y:2 Z:3]
+[Builder picks up a purple block at X:1 Y:1 Z:2]
+<Builder> ok
+<Architect> one more similar looking structure
+<Architect> two blocks forward from the top purple block, put a red
+[Builder picks up a purple block at X:2 Y:2 Z:2]
+[Builder puts down a purple block at X:2 Y:2 Z:3]
+[Builder puts down a purple block at X:2 Y:2 Z:2]
+[Builder picks up a purple block at X:2 Y:2 Z:3]
+[Builder puts down a purple block at X:1 Y:2 Z:2]
+[Builder puts down a red block at X:0 Y:2 Z:2]
+[Builder picks up a purple block at X:1 Y:2 Z:2]
+<Builder> ok
+<Builder> i think
+<Architect> yeah! now make the mirror image of the purple structure in red
+[Builder puts down a red block at X:0 Y:2 Z:3]
+[Builder puts down a red block at X:0 Y:1 Z:3]
+[Builder picks up a red block at X:0 Y:2 Z:3]
+<Builder> done!
+<Architect> uhh
+<Architect> so put the bottom red on the other side
+[Builder puts down a red block at X:0 Y:1 Z:1]
+[Builder picks up a red block at X:0 Y:1 Z:3]
+<Builder> thats not mirror
+<Architect> sorry i'm bad at explaining
+<Architect> let me just check that it's right
+<Builder> across no centerline is that a mirror
+<Architect> across the axis that connects the top purple and red? idk
+<Architect> just shifted
+<Architect> okay, this looks good
+<Builder> looks like a some sea monsters with just their heads poking out of the water
+<Architect> i could see that
+
+B49-A39-C71-1523766649650
+<Builder> Mission has started.
+<Architect> hello again :)
+<Builder> ready player one
+<Architect> this one looks annoying
+<Architect> it's a bunch of dotted lines
+<Architect> going from one edge to the other, make a floating row of green blocks, except that they have one-block gaps in between them
+<Architect> it will have 5 blocks total
+[Builder puts down a green block at X:5 Y:1 Z:0]
+[Builder puts down a green block at X:5 Y:2 Z:0]
+[Builder puts down a green block at X:3 Y:1 Z:0]
+[Builder puts down a green block at X:3 Y:2 Z:0]
+[Builder puts down a green block at X:1 Y:1 Z:0]
+[Builder puts down a green block at X:1 Y:2 Z:0]
+[Builder puts down a green block at X:-1 Y:1 Z:0]
+[Builder puts down a green block at X:-1 Y:2 Z:0]
+[Builder puts down a green block at X:-3 Y:1 Z:0]
+[Builder puts down a green block at X:-3 Y:2 Z:0]
+<Builder> are the outer blocks each on an edge?
+[Builder picks up a green block at X:5 Y:1 Z:0]
+[Builder picks up a green block at X:3 Y:1 Z:0]
+[Builder picks up a green block at X:1 Y:1 Z:0]
+[Builder picks up a green block at X:-1 Y:1 Z:0]
+[Builder picks up a green block at X:-3 Y:1 Z:0]
+<Architect> no, i don't think it matters, as long as there are 5
+<Architect> though i need to make sure we left enough space for everything else, one sec
+<Architect> we're maybe okay
+<Builder> if you say so
+<Architect> can you position yourself so that you're at the end of that line, but with the larger amount of blank space to your right?
+<Architect> wait jk, you put it in the middle
+<Architect> let's shift it all over so that they're three blocks away from the left edge
+[Builder puts down a green block at X:-3 Y:1 Z:-3]
+[Builder puts down a green block at X:-3 Y:2 Z:-3]
+[Builder puts down a green block at X:-1 Y:1 Z:-3]
+[Builder puts down a green block at X:-1 Y:2 Z:-3]
+[Builder puts down a green block at X:1 Y:1 Z:-3]
+[Builder puts down a green block at X:1 Y:2 Z:-3]
+[Builder puts down a green block at X:3 Y:1 Z:-3]
+[Builder puts down a green block at X:3 Y:2 Z:-3]
+[Builder puts down a green block at X:5 Y:1 Z:-3]
+[Builder puts down a green block at X:5 Y:2 Z:-3]
+[Builder picks up a green block at X:5 Y:1 Z:-3]
+[Builder picks up a green block at X:3 Y:1 Z:-3]
+[Builder picks up a green block at X:1 Y:1 Z:-3]
+[Builder picks up a green block at X:-1 Y:1 Z:-3]
+[Builder picks up a green block at X:-3 Y:1 Z:-3]
+[Builder puts down a green block at X:4 Y:2 Z:0]
+[Builder picks up a green block at X:4 Y:2 Z:0]
+[Builder picks up a green block at X:5 Y:2 Z:0]
+[Builder picks up a green block at X:3 Y:2 Z:0]
+[Builder picks up a green block at X:1 Y:2 Z:0]
+[Builder picks up a green block at X:-1 Y:2 Z:0]
+[Builder picks up a green block at X:-3 Y:2 Z:0]
+<Architect> cool, sorry that was tedious
+<Builder> np
+<Architect> from the second green block from the end that's close to you, we'll place a yellow block diagonally on top of and to the right of that block
+[Builder picks up a green block at X:-1 Y:2 Z:-3]
+[Builder puts down a green block at X:-1 Y:1 Z:-3]
+[Builder puts down a green block at X:-1 Y:2 Z:-3]
+[Builder puts down a yellow block at X:-1 Y:3 Z:-3]
+[Builder puts down a yellow block at X:-1 Y:3 Z:-2]
+[Builder picks up a yellow block at X:-1 Y:3 Z:-3]
+[Builder picks up a green block at X:-1 Y:1 Z:-3]
+<Builder> like so?
+<Architect> yes!
+<Architect> that's the end of a yellow dotted line consisting of four blocks extending to the right
+[Builder puts down a yellow block at X:-1 Y:3 Z:-1]
+[Builder puts down a yellow block at X:-1 Y:3 Z:0]
+[Builder puts down a yellow block at X:-1 Y:3 Z:1]
+[Builder puts down a yellow block at X:-1 Y:3 Z:2]
+[Builder puts down a yellow block at X:-1 Y:3 Z:3]
+[Builder puts down a yellow block at X:-1 Y:3 Z:4]
+[Builder picks up a yellow block at X:-1 Y:3 Z:-1]
+[Builder picks up a yellow block at X:-1 Y:3 Z:1]
+[Builder picks up a yellow block at X:-1 Y:3 Z:3]
+<Architect> very nice
+<Architect> directly on top of the second yellow block from the left, put an orange block
+[Builder puts down a orange block at X:-1 Y:4 Z:0]
+<Builder> ok
+<Architect> that is the bottom end of an orange dotted line extending away from you, consisting of 3 blocks
+[Builder puts down a orange block at X:0 Y:4 Z:0]
+[Builder puts down a orange block at X:1 Y:4 Z:0]
+[Builder puts down a orange block at X:2 Y:4 Z:0]
+[Builder puts down a orange block at X:3 Y:4 Z:0]
+[Builder picks up a orange block at X:0 Y:4 Z:0]
+[Builder picks up a orange block at X:2 Y:4 Z:0]
+<Architect> okay, there's one last dotted line in red made of 3 blocks
+<Architect> it starts on the ground and extends up vertically, and starts in the space in front of the end of the orange line
+[Builder puts down a red block at X:4 Y:1 Z:0]
+[Builder puts down a red block at X:4 Y:2 Z:0]
+[Builder puts down a red block at X:4 Y:3 Z:0]
+[Builder puts down a red block at X:4 Y:4 Z:0]
+[Builder picks up a red block at X:4 Y:3 Z:0]
+[Builder puts down a red block at X:4 Y:3 Z:0]
+[Builder picks up a red block at X:4 Y:2 Z:0]
+[Builder puts down a red block at X:4 Y:5 Z:0]
+[Builder picks up a red block at X:4 Y:4 Z:0]
+<Builder> done!
+<Architect> niceee
+<Architect> looks good
+
+B49-A39-C78-1523767236013
+<Builder> Mission has started.
+<Architect> hi!
+<Architect> this one is a big yellow arch with some stuff going through it, not sure what exactly
+<Builder> lets do it
+<Architect> near the center of the board, build a yellow arch 6 blocks tall and 5 blocks wide
+<Builder> like an upside down u
+<Builder> or like the st louis arch
+<Architect> i don't know what the st louis arch looks like tbh
+<Builder> ..
+<Architect> it's a U without rounded edges
+<Architect> sorry haha
+[Builder puts down a yellow block at X:2 Y:1 Z:0]
+[Builder puts down a yellow block at X:2 Y:2 Z:0]
+[Builder puts down a yellow block at X:2 Y:3 Z:0]
+[Builder puts down a yellow block at X:2 Y:4 Z:0]
+[Builder puts down a yellow block at X:2 Y:5 Z:0]
+[Builder puts down a yellow block at X:1 Y:5 Z:0]
+[Builder puts down a yellow block at X:0 Y:5 Z:0]
+[Builder puts down a yellow block at X:-1 Y:5 Z:0]
+<Architect> wait
+[Builder picks up a yellow block at X:1 Y:5 Z:0]
+[Builder picks up a yellow block at X:0 Y:5 Z:0]
+<Architect> should be one taller
+[Builder picks up a yellow block at X:-1 Y:5 Z:0]
+[Builder puts down a yellow block at X:2 Y:6 Z:0]
+[Builder puts down a yellow block at X:1 Y:6 Z:0]
+[Builder puts down a yellow block at X:0 Y:6 Z:0]
+[Builder puts down a yellow block at X:-1 Y:6 Z:0]
+[Builder puts down a yellow block at X:-2 Y:6 Z:0]
+[Builder puts down a yellow block at X:-2 Y:5 Z:0]
+[Builder puts down a yellow block at X:-2 Y:1 Z:0]
+[Builder puts down a yellow block at X:-2 Y:2 Z:0]
+[Builder puts down a yellow block at X:-2 Y:4 Z:0]
+[Builder puts down a yellow block at X:-2 Y:3 Z:0]
+<Architect> cool
+<Builder> arc de triumph
+<Architect> if you say so
+<Architect> on one side of the arch, in the middle, put a red block
+[Builder picks up a yellow block at X:2 Y:3 Z:0]
+[Builder puts down a yellow block at X:2 Y:3 Z:0]
+[Builder puts down a red block at X:2 Y:3 Z:-1]
+<Architect> uhhh okay sorry i wasn't clear enough
+<Architect> it's on the ground
+[Builder puts down a red block at X:2 Y:3 Z:-2]
+[Builder picks up a red block at X:2 Y:3 Z:-1]
+[Builder picks up a red block at X:2 Y:3 Z:-2]
+[Builder puts down a red block at X:0 Y:1 Z:-1]
+<Architect> okay, let's keep this perspective
+<Architect> on top of it and to its left, place one red block each
+<Builder> each what
+<Architect> one red block
+<Architect> ?
+<Architect> each
+[Builder puts down a red block at X:0 Y:2 Z:-1]
+[Builder puts down a red block at X:1 Y:2 Z:-1]
+[Builder puts down a red block at X:0 Y:2 Z:-2]
+[Builder picks up a red block at X:0 Y:2 Z:-2]
+[Builder picks up a red block at X:0 Y:2 Z:-1]
+<Builder> like this?
+[Builder puts down a red block at X:1 Y:2 Z:-2]
+[Builder picks up a red block at X:1 Y:2 Z:-2]
+[Builder picks up a red block at X:1 Y:2 Z:-1]
+[Builder puts down a red block at X:0 Y:2 Z:-1]
+[Builder puts down a red block at X:1 Y:1 Z:-1]
+<Builder> or this
+<Architect> this is right
+<Architect> now put one more red block one block towards you and one block to the right of the corner of that L shape
+<Architect> backwards L, rather
+[Builder puts down a red block at X:0 Y:2 Z:-2]
+[Builder puts down a red block at X:-1 Y:1 Z:-2]
+<Builder> ok
+<Architect> uhh
+<Architect> remove the first block you placed, but keep the second
+[Builder picks up a red block at X:0 Y:2 Z:-2]
+<Architect> ok, so from that second one, make another diagonal red block
+<Architect> so that it comes towards you and to the right by one block each
+[Builder puts down a red block at X:-2 Y:1 Z:-3]
+<Architect> now put one more red block on the last block you placed, on its face that is towards you
+[Builder puts down a red block at X:-2 Y:1 Z:-4]
+<Architect> cool
+<Architect> now for the other side
+<Architect> on the top red block, put one orange block on the side that's facing you
+[Builder puts down a orange block at X:0 Y:2 Z:0]
+<Architect> now we're going to make two other orange blocks extend diagonally left and towards you from this first one
+<Architect> does that make sense?
+<Builder> maybe
+[Builder puts down a orange block at X:0 Y:2 Z:1]
+[Builder puts down a orange block at X:-1 Y:2 Z:1]
+[Builder puts down a orange block at X:-1 Y:2 Z:2]
+[Builder puts down a orange block at X:-2 Y:2 Z:2]
+[Builder picks up a orange block at X:-1 Y:2 Z:2]
+[Builder picks up a orange block at X:0 Y:2 Z:1]
+<Architect> oops that's really close
+<Builder> like this?
+<Architect> i forgot to say they also go up
+[Builder puts down a orange block at X:-1 Y:3 Z:1]
+[Builder puts down a orange block at X:-2 Y:3 Z:2]
+[Builder puts down a orange block at X:-2 Y:4 Z:2]
+[Builder picks up a orange block at X:-2 Y:3 Z:2]
+[Builder picks up a orange block at X:-2 Y:2 Z:2]
+[Builder picks up a orange block at X:-1 Y:2 Z:1]
+<Architect> yes!
+<Architect> cool, looks good
+
+B49-A39-C55-1523767968053
+<Builder> Mission has started.
+<Architect> hello again
+<Builder> ready
+<Architect> this one has a lot of diagonals again
+<Architect> go to the center of an edge
+<Builder> on the ground?
+<Architect> yeah
+<Architect> we'll first make a yellow v-shape on the ground
+<Architect> start by placing a yellow block where you are
+[Builder puts down a yellow block at X:0 Y:1 Z:-4]
+[Builder picks up a yellow block at X:0 Y:1 Z:-4]
+[Builder puts down a yellow block at X:0 Y:1 Z:-5]
+<Architect> then, diagonally left and right but staying on the ground, place two more yellow blocks on each side to make a V
+[Builder puts down a yellow block at X:-1 Y:1 Z:-4]
+[Builder puts down a yellow block at X:1 Y:1 Z:-4]
+<Builder> like this?
+<Architect> yes, but once more
+[Builder puts down a yellow block at X:0 Y:1 Z:-3]
+[Builder puts down a yellow block at X:-1 Y:1 Z:-2]
+[Builder puts down a yellow block at X:1 Y:1 Z:-1]
+[Builder picks up a yellow block at X:1 Y:1 Z:-1]
+[Builder puts down a yellow block at X:1 Y:1 Z:-2]
+<Architect> no, sorry
+<Architect> the thing makes a large V
+[Builder picks up a yellow block at X:0 Y:1 Z:-3]
+[Builder picks up a yellow block at X:1 Y:1 Z:-2]
+[Builder picks up a yellow block at X:-1 Y:1 Z:-2]
+[Builder puts down a yellow block at X:2 Y:1 Z:-3]
+[Builder puts down a yellow block at X:-2 Y:1 Z:-3]
+<Builder> ok
+<Architect> okay, on the ground in front of each of the tips of the V, place an orange block
+[Builder puts down a orange block at X:2 Y:1 Z:-4]
+[Builder puts down a orange block at X:-2 Y:1 Z:-4]
+<Architect> oops sorry, I meant behind :)
+[Builder picks up a orange block at X:2 Y:1 Z:-4]
+[Builder picks up a orange block at X:-2 Y:1 Z:-4]
+[Builder puts down a orange block at X:-2 Y:1 Z:-2]
+[Builder puts down a orange block at X:2 Y:1 Z:-2]
+<Builder> ok
+<Architect> so these are each going to be the starting step of a staircase going upwards
+<Architect> we can just start on the left side for now, and you can do the same on the right side
+<Architect> so you'll want two more orange blocks going diagonally up and away from the first orange block
+[Builder puts down a orange block at X:2 Y:2 Z:-2]
+[Builder puts down a orange block at X:2 Y:2 Z:-1]
+[Builder puts down a orange block at X:2 Y:3 Z:-1]
+[Builder puts down a orange block at X:2 Y:3 Z:0]
+[Builder picks up a orange block at X:2 Y:3 Z:-1]
+[Builder picks up a orange block at X:2 Y:2 Z:-2]
+<Architect> looks good. do the same for the other side
+<Builder> more on the left?
+<Architect> nope, that's it
+[Builder puts down a orange block at X:-2 Y:2 Z:-2]
+[Builder puts down a orange block at X:-2 Y:2 Z:-1]
+[Builder puts down a orange block at X:-2 Y:3 Z:-1]
+[Builder puts down a orange block at X:-2 Y:3 Z:0]
+[Builder picks up a orange block at X:-2 Y:3 Z:-1]
+[Builder picks up a orange block at X:-2 Y:2 Z:-2]
+<Architect> okay, on the ends of those top orange blocks, facing away from you, put a red block on each
+[Builder picks up a orange block at X:2 Y:3 Z:0]
+[Builder puts down a orange block at X:2 Y:2 Z:0]
+[Builder puts down a orange block at X:2 Y:3 Z:0]
+[Builder picks up a orange block at X:2 Y:2 Z:0]
+[Builder puts down a red block at X:2 Y:3 Z:1]
+[Builder puts down a red block at X:-2 Y:3 Z:1]
+<Builder> ok
+<Architect> now, we're going to make the same V-shape that's on the ground in yellow, but using red and it will be standing up to meet those two red blocks we placed
+[Builder puts down a red block at X:0 Y:1 Z:1]
+[Builder puts down a red block at X:0 Y:2 Z:1]
+[Builder puts down a red block at X:-1 Y:2 Z:1]
+[Builder puts down a red block at X:1 Y:2 Z:1]
+[Builder picks up a red block at X:0 Y:2 Z:1]
+<Builder> cool shape
+<Architect> yup! and lastly, make an upside-down V in red that also uses those blocks as the ends
+[Builder puts down a red block at X:2 Y:4 Z:1]
+[Builder puts down a red block at X:1 Y:4 Z:1]
+[Builder puts down a red block at X:1 Y:5 Z:1]
+[Builder puts down a red block at X:0 Y:5 Z:1]
+[Builder puts down a red block at X:-1 Y:5 Z:1]
+[Builder puts down a red block at X:-2 Y:4 Z:1]
+[Builder puts down a red block at X:-1 Y:4 Z:1]
+[Builder picks up a red block at X:-2 Y:4 Z:1]
+[Builder picks up a red block at X:-1 Y:5 Z:1]
+[Builder picks up a red block at X:1 Y:5 Z:1]
+[Builder picks up a red block at X:2 Y:4 Z:1]
+<Builder> done i think
+<Architect> we did it!
+
+B49-A39-C10-1523768489600
+<Builder> Mission has started.
+<Architect> hello
+<Architect> this one is kind of like a rainbow using three colors
+<Architect> it stands up, and all blocks lie within the same plane
+<Builder> ready
+<Architect> on two edges, along the same row, place a red block at each end
+[Builder puts down a red block at X:5 Y:1 Z:-1]
+[Builder puts down a red block at X:-5 Y:1 Z:-1]
+<Architect> now put a purple block to the right of the left red block, leaving a one block gap
+[Builder puts down a purple block at X:3 Y:1 Z:-1]
+[Builder puts down a purple block at X:3 Y:2 Z:-1]
+[Builder picks up a purple block at X:3 Y:1 Z:-1]
+<Architect> wait sorry, that purple should be on the ground
+<Builder> i thought you said it stands up
+<Architect> yeah, it will
+<Architect> patience!
+[Builder puts down a purple block at X:3 Y:1 Z:-1]
+[Builder picks up a purple block at X:3 Y:2 Z:-1]
+<Architect> do the same thing on the right side
+<Architect> but going inwards
+[Builder puts down a purple block at X:-3 Y:1 Z:-1]
+<Architect> okay, now using the same technique, place yellow blocks relative to those purple blocks
+[Builder puts down a yellow block at X:1 Y:1 Z:-1]
+[Builder puts down a yellow block at X:-1 Y:1 Z:-1]
+<Architect> cool
+<Architect> now think of these as the bases of three separate arches
+<Architect> in those colors
+<Builder> i see
+<Architect> let's start simple with yellow
+<Architect> put a yellow block on the next layer up and between those on the ground
+[Builder puts down a yellow block at X:0 Y:1 Z:-1]
+[Builder puts down a yellow block at X:0 Y:2 Z:-1]
+[Builder picks up a yellow block at X:0 Y:2 Z:-1]
+[Builder puts down a yellow block at X:0 Y:2 Z:-1]
+[Builder picks up a yellow block at X:0 Y:1 Z:-1]
+<Architect> that finishes the yellow arch
+<Architect> now for purple
+<Architect> on the left purple block, put one purple block diagonally up and right of it
+[Builder puts down a purple block at X:3 Y:2 Z:-1]
+[Builder puts down a purple block at X:2 Y:2 Z:-1]
+[Builder picks up a purple block at X:3 Y:2 Z:-1]
+<Architect> this whole shape is symmetric, so you can do the same for the other side
+[Builder puts down a purple block at X:-2 Y:1 Z:-1]
+[Builder puts down a purple block at X:-2 Y:2 Z:-1]
+[Builder picks up a purple block at X:-2 Y:1 Z:-1]
+<Architect> up and right one more time
+[Builder puts down a purple block at X:2 Y:3 Z:-1]
+[Builder puts down a purple block at X:1 Y:3 Z:-1]
+[Builder picks up a purple block at X:2 Y:3 Z:-1]
+[Builder puts down a purple block at X:-1 Y:2 Z:-1]
+[Builder puts down a purple block at X:-1 Y:3 Z:-1]
+[Builder picks up a purple block at X:-1 Y:2 Z:-1]
+<Architect> now connect those two top purple blocks in the middle, on the same level
+[Builder puts down a purple block at X:0 Y:3 Z:-1]
+<Architect> we'll do a similar pattern for the red blocks, except now there will be four blocks going up diagonally instead of three
+<Builder> connected at the top in the same layer?
+[Builder puts down a red block at X:4 Y:1 Z:-1]
+[Builder puts down a red block at X:4 Y:2 Z:-1]
+[Builder picks up a red block at X:4 Y:1 Z:-1]
+[Builder puts down a red block at X:3 Y:2 Z:-1]
+[Builder puts down a red block at X:3 Y:3 Z:-1]
+[Builder picks up a red block at X:3 Y:2 Z:-1]
+[Builder puts down a red block at X:2 Y:3 Z:-1]
+[Builder puts down a red block at X:2 Y:4 Z:-1]
+[Builder picks up a red block at X:2 Y:3 Z:-1]
+<Architect> yes, you'll end up with a row of 5 connected at the top
+[Builder puts down a red block at X:-4 Y:1 Z:-1]
+[Builder puts down a red block at X:-4 Y:2 Z:-1]
+[Builder picks up a red block at X:-4 Y:1 Z:-1]
+[Builder puts down a red block at X:-3 Y:2 Z:-1]
+[Builder puts down a red block at X:-3 Y:3 Z:-1]
+[Builder picks up a red block at X:-3 Y:2 Z:-1]
+[Builder puts down a red block at X:-2 Y:3 Z:-1]
+[Builder puts down a red block at X:-2 Y:4 Z:-1]
+[Builder picks up a red block at X:-2 Y:3 Z:-1]
+[Builder puts down a red block at X:-1 Y:4 Z:-1]
+[Builder puts down a red block at X:0 Y:4 Z:-1]
+[Builder puts down a red block at X:1 Y:4 Z:-1]
+<Builder> done
+<Architect> cool! that's our rainbow
+<Architect> sort of
+<Builder> its not right?
+<Architect> no it's right, it's just not really a rainbow :P
+<Builder> oh gotcha
+
+B49-A39-C106-1523768948389
+<Builder> Mission has started.
+<Architect> okay
+<Architect> sorry, hi, first of all
+<Architect> let's start near the center of the board
+<Builder> on the ground?
+<Architect> there's only going to be one block on the ground
+<Architect> everything else extends up from that
+<Architect> make it a red block
+[Builder puts down a red block at X:0 Y:1 Z:0]
+<Architect> this is going to be the base of a T shape
+<Architect> three high, three wide
+[Builder puts down a red block at X:0 Y:2 Z:0]
+[Builder puts down a red block at X:0 Y:3 Z:0]
+[Builder puts down a red block at X:-1 Y:2 Z:0]
+[Builder picks up a red block at X:-1 Y:2 Z:0]
+[Builder puts down a red block at X:-1 Y:3 Z:0]
+[Builder puts down a red block at X:1 Y:3 Z:0]
+<Architect> let's start with the left side of this T since it's simpler
+<Architect> build another red block diagonally up and left from the left end of the T. it should lie on the same plane
+[Builder puts down a red block at X:1 Y:4 Z:0]
+[Builder puts down a red block at X:2 Y:4 Z:0]
+[Builder picks up a red block at X:1 Y:4 Z:0]
+<Architect> do this one more time but with a green block
+[Builder picks up a red block at X:2 Y:4 Z:0]
+[Builder puts down a red block at X:2 Y:3 Z:0]
+[Builder puts down a red block at X:2 Y:4 Z:0]
+[Builder picks up a red block at X:2 Y:3 Z:0]
+[Builder picks up a red block at X:2 Y:4 Z:0]
+[Builder puts down a red block at X:2 Y:3 Z:0]
+[Builder puts down a red block at X:2 Y:4 Z:0]
+[Builder picks up a red block at X:2 Y:3 Z:0]
+[Builder puts down a green block at X:3 Y:4 Z:0]
+[Builder puts down a green block at X:3 Y:5 Z:0]
+[Builder picks up a green block at X:3 Y:4 Z:0]
+<Architect> that looked rough but you got it
+<Architect> okay, now for the right side
+<Architect> on top of the right end of the T, place two more red blocks
+[Builder puts down a red block at X:-1 Y:4 Z:0]
+[Builder puts down a red block at X:-1 Y:5 Z:0]
+<Architect> directly to the right of those two you just placed, place green blocks
+[Builder puts down a green block at X:-2 Y:4 Z:0]
+[Builder puts down a green block at X:-2 Y:5 Z:0]
+<Architect> place another red block on top of that top green block
+[Builder puts down a red block at X:-2 Y:6 Z:0]
+<Architect> diagonally up and right of that top red block, place a green block
+[Builder puts down a green block at X:-2 Y:7 Z:0]
+[Builder puts down a green block at X:-3 Y:7 Z:0]
+[Builder picks up a green block at X:-2 Y:7 Z:0]
+<Builder> ok
+<Architect> extending out from the bottom green block on the right, place two green blocks
+<Builder> this one?
+<Architect> i think so, it's a little hard for me to tell what you're exactly looking at
+[Builder puts down a green block at X:-2 Y:4 Z:-1]
+[Builder puts down a green block at X:-2 Y:4 Z:-2]
+<Architect> no no, to the right of it
+<Architect> still on the same plane as everything else
+[Builder puts down a green block at X:-2 Y:5 Z:-2]
+[Builder picks up a green block at X:-2 Y:5 Z:-2]
+[Builder picks up a green block at X:-2 Y:4 Z:-2]
+[Builder picks up a green block at X:-2 Y:4 Z:-1]
+[Builder puts down a green block at X:-3 Y:4 Z:0]
+[Builder puts down a green block at X:-4 Y:4 Z:0]
+<Architect> yup!
+<Architect> okay, we are done with this plane. there are a few more blocks on the planes directly in front of and behind all this stuff
+<Builder> ready
+<Architect> directly in front of the bottom left two green blocks, put green blocks
+[Builder puts down a green block at X:-2 Y:4 Z:-1]
+[Builder puts down a green block at X:-2 Y:5 Z:-1]
+<Builder> ok
+<Architect> oops
+<Architect> the second one isn't right
+[Builder puts down a green block at X:-2 Y:4 Z:-2]
+<Architect> put it along that bottom row
+[Builder picks up a green block at X:-2 Y:4 Z:-2]
+[Builder picks up a green block at X:-2 Y:4 Z:-1]
+<Architect> my bad
+<Architect> wait
+<Architect> you removed the one that was correct
+[Builder puts down a green block at X:-2 Y:4 Z:-1]
+[Builder picks up a green block at X:-2 Y:5 Z:-1]
+[Builder puts down a green block at X:-2 Y:4 Z:-2]
+<Builder> like this?
+<Architect> not quite
+[Builder puts down a green block at X:-2 Y:5 Z:-2]
+[Builder picks up a green block at X:-2 Y:5 Z:-2]
+[Builder picks up a green block at X:-2 Y:4 Z:-2]
+<Architect> it's to the right of that newest green block
+[Builder picks up a green block at X:-2 Y:4 Z:-1]
+[Builder puts down a green block at X:-2 Y:4 Z:-1]
+[Builder puts down a green block at X:-3 Y:4 Z:-1]
+<Architect> yeah!
+<Architect> okay now go over to the other side of this thing
+<Architect> you see how there's a row of three green blocks here on the left?
+<Builder> yeah
+<Architect> we're going to put one last green block on the middle of that row, towards you
+[Builder puts down a green block at X:-3 Y:4 Z:1]
+<Builder> got it
+<Architect> perfect
+<Architect> let me check that everything is right
+<Architect> cool looks good!
+
+B49-A39-C79-1523769585238
+<Builder> Mission has started.
+<Architect> hi!
+<Builder> hi
+<Architect> this entire thing floats in the air and consists of cross shaped structures
+<Architect> start at an edge in the middle and place two green blocks stacked on top of each other
+[Builder puts down a green block at X:0 Y:1 Z:-5]
+[Builder puts down a green block at X:0 Y:2 Z:-5]
+<Architect> actually, make that 4
+[Builder puts down a green block at X:0 Y:3 Z:-5]
+[Builder puts down a green block at X:0 Y:4 Z:-5]
+<Architect> remove the bottom one
+[Builder picks up a green block at X:0 Y:1 Z:-5]
+<Architect> on the left and right sides of the middle block, place another green block
+[Builder puts down a green block at X:1 Y:3 Z:-5]
+[Builder puts down a green block at X:-1 Y:3 Z:-5]
+<Architect> on the back side of that middle green block, put a yellow block
+[Builder puts down a yellow block at X:0 Y:3 Z:-4]
+<Architect> extend that to make a row of 5 blocks coming towards you
+[Builder puts down a yellow block at X:0 Y:3 Z:-3]
+[Builder puts down a yellow block at X:0 Y:3 Z:-2]
+[Builder puts down a yellow block at X:0 Y:3 Z:-1]
+[Builder puts down a yellow block at X:0 Y:3 Z:0]
+<Architect> this is part of a 5x5 yellow cross, so you can fill in the rest
+<Builder> i thought you said it was floating
+<Architect> oh, yeah
+<Architect> the sides go out to the left and right
+[Builder puts down a yellow block at X:1 Y:3 Z:-2]
+[Builder puts down a yellow block at X:2 Y:3 Z:-2]
+<Architect> it's a centered cross when looking top down
+[Builder puts down a yellow block at X:-1 Y:3 Z:-2]
+[Builder puts down a yellow block at X:-2 Y:3 Z:-2]
+<Builder> ok i think
+<Architect> looks good
+<Architect> at the end of that yellow cross that's closest to you right now, put an orange block towards you
+[Builder puts down a orange block at X:0 Y:3 Z:1]
+<Architect> then put a blue block to the left of that
+[Builder puts down a blue block at X:-1 Y:3 Z:1]
+<Architect> the blue block is the right end of a cross that looks exactly like the green one
+[Builder puts down a blue block at X:-2 Y:3 Z:1]
+[Builder puts down a blue block at X:-2 Y:4 Z:1]
+[Builder puts down a blue block at X:-3 Y:3 Z:1]
+[Builder puts down a blue block at X:-2 Y:2 Z:1]
+<Builder> ok
+<Architect> the orange block is going to be part of the only cross that isn't centered
+<Architect> so more of a holy cross i guess?
+<Architect> put another three oranges to its right
+[Builder puts down a orange block at X:1 Y:3 Z:1]
+[Builder puts down a orange block at X:2 Y:3 Z:1]
+[Builder puts down a orange block at X:3 Y:3 Z:1]
+<Architect> on the second to rightmost orange block, we'll put one block on each of its sides, such that it is laying flat like the yellow cross
+<Builder> orange?
+<Architect> yup
+[Builder puts down a orange block at X:2 Y:3 Z:2]
+[Builder puts down a orange block at X:2 Y:3 Z:0]
+<Builder> ok
+<Architect> beautiful
+<Architect> we've finished the cross montage
+<Builder> nice!
+
+B49-A39-C107-1523770013466
+<Builder> Mission has started.
+<Architect> this one kind of looks like a person standing up but also at the same time not exactly so
+<Builder> uh huh
+<Architect> also, everything stands up and lies on the same plane
+<Architect> start near the middle
+<Architect> place a two stack block of red and a two stack block of orange such that there is a 2-block gap between them
+[Builder puts down a red block at X:0 Y:1 Z:-1]
+[Builder puts down a red block at X:0 Y:2 Z:-1]
+[Builder puts down a orange block at X:0 Y:1 Z:2]
+[Builder puts down a orange block at X:0 Y:2 Z:2]
+<Architect> i totally meant "two block stack" not "two stack block"
+<Architect> i'm bad
+<Architect> but you got me
+<Builder> yeah
+<Builder> i didnt even notice
+<Architect> haha
+<Architect> alright, now diagonally up and right from the top red block, place another red
+[Builder puts down a red block at X:0 Y:3 Z:-1]
+[Builder puts down a red block at X:0 Y:3 Z:0]
+[Builder picks up a red block at X:0 Y:3 Z:-1]
+<Architect> this red is the bottom left corner of a 2x2 square that follows a checkerboard pattern of red and orange blocks
+[Builder puts down a red block at X:0 Y:4 Z:0]
+[Builder puts down a red block at X:0 Y:4 Z:1]
+[Builder picks up a red block at X:0 Y:4 Z:0]
+[Builder puts down a orange block at X:0 Y:4 Z:0]
+[Builder puts down a orange block at X:0 Y:3 Z:1]
+<Builder> cool
+<Architect> nice
+<Architect> diagonally up and left from that top orange block, place another orange
+[Builder puts down a orange block at X:0 Y:4 Z:-1]
+[Builder puts down a orange block at X:0 Y:5 Z:-1]
+[Builder picks up a orange block at X:0 Y:4 Z:-1]
+<Architect> make it a 2-stack of orange
+[Builder puts down a orange block at X:0 Y:6 Z:-1]
+<Architect> do the same on the other side but with red
+[Builder puts down a red block at X:0 Y:4 Z:2]
+[Builder puts down a red block at X:-1 Y:5 Z:2]
+[Builder picks up a red block at X:-1 Y:5 Z:2]
+[Builder picks up a red block at X:0 Y:5 Z:2]
+[Builder picks up a red block at X:-1 Y:6 Z:2]
+[Builder puts down a red block at X:0 Y:5 Z:2]
+[Builder puts down a red block at X:0 Y:6 Z:2]
+[Builder picks up a red block at X:0 Y:4 Z:2]
+<Builder> ok
+<Architect> on the top orange block, place a row of 2 yellow blocks to its left
+[Builder puts down a yellow block at X:0 Y:7 Z:-1]
+[Builder puts down a yellow block at X:0 Y:7 Z:-2]
+<Architect> sorry, the yellow should be adjacent to the orange's left face
+<Builder> oh you said on
+[Builder puts down a yellow block at X:0 Y:6 Z:-2]
+[Builder puts down a yellow block at X:0 Y:6 Z:-3]
+[Builder picks up a yellow block at X:0 Y:7 Z:-2]
+<Architect> yeah, sorry
+[Builder picks up a yellow block at X:0 Y:7 Z:-1]
+<Architect> do the same again for the other side
+<Builder> yellow?
+<Architect> yup!
+[Builder puts down a yellow block at X:0 Y:6 Z:3]
+[Builder puts down a yellow block at X:0 Y:6 Z:4]
+<Architect> finally, we're going to make another of those checkerboard 2x2 things between the tops of the orange and red stacks
+<Architect> it will be one level up
+<Architect> and the checkerboard colors will be reversed
+[Builder puts down a orange block at X:0 Y:7 Z:-1]
+[Builder puts down a orange block at X:0 Y:7 Z:0]
+[Builder puts down a red block at X:0 Y:8 Z:0]
+[Builder puts down a red block at X:0 Y:7 Z:1]
+[Builder puts down a orange block at X:0 Y:8 Z:1]
+[Builder picks up a orange block at X:0 Y:7 Z:-1]
+<Builder> done
+<Architect> nice!
+<Architect> so is it a person?
+<Builder> oh yeah
+<Architect> but there's like a huge hole in him
+<Architect> oh well
+

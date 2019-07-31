@@ -1,0 +1,1857 @@
+
+--------------------
+[Timestamp] 2018-04-06 15:39:39
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 15:40:28
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (-2.549999, 24.450003)
+[Screenshot Path] 48823-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 15:40:36
+[Builder Position] (x, y, z): (0.0, 3.14456486353, 0.0) (yaw, pitch): (-84.15, 82.64999)
+[Screenshot Path] 56823-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.2558606488, 1.9835663156)
+
+--------------------
+[Timestamp] 2018-04-06 15:40:37
+[Builder Position] (x, y, z): (0.0, 3.1241969183, 0.0) (yaw, pitch): (-16.64999, 66.749985)
+[Screenshot Path] 57922-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.789488193846, 1.83758221361)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.286524385513, 0.0907807117975, 2.21577585483)
+
+--------------------
+[Timestamp] 2018-04-06 15:40:41
+[Builder Position] (x, y, z): (0.0, 3.1241969183, 0.0) (yaw, pitch): (-48.14999, 65.39999)
+[Screenshot Path] 60922-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.832561901904, 1.81847207278)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.744893940146, -0.225935169166, 2.09620760357)
+
+--------------------
+[Timestamp] 2018-04-06 15:41:20
+[Builder Position] (x, y, z): (0.0, 4.53914891255, 0.0) (yaw, pitch): (77.99999, 90.0)
+[Screenshot Path] 100883-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -1.83697019872e-16, 3.0)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.978147564446, 0.207911861537, 3.0)
+
+--------------------
+[Timestamp] 2018-04-06 15:41:31
+[Builder Position] (x, y, z): (0.0, 4.53914891255, 0.0) (yaw, pitch): (-47.70002, 79.79999)
+[Screenshot Path] 111680-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.531254736282, 2.95258673119)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.739631329904, 0.131120948722, 3.07176704726)
+
+--------------------
+[Timestamp] 2018-04-06 15:41:45
+[Builder Position] (x, y, z): (0.0, 3.43472416466, 0.0) (yaw, pitch): (-52.950005, 77.999985)
+[Screenshot Path] 125877-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.415823893792, 1.95629509261)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.798110075913, 0.173521413162, 2.08156446595)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0, -0.207911946896, 0.978147546303)
+
+--------------------
+[Timestamp] 2018-04-06 15:41:46
+[Builder Position] (x, y, z): (0.0, 4.98530003683, 0.0) (yaw, pitch): (-51.00001, 73.649994)
+[Screenshot Path] 127127-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.844512871668, 2.87867990746)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.777146071294, -0.240642346798, 3.05583625949)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0, -0.563008581112, 1.9191199383)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.0, -0.281504290556, 0.959559969152)
+
+--------------------
+[Timestamp] 2018-04-06 15:41:51
+[Builder Position] (x, y, z): (-0.815065262959, 5.29132814342, -0.634759375205) (yaw, pitch): (-49.950012, 64.799995)
+[Screenshot Path] 131077-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 15
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.122027643847, -0.428271364324, 4.21920524419)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.887510992105, 0.153944740183, 4.49317540898)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.122027643847, -0.00249199379781, 3.31437822888)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.122027643847, 0.423287376728, 2.40955121357)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.122027643847, 0.849066747254, 1.50472419826)
+
+--------------------
+[Timestamp] 2018-04-06 15:41:53
+[Builder Position] (x, y, z): (-0.470798823733, 6.03125047682, -0.356185380649) (yaw, pitch): (-51.150024, 64.2)
+[Screenshot Path] 132776-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.151507768886, -0.910240263683, 5.11356119141)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.930298884912, -0.345485291265, 5.38657441221)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.151507768886, -0.475009164311, 4.21324242001)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.151507768886, -0.0397780649387, 3.31292364861)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.151507768886, 0.395453034433, 2.41260487721)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.151507768886, 0.830684133805, 1.5122861058)
+
+--------------------
+[Timestamp] 2018-04-06 15:41:54
+[Builder Position] (x, y, z): (-0.470798823733, 6.03528155538, -0.356185380649) (yaw, pitch): (-51.000023, 60.449986)
+[Screenshot Path] 134376-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 13
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.147826134999, -1.24239464218, 5.04327304306)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.924972349081, -0.694933042958, 5.35364307918)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.147826134999, -0.74921152848, 4.1733475196)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.147826134999, -0.256028414783, 3.30342199615)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.147826134999, 0.237154698914, 2.43349647269)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.147826134999, 0.730337812611, 1.56357094923)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): -0.147826134999, 1.22352092631, 0.693645425773)
+
+--------------------
+[Timestamp] 2018-04-06 15:41:58
+[Builder Position] (x, y, z): (-3.40537289401, 4.16550938666, -2.70734760409) (yaw, pitch): (-49.350025, 26.09998)
+[Screenshot Path] 138777-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 13
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.329634725494, -0.499174445561, 5.80018670567)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.429068669408, -0.212582336605, 6.3851945019)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.329634725494, 0.398853283767, 5.36024784929)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.329634725494, 1.29688101309, 4.9203089929)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.329634725494, 2.19490874242, 4.48037013652)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.329634725494, 3.09293647175, 4.04043128013)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.329634725494, 3.99096420108, 3.60049242375)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:06
+[Builder Position] (x, y, z): (-1.65734511912, 7.53489794402, -1.30139411176) (yaw, pitch): (-52.350033, 34.199986)
+[Screenshot Path] 145624-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 12
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.361842725686, -3.38573627925, 5.69261448626)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.15359996714, -3.04239570873, 6.19782505942)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.361842725686, -2.55865556764, 5.1305313105)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.361842725686, -1.73157485602, 4.56844813474)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.361842725686, -0.904494144402, 4.00636495899)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): -0.361842725686, -0.0774134327846, 3.44428178323)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): -0.361842725686, 0.749667278832, 2.88219860747)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -0.361842725686, 1.57674799045, 2.32011543171)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:08
+[Builder Position] (x, y, z): (-0.398296777676, 4.54047131658, 2.5116892989) (yaw, pitch): (-133.65007, 70.34992)
+[Screenshot Path] 149074-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.756885747533, 0.972715571231, 3.53283857297)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.033316811646, 0.322661047096, 3.30072413854)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.756885747533, 1.30899042831, 2.5910746851)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.033316811646, 0.658935904177, 2.35896025067)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.756885747533, 1.64526528539, 1.64931079723)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.756885747533, 1.98154014247, 0.707546909362)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.756885747533, 2.31781499956, -0.234216978508)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.756885747533, 2.65408985664, -1.17598086638)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.756885747533, 2.99036471372, -2.11774475425)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:09
+[Builder Position] (x, y, z): (0.150668497705, 4.54047131658, 2.30001351837) (yaw, pitch): (-148.95006, 65.84992)
+[Screenshot Path] 149524-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 10
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.03157000226, 0.336086385664, 3.43844576398)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.515785001132, -0.445649072599, 3.08793826634)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.03157000226, 0.745214562618, 2.52596884108)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.515785001132, -0.0365208956452, 2.17546134344)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.03157000226, 1.15434273957, 1.61349191818)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.515785001132, 0.372607281309, 1.26298442054)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.03157000226, 1.56347091653, 0.70101499528)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 1.03157000226, 1.97259909348, -0.211461927619)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.03157000226, 2.38172727043, -1.12393885052)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 1.03157000226, 2.79085544739, -2.03641577342)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:10
+[Builder Position] (x, y, z): (0.298170481386, 4.54047131658, 3.1761475133) (yaw, pitch): (-171.14998, 40.04991)
+[Screenshot Path] 150873-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 9
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.461545544349, -0.389070738155, 4.19947611866)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.307697029566, -1.02486471633, 3.44310540809)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.461545544349, 0.376413486075, 3.55602145635)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.307697029566, -0.259380492103, 2.79965074577)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.461545544349, 1.1418977103, 2.91256679403)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.307697029566, 0.506103732127, 2.15619608346)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.461545544349, 1.90738193453, 2.26911213172)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.307697029566, 1.27158795636, 1.51274142114)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.461545544349, 2.67286615876, 1.6256574694)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.461545544349, 3.43835038299, 0.982202807085)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.461545544349, 4.20383460722, 0.33874814477)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:11
+[Builder Position] (x, y, z): (0.249379593256, 4.54047131658, 3.58101548385) (yaw, pitch): (-173.99995, -7.500085)
+[Screenshot Path] 151423-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 8
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.313587993456, -3.36377182407, 2.56645702983)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.209058662304, -3.23395921711, 1.58044369016)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.313587993456, -2.37232715633, 2.69698469289)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.209058662304, -2.24251454938, 1.71097135322)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.313587993456, -1.3808824886, 2.82751235595)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.209058662304, -1.25106988164, 1.84149901628)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.313587993456, -0.389437820868, 2.95804001901)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.209058662304, -0.259625213912, 1.97202667934)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.313587993456, 0.602006846865, 3.08856768206)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): 0.209058662304, 0.731819453821, 2.1025543424)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.313587993456, 1.5934515146, 3.21909534512)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.313587993456, 2.58489618233, 3.34962300818)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:12
+[Builder Position] (x, y, z): (0.249379593256, 4.54047131658, 3.75851749825) (yaw, pitch): (-174.59995, -20.100082)
+[Screenshot Path] 152373-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 7
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.282327546331, -3.84368877231, 1.77379473959)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.18821836422, -3.5015529418, 0.838868787805)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.282327546331, -2.90459501205, 2.11745577818)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.18821836422, -2.56245918154, 1.18252982639)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.282327546331, -1.96550125179, 2.46111681677)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.18821836422, -1.62336542128, 1.52619086498)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.282327546331, -1.02640749154, 2.80477785536)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.18821836422, -0.684271661024, 1.86985190357)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.282327546331, -0.087313731278, 3.14843889395)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): 0.18821836422, 0.254822099234, 2.21351294216)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.282327546331, 0.85178002898, 3.49209993254)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.282327546331, 1.79087378924, 3.83576097112)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): 0.18821836422, 2.13300961975, 2.90083501934)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:12
+[Builder Position] (x, y, z): (0.249379593256, 4.54047131658, 3.75851749825) (yaw, pitch): (-176.54994, -9.750083)
+[Screenshot Path] 152773-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 5
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.180535574307, -3.46379945632, 2.44325607188)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.120357049538, -3.29475545128, 1.45948644971)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.180535574307, -2.47824364259, 2.61260700343)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.120357049538, -2.30919963755, 1.62883738125)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.180535574307, -1.49268782885, 2.78195793498)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.120357049538, -1.32364382381, 1.7981883128)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.180535574307, -0.50713201512, 2.95130886653)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.120357049538, -0.33808801008, 1.96753924435)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.180535574307, 0.478423798613, 3.12065979807)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): 0.120357049538, 0.647467803653, 2.1368901759)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.180535574307, 1.46397961235, 3.29001072962)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): 0.120357049538, 1.63302361739, 2.30624110745)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 2)  Perspective (x, y, z): 0.060178524769, 1.80206762243, 1.32247148527)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.180535574307, 2.44953542608, 3.45936166117)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): 0.120357049538, 2.61857943112, 2.47559203899)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:13
+[Builder Position] (x, y, z): (0.249379593256, 4.54047131658, 3.77257033333) (yaw, pitch): (-164.09993, -4.3500834)
+[Screenshot Path] 153673-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 6
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.821881181043, -3.2102028275, 2.64936013606)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.547920787362, -3.13725443048, 1.69038973294)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.821881181043, -2.21308361536, 2.72521049383)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.547920787362, -2.14013521833, 1.76624009071)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.821881181043, -1.21596440321, 2.8010608516)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.547920787362, -1.14301600619, 1.84209044848)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.821881181043, -0.218845191069, 2.87691120937)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.547920787362, -0.145896794046, 1.91794080625)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.821881181043, 0.778274021075, 2.95276156714)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): 0.547920787362, 0.851222418098, 1.99379116402)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.821881181043, 1.77539323322, 3.02861192491)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): 0.547920787362, 1.84834163024, 2.06964152178)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.821881181043, 2.77251244536, 3.10446228268)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): 0.547920787362, 2.84546084239, 2.14549187955)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:30
+[Builder Position] (x, y, z): (-2.68892010102, 1.0, 1.56056758045) (yaw, pitch): (-91.94988, 8.849904)
+[Screenshot Path] 170971-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 6
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.897345201336, 0.466506966429, 2.99618805149)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.10207577196, 0.461272299192, 2.96256787311)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.897345201336, 1.45460172405, 2.84234153719)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.10207577196, 1.44936705681, 2.8087213588)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.897345201336, 2.44269648167, 2.68849502288)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.10207577196, 2.43746181443, 2.6548748445)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.897345201336, 3.43079123929, 2.53464850858)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.10207577196, 3.42555657205, 2.5010283302)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.897345201336, 4.41888599691, 2.38080199428)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.10207577196, 4.41365132967, 2.34718181589)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.897345201336, 5.40698075453, 2.22695547997)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -0.10207577196, 5.40174608729, 2.19333530159)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.897345201336, 6.39507551215, 2.07310896567)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -0.10207577196, 6.38984084491, 2.03948878728)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:36
+[Builder Position] (x, y, z): (-2.68892010102, 1.0, 1.56056758045) (yaw, pitch): (-86.54989, 20.549904)
+[Screenshot Path] 176469-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 7
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.17872576528, 1.03003627577, 2.7476591566)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.17872576528, 1.96640308296, 2.39663607701)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.180538187556, 1.98752743982, 2.45298606576)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.17872576528, 2.90276989014, 2.04561299741)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.180538187556, 2.923894247, 2.10196298617)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.17872576528, 3.83913669732, 1.69458991782)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.180538187556, 3.86026105418, 1.75093990657)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 1.17872576528, 4.7755035045, 1.34356683822)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): 0.180538187556, 4.79662786136, 1.39991682698)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.17872576528, 5.71187031168, 0.992543758628)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): 0.180538187556, 5.73299466854, 1.04889374738)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 1.17872576528, 6.64823711887, 0.641520679033)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): 0.180538187556, 6.66936147573, 0.697870667785)
+
+--------------------
+[Timestamp] 2018-04-06 15:42:36
+[Builder Position] (x, y, z): (-2.68892010102, 1.0, 1.56056758045) (yaw, pitch): (-102.149895, 20.699903)
+[Screenshot Path] 176871-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 8
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.346190418648, 2.04650685533, 2.58688265778)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.631409904825, 1.97211134949, 2.38999965634)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.346190418648, 2.98195148458, 2.23340939768)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.631409904825, 2.90755597874, 2.03652639624)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.346190418648, 3.91739611383, 1.87993613758)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.631409904825, 3.84300060799, 1.68305313614)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.346190418648, 4.85284074308, 1.52646287748)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.631409904825, 4.77844523725, 1.32957987604)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.346190418648, 5.78828537234, 1.17298961738)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -0.631409904825, 5.7138898665, 0.976106615936)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.346190418648, 6.72373000159, 0.819516357276)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -0.631409904825, 6.64933449575, 0.622633355835)
+
+--------------------
+[Timestamp] 2018-04-06 15:43:27
+[Builder Position] (x, y, z): (-2.68892010102, 1.0, 1.56056758045) (yaw, pitch): (-92.399895, 26.249905)
+[Screenshot Path] 227679-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 8
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.873501438615, 2.24109155902, 2.28352881761)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.125621468223, 2.22257130307, 2.2459732967)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.873501438615, 3.13796503389, 1.84124161446)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.125621468223, 3.11944477794, 1.80368609355)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.873501438615, 4.03483850876, 1.39895441131)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.125621468223, 4.01631825282, 1.36139889041)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.873501438615, 4.93171198364, 0.956667208166)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.125621468223, 4.91319172769, 0.919111687258)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.873501438615, 5.82858545851, 0.514380005019)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -0.125621468223, 5.81006520257, 0.476824484111)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.873501438615, 6.72545893339, 0.0720928018719)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -0.125621468223, 6.70693867744, 0.034537280964)
+
+--------------------
+[Timestamp] 2018-04-06 15:43:37
+[Builder Position] (x, y, z): (-2.70939661316, 4.63874652148, 0.488753743109) (yaw, pitch): (-88.34991, -1.9500937)
+[Screenshot Path] 237576-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 9
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0863865675399, -2.10088631444, 2.92896125867)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.913198755423, -2.10186619684, 2.95774010415)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.0863865675399, -1.10146546805, 2.96299024359)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.913198755423, -1.10244535045, 2.99176908908)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.0863865675399, -0.10204462167, 2.99701922852)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.913198755423, -0.103024504071, 3.02579807401)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.0863865675399, 0.897376224713, 3.03104821345)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.913198755423, 0.896396342312, 3.05982705893)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -0.913198755423, 1.89581718869, 3.09385604386)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.0863865675399, 2.89621791748, 3.09910618331)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -0.913198755423, 2.89523803508, 3.12788502879)
+
+--------------------
+[Timestamp] 2018-04-06 15:43:37
+[Builder Position] (x, y, z): (-2.70939661316, 4.63874652148, 0.488753743109) (yaw, pitch): (-90.1499, 5.099906)
+[Screenshot Path] 238026-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 10
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.00784873669242, -1.72540534692, 3.16589873277)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.00784531432, -1.72563791195, 3.16329284437)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.00784873669242, -0.729364135667, 3.07700607002)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.00784531432, -0.729596700701, 3.07440018162)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.00784873669242, 0.266677075583, 2.98811340727)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -1.00784531432, 0.266444510549, 2.98550751887)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -1.00784531432, 1.2624857218, 2.89661485611)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -1.00784531432, 2.25852693305, 2.80772219336)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -0.00784873669242, 3.25480070933, 2.72143541901)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -1.00784531432, 3.2545681443, 2.71882953061)
+
+--------------------
+[Timestamp] 2018-04-06 15:43:38
+[Builder Position] (x, y, z): (-2.70939661316, 4.62557833152, 0.488753743109) (yaw, pitch): (-86.5499, 31.949902)
+[Screenshot Path] 239028-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.180537664906, -0.112366854083, 3.59927490498)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.817649923317, -0.0805213610378, 3.65033764374)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.180537664906, 0.736144266017, 3.07009735532)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.817649923317, 0.767989759062, 3.12116009408)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.817649923317, 1.61650087916, 2.59198254442)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.817649923317, 2.46501199926, 2.06280499475)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -0.817649923317, 3.31352311936, 1.53362744509)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.180537664906, 4.13018874642, 0.953387156673)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -0.817649923317, 4.16203423946, 1.00444989543)
+
+--------------------
+[Timestamp] 2018-04-06 15:43:49
+[Builder Position] (x, y, z): (-5.94409948264, 4.62557833152, 0.481848588085) (yaw, pitch): (-87.74989, 14.999903)
+[Screenshot Path] 249724-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.235570404846, -0.380145420117, 6.30872380469)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.763658556019, -0.369983799781, 6.34664774488)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.235570404846, 0.585780844343, 6.04990639487)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.763658556019, 0.595942464679, 6.08783033507)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.763658556019, 1.56186872914, 5.82901292525)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.763658556019, 2.5277949936, 5.57019551543)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -0.763658556019, 3.49372125806, 5.31137810561)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.235570404846, 4.44948590218, 5.01463675559)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -0.763658556019, 4.45964752252, 5.05256069579)
+
+--------------------
+[Timestamp] 2018-04-06 15:45:02
+[Builder Position] (x, y, z): (-5.94409948264, 4.62557833152, 0.481848588085) (yaw, pitch): (-87.74989, 14.999903)
+[Screenshot Path] 322632-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.235570404846, -0.380145420117, 6.30872380469)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.763658556019, -0.369983799781, 6.34664774488)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.235570404846, 0.585780844343, 6.04990639487)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.763658556019, 0.595942464679, 6.08783033507)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.763658556019, 1.56186872914, 5.82901292525)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.763658556019, 2.5277949936, 5.57019551543)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -0.763658556019, 3.49372125806, 5.31137810561)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.235570404846, 4.44948590218, 5.01463675559)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -0.763658556019, 4.45964752252, 5.05256069579)
+
+--------------------
+[Timestamp] 2018-04-06 15:45:20
+[Builder Position] (x, y, z): (-0.601747888704, 2.38098246727, -2.03791536009) (yaw, pitch): (-66.59986, 67.49993)
+[Screenshot Path] 340677-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.520603522135, 0.832127521459, 1.42707244412)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -2.35611083267, 1.94864946986, 0.807159827921)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.27386448793, 2.31556816351, 0.959143052308)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.35611083267, 2.33133403096, -0.116719237054)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -3.27386448793, 2.69825272461, 0.035263987333)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -3.27386448793, 3.08093728571, -0.888615077642)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -3.27386448793, 3.4636218468, -1.81249414262)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -3.27386448793, 3.8463064079, -2.73637320759)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -2.35611083267, 3.86207227534, -3.81223549695)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -3.27386448793, 4.228990969, -3.66025227257)
+
+--------------------
+[Timestamp] 2018-04-06 15:45:21
+[Builder Position] (x, y, z): (-0.56808283325, 2.38098246727, -2.03791536009) (yaw, pitch): (-32.249866, 87.44991)
+[Screenshot Path] 341477-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.533612537976, 0.800398775499, 1.0366385385)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.312116531712, 1.33348288028, 1.06038044051)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.75510854424, 3.06775875307, 0.136628398927)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.28872108222, 3.9126503025, 0.174257231229)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.75510854424, 3.112251527, -0.862381307266)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.28872108222, 3.95714307642, -0.824752474964)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -1.28872108222, 4.00163585035, -1.82376218116)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -1.28872108222, 4.04612862428, -2.82277188735)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -1.28872108222, 4.09062139821, -3.82178159354)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -0.75510854424, 3.29022262271, -4.85842013204)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -1.28872108222, 4.13511417214, -4.82079129974)
+
+--------------------
+[Timestamp] 2018-04-06 15:46:08
+[Builder Position] (x, y, z): (-3.21753047199, 4.62557833152, -1.70914696831) (yaw, pitch): (-86.54988, 53.549908)
+[Screenshot Path] 388671-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.180538710206, 0.626383355264, 4.19226068683)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.240718280274, 1.42930016151, 4.78530623449)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.75565685416, 2.12023636099, 4.05243960893)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.75384442138, 2.16864328348, 4.08819363679)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.75565685416, 2.71435871548, 3.24806492764)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.75384442138, 2.76276563797, 3.2838189555)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -2.75384442138, 3.35688799246, 2.47944427421)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -2.75384442138, 3.95101034695, 1.67506959293)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -2.75384442138, 4.54513270144, 0.87069491164)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -1.75565685416, 5.09084813344, 0.0305662024921)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -2.75384442138, 5.13925505593, 0.0663202303535)
+
+--------------------
+[Timestamp] 2018-04-06 15:46:14
+[Builder Position] (x, y, z): (-1.71579671836, 3.5958342906, -1.6995420833) (yaw, pitch): (-86.24987, 65.99994)
+[Screenshot Path] 394970-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.1308107866, 1.00970265273, 2.63882342933)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.86490676308, 1.53594179666, 1.77848406298)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.86276553792, 1.59569256876, 1.80508689566)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.86490676308, 1.9426793964, 0.864939031274)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.86276553792, 2.00243016849, 0.891541863955)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -2.86276553792, 2.40916776823, -0.0220031677529)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -2.86276553792, 2.81590536797, -0.935548199461)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -2.86276553792, 3.22264296771, -1.84909323117)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -1.86490676308, 3.56962979535, -2.78924109556)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -2.86276553792, 3.62938056745, -2.76263826288)
+
+--------------------
+[Timestamp] 2018-04-06 15:46:17
+[Builder Position] (x, y, z): (-0.788120470935, 3.50798539367, -1.9888018818) (yaw, pitch): (-109.19986, 70.94995)
+[Screenshot Path] 397419-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.615512834616, 0.550722986052, 2.3060459976)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.328864339191, 0.239869290797, 2.19870665841)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -2.21761868681, -0.0554441238409, 1.03879416106)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.16199586061, -0.366297819096, 0.931454821873)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.21761868681, 0.270949852031, 0.0935603420995)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -3.16199586061, -0.0399038432238, -0.0137789970916)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -3.16199586061, 0.286490132648, -0.959012816057)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -3.16199586061, 0.61288410852, -1.90424663502)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -3.16199586061, 0.939278084392, -2.84948045399)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -2.21761868681, 1.57652575552, -3.68737493376)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -3.16199586061, 1.26567206026, -3.79471427295)
+
+--------------------
+[Timestamp] 2018-04-06 15:46:20
+[Builder Position] (x, y, z): (-0.623429078789, 3.50798539367, -2.02525622863) (yaw, pitch): (-86.39986, 66.59995)
+[Screenshot Path] 400818-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.0627929581685, 0.121645776814, 2.23187350658)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.93523361683, 0.179274282871, 2.25681164776)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -2.93128676683, 0.691679986512, 1.388933651)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.92931334183, 0.749308492569, 1.41387179217)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.93128676683, 1.08882867804, 0.471179371891)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -3.92931334183, 1.1464571841, 0.496117513065)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -3.92931334183, 1.54360587562, -0.421636766042)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -3.92931334183, 1.94075456715, -1.33939104515)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -3.92931334183, 2.33790325868, -2.25714532426)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -2.93128676683, 2.67742344415, -3.19983774454)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -3.92931334183, 2.7350519502, -3.17489960336)
+
+--------------------
+[Timestamp] 2018-04-06 15:46:21
+[Builder Position] (x, y, z): (-0.623429078789, 3.50798539367, -2.02525622863) (yaw, pitch): (-86.39986, 66.59995)
+[Screenshot Path] 401920-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.0627929581685, 0.121645776814, 2.23187350658)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.93523361683, 0.179274282871, 2.25681164776)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -2.93128676683, 0.691679986512, 1.388933651)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.92931334183, 0.749308492569, 1.41387179217)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.93128676683, 1.08882867804, 0.471179371891)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -3.92931334183, 1.1464571841, 0.496117513065)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -3.92931334183, 1.54360587562, -0.421636766042)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -3.92931334183, 1.94075456715, -1.33939104515)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -3.92931334183, 2.33790325868, -2.25714532426)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -2.93128676683, 2.67742344415, -3.19983774454)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -3.92931334183, 2.7350519502, -3.17489960336)
+
+--------------------
+[Timestamp] 2018-04-06 15:46:33
+[Builder Position] (x, y, z): (-3.75185564969, 6.12747548119, -1.05737220645) (yaw, pitch): (-90.14984, 37.49995)
+[Screenshot Path] 413684-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.989535786882, -1.53014270784, 6.21928309535)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.0104607934807, -1.53173473793, 6.2172083176)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -2.01045395421, -0.741564926568, 5.60429802542)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.01045053457, -0.743156956654, 5.60222324766)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.01045395421, 0.0517889449673, 4.99553728874)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -3.01045053457, 0.0501969148809, 4.99346251099)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -3.01045053457, 0.843550786416, 4.38470177431)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -3.01045053457, 1.63690465795, 3.77594103763)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -3.01045053457, 2.43025852949, 3.16718030096)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -2.01045395421, 3.22520443111, 2.56049434203)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -3.01045053457, 3.22361240102, 2.55841956428)
+
+--------------------
+[Timestamp] 2018-04-06 15:46:38
+[Builder Position] (x, y, z): (0.32708886062, 3.51165873819, -1.61710235249) (yaw, pitch): (-100.94984, 85.50001)
+[Screenshot Path] 418882-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.981793852354, 0.0324461578927, 2.00873793172)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.0, -0.156917843466, 1.99383469485)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 0.0, -0.0784589217329, 0.996917347427)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.96358770471, -0.45718692445, 0.967110873701)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.94538155706, -0.646550925808, 0.952207636838)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.96358770471, -0.378728002717, -0.0298064737262)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.94538155706, -0.568092004075, -0.0447097105892)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -2.94538155706, -0.489633082343, -1.04162705802)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -2.94538155706, -0.41117416061, -2.03854440544)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -2.94538155706, -0.332715238877, -3.03546175287)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -1.96358770471, -0.0648923157854, -4.01747586343)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -2.94538155706, -0.254256317144, -4.0323791003)
+
+--------------------
+[Timestamp] 2018-04-06 15:46:39
+[Builder Position] (x, y, z): (0.502935219443, 3.50798539367, -1.62027650277) (yaw, pitch): (-168.14986, 75.149994)
+[Screenshot Path] 419832-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.205352588197, 0.433421001556, 2.18402759825)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.0, -0.51257894871, 1.93320015036)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 0.205352588197, 0.689710475911, 1.21742752307)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 0.0, -0.256289474355, 0.966600075178)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.410705176394, -2.14828937489, 0.464945179385)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.616057764591, -3.09428932515, 0.214117731489)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.410705176394, -1.89199990053, -0.501654895793)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.616057764591, -2.8379998508, -0.752482343689)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.616057764591, -2.58171037644, -1.71908241887)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.616057764591, -2.32542090209, -2.68568249405)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -0.616057764591, -2.06913142773, -3.65228256922)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -0.410705176394, -0.866842003111, -4.3680551965)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -0.616057764591, -1.81284195338, -4.6188826444)
+
+--------------------
+[Timestamp] 2018-04-06 15:46:53
+[Builder Position] (x, y, z): (-4.18196294695, 6.12747548119, -0.65603329744) (yaw, pitch): (-88.949844, 38.39996)
+[Screenshot Path] 433382-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 2.09130233716, -0.836023288456, 6.99482091235)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.09147030271, -0.8246391171, 7.00918418255)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 2.09130233716, -0.0523293974873, 6.37367367919)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 1.09147030271, -0.0409452261308, 6.38803694939)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.908193766188, -0.0181768834177, 6.4167634898)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.90802580064, -0.00679271206122, 6.43112676)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.908193766188, 0.765517007551, 5.79561625664)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.90802580064, 0.776901178908, 5.80997952685)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -1.90802580064, 1.56059506988, 5.18883229369)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -1.90802580064, 2.34428896085, 4.56768506053)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -1.90802580064, 3.12798285181, 3.94653782737)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -0.908193766188, 3.90029257143, 3.31102732401)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -1.90802580064, 3.91167674278, 3.32539059422)
+
+--------------------
+[Timestamp] 2018-04-06 15:46:59
+[Builder Position] (x, y, z): (-0.17670350829, 4.63240946174, -1.10522920952) (yaw, pitch): (-107.84986, 79.349945)
+[Screenshot Path] 439779-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.645339257476, 0.682280140667, 3.18088526238)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.306523752259, 0.381036483909, 3.12423660871)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 0.645339257476, 0.867090137432, 2.19811099272)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -0.306523752259, 0.565846480674, 2.14146233906)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -2.21024977173, -0.0366408328426, 2.02816503173)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.16211278146, -0.337884489601, 1.97151637807)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.306523752259, 0.750656477439, 1.1586880694)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.21024977173, 0.148169163922, 1.04539076208)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -3.16211278146, -0.153074492836, 0.988742108415)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -3.16211278146, 0.0317355039292, 0.0059678387597)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -3.16211278146, 0.216545500694, -0.976806430895)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -3.16211278146, 0.401355497459, -1.95958070055)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -2.21024977173, 0.887409150982, -2.88570631654)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -3.16211278146, 0.586165494224, -2.94235497021)
+
+--------------------
+[Timestamp] 2018-04-06 15:47:00
+[Builder Position] (x, y, z): (0.0506023635959, 6.06895735883, -1.10823137862) (yaw, pitch): (-109.49986, 81.44995)
+[Screenshot Path] 441232-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.942642306733, -0.41327170905, 4.99405966885)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.0, -0.743366484315, 4.94443184501)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 0.942642306733, -0.264598412187, 4.00517329985)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 0.0, -0.594693187452, 3.95554547601)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.88528461347, -1.25488273798, 3.85628982834)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.8279269202, -1.58497751325, 3.8066620045)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.0, -0.446019890589, 2.96665910701)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.88528461347, -1.10620944112, 2.86740345933)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.8279269202, -1.43630421638, 2.8177756355)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): 0.0, -0.297346593726, 1.97777273801)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -2.8279269202, -1.28763091952, 1.82888926649)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -2.8279269202, -1.13895762266, 0.840002897491)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -2.8279269202, -0.990284325796, -0.148883471512)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -1.88528461347, -0.511516253668, -1.08814201668)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -2.8279269202, -0.841611028933, -1.13776984051)
+
+--------------------
+[Timestamp] 2018-04-06 15:47:02
+[Builder Position] (x, y, z): (0.0506023635959, 6.48968333298, -1.10823137862) (yaw, pitch): (-109.49986, 81.44995)
+[Screenshot Path] 442178-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.942642306733, -0.41327170905, 4.99405966885)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.0, -0.743366484315, 4.94443184501)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 0.942642306733, -0.264598412187, 4.00517329985)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 0.0, -0.594693187452, 3.95554547601)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.88528461347, -1.25488273798, 3.85628982834)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.8279269202, -1.58497751325, 3.8066620045)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.0, -0.446019890589, 2.96665910701)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.88528461347, -1.10620944112, 2.86740345933)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.8279269202, -1.43630421638, 2.8177756355)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): 0.0, -0.297346593726, 1.97777273801)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -2.8279269202, -1.28763091952, 1.82888926649)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -2)  Perspective (x, y, z): 0.0, -0.148673296863, 0.988886369003)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -2.8279269202, -1.13895762266, 0.840002897491)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -2.8279269202, -0.990284325796, -0.148883471512)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -1.88528461347, -0.511516253668, -1.08814201668)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -2.8279269202, -0.841611028933, -1.13776984051)
+
+--------------------
+[Timestamp] 2018-04-06 15:47:04
+[Builder Position] (x, y, z): (0.0506023635959, 7.60545285096, -1.10823137862) (yaw, pitch): (-109.49986, 81.44995)
+[Screenshot Path] 443729-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 12
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.942642306733, -0.561945005913, 5.98294603786)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.0, -0.892039781178, 5.93331821402)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 0.942642306733, -0.41327170905, 4.99405966885)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 0.0, -0.743366484315, 4.94443184501)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.88528461347, -1.40355603485, 4.84517619734)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.8279269202, -1.73365081011, 4.7955483735)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.0, -0.594693187452, 3.95554547601)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.88528461347, -1.25488273798, 3.85628982834)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.8279269202, -1.58497751325, 3.8066620045)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): 0.0, -0.446019890589, 2.96665910701)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -2.8279269202, -1.43630421638, 2.8177756355)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -2)  Perspective (x, y, z): 0.0, -0.297346593726, 1.97777273801)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -2.8279269202, -1.28763091952, 1.82888926649)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -2)  Perspective (x, y, z): 0.0, -0.148673296863, 0.988886369003)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -2.8279269202, -1.13895762266, 0.840002897491)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -1.88528461347, -0.660189550531, -0.0992556476745)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -2.8279269202, -0.990284325796, -0.148883471512)
+
+--------------------
+[Timestamp] 2018-04-06 15:47:42
+[Builder Position] (x, y, z): (-3.12760173484, 4.9991309534, -2.96474213368) (yaw, pitch): (-74.84985, 5.9999275)
+[Screenshot Path] 482872-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+	<Architect> Great. Now one block on the same level as the top blue block, on the side toward the purple structure
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 12
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 1.04539788064, -2.57998895083, 4.15340827331)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.080153634634, -2.55267082122, 4.41332607829)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.04539788064, -1.58546692319, 4.04888106847)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 0.080153634634, -1.55814879359, 4.30879887346)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.85033485738, -1.50351253439, 4.82863448343)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.81557910338, -1.47619440479, 5.08855228841)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.080153634634, -0.563626765957, 4.20427166862)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.85033485738, -0.508990506754, 4.72410727859)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.81557910338, -0.481672377153, 4.98402508357)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): 0.080153634634, 0.430895261677, 4.09974446378)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -2.81557910338, 0.512849650481, 4.87949787874)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -2)  Perspective (x, y, z): 0.080153634634, 1.42541728931, 3.99521725895)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -2.81557910338, 1.50737167811, 4.7749706739)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -2)  Perspective (x, y, z): 0.080153634634, 2.41993931695, 3.89069005411)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -2.81557910338, 2.50189370575, 4.67044346907)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -1.85033485738, 3.46909760378, 4.30599845925)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -2.81557910338, 3.49641573338, 4.56591626423)
+
+--------------------
+[Timestamp] 2018-04-06 15:47:45
+[Builder Position] (x, y, z): (-3.12760173484, 4.9991309534, -2.96474213368) (yaw, pitch): (-74.84985, 5.9999275)
+[Screenshot Path] 485722-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+	<Architect> Great. Now one block on the same level as the top blue block, on the side toward the purple structure
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 1.04539788064, -2.57998895083, 4.15340827331)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.080153634634, -2.55267082122, 4.41332607829)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.04539788064, -1.58546692319, 4.04888106847)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 0.080153634634, -1.55814879359, 4.30879887346)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.85033485738, -1.50351253439, 4.82863448343)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.81557910338, -1.47619440479, 5.08855228841)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.080153634634, -0.563626765957, 4.20427166862)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.85033485738, -0.508990506754, 4.72410727859)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.81557910338, -0.481672377153, 4.98402508357)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): 0.080153634634, 0.430895261677, 4.09974446378)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -2.81557910338, 0.512849650481, 4.87949787874)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -2)  Perspective (x, y, z): 0.080153634634, 1.42541728931, 3.99521725895)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -2.81557910338, 1.50737167811, 4.7749706739)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -3)  Perspective (x, y, z): 1.04539788064, 2.39262118734, 3.63077224913)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -2)  Perspective (x, y, z): 0.080153634634, 2.41993931695, 3.89069005411)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -2.81557910338, 2.50189370575, 4.67044346907)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -1.85033485738, 3.46909760378, 4.30599845925)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -2.81557910338, 3.49641573338, 4.56591626423)
+
+--------------------
+[Timestamp] 2018-04-06 15:47:46
+[Builder Position] (x, y, z): (-3.12760173484, 4.9991309534, -2.96474213368) (yaw, pitch): (-81.44985, 6.1499276)
+[Screenshot Path] 486822-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+	<Architect> Great. Now one block on the same level as the top blue block, on the side toward the purple structure
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 12
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 0.59470009118, -2.55897545863, 4.25417164718)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.394186018338, -2.54304782941, 4.40199104046)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 0.59470009118, -1.56473049063, 4.14704114921)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -0.394186018338, -1.5488028614, 4.2948605425)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -2.37195823737, -1.51694760294, 4.59049932906)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -3.36084434689, -1.50101997372, 4.73831872234)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.394186018338, -0.554557893393, 4.18773004453)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.37195823737, -0.522702634938, 4.48336883109)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -3.36084434689, -0.506775005711, 4.63118822437)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -0.394186018338, 0.439687074613, 4.08059954656)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -3.36084434689, 0.487469962295, 4.52405772641)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -2)  Perspective (x, y, z): -0.394186018338, 1.43393204262, 3.97346904859)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -3.36084434689, 1.4817149303, 4.41692722844)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -2)  Perspective (x, y, z): -0.394186018338, 2.42817701062, 3.86633855062)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -3.36084434689, 2.47595989831, 4.30979673047)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -2.37195823737, 3.45427723709, 4.05484683922)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -3.36084434689, 3.47020486631, 4.2026662325)
+
+--------------------
+[Timestamp] 2018-04-06 15:47:47
+[Builder Position] (x, y, z): (-3.29644648413, 4.9991309534, -1.87958647646) (yaw, pitch): (-84.149864, 8.549927)
+[Screenshot Path] 488073-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+	<Architect> Great. Now one block on the same level as the top blue block, on the side toward the purple structure
+	<Architect> Also blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 12
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 1.40249916815, -2.39022612566, 4.28016531825)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.407707268324, -2.3750725461, 4.38095939083)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.40249916815, -1.40133943749, 4.13149414429)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 0.407707268324, -1.38618585794, 4.23228821687)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.58187653133, -1.35587869883, 4.43387636202)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.57666843115, -1.34072511927, 4.5346704346)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.407707268324, -0.39729916977, 4.0836170429)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.58187653133, -0.366992010662, 4.28520518806)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.57666843115, -0.351838431108, 4.38599926063)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): 0.407707268324, 0.591587518396, 3.93494586893)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -2.57666843115, 0.637048257058, 4.23732808667)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -2)  Perspective (x, y, z): 0.407707268324, 1.58047420656, 3.78627469497)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -2.57666843115, 1.62593494522, 4.0886569127)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -2)  Perspective (x, y, z): 0.407707268324, 2.56936089473, 3.637603521)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -2.57666843115, 2.61482163339, 3.93998573874)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -1.58187653133, 3.588554742, 3.69052049219)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -2.57666843115, 3.60370832156, 3.79131456477)
+
+--------------------
+[Timestamp] 2018-04-06 15:47:50
+[Builder Position] (x, y, z): (-2.31751799992, 4.9991309534, 1.1186799687) (yaw, pitch): (-127.04991, 3.8999221)
+[Screenshot Path] 490323-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+	<Architect> Great. Now one block on the same level as the top blue block, on the side toward the purple structure
+	<Architect> Also blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 1.38491243543, -2.66628868008, 4.99729148846)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.586801465671, -2.7072677883, 4.39617619782)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.38491243543, -1.66860430877, 4.92927755426)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 0.586801465671, -1.709583417, 4.32816226362)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.00942047384, -1.79154163344, 3.12593168233)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.8075314436, -1.83252074167, 2.52481639169)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.586801465671, -0.711899045687, 4.26014832942)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.00942047384, -0.793857262135, 3.05791774813)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.8075314436, -0.83483637036, 2.45680245749)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): 0.586801465671, 0.285785325622, 4.19213439521)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -1.8075314436, 0.162848000949, 2.38878852329)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -2)  Perspective (x, y, z): 0.586801465671, 1.28346969693, 4.12412046101)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -1.8075314436, 1.16053237226, 2.32077458909)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -2)  Perspective (x, y, z): 0.586801465671, 2.28115406824, 4.05610652681)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -1)  Perspective (x, y, z): -0.211309504085, 2.24017496002, 3.45499123617)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -1.8075314436, 2.15821674357, 2.25276065488)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): -1.00942047384, 3.1968802231, 2.78586201132)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -1.8075314436, 3.15590111488, 2.18474672068)
+
+--------------------
+[Timestamp] 2018-04-06 15:48:01
+[Builder Position] (x, y, z): (-8.01034587182, 4.9991309534, 0.397750662881) (yaw, pitch): (-89.09989, 17.849922)
+[Screenshot Path] 502170-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> Okay, first make two purple blocks next to each other on the ground, in the middle of the environment.
+	<Builder> like this?
+	<Architect> Yes looks good. Now stack blocks so it's a tower seven blocks high.
+	<Builder> Purple blocks?
+	<Architect> Yep, purple. So a tower 2 blocks wide and seven tall
+	<Architect> Okay great. And actually remove the bottom row of blocks.
+	<Architect> And now remove the three blocks below the top block on one side.
+	<Architect> Great!
+	<Architect> Now put down two blue blocks on the ground, parallel to this purple structure, on the side with the gap. There should be a one block gap between the blue and purple.
+	<Architect> Hmm, should move the blue block closest to you so it is on the left side, away from the purple structure
+	<Builder> Like this?
+	<Architect> Perfect
+	<Architect> Okay now another row of two blue on top of that one
+	<Architect> Now a stack of four blue blocks on the side closer to the purple
+	<Architect> Great. Now one block on the same level as the top blue block, on the side toward the purple structure
+	<Architect> Also blue
+	<Architect> Perfect, that's it!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 11
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 11
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -3)  Perspective (x, y, z): 3.14101293941, -0.111651224982, 9.44042222141)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 2.14113633708, -0.106835954551, 9.45537525775)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 3.14101293941, 0.840211453062, 9.13389743914)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 2.14113633708, 0.845026723493, 9.14885047548)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.141383132434, 0.854657264357, 9.17875654816)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.85849346989, 0.859472534789, 9.1937095845)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 2.14113633708, 1.79688940154, 8.84232569321)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.141383132434, 1.8065199424, 8.87223176589)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.85849346989, 1.81133521283, 8.88718480223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): 2.14113633708, 2.74875207958, 8.53580091093)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.85849346989, 2.76319789088, 8.58066001996)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 5, -2)  Perspective (x, y, z): 2.14113633708, 3.70061475763, 8.22927612866)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.85849346989, 3.71506056892, 8.27413523768)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -2)  Perspective (x, y, z): 2.14113633708, 4.65247743567, 7.92275134639)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 6, -1)  Perspective (x, y, z): 1.14125973476, 4.6572927061, 7.93770438273)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 6, 1)  Perspective (x, y, z): -0.85849346989, 4.66692324696, 7.96761045541)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 0)  Perspective (x, y, z): 0.141383132434, 5.61397065458, 7.6461326368)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 7, 1)  Perspective (x, y, z): -0.85849346989, 5.61878592501, 7.66108567314)
+
+Time elapsed: 0:08:39 (519.64s)

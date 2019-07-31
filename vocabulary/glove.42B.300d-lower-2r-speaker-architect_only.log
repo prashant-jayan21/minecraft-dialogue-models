@@ -1,0 +1,33 @@
+Namespace(add_builder_utterances=False, all_data=False, data_path='../data/logs/', embed_size=300, lower=True, oov_as_unk=False, seed=1234, threshold=2, train_embeddings=False, use_speaker_tokens=True, vector_filename='../data/embeddings/glove.42B.300d.txt', verbose=False, vocab_filename='glove.42B.300d-lower-2r-speaker-architect_only.pkl')
+Building vocabulary.
+	data path: ../data/logs/ 
+	embeddings file: ../data/embeddings/glove.42B.300d.txt 
+	embedding size: 300 
+	freeze embeddings: True 
+	use speaker tokens: True 
+	add words: True 
+	lowercase: True 
+	rare word threshold: 2 
+
+
+Tokenizations fixed: {'9x7 -> 9 x 7', 'red* -> red *', '9x1 -> 9 x 1', '3x3 -> 3 x 3', 'purple* -> purple *', '*oh -> * oh', '*mirrored -> * mirrored', 'wide.. -> wide ..', 'on* -> on *', '3x3x3 -> 3 x 3 x 3', '4x1 -> 4 x 1', '1x3 -> 1 x 3', 'rectangle* -> rectangle *', 'bottom* -> bottom *', '1x6 -> 1 x 6', '2x2 -> 2 x 2', '3x2 -> 3 x 2', '4x3 -> 4 x 3', '5x9 -> 5 x 9', '5x5, -> 5 x 5,', '*actually -> * actually', '5x6 -> 5 x 6', 'build* -> build *', '3x4 -> 3 x 4', '7x5 -> 7 x 5', '2x1 -> 2 x 1', '5x4 -> 5 x 4', 'arrow.. -> arrow ..', 'other.. -> other ..', '2x3 -> 2 x 3', '9x9 -> 9 x 9', '1x2 -> 1 x 2', 'writing* -> writing *', '5x5x5 -> 5 x 5 x 5', '1x4 -> 1 x 4', 'orange* -> orange *', 'its* -> its *', 'row* -> row *', '3x5 -> 3 x 5', '11x1x4 -> 11 x 1 x 4', '2x2x2 -> 2 x 2 x 2', '9x3x4 -> 9 x 3 x 4', '2x4 -> 2 x 4', '4x4 -> 4 x 4', '5x3 -> 5 x 3', '3x1 -> 3 x 1', 'block* -> block *', 'edge* -> edge *', '*in -> * in', '3x3x2 -> 3 x 3 x 2', '3x6 -> 3 x 6', '8x7 -> 8 x 7', 'worries* -> worries *', 'out.. -> out ..', '5x5 -> 5 x 5', 's&* -> s& *', '*yup -> * yup', 'yellow* -> yellow *', "*you're -> * you're", 'you* -> you *', '3x7 -> 3 x 7', '7x7 -> 7 x 7', 'degrees* -> degrees *', '5x1 -> 5 x 1', 'ground* -> ground *', '*forward -> * forward', '4x1s... -> 4 x 1s...'} 
+
+
+Loading word embedding vectors from ../data/embeddings/glove.42B.300d.txt ...
+
+Adding OOV vectors ...
+
+749 of 1743 total word types (43.0%) in the train set were treated as unk, as they did not meet the rare word threshold (2).
+There are 749 total rare word tokens out of 54976 total tokens (1.4%).
+Added 8 OOV word types to vocabulary, out of a total of 1743 word types in the train set (0.5%).
+There are 50 total OOV tokens out of 54976 total tokens (0.1%).
+
+OOV words: {'*', 'verticie', '..', "'l", "'t", 'yellow-red-purple', "'a", 'goodj'} 
+
+There are 656 UNK utterances out of 6559 total utterances (10.0%).
+
+Wrote word counts to ../vocabulary/glove.42B.300d-lower-2r-speaker-architect_only-word_counts.txt 
+
+Saving the vocabulary ...
+Saved the vocabulary to '/Users/prashant/Work/cwc-minecraft-models/vocabulary/glove.42B.300d-lower-2r-speaker-architect_only.pkl'
+Total vocabulary size: 1002

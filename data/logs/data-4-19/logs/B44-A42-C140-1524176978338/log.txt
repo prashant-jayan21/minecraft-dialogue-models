@@ -1,0 +1,2607 @@
+
+--------------------
+[Timestamp] 2018-04-19 22:29:51
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-19 22:29:53
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 2348-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-19 22:30:10
+[Builder Position] (x, y, z): (0.0, 1.0, -1.72314657509) (yaw, pitch): (-1.13248824e-07, 3.6000006)
+[Screenshot Path] 19363-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-19 22:30:50
+[Builder Position] (x, y, z): (0.0, 1.0, -1.72314657509) (yaw, pitch): (-1.13248824e-07, 3.6000006)
+[Screenshot Path] 59158-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-19 22:30:57
+[Builder Position] (x, y, z): (1.07263243986, 1.0, -1.71598738356) (yaw, pitch): (-5.6999993, 31.349997)
+[Screenshot Path] 66354-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.198639475173, 1.03538422866, 1.69956519673)
+
+--------------------
+[Timestamp] 2018-04-19 22:30:58
+[Builder Position] (x, y, z): (-0.42493689377, 1.0, -1.57808950436) (yaw, pitch): (-20.1, 33.15)
+[Screenshot Path] 67254-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.251774862923, 1.21497947276, 1.86022426045)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.19086911502, 1.40290386596, 2.14795053336)
+
+--------------------
+[Timestamp] 2018-04-19 22:30:59
+[Builder Position] (x, y, z): (-0.42493689377, 1.0, -1.57808950436) (yaw, pitch): (8.55, 38.700005)
+[Screenshot Path] 67954-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.297344867794, 1.23658817728, 1.54351407814)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.28623136654, 1.14363181966, 1.42748559811)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.27511786528, 1.05067546204, 1.31145711807)
+
+--------------------
+[Timestamp] 2018-04-19 22:31:00
+[Builder Position] (x, y, z): (-0.428002280678, 1.0, -1.57808950436) (yaw, pitch): (23.399996, 36.6)
+[Screenshot Path] 69103-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.123459000284, 1.33116572019, 1.79241616279)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.794295653126, 1.09437630696, 1.47357894739)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.71205030654, 0.857586893722, 1.15474173199)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.62980495995, 0.620797480487, 0.835904516593)
+
+--------------------
+[Timestamp] 2018-04-19 22:31:48
+[Builder Position] (x, y, z): (-0.00133956522343, 1.0, -1.59011454537) (yaw, pitch): (-0.15000626, 17.70001)
+[Screenshot Path] 118014-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -1.00523277306, 0.607268380972, 1.90282216338)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.0052362002893, 0.608064370408, 1.9053163264)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.994760372481, 0.608860359845, 1.90781048942)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.99475694525, 0.609656349281, 1.91030465245)
+
+--------------------
+[Timestamp] 2018-04-19 22:31:55
+[Builder Position] (x, y, z): (-0.00311533756332, 1.0, -3.09434392256) (yaw, pitch): (-39.149994, 33.45001)
+[Screenshot Path] 124311-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.288286190094, 1.55093574958, 2.3476561446)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -3.30090666625, 1.36183431901, 2.06141273604)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -2.52541085696, 1.70984175504, 2.58819264667)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.74991504767, 2.05784919107, 3.1149725573)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.974419238386, 2.4058566271, 3.64175246793)
+
+--------------------
+[Timestamp] 2018-04-19 22:31:56
+[Builder Position] (x, y, z): (-0.00311533756332, 1.0, -3.09742135938) (yaw, pitch): (-11.249992, 37.500008)
+[Screenshot Path] 125012-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.590604937497, 1.31289214961, 1.71099386653)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.57139024514, 1.43165555108, 1.86576929993)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -1.76114604794, 2.26949409484, 2.95766143284)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.780360740292, 2.38825749631, 3.11243686624)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.200424567351, 2.50702089777, 3.26721229965)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.18120987499, 2.62578429923, 3.42198773305)
+
+--------------------
+[Timestamp] 2018-04-19 22:31:56
+[Builder Position] (x, y, z): (-0.00311533756332, 1.0, -3.09742135938) (yaw, pitch): (9.600009, 39.15001)
+[Screenshot Path] 125662-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.333537803192, 1.24502294244, 1.52927120114)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.31953381407, 1.13973290766, 1.39994264623)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.30552982494, 1.03444287287, 1.27061409133)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.318920404491, 2.59533591968, 3.18787095718)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.667075606384, 2.49004588489, 3.05854240228)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.65307161726, 2.3847558501, 2.92921384737)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.63906762813, 2.27946581531, 2.79988529247)
+
+--------------------
+[Timestamp] 2018-04-19 22:31:57
+[Builder Position] (x, y, z): (-1.02440747774, 1.0, -3.26086140913) (yaw, pitch): (8.850011, 39.30001)
+[Screenshot Path] 126764-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 12
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 0.307696719146, 1.25168054259, 1.52925424581)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 1.29579118946, 1.15423591357, 1.41020021598)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 2.28388565977, 1.05679128456, 1.29114618615)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 3.27198013008, 0.959346655539, 1.17209215632)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.615393438292, 2.50336108518, 3.05850849162)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.6034879086, 2.40591645617, 2.93945446179)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.59158237891, 2.30847182715, 2.82040043196)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.57967684922, 2.21102719813, 2.70134640213)
+
+--------------------
+[Timestamp] 2018-04-19 22:32:09
+[Builder Position] (x, y, z): (0.0157481715286, 1.0, -3.2621660484) (yaw, pitch): (-0.29998916, 30.450012)
+[Screenshot Path] 137961-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 12
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -2.01044413576, 1.00825214217, 1.71509241582)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -1.01045784252, 1.01090556175, 1.71960602864)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.0104715492806, 1.01355898132, 1.72411964145)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.989514743957, 1.0162124009, 1.72863325427)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -2.02091568504, 2.0218111235, 3.43921205727)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.0209293918, 2.02446454307, 3.44372567009)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.0209430985613, 2.02711796265, 3.4482392829)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.979043194677, 2.02977138222, 3.45275289572)
+
+--------------------
+[Timestamp] 2018-04-19 22:32:12
+[Builder Position] (x, y, z): (0.742568026748, 1.0, -5.09039272146) (yaw, pitch): (-22.349989, 45.000023)
+[Screenshot Path] 141909-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 0.164351830834, 1.57686278228, 1.57686151629)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -3.37080954302, 2.07817828391, 2.07817661544)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -2.44593124185, 2.34706510407, 2.34706321973)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -1.52105294068, 2.61595192423, 2.61594982402)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.596174639504, 2.88483874439, 2.8848364283)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -4.13133601336, 3.38615424603, 3.38615152745)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -3.20645771219, 3.65504106619, 3.65503813174)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -2.28157941101, 3.92392788635, 3.92392473602)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -1.35670110984, 4.19281470651, 4.19281134031)
+
+--------------------
+[Timestamp] 2018-04-19 22:32:13
+[Builder Position] (x, y, z): (0.742568026748, 1.0, -5.09039272146) (yaw, pitch): (4.500011, 43.500015)
+[Screenshot Path] 142458-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 0.156918574244, 1.37246557442, 1.44627618665)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 1.15383589291, 1.31845775023, 1.38936384474)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.67999748885, 2.85294679724, 3.00637705712)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.683080170181, 2.79893897304, 2.94946471521)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.313837148489, 2.74493114885, 2.8925523733)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.31075446716, 2.69092332465, 2.8356400314)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -1.52307891461, 4.22541237166, 4.45265324377)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.526161595937, 4.17140454747, 4.39574090186)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.470755722733, 4.11739672327, 4.33882855995)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.4676730414, 4.06338889907, 4.28191621805)
+
+--------------------
+[Timestamp] 2018-04-19 22:32:14
+[Builder Position] (x, y, z): (-0.328749288337, 1.0, -5.13573041177) (yaw, pitch): (-0.74998915, 42.900013)
+[Screenshot Path] 143058-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 9
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -0.0261788124386, 1.36132543567, 1.46495997488)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 0.973735517614, 1.37023566982, 1.47454852443)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 1.97364984767, 1.37914590397, 1.48413707399)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.05227195493, 2.71374063718, 2.9203314002)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.0523576248772, 2.72265087133, 2.92991994976)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.947556705176, 2.73156110548, 2.93950849931)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.94747103523, 2.74047133963, 2.94909704886)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -1.07845076737, 4.07506607285, 4.38529137508)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.0785364373158, 4.083976307, 4.39487992463)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.921377892737, 4.09288654115, 4.40446847419)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.92129222279, 4.1017967753, 4.41405702374)
+
+--------------------
+[Timestamp] 2018-04-19 22:32:14
+[Builder Position] (x, y, z): (-1.40140773336, 1.0, -5.12934156336) (yaw, pitch): (-0.74998915, 42.900013)
+[Screenshot Path] 143709-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.0261788124386, 1.36132543567, 1.46495997488)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.973735517614, 1.37023566982, 1.47454852443)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.97364984767, 1.37914590397, 1.48413707399)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.97356417772, 1.38805613812, 1.49372562354)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.0523576248772, 2.72265087133, 2.92991994976)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.947556705176, 2.73156110548, 2.93950849931)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.94747103523, 2.74047133963, 2.94909704886)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.94738536528, 2.74938157379, 2.95868559842)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.0785364373158, 4.083976307, 4.39487992463)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.921377892737, 4.09288654115, 4.40446847419)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.92129222279, 4.1017967753, 4.41405702374)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.92120655284, 4.11070700945, 4.42364557329)
+
+--------------------
+[Timestamp] 2018-04-19 22:34:42
+[Builder Position] (x, y, z): (-0.112744632846, 1.0, -5.17211142736) (yaw, pitch): (-1.9499896, 21.15001)
+[Screenshot Path] 292017-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -1.06747524639, 0.708926716621, 1.83246268961)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -0.068054338186, 0.721204093163, 1.86419775321)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 0.931366570022, 0.733481469706, 1.89593281681)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 1.93078747823, 0.745758846248, 1.92766788041)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.13552958458, 1.43013080978, 3.69666044281)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.136108676372, 1.44240818633, 3.72839550641)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.863312231836, 1.45468556287, 3.76013057001)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.86273314004, 1.46696293941, 3.79186563361)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -1.20358392277, 2.15133490295, 5.56085819602)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.204163014558, 2.16361227949, 5.59259325962)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.79525789365, 2.17588965603, 5.62432832322)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.79467880186, 2.18816703257, 5.65606338682)
+
+--------------------
+[Timestamp] 2018-04-19 22:34:55
+[Builder Position] (x, y, z): (3.0648398191, 1.0, -3.34842019835) (yaw, pitch): (52.05001, 26.250002)
+[Screenshot Path] 304917-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -3.07486717124, 1.74382905091, 3.53613519544)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -2.459893737, 1.39506324073, 2.82890815635)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -1.84492030275, 1.04629743055, 2.12168111726)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): -1.2299468685, 0.697531620365, 1.41445407817)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.441399041687, 0.969527434371, 1.96600697863)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.49777151762, 2.28782067892, 4.63924099634)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.882798083374, 1.93905486874, 3.93201395725)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.267824649125, 1.59028905856, 3.22478691816)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.347148785124, 1.24152324838, 2.51755987908)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.079324135999, 2.83181230694, 5.74234679724)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.694297570248, 2.48304649676, 5.03511975815)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.3092710045, 2.13428068657, 4.32789271906)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.92424443875, 1.78551487639, 3.62066567998)
+
+--------------------
+[Timestamp] 2018-04-19 22:34:56
+[Builder Position] (x, y, z): (3.0648398191, 1.0, -3.33628665812) (yaw, pitch): (53.55002, 22.800003)
+[Screenshot Path] 305666-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -2.97060391061, 1.55854107611, 3.70762216526)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -2.37648312849, 1.24683286089, 2.96609773221)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -1.78236234637, 0.935124645664, 2.22457329916)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): -1.18824156424, 0.623416430443, 1.4830488661)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -3)  Perspective (x, y, z): -0.383865721587, 0.853647522428, 2.03074691068)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.3618522253, 2.01900326008, 4.80301825441)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.767731443174, 1.70729504486, 4.06149382136)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.173610661052, 1.39558682963, 3.31996938831)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.42051012107, 1.08387861441, 2.57844495526)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.246899460018, 2.47946544405, 5.89841434357)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.84102024214, 2.16775722883, 5.15688991051)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.43514102426, 1.8560490136, 4.41536547746)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.02926180638, 1.54434079838, 3.67384104441)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): -0.383865721587, 1.77551065373, 1.64323127596)
+
+--------------------
+[Timestamp] 2018-04-19 22:34:57
+[Builder Position] (x, y, z): (3.0648398191, 1.0, -3.33628665812) (yaw, pitch): (52.650013, 31.950003)
+[Screenshot Path] 306366-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -3.03341085317, 2.10333983458, 3.37259249482)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -2.42672868254, 1.68267186766, 2.69807399586)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -1.8200465119, 1.26200390075, 2.02355549689)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): -1.21336434127, 0.841335933831, 1.34903699793)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.4435218711, 2.74542681842, 4.40214449926)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.836839700462, 2.3247588515, 3.7276260003)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.230157529827, 1.90409088458, 3.05310750133)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.376524640808, 1.48342291767, 2.37858900237)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.146367110981, 3.38751380225, 5.4316965037)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.753049281616, 2.96684583534, 4.75717800474)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.35973145225, 2.54617786842, 4.08265950578)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.96641362289, 2.12550990151, 3.40814100681)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): -0.418419850231, 2.01088961302, 1.33463395475)
+
+--------------------
+[Timestamp] 2018-04-19 22:35:01
+[Builder Position] (x, y, z): (-0.0805801751639, 1.0, -4.80739063024) (yaw, pitch): (0.15000692, 16.650007)
+[Screenshot Path] 310264-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.997378461076, 0.287273841363, 0.960577922633)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.00261811166379, 0.286523687783, 0.958069580892)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.0026146844, 0.285773534204, 0.955561239151)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.00261125714, 0.285023380624, 0.95305289741)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.992142237749, 0.86032121693, 2.87671708442)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.00785433499137, 0.85957106335, 2.87420874268)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.00785090773, 0.85882090977, 2.87170040094)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.00784748047, 0.858070756191, 2.86919205919)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.986906014421, 1.4333685925, 4.7928562462)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.013090558319, 1.43261843892, 4.79034790446)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.01308713106, 1.43186828534, 4.78783956272)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.0130837038, 1.43111813176, 4.78533122098)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.00522936881, 1.52961993286, 1.62459780852)
+
+--------------------
+[Timestamp] 2018-04-19 22:35:33
+[Builder Position] (x, y, z): (-0.0805801751639, 1.0, -4.80739063024) (yaw, pitch): (0.15000692, 16.650007)
+[Screenshot Path] 342912-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.997378461076, 0.287273841363, 0.960577922633)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.00261811166379, 0.286523687783, 0.958069580892)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.0026146844, 0.285773534204, 0.955561239151)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.00261125714, 0.285023380624, 0.95305289741)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.992142237749, 0.86032121693, 2.87671708442)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.00785433499137, 0.85957106335, 2.87420874268)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.00785090773, 0.85882090977, 2.87170040094)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.00784748047, 0.858070756191, 2.86919205919)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.986906014421, 1.4333685925, 4.7928562462)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.013090558319, 1.43261843892, 4.79034790446)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.01308713106, 1.43186828534, 4.78783956272)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.0130837038, 1.43111813176, 4.78533122098)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.00522936881, 1.52961993286, 1.62459780852)
+
+--------------------
+[Timestamp] 2018-04-19 22:35:38
+[Builder Position] (x, y, z): (0.346308904479, 1.0, -4.80688326671) (yaw, pitch): (-18.90001, 7.9500074)
+[Screenshot Path] 347308-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -2.21608818791, 0.0412506792274, 0.29538369095)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -1.27000288561, 0.0860513975793, 0.616188142945)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -0.323917583321, 0.130852115931, 0.936992594939)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 0.622167718972, 0.175652834283, 1.25779704693)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -2.86392335455, 0.30295491109, 2.16936888083)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -1.91783805226, 0.347755629441, 2.49017333282)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.971752749963, 0.392556347793, 2.81097778482)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.02566744767, 0.437357066145, 3.13178223681)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -3.51175852119, 0.564659142952, 4.04335407071)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -2.5656732189, 0.609459861304, 4.3641585227)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.61958791661, 0.654260579655, 4.6849629747)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.673502614312, 0.699061298007, 5.00576742669)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): -0.647835166642, 1.2520933571, 1.7356761858)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 0.298250135651, 1.29689407545, 2.0564806378)
+
+--------------------
+[Timestamp] 2018-04-19 22:35:39
+[Builder Position] (x, y, z): (3.07950687396, 1.0, -5.1761651122) (yaw, pitch): (21.149988, 6.150006)
+[Screenshot Path] 348458-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -3.94157423124, 0.393102287068, 3.64821369597)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -3.00893513253, 0.35444797361, 3.28947959444)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -2.07629603382, 0.315793660153, 2.9307454929)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): -1.14365693511, 0.277139346695, 2.57201139136)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -3.21995296893, 0.592933006848, 5.50275688426)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -2.28731387022, 0.554278693391, 5.14402278272)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -1.35467477151, 0.515624379934, 4.78528868118)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.422035672798, 0.476970066476, 4.42655457964)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -2.49833170662, 0.792763726629, 7.35730007254)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.56569260791, 0.754109413172, 6.998565971)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.633053509197, 0.715455099714, 6.63983186946)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.299585589514, 0.676800786257, 6.28109776793)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): -1.71548540266, 1.40995384146, 3.75088522861)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): -0.782846303954, 1.371299528, 3.39215112707)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 0.149792794757, 1.33264521454, 3.03341702553)
+
+--------------------
+[Timestamp] 2018-04-19 22:36:29
+[Builder Position] (x, y, z): (0.371350874023, 1.0, -5.76204487607) (yaw, pitch): (-0.30001238, 3.9000053)
+[Screenshot Path] 398867-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -2.01044494203, 0.135316619515, 1.98489308214)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -1.01045865092, 0.135672760296, 1.99011713648)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -0.0104723598004, 0.136028901077, 1.99534119081)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 0.989513931316, 0.136385041858, 2.00056524515)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -2.02091730183, 0.271345520592, 3.98023427295)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -1.02093101072, 0.271701661373, 3.98545832729)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.0209447196009, 0.272057802154, 3.99068238162)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.979041571515, 0.272413942935, 3.99590643596)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -2.03138966163, 0.407374421669, 5.97557546377)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.03140337052, 0.40773056245, 5.9807995181)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.0314170794013, 0.408086703231, 5.98602357244)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.968569211715, 0.408442844012, 5.99124762677)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): -0.0157085397007, 1.20172762416, 2.92499640326)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 0.984277751415, 1.20208376494, 2.9302204576)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 1.98426404253, 1.20243990572, 2.93544451193)
+
+--------------------
+[Timestamp] 2018-04-19 22:36:35
+[Builder Position] (x, y, z): (1.76982513054, 3.0, -2.14832464964) (yaw, pitch): (1.949983, 56.549988)
+[Screenshot Path] 404466-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -3.03228979035, -1.85112921035, 1.17411212153)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -2.03286887822, -1.87952026282, 1.15535609472)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -1.0334479661, -1.90791131529, 1.13660006791)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): -0.034027053968, -1.93630236775, 1.11784404111)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -2.96423568242, -0.183361464178, 2.27589221901)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -1.96481477029, -0.211752516645, 2.2571361922)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.96539385816, -0.240143569112, 2.2383801654)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.034027053968, -0.268534621579, 2.21962413859)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.068054107936, 0.565349251509, 2.77051418733)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -2.89618157448, 1.484406282, 3.3776723165)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.89676066235, 1.45601522953, 3.35891628969)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.897339750224, 1.42762417706, 3.34016026288)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.102081161904, 1.3992331246, 3.32140423608)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): -0.999420912128, -0.522818194866, 0.853123071731)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 0.0, -0.551209247333, 0.834367044924)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 0.999420912128, -0.5796002998, 0.815611018117)
+
+--------------------
+[Timestamp] 2018-04-19 22:36:35
+[Builder Position] (x, y, z): (1.76982513054, 3.0, -2.14832464964) (yaw, pitch): (1.949983, 56.549988)
+[Screenshot Path] 404819-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 15
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -3.03228979035, -1.85112921035, 1.17411212153)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -2.03286887822, -1.87952026282, 1.15535609472)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -1.0334479661, -1.90791131529, 1.13660006791)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): -0.034027053968, -1.93630236775, 1.11784404111)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -2.96423568242, -0.183361464178, 2.27589221901)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -1.96481477029, -0.211752516645, 2.2571361922)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.96539385816, -0.240143569112, 2.2383801654)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.034027053968, -0.268534621579, 2.21962413859)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.068054107936, 0.565349251509, 2.77051418733)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -2.89618157448, 1.484406282, 3.3776723165)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.89676066235, 1.45601522953, 3.35891628969)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.897339750224, 1.42762417706, 3.34016026288)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.102081161904, 1.3992331246, 3.32140423608)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): -0.999420912128, -0.522818194866, 0.853123071731)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 0.0, -0.551209247333, 0.834367044924)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 0.999420912128, -0.5796002998, 0.815611018117)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.068054107936, 1.11655849884, 1.93614714241)
+
+--------------------
+[Timestamp] 2018-04-19 22:36:37
+[Builder Position] (x, y, z): (4.29766956195, 1.0, -1.49137061092) (yaw, pitch): (72.15001, 31.04999)
+[Screenshot Path] 406267-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -3.74288010031, 2.6295387048, 4.36765094241)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -3.43635418834, 2.13858168833, 3.55217373655)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -3.12982827637, 1.64762467186, 2.7366965307)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): -2.8233023644, 1.15666765538, 1.92121932484)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.8391554718, 2.94574209884, 4.89286323513)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -1.53262955984, 2.45478508236, 4.07738602928)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -1.22610364787, 1.96382806589, 3.26190882342)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.919577735901, 1.47287104942, 2.44643161757)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.064569156702, 3.26194549287, 5.41807552786)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.371095068669, 2.7709884764, 4.602598322)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.677620980636, 2.28003145993, 3.78712111615)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.984146892603, 1.78907444346, 2.97164391029)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): -2.17796596212, 2.66244397776, 2.4835169283)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): -1.87144005015, 2.17148696129, 1.66803972244)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): -1.56491413819, 1.68052994481, 0.852562516589)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.032284578351, 2.48769035532, 2.19325201517)
+
+--------------------
+[Timestamp] 2018-04-19 22:36:37
+[Builder Position] (x, y, z): (4.29766956195, 1.0, -1.49137061092) (yaw, pitch): (68.10001, 4.19999)
+[Screenshot Path] 406665-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 15
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -4.09359836182, 0.353083634454, 4.80809571444)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -3.72061074119, 0.285130736724, 3.88275110915)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -3.34762312055, 0.217177838994, 2.95740650385)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): -2.97463549991, 0.149224941264, 2.03206189856)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -2.23792572383, 0.407717386379, 5.55206763175)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -1.86493810319, 0.339764488649, 4.62672302646)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -1.49195048255, 0.271811590919, 3.70137842117)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.11896286191, 0.20385869319, 2.77603381587)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.382253085832, 0.462351138304, 6.29603954906)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.009265465194, 0.394398240574, 5.37069494377)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.363722155444, 0.326445342845, 4.44535033848)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.736709776082, 0.258492445115, 3.52000573319)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): -2.41978680155, 1.24180920496, 3.25615443945)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): -2.04679918091, 1.17385630723, 2.33080983416)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): -1.67381156027, 1.1059034095, 1.40546522886)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.191126542916, 1.22849005916, 3.07478175147)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 0.181861077722, 1.16053716143, 2.14943714618)
+
+--------------------
+[Timestamp] 2018-04-19 22:36:39
+[Builder Position] (x, y, z): (0.365912976274, 2.0, -1.51703133781) (yaw, pitch): (-39.0, 43.199986)
+[Screenshot Path] 409115-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.295651140814, -2.65455323604, -1.3659932357)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.481494820643, -2.22375389574, -0.907238308768)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.2586407821, -1.79295455544, -0.448483381832)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.03578674356, -1.36215521514, 0.0102715451044)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.55429192291, -1.59056747529, -0.232962926065)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.777145961457, -1.15976813499, 0.225792000872)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.0, -0.728968794688, 0.684546927808)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.777145961457, -0.298169454388, 1.14330185474)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -2.81293270501, -0.526581714541, 0.900067383575)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -2.03578674356, -0.0957823742406, 1.35882231051)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.2586407821, 0.33501696606, 1.81757723745)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.481494820643, 0.76581630636, 2.27633216438)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 0.62932039105, -0.531992880374, -0.56651515482)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 1.40646635251, -0.101193540074, -0.107760227884)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 2.18361231396, 0.329605800227, 0.350994699053)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.62932039105, 0.531992880374, 0.56651515482)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.147825570407, 0.962792220674, 1.02527008176)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 0.924971531864, 1.39359156097, 1.48402500869)
+
+--------------------
+[Timestamp] 2018-04-19 22:36:41
+[Builder Position] (x, y, z): (0.566844588432, 3.0, -3.40483623905) (yaw, pitch): (-40.949993, 46.79998)
+[Screenshot Path] 410416-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -1.51056378471, -2.32462659903, 0.560631989281)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -0.755281892357, -1.8468606599, 1.00928438311)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 0.0, -1.36909472077, 1.45793677694)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 0.755281892357, -0.891328781648, 1.90658917077)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -2.82136394199, -1.2234733512, 1.5946844408)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -2.06608204963, -0.745707412078, 2.04333683463)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -1.31080015727, -0.267941472951, 2.49198922846)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.555518264917, 0.209824466175, 2.94064162229)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -4.13216409926, -0.122320103382, 2.62873689233)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -3.3768822069, 0.355445835745, 3.07738928615)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -2.62160031455, 0.833211774871, 3.52604167998)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -1.86631842219, 1.310977714, 3.97469407381)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): -0.655400078637, -0.133970736476, 1.24599461423)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 0.09988181372, 0.343795202651, 1.69464700806)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 0.855163706077, 0.821561141777, 2.14329940189)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.96620023591, 0.967182511347, 2.28004706575)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.21091834355, 1.44494845047, 2.72869945958)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -0.455636451197, 1.9227143896, 3.17735185341)
+
+--------------------
+[Timestamp] 2018-04-19 22:37:22
+[Builder Position] (x, y, z): (0.236367833491, 1.0, -5.64642672806) (yaw, pitch): (0.30000234, 6.4499893)
+[Screenshot Path] 451958-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -1.98950057472, 0.225845163502, 1.99771905565)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -0.989514282691, 0.225256972047, 1.99251619338)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 0.0104720093431, 0.224668780592, 1.98731333112)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 1.01045830138, 0.224080589137, 1.98211046886)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.97902856538, 0.450513944094, 3.98503238677)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.979042273348, 0.449925752639, 3.97982952451)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.0209440186862, 0.449337561184, 3.97462666224)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.02093031072, 0.448749369728, 3.96942379998)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -1.96855655604, 0.675182724686, 5.97234571789)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.968570264005, 0.674594533231, 5.96714285563)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0314160280294, 0.674006341775, 5.96193999336)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.03140232006, 0.67341815032, 5.9567371311)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 0.0157080140147, 1.33067345765, 2.86863406649)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 1.01569430605, 1.33008526619, 2.86343120423)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 2.01568059808, 1.32949707474, 2.85822834196)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0261800233578, 1.55534223824, 4.85594739761)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.02616631539, 1.55475404678, 4.85074453535)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 2.02615260743, 1.55416585533, 4.84554167308)
+
+--------------------
+[Timestamp] 2018-04-19 22:37:37
+[Builder Position] (x, y, z): (-1.01843644416, 2.0, -2.19733917396) (yaw, pitch): (9.750004, 47.85002)
+[Screenshot Path] 466705-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.169349572654, -1.40175572329, 0.0800100897008)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.816206474581, -1.52730992747, -0.0336359378264)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.80176252182, -1.65286413164, -0.147281965354)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.78731856905, -1.77841833581, -0.260927992881)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 0.169349572654, 0.0596085215486, 1.40277138066)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 1.15490561989, -0.0659456826239, 1.28912535313)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 2.14046166712, -0.191499886796, 1.17547932561)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 3.12601771436, -0.317054090969, 1.06183329808)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.338699145308, 0.79029064397, 2.06415202614)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.508048717962, 1.52097276639, 2.72553267162)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.4936047652, 1.39541856222, 2.61188664409)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.47916081243, 1.26986435805, 2.49824061657)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.46471685967, 1.14431015387, 2.38459458904)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.97111209447, -0.251108408345, -0.227292055054)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.95666814171, -0.376662612518, -0.340938082582)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 3.94222418894, -0.50221681669, -0.454584110109)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.30981123978, 1.2102558365, 1.09546923591)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 3.29536728701, 1.08470163233, 0.981823208379)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 4.28092333425, 0.959147428153, 0.868177180851)
+
+--------------------
+[Timestamp] 2018-04-19 22:37:56
+[Builder Position] (x, y, z): (-2.29867356482, 2.0, -4.29693561587) (yaw, pitch): (2.515316e-06, 33.60002)
+[Screenshot Path] 485702-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 1.0000000439, -0.279529231846, 1.38631285096)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 2.0000000439, -0.27952925614, 1.3863128144)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 3.0000000439, -0.279529280435, 1.38631277783)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 4.0000000439, -0.279529304729, 1.38631274127)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 1.0000001317, 0.82725444813, 3.05215494604)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 2.0000001317, 0.827254423836, 3.05215490948)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 3.0000001317, 0.827254399541, 3.05215487291)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 4.0000001317, 0.827254375247, 3.05215483635)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 1.0000001756, 1.38064628812, 3.88507599358)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 1.0000002195, 1.93403812811, 4.71799704112)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 2.0000002195, 1.93403810381, 4.71799700456)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 3.0000002195, 1.93403807952, 4.71799696799)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 4.0000002195, 1.93403805522, 4.71799693143)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 3.0000000878, 1.10678360709, 1.66584198538)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 4.0000000878, 1.1067835828, 1.66584194882)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 5.0000000878, 1.1067835585, 1.66584191225)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 3.0000001756, 2.21356728707, 3.33168408046)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.0000001756, 2.21356726278, 3.3316840439)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 5.0000001756, 2.21356723848, 3.33168400733)
+
+--------------------
+[Timestamp] 2018-04-19 22:37:59
+[Builder Position] (x, y, z): (-2.29560124911, 2.0, -3.66870962722) (yaw, pitch): (1.0500026, 38.85003)
+[Screenshot Path] 488652-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 0.999832083515, -0.790285491038, 0.613012762859)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 1.99966416703, -0.801780457251, 0.598741444585)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 2.99949625055, -0.813275423464, 0.584470126312)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 3.99932833406, -0.824770389677, 0.570198808038)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 1.03648203705, 0.464072008552, 2.17033226897)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 2.03631412056, 0.452577042339, 2.1560609507)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 3.03614620408, 0.441082076126, 2.14178963243)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 4.03597828759, 0.429587109913, 2.12751831415)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): 0.054974930301, 1.10274572456, 2.96326334031)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 1.05480701382, 1.09125075835, 2.94899202203)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 1.07313199058, 1.71842950814, 3.72765177509)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 2.0729640741, 1.70693454193, 3.71338045682)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 3.07279615761, 1.69543957572, 3.69910913854)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 4.07262824113, 1.6839446095, 3.68483782027)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 3.01782122731, 0.592693851156, 0.735845798236)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 4.01765331083, 0.581198884943, 0.721574479962)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 5.01748539434, 0.56970391873, 0.707303161689)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 3.05447118085, 1.84705135075, 2.29316530435)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.05430326436, 1.83555638453, 2.27889398608)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 5.05413534788, 1.82406141832, 2.2646226678)
+
+--------------------
+[Timestamp] 2018-04-19 22:38:30
+[Builder Position] (x, y, z): (-2.29990796595, 2.0, -2.70205250912) (yaw, pitch): (1.0500026, 38.550026)
+[Screenshot Path] 519564-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 0.981507106748, -1.41657747685, -0.173066609944)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 1.98133919026, -1.42799756039, -0.187397920615)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 2.98117127378, -1.43941764392, -0.201729231286)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 3.98100335729, -1.45083772746, -0.216060541957)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 1.01815706028, -0.170391349472, 1.39079940632)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 2.0179891438, -0.181811433008, 1.37646809565)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 3.01782122731, -0.193231516544, 1.36213678498)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 4.01765331083, -0.20465160008, 1.34780547431)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): 0.036649953534, 0.464121797755, 2.18706372512)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 1.03648203705, 0.452701714218, 2.17273241445)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 1.05480701382, 1.07579477791, 2.95466542259)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 2.05463909733, 1.06437469437, 2.94033411192)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 3.05447118085, 1.05295461084, 2.92600280125)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 4.05430326436, 1.0415345273, 2.91167149057)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 2.99949625055, -0.0342602506083, -0.0429939320121)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 3.99932833406, -0.0456803341444, -0.0573252426828)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 4.99916041758, -0.0571004176804, -0.0716565533535)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 3.03614620408, 1.21192587677, 1.52087208425)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.03597828759, 1.20050579324, 1.50654077358)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 5.03581037111, 1.1890857097, 1.49220946291)
+
+--------------------
+[Timestamp] 2018-04-19 22:38:43
+[Builder Position] (x, y, z): (-2.29990796595, 2.0, -2.70205250912) (yaw, pitch): (1.0500026, 38.550026)
+[Screenshot Path] 532761-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 0.981507106748, -1.41657747685, -0.173066609944)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 1.98133919026, -1.42799756039, -0.187397920615)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 2.98117127378, -1.43941764392, -0.201729231286)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 3.98100335729, -1.45083772746, -0.216060541957)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 1.01815706028, -0.170391349472, 1.39079940632)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 2.0179891438, -0.181811433008, 1.37646809565)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 3.01782122731, -0.193231516544, 1.36213678498)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 4.01765331083, -0.20465160008, 1.34780547431)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): 0.036649953534, 0.464121797755, 2.18706372512)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 1.03648203705, 0.452701714218, 2.17273241445)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 1.05480701382, 1.07579477791, 2.95466542259)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 2.05463909733, 1.06437469437, 2.94033411192)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 3.05447118085, 1.05295461084, 2.92600280125)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 4.05430326436, 1.0415345273, 2.91167149057)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 2.99949625055, -0.0342602506083, -0.0429939320121)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 3.99932833406, -0.0456803341444, -0.0573252426828)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 4.99916041758, -0.0571004176804, -0.0716565533535)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 3.03614620408, 1.21192587677, 1.52087208425)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.03597828759, 1.20050579324, 1.50654077358)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 5.03581037111, 1.1890857097, 1.49220946291)
+
+--------------------
+[Timestamp] 2018-04-19 22:38:55
+[Builder Position] (x, y, z): (-2.29990796595, 2.0, -2.70205250912) (yaw, pitch): (-2.9999962, 33.000023)
+[Screenshot Path] 544459-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 1.05096542824, -1.3540591273, -0.248989052822)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 2.04959496646, -1.32555494105, -0.205096493665)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 3.04822450469, -1.2970507548, -0.161203934507)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 4.04685404292, -1.26854656854, -0.11731137535)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 0.946293648215, -0.266273198821, 1.42605291449)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 1.94492318644, -0.237769012569, 1.46994547365)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 2.94355272467, -0.209264826317, 1.51383803281)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 3.94218226289, -0.180760640065, 1.55773059197)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -0.104671780023, 0.249115579166, 2.219681339)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.893957758203, 0.277619765418, 2.26357389815)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.841621868192, 0.821512729658, 3.10109488181)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.84025140642, 0.85001691591, 3.14498744097)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.83888094464, 0.878521102162, 3.18888000013)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.83751048287, 0.907025288414, 3.23277255928)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 2.99588861468, 0.085512558756, 0.131677677472)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 3.9945181529, 0.114016745008, 0.17557023663)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 4.99314769113, 0.14252093126, 0.219462795787)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.89121683466, 1.17329848724, 1.80671964479)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 3.88984637288, 1.20180267349, 1.85061220395)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 4.88847591111, 1.23030685974, 1.8945047631)
+
+--------------------
+[Timestamp] 2018-04-19 22:38:59
+[Builder Position] (x, y, z): (-1.5999586885, 2.0, 0.273802075939) (yaw, pitch): (1.3500049, 59.70005)
+[Screenshot Path] 548709-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.094239401324, -3.95715221641, -1.15415132083)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.905483026879, -3.97749369673, -1.16603789838)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.90520545508, -3.99783517706, -1.17792447594)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.90492788328, -4.01817665738, -1.18981105349)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.047119700662, -2.23083954339, -0.14537766497)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.952602727541, -2.25118102371, -0.157264242524)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.95232515574, -2.27152250403, -0.169150820077)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.95204758395, -2.29186398435, -0.181037397631)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -1.02328227853, -1.34734172655, 0.370895740514)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): -0.023559850331, -1.36768320687, 0.35900916296)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.0, -0.50452687036, 0.86339599089)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.999722428203, -0.524868350682, 0.851509413336)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.99944485641, -0.545209831004, 0.839622835783)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.99916728461, -0.565551311325, 0.827736258229)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.023559850331, 0.358629466153, 1.36778281882)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.92876530541, -2.63015197018, -1.5369336389)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.92848773362, -2.65049345051, -1.54882021645)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 3.92821016182, -2.67083493083, -1.560706794)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.97588500607, -0.903839297157, -0.528159983037)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.97560743428, -0.924180777479, -0.540046560591)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 3.97532986248, -0.9445222578, -0.551933138145)
+
+--------------------
+[Timestamp] 2018-04-19 22:39:00
+[Builder Position] (x, y, z): (-1.5999586885, 2.0, 0.285164963434) (yaw, pitch): (47.400005, 55.350044)
+[Screenshot Path] 549462-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -2.94438858475, -2.79586458312, -0.716740604982)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -2.26751267931, -3.40140824217, -1.13525689571)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): -1.59063677386, -4.00695190122, -1.55377318645)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): -0.913760868414, -4.61249556028, -1.97228947718)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.47219429238, -1.68221290106, 0.0529501748316)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.79531838693, -2.28775656011, -0.365566115902)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.118442481484, -2.89330021916, -0.784082406635)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.558433423962, -3.49884387821, -1.20259869737)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -1.41297305163, -0.519843400973, 0.856311855471)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): -0.736097146188, -1.12538706002, 0.437795564738)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.0, -0.568561218992, 0.822640954645)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.676875905446, -1.17410487804, 0.404124663912)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.35375181089, -1.7796485371, -0.0143916268214)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.03062771634, -2.38519219615, -0.432907917555)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): 0.059221240742, 0.593808281092, 1.62600263528)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.736097146188, -0.0117353779597, 1.20748634455)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): -0.854539627672, -2.8815648412, -1.99156875119)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): -0.177663722226, -3.48710850025, -2.41008504192)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 0.49921218322, -4.0926521593, -2.82860133265)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.617654664704, -1.76791315914, -1.22187797137)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.29453057015, -2.37345681819, -1.64039426211)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 1.9714064756, -2.97900047724, -2.05891055284)
+
+--------------------
+[Timestamp] 2018-04-19 22:39:03
+[Builder Position] (x, y, z): (-1.92330262421, 2.0, -3.07658568828) (yaw, pitch): (-7.199998, 54.75004)
+[Screenshot Path] 552209-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 0.0, -0.577144619914, 0.816641958085)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.992114705689, -0.474792270924, 0.888977339546)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.98422941138, -0.372439921935, 0.961312721007)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.97634411707, -0.270087572945, 1.03364810247)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.250666397866, 1.04326037188, 1.96182928754)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.741448307823, 1.14561272087, 2.034164669)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.73356301351, 1.24796506986, 2.10650005046)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.7256777192, 1.35031741885, 2.17883543192)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -1.36811430249, 1.75111051879, 2.4620875708)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): -0.375999596799, 1.85346286778, 2.53442295226)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.501332795732, 2.66366536368, 3.10701661699)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.490781909957, 2.76601771267, 3.17935199845)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.48289661565, 2.86837006166, 3.25168737991)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.47501132133, 2.97072241065, 3.32402276137)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -1.61878070035, 3.37151551059, 3.60727490025)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -0.626665994665, 3.47386785958, 3.67961028171)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.85889621244, 1.01490719388, 0.717264427648)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.85101091813, 1.11725954287, 0.789599809108)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 3.84312562382, 1.21961189186, 0.861935190569)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.60822981458, 2.63531218568, 1.8624517571)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.60034452027, 2.73766453467, 1.93478713856)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 3.59245922596, 2.84001688366, 2.00712252002)
+
+--------------------
+[Timestamp] 2018-04-19 22:39:57
+[Builder Position] (x, y, z): (-0.723404013982, 2.0, -3.43305085694) (yaw, pitch): (2.0999951, 46.80004)
+[Screenshot Path] 606768-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.999328396912, -0.657834527761, 0.754053372918)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.0, -0.684546597012, 0.728969105325)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 0.999328396912, -0.711258666263, 0.703884837732)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 1.99865679382, -0.737970735514, 0.678800570139)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.926041150426, 0.799124527085, 2.12222707973)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.0732872464858, 0.772412457834, 2.09714281213)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.0726156434, 0.745700388582, 2.07205854454)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.07194404031, 0.718988319331, 2.04697427695)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -1.8887259241, 1.55431612376, 2.83139820072)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): -0.889397527183, 1.52760405451, 2.80631393313)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.85275390394, 2.25608358193, 3.49040078653)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.146574492972, 2.22937151268, 3.46531651894)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.14590288988, 2.20265944343, 3.44023225135)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.1452312868, 2.17594737418, 3.41514798375)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -1.81543867761, 3.0112751786, 4.19957190753)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -0.816110280698, 2.98456310935, 4.17448763994)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.03597202015, 0.701767458172, 0.65900258581)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.03530041707, 0.67505538892, 0.633918318217)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 3.03462881398, 0.648343319669, 0.608834050624)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.10925926664, 2.15872651302, 2.02717629262)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.10858766355, 2.13201444377, 2.00209202502)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 3.10791606046, 2.10530237451, 1.97700775743)
+
+--------------------
+[Timestamp] 2018-04-19 22:40:07
+[Builder Position] (x, y, z): (-1.48188751246, 2.0, 0.738898617694) (yaw, pitch): (3.4499953, 40.650063)
+[Screenshot Path] 616166-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 15
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.24070959035, -3.35972956104, -2.37787219375)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.757478107841, -3.39893136803, -2.42352892938)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.75566580603, -3.43813317502, -2.46918566502)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.75385350422, -3.47733498202, -2.51484240066)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.120354795175, -2.0592159777, -0.863217400456)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.877832903016, -2.0984177847, -0.908874136093)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.87602060121, -2.13761959169, -0.954530871729)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.8742082994, -2.17682139868, -1.00018760737)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -1.05836509578, -1.36975737904, -0.0602332681748)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): -0.0601773975875, -1.40895918604, -0.105890003811)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.0, -0.758702394367, 0.651437392834)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.998187698191, -0.797904201359, 0.605780657198)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.99637539638, -0.837106008351, 0.560123921561)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.99456309457, -0.876307815343, 0.514467185925)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.938010300603, -0.0692437957065, 1.45442152512)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.0601773975875, -0.108445602698, 1.40876478948)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.180532192762, 1.19206798064, 2.92341958277)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.81584320362, -2.02917398899, -2.36329566121)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.81403090181, -2.06837579598, -2.40895239684)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 3.8122186, -2.10757760297, -2.45460913248)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.93619799879, -0.728660405652, -0.848640867918)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.93438569699, -0.767862212644, -0.894297603554)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 3.93257339518, -0.807064019636, -0.939954339191)
+
+--------------------
+[Timestamp] 2018-04-19 22:40:07
+[Builder Position] (x, y, z): (-1.48188751246, 2.0, 0.741987612212) (yaw, pitch): (23.549994, 41.100067)
+[Screenshot Path] 617014-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -1.59819642752, -3.16406041544, -2.10582284785)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): -0.681484634648, -3.42671445986, -2.40690812108)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 0.235227158224, -3.68936850428, -2.70799339431)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 1.1519389511, -3.95202254871, -3.00907866754)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.79909821376, -1.95881151951, -0.724223360429)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.117613579112, -2.22146556394, -1.02530863366)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.03432537198, -2.48411960836, -1.32639390689)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.95103716486, -2.74677365278, -1.62747918012)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -1.31626089975, -1.09353302713, 0.267661656512)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): -0.39954910688, -1.35618707155, -0.0334236167199)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.0, -0.753562623586, 0.657376126989)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.916711792872, -1.01621666801, 0.356290853757)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.83342358574, -1.27887071243, 0.0552055805251)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 2.75013537862, -1.54152475685, -0.245879692707)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.517162685992, 0.1117158688, 1.64926114393)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.39954910688, -0.150938175623, 1.3481758707)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): 0.281935527768, 1.31696476473, 3.03086063135)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 1.19864732064, 1.0543107203, 2.72977535812)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 0.634776265104, -2.33318143274, -2.67456977759)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 1.55148805798, -2.59583547716, -2.97565505082)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 2.46819985085, -2.85848952158, -3.27674032405)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.43387447886, -1.12793253681, -1.29297029017)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.35058627174, -1.39058658123, -1.5940555634)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 3.26729806461, -1.65324062565, -1.89514083664)
+
+--------------------
+[Timestamp] 2018-04-19 22:40:59
+[Builder Position] (x, y, z): (-1.02139851783, 2.0, -0.938559159562) (yaw, pitch): (1.499995, 9.1500025)
+[Screenshot Path] 668056-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.0785305832139, -1.46417112302, -2.80179154649)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.921126744046, -1.46833376043, -2.82763531761)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.92078407131, -1.47249639784, -2.85347908872)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.92044139857, -1.47665903525, -2.87932285983)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.0261768610713, -1.14624064427, -0.827917361431)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.973480466189, -1.15040328168, -0.853761132544)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.97313779345, -1.15456591909, -0.879604903657)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.97279512071, -1.1587285565, -0.90544867477)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -0.99965732726, -0.983112767491, 0.184863502214)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.0, -0.9872754049, 0.159019731101)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.0261768610713, -0.828310165526, 1.14595682363)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.02583418833, -0.832472802935, 1.12011305252)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.02549151559, -0.836635440343, 1.09426928141)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.02514884285, -0.840798077752, 1.06842551029)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.947303605117, -0.665182288743, 2.15873768728)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.0523537221426, -0.669344926152, 2.13289391616)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.894949882975, -0.347251809995, 4.13261187234)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.104707444285, -0.351414447404, 4.10676810123)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.94696093238, -0.326255753565, -2.02556172729)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.94661825964, -0.330418390974, -2.0514054984)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 3.9462755869, -0.334581028383, -2.07724926952)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.99931465452, -0.00832527481725, -0.0516875422264)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.99897198178, -0.0124879122259, -0.0775313133395)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 3.99862930904, -0.0166505496345, -0.103375084453)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:23
+[Builder Position] (x, y, z): (-1.95772231887, 2.0, -0.519378171887) (yaw, pitch): (7.799994, 27.44999)
+[Screenshot Path] 691852-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.407146406049, -2.25754118507, -2.17663492615)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.583601448635, -2.32010251734, -2.29707066896)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.57434930332, -2.38266384961, -2.41750641176)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.565097158, -2.44522518188, -2.53794215456)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.135715468683, -1.3441227467, -0.418228828949)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.855032386001, -1.40668407897, -0.538664571751)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.84578024068, -1.46924541124, -0.659100314553)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.83652809537, -1.53180674351, -0.779536057356)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -0.990747854684, -0.824852195243, 0.581409962455)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.0, -0.887413527514, 0.460974219653)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.135715468683, -0.430704308328, 1.34017726826)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.12646332337, -0.493265640599, 1.21974152545)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.11721117805, -0.55582697287, 1.09930578265)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.10795903273, -0.618388305141, 0.978870039848)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.719316917318, 0.0885662431287, 2.33981605966)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.271430937366, 0.0260049108577, 2.21938031686)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 1, 2)  Perspective (x, y, z): -0.583601448635, 0.545275462315, 3.21901910826)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.447885979952, 1.0019846815, 4.09822215686)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.542861874732, 0.939423349229, 3.97778641406)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.710064772, -1.03854110291, -1.99927758281)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.70081262669, -1.10110243518, -2.11971332561)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 3.69156048137, -1.16366376746, -2.24014906841)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.98149570937, -0.125122664542, -0.240871485604)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.97224356405, -0.187683996813, -0.361307228407)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 3.96299141874, -0.250245329084, -0.481742971209)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:23
+[Builder Position] (x, y, z): (-1.96908830336, 2.0, -0.519378171887) (yaw, pitch): (7.949994, 27.44999)
+[Screenshot Path] 692353-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.414926317347, -2.25704513473, -2.17567998818)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.575462840239, -2.32080191318, -2.29841706383)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.56585199783, -2.38455869163, -2.42115413947)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.55624115541, -2.44831547008, -2.54389121512)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -0.138308772449, -1.34395739658, -0.417910516292)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.852080385137, -1.40771417504, -0.540647591937)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 1.84246954272, -1.47147095349, -0.663384667582)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 2.83285870031, -1.53522773194, -0.786121743227)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -0.990389157586, -0.823656749063, 0.583711295298)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.0, -0.887413527514, 0.460974219653)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.138308772449, -0.430869658443, 1.3398589556)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.12869793003, -0.494626436894, 1.21712187995)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.11908708762, -0.558383215345, 1.09438480431)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.10947624521, -0.622139993796, 0.971647728663)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.713771612688, 0.0894309890788, 2.34148076719)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.276617544898, 0.025674210628, 2.21874369154)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 1, 2)  Perspective (x, y, z): -0.575462840239, 0.54597485815, 3.22036550313)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.43715406779, 1.00251872722, 4.09925023908)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.553235089796, 0.93876194877, 3.97651316343)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.70416077027, -1.04060129504, -2.00324362318)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.69454992786, -1.10435807349, -2.12598069883)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 3.68493908545, -1.16811485195, -2.24871777447)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.98077831517, -0.127513556902, -0.24547415129)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 2.97116747276, -0.191270335353, -0.368211226935)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 3.96155663034, -0.255027113803, -0.49094830258)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): -0.575462840239, 1.43338838566, 2.75939128348)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:24
+[Builder Position] (x, y, z): (-5.10067889438, 1.0, -0.353653799129) (yaw, pitch): (-37.800003, 19.94999)
+[Screenshot Path] 693551-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 4.99934120621, 0.0276929502637, 0.0762928854891)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 5.78949618649, 0.236816736245, 0.652419910779)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 6.57965116678, 0.445940522227, 1.22854693607)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 7.36980614706, 0.655064308208, 1.80467396136)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 3.77352701616, 0.566894412705, 1.56176969593)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 4.56368199645, 0.776018198687, 2.13789672122)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 5.35383697673, 0.985141984668, 2.71402374651)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 6.14399195701, 1.19426577065, 3.2901507718)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): 2.37046494085, 0.627371357945, 1.72838107587)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 3.16061992114, 0.836495143926, 2.30450810116)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 2.54771282611, 1.10609587515, 3.04724650638)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 3.33786780639, 1.31521966113, 3.62337353167)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 4.12802278668, 1.52434344711, 4.19950055696)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 4.91817776696, 1.73346723309, 4.77562758225)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): 1.1446507508, 1.16657282039, 3.21385788631)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 1.93480573109, 1.37569660637, 3.7899849116)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.081163439248, 1.70577428283, 4.69933469676)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.708991541036, 1.91489806881, 5.27546172205)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 5.96674407175, 1.65553204482, 1.63008552866)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 6.75689905204, 1.8646558308, 2.20621255395)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 7.54705403232, 2.07377961678, 2.78233957924)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 4.7409298817, 2.19473350726, 3.11556233911)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 5.53108486199, 2.40385729324, 3.6916893644)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 6.32123984227, 2.61298107922, 4.26781638969)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): 0.531743655777, 2.37616434298, 3.61539647891)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:25
+[Builder Position] (x, y, z): (-5.10605692176, 1.0, -0.353653799129) (yaw, pitch): (-38.250004, 3.7499914)
+[Screenshot Path] 694570-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 4.99854956304, 0.00787617692453, 0.120167514816)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 5.78386645071, 0.0483667693566, 0.737935997243)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 6.56918333836, 0.0888573617886, 1.35570447967)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 7.35450022603, 0.129347954221, 1.9734729621)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 3.76036155477, 0.11060030546, 1.68743845808)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 4.54567844244, 0.151090897892, 2.3052069405)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 5.33099533009, 0.191581490324, 2.92297542293)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 6.11631221776, 0.232072082756, 3.54074390536)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): 2.35595066298, 0.121471777296, 1.85330544728)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 3.14126755064, 0.161962369728, 2.47107392971)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 2.5221735465, 0.213324433996, 3.25470940134)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 3.30749043416, 0.253815026428, 3.87247788376)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 4.09280732182, 0.29430561886, 4.49024636619)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 4.87812420948, 0.334796211292, 5.10801484862)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): 1.11776265471, 0.224195905832, 3.42057639054)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 1.90307954237, 0.264686498264, 4.03834487297)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.12042535356, 0.326920034368, 4.9878473338)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.6648915341, 0.3674106268, 5.60561581623)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 5.95008933423, 1.13807835911, 2.07393697185)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 6.73540622189, 1.17856895154, 2.69170545427)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 7.52072310955, 1.21905954398, 3.3094739367)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 4.71190132596, 1.24080248765, 3.64120791511)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 5.49721821362, 1.28129308008, 4.25897639754)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 6.28253510128, 1.32178367251, 4.87674487996)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 2)  Perspective (x, y, z): -0.286648237085, 1.23292631072, 3.52104040029)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): 0.498668650575, 1.27341690315, 4.13880888272)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:26
+[Builder Position] (x, y, z): (-3.5743674364, 1.0, -1.53697326789) (yaw, pitch): (-17.850004, 20.849997)
+[Screenshot Path] 695869-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 2.51677676781, -0.459379359471, -1.20615310186)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 3.46863900716, -0.35027978711, -0.919699683996)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 4.42050124651, -0.241180214749, -0.633246266136)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 5.37236348586, -0.132080642387, -0.346792848277)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 1.90372447871, 0.218199144722, 0.572906835719)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 2.85558671806, 0.327298717084, 0.859360253578)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 3.80744895741, 0.436398289445, 1.14581367144)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 4.75931119677, 0.545497861806, 1.4322670893)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): 0.645336094803, 0.447888824458, 1.17598338665)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 1.59719833416, 0.556988396819, 1.46243680451)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 1, 0)  Perspective (x, y, z): 0.338809950253, 0.786678076555, 2.06551335543)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 1.29067218961, 0.895777648916, 2.35196677329)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 2.24253442896, 1.00487722128, 2.63842019115)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 3.19439666831, 1.11397679364, 2.92487360901)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 4.14625890767, 1.223076366, 3.21132702687)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): 0.032283805703, 1.12546732865, 2.95504332422)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.984146045056, 1.23456690101, 3.24149674208)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.580768483397, 1.80304583285, 4.73410326179)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.371093755956, 1.91214540521, 5.02055667965)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 4.11397510196, 1.03212448718, -0.0996388648074)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 5.06583734132, 1.14122405954, 0.186814553052)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 6.01769958067, 1.2503236319, 0.473267970911)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 3.50092281286, 1.70970299137, 1.67942107277)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.45278505221, 1.81880256374, 1.96587449063)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 5.40464729157, 1.9279021361, 2.25232790849)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 2)  Perspective (x, y, z): -1.2261045782, 2.28967245822, 3.20219730769)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): -0.274242338847, 2.39877203058, 3.48865072555)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:27
+[Builder Position] (x, y, z): (-3.5743674364, 1.0, -1.53697326789) (yaw, pitch): (-19.800001, 17.4)
+[Screenshot Path] 696567-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 2.55923739942, -0.360130535701, -1.14917793691)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 3.50011816246, -0.258834074753, -0.825940536941)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 4.4409989255, -0.157537613805, -0.502703136975)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 5.38187968854, -0.0562411528567, -0.179465737009)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 1.88176152608, 0.202592921896, 0.646474799932)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 2.82264228913, 0.303889382844, 0.969712199898)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 3.76352305217, 0.405185843792, 1.29294959986)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 4.70440381521, 0.50648230474, 1.61618699983)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): 0.602142826375, 0.382658189747, 1.22106376839)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 1.54302358942, 0.483954650695, 1.54430116835)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 1, 0)  Perspective (x, y, z): 0.263404889708, 0.664019918545, 2.11889013681)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 1.20428565275, 0.765316379493, 2.44212753677)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 2.14516641579, 0.866612840441, 2.76536493674)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 3.08604717883, 0.967909301389, 3.0886023367)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 4.02692794188, 1.06920576234, 3.41183973667)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.075333046959, 0.945381647344, 3.01671650522)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.865547716083, 1.04667810829, 3.33995390519)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.752808920293, 1.50810510494, 4.81236924206)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.188071842749, 1.60940156589, 5.13560664203)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 4.10226098883, 1.07806444351, 0.0960824391882)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 5.04314175188, 1.17936090446, 0.419319839154)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 5.98402251492, 1.28065736541, 0.74255723912)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 3.4247851155, 1.64078790111, 1.89173517603)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.36566587854, 1.74208436205, 2.21497257599)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 5.30654664158, 1.843380823, 2.53820997596)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): 0.263404889708, 1.61826024706, 1.81984934455)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 2)  Perspective (x, y, z): -1.35495174667, 2.07968724371, 3.29226468142)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): -0.414070983626, 2.18098370466, 3.61550208139)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:28
+[Builder Position] (x, y, z): (-3.5743674364, 1.0, -1.53697326789) (yaw, pitch): (-19.050003, 23.399996)
+[Screenshot Path] 697270-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 2.5432545744, -0.491542625897, -1.13588820609)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 3.48848866111, -0.361916275717, -0.836339327495)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 4.43372274781, -0.232289925537, -0.536790448903)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 5.37895683452, -0.102663575356, -0.23724157031)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 1.89046817341, 0.259252700361, 0.599097757186)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 2.83570226012, 0.388879050541, 0.898646635779)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 3.78093634683, 0.518505400721, 1.19819551437)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 4.72617043354, 0.648131750902, 1.49774439296)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): 0.618840886215, 0.505024013309, 1.16704186023)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 1.56407497292, 0.63465036349, 1.46659073882)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 1.23768177243, 1.01004802662, 2.33408372046)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 2.18291585914, 1.1396743768, 2.63363259905)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 3.12814994584, 1.26930072698, 2.93318147765)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 4.07338403255, 1.39892707716, 3.23273035624)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.033945514769, 1.25581933957, 2.9020278235)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.911288571938, 1.38544568975, 3.2015767021)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.686731915753, 2.00661466583, 4.63701378678)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.258502170954, 2.13624101601, 4.93656266537)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 4.10732954732, 1.060862391, -0.0664452938284)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 5.05256363403, 1.19048874118, 0.233103584764)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 5.99779772073, 1.32011509136, 0.532652463357)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 3.45454314634, 1.81165771726, 1.66854066945)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 4.39977723304, 1.94128406744, 1.96808954804)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 5.34501131975, 2.07091041762, 2.26763842663)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): 0.292447685723, 1.79817632985, 1.6373870153)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 2)  Perspective (x, y, z): -1.30557280197, 2.41934530593, 3.07282409999)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): -0.360338715261, 2.54897165611, 3.37237297858)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:29
+[Builder Position] (x, y, z): (-3.96695400181, 1.0, -1.40086363762) (yaw, pitch): (-32.999996, 1.799998)
+[Screenshot Path] 698167-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 2.76661916487, -0.0184714928342, -0.587773085931)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 3.60528977083, -0.00136398816199, -0.0434028553265)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 4.4439603768, 0.0157435165102, 0.500967375278)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 5.28263098277, 0.0328510211824, 1.04533760588)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 1.67734121194, 0.0342150093444, 1.08874046121)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 2.5160118179, 0.0513225140166, 1.63311069181)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 3.35468242387, 0.0684300186888, 2.17748092242)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 4.19335302984, 0.0855375233611, 2.72185115302)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): 0.294031629503, 0.0434507557615, 1.38262700418)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 1.13270223547, 0.0605582604337, 1.92699723478)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.588063259006, 0.0869015115231, 2.76525400835)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.42673386497, 0.104009016195, 3.30962423895)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.26540447094, 0.121116520867, 3.85399446956)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.10407507691, 0.13822402554, 4.39836470016)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.795246323427, 0.0961372579402, 3.05914055132)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.043424282541, 0.113244762612, 3.60351078192)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -1.88452427636, 0.148823760119, 4.73565409846)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): -1.04585367039, 0.165931264791, 5.28002432906)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 3.89932140034, 1.04159332906, 1.30781342466)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 4.73799200631, 1.05870083373, 1.85218365526)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 5.57666261227, 1.07580833841, 2.39655388587)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.81004344741, 1.09427983124, 2.9843269718)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 3.64871405337, 1.11138733591, 3.52869720241)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 4.48738465934, 1.12849484058, 4.07306743301)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 0)  Perspective (x, y, z): -1.08927795293, 1.05219306364, 1.64510282295)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -0.250607346962, 1.06930056831, 2.18947305356)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 2)  Perspective (x, y, z): -2.17855590586, 1.10487956582, 3.32161637009)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): -1.33988529989, 1.12198707049, 3.8659866007)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:30
+[Builder Position] (x, y, z): (-1.96679226203, 2.02442408821, -4.00099361966) (yaw, pitch): (-19.799997, 27.449997)
+[Screenshot Path] 699467-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+	<Architect> yep
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): -0.338737870981, -0.453691582756, 1.29592461297)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 0.60214291571, -0.297542120289, 1.59652516288)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 1.5430237024, -0.141392657821, 1.8971257128)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 2.48390448909, 0.0147568046468, 2.19772626271)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): -1.01621361294, 0.413752194123, 2.96582518277)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): -0.075332826252, 0.569901656591, 3.26642573268)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.865547960439, 0.726051119059, 3.56702628259)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.80642874713, 0.882200581526, 3.86762683251)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -2.29583227062, 0.691324620096, 3.50017491775)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): -1.35495148392, 0.847474082563, 3.80077546767)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -1.69368935491, 1.281195971, 4.63572575257)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.752808568214, 1.43734543347, 4.93632630248)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.188072218477, 1.59349489594, 5.23692685239)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 1.12895300517, 1.74964435841, 5.5375274023)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -2.97330801258, 1.55876839698, 5.17007548755)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): -2.03242722589, 1.71491785944, 5.47067603747)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -3.65078375454, 2.42621217385, 6.83997605735)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): -2.70990296785, 2.58236163632, 7.14057660726)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 1.20428583142, 1.17974270181, 2.27110166962)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 2.14516661811, 1.33589216428, 2.57170221954)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 3.0860474048, 1.49204162675, 2.87230276945)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.526810089458, 2.04718647869, 3.94100223942)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.46769087615, 2.20333594116, 4.24160278933)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 2.40857166284, 2.35948540363, 4.54220333925)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 0)  Perspective (x, y, z): -3.57545092829, 1.85631051726, 3.57355032467)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -2.6345701416, 2.01245997973, 3.87415087458)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 2)  Perspective (x, y, z): -4.25292667025, 2.72375429414, 5.24345089447)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): -3.31204588356, 2.87990375661, 5.54405144438)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:43
+[Builder Position] (x, y, z): (-1.03305127773, 2.0, -4.04463863112) (yaw, pitch): (0.30000162, 27.3)
+[Screenshot Path] 712665-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+	<Architect> yep
+	<Builder> you forgot to specify that it was between the yellows
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 0.00523599210537, -0.429973965294, 1.34725460606)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 1.0052222842, -0.43237545074, 1.34260181325)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 2.0052085763, -0.434776936187, 1.33794902043)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 3.0051948684, -0.437178421633, 1.33329622762)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 0.0157079763161, 0.487312569429, 3.12446470922)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 1.01569426842, 0.484911083983, 3.1198119164)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 2.01568056051, 0.482509598536, 3.11515912359)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 3.01566685261, 0.48010811309, 3.11050633077)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -0.979042323678, 0.948357322237, 4.01772255361)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.0209439684215, 0.94595583679, 4.0130697608)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.0261799605268, 1.40459910415, 4.90167481237)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.02616625263, 1.40219761871, 4.89702201956)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.02615254472, 1.39979613326, 4.89236922674)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.02613883682, 1.39739464781, 4.88771643393)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.968570339467, 1.86564385696, 5.79493265677)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.0314159526322, 1.86324237151, 5.79027986395)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.958098355256, 2.78293039168, 7.57214275992)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.041887936843, 2.78052890624, 7.56748996711)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 2.01044456841, 0.91248356383, 1.76790451753)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 3.01043086051, 0.910082078383, 1.76325172471)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 4.01041715261, 0.907680592937, 1.7585989319)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.02091655262, 1.82977009855, 3.54511462068)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 3.02090284472, 1.82736861311, 3.54046182787)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 4.02088913682, 1.82496712766, 3.53580903505)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 0)  Perspective (x, y, z): -1.97379262367, 2.2980193077, 4.45233084352)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -0.973806331572, 2.29561782225, 4.4476780507)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 2)  Perspective (x, y, z): -1.96332063946, 3.21530584242, 6.22954094668)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): -0.963334347361, 3.21290435698, 6.22488815386)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:48
+[Builder Position] (x, y, z): (-1.03305127773, 2.0, -4.04463863112) (yaw, pitch): (0.30000162, 27.3)
+[Screenshot Path] 717764-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+	<Architect> yep
+	<Builder> you forgot to specify that it was between the yellows
+	<Builder> but thats ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 0.00523599210537, -0.429973965294, 1.34725460606)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 1.0052222842, -0.43237545074, 1.34260181325)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 2.0052085763, -0.434776936187, 1.33794902043)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 3.0051948684, -0.437178421633, 1.33329622762)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 0.0157079763161, 0.487312569429, 3.12446470922)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 1.01569426842, 0.484911083983, 3.1198119164)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 2.01568056051, 0.482509598536, 3.11515912359)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 3.01566685261, 0.48010811309, 3.11050633077)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -0.979042323678, 0.948357322237, 4.01772255361)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.0209439684215, 0.94595583679, 4.0130697608)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.0261799605268, 1.40459910415, 4.90167481237)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.02616625263, 1.40219761871, 4.89702201956)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.02615254472, 1.39979613326, 4.89236922674)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.02613883682, 1.39739464781, 4.88771643393)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.968570339467, 1.86564385696, 5.79493265677)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.0314159526322, 1.86324237151, 5.79027986395)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.958098355256, 2.78293039168, 7.57214275992)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.041887936843, 2.78052890624, 7.56748996711)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 2.01044456841, 0.91248356383, 1.76790451753)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 3.01043086051, 0.910082078383, 1.76325172471)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 4.01041715261, 0.907680592937, 1.7585989319)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.02091655262, 1.82977009855, 3.54511462068)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 3.02090284472, 1.82736861311, 3.54046182787)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 4.02088913682, 1.82496712766, 3.53580903505)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 0)  Perspective (x, y, z): -1.97379262367, 2.2980193077, 4.45233084352)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -0.973806331572, 2.29561782225, 4.4476780507)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 2)  Perspective (x, y, z): -1.96332063946, 3.21530584242, 6.22954094668)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): -0.963334347361, 3.21290435698, 6.22488815386)
+
+--------------------
+[Timestamp] 2018-04-19 22:41:56
+[Builder Position] (x, y, z): (-1.03305127773, 2.0, -4.04463863112) (yaw, pitch): (0.30000162, 27.3)
+[Screenshot Path] 725564-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready
+	<Architect> ok this looks like a bunch of rows
+	<Architect> ok first start with an orange 1x4 row in the middle
+	<Architect> now build another paralell to it but 1 space away
+	<Architect> yep now do that 1 more time
+	<Architect> now place a purple block so its floating between the 2 rows closest to you on the left side
+	<Architect> yep
+	<Architect> now place a purple block on the left and right side of that
+	<Architect> repeat that for the other gap as well
+	<Architect> yep
+	<Architect> now in the gap furthest from you place a yellow block on the right side on the ground
+	<Architect> place another to the right of that one
+	<Architect> repeat on the other side of the orange row as well
+	<Builder> which orange row
+	<Architect> the 1 farthest from you
+	<Architect> yep
+	<Architect> now make another yellow row a space away and paralell from the most recent yellow row
+	<Architect> now make 2 blue 2x1 rows in a similar fashion to how the purple run bewteen the orange
+	<Architect> yep
+	<Builder> you forgot to specify that it was between the yellows
+	<Builder> but thats ok
+	<Architect> sorry
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 14
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -4)  Perspective (x, y, z): 0.00523599210537, -0.429973965294, 1.34725460606)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -4)  Perspective (x, y, z): 1.0052222842, -0.43237545074, 1.34260181325)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -4)  Perspective (x, y, z): 2.0052085763, -0.434776936187, 1.33794902043)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -4)  Perspective (x, y, z): 3.0051948684, -0.437178421633, 1.33329622762)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, -2)  Perspective (x, y, z): 0.0157079763161, 0.487312569429, 3.12446470922)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 1.01569426842, 0.484911083983, 3.1198119164)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 2.01568056051, 0.482509598536, 3.11515912359)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 3.01566685261, 0.48010811309, 3.11050633077)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, -1)  Perspective (x, y, z): -0.979042323678, 0.948357322237, 4.01772255361)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.0209439684215, 0.94595583679, 4.0130697608)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): 0.0261799605268, 1.40459910415, 4.90167481237)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.02616625263, 1.40219761871, 4.89702201956)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 2.02615254472, 1.39979613326, 4.89236922674)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 3.02613883682, 1.39739464781, 4.88771643393)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 1)  Perspective (x, y, z): -0.968570339467, 1.86564385696, 5.79493265677)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 1)  Perspective (x, y, z): 0.0314159526322, 1.86324237151, 5.79027986395)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-3, 1, 3)  Perspective (x, y, z): -0.958098355256, 2.78293039168, 7.57214275992)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 1, 3)  Perspective (x, y, z): 0.041887936843, 2.78052890624, 7.56748996711)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -3)  Perspective (x, y, z): 2.01044456841, 0.91248356383, 1.76790451753)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -3)  Perspective (x, y, z): 3.01043086051, 0.910082078383, 1.76325172471)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -3)  Perspective (x, y, z): 4.01041715261, 0.907680592937, 1.7585989319)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.02091655262, 1.82977009855, 3.54511462068)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 3.02090284472, 1.82736861311, 3.54046182787)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 4.02088913682, 1.82496712766, 3.53580903505)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 0)  Perspective (x, y, z): -1.97379262367, 2.2980193077, 4.45233084352)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 0)  Perspective (x, y, z): -0.973806331572, 2.29561782225, 4.4476780507)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-4, 2, 2)  Perspective (x, y, z): -1.96332063946, 3.21530584242, 6.22954094668)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, 2)  Perspective (x, y, z): -0.963334347361, 3.21290435698, 6.22488815386)
+
+Time elapsed: 0:12:22 (742.53s)

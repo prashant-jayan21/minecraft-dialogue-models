@@ -1,0 +1,2982 @@
+
+--------------------
+[Timestamp] 2018-04-16 15:04:42
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-16 15:04:46
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 3862-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-16 15:05:01
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 18761-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-16 15:05:15
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.7499989, 10.199999)
+[Screenshot Path] 32176-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-16 15:05:27
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (-0.30000106, 10.049999)
+[Screenshot Path] 44107-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-16 15:05:31
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (-3.7500012, 44.850002)
+[Screenshot Path] 48456-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.0654031501293, 0.703743181441, 0.707437603277)
+
+--------------------
+[Timestamp] 2018-04-16 15:05:33
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (1.7999986, 30.600006)
+[Screenshot Path] 49855-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.0314107346556, 0.508790325023, 0.860317250153)
+
+--------------------
+[Timestamp] 2018-04-16 15:05:34
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (-8.700001, 27.00001)
+[Screenshot Path] 51604-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.1512608375, 0.448766986185, 0.88075442159)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.1512608375, 1.33977343114, 0.42676376634)
+
+--------------------
+[Timestamp] 2018-04-16 15:05:40
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (-0.3000008, 27.00001)
+[Screenshot Path] 57107-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.00523597779386, 0.453984432025, 0.890994231191)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.00523597779386, 1.34499087698, 0.437003575941)
+
+--------------------
+[Timestamp] 2018-04-16 15:05:41
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (-12.6, 45.750004)
+[Screenshot Path] 58969-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.218143241397, 1.39684153057, -0.0353166348627)
+
+--------------------
+[Timestamp] 2018-04-16 15:05:52
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.2999991, 23.700014)
+[Screenshot Path] 69619-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.00523594812367, 1.31760498575, 0.513701943131)
+
+--------------------
+[Timestamp] 2018-04-16 15:05:56
+[Builder Position] (x, y, z): (-0.627865663068, 1.0, 0.00896980881225) (yaw, pitch): (-37.350006, 11.550018)
+[Screenshot Path] 72917-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.794944289856, 1.10122225348, 0.394173977418)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.188261855608, 1.2603886319, 1.17302087377)
+
+--------------------
+[Timestamp] 2018-04-16 15:05:56
+[Builder Position] (x, y, z): (-0.627865663068, 1.0, 0.00896980881225) (yaw, pitch): (-38.850002, 11.400019)
+[Screenshot Path] 73518-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.15150713083, 1.2581925185, 1.1806765754)
+
+--------------------
+[Timestamp] 2018-04-16 15:05:57
+[Builder Position] (x, y, z): (-0.641410765878, 1.0, 0.00896980881225) (yaw, pitch): (-25.650003, 11.550018)
+[Screenshot Path] 74217-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.43287262872, 1.16024261173, 0.682977575927)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.468582465727, 1.24691380305, 1.10708465827)
+
+--------------------
+[Timestamp] 2018-04-16 15:05:58
+[Builder Position] (x, y, z): (2.38130819658, 1.0, -0.381956986453) (yaw, pitch): (34.199997, 7.650021)
+[Screenshot Path] 75517-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.35707514202, 1.43578092365, 3.1775588426)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.529994538318, 1.36095543361, 2.62047821916)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.297086065387, 1.28612994357, 2.06339759571)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:13
+[Builder Position] (x, y, z): (0.465811236233, 1.0, -1.30296893215) (yaw, pitch): (-1.0500008, 6.0000205)
+[Screenshot Path] 89966-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.05480692016, 1.30614017422, 2.86031120798)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.0549748360692, 1.30805565911, 2.87853576668)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.944857248022, 1.30997114401, 2.89676032538)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:16
+[Builder Position] (x, y, z): (-0.358984892419, 1.0, -1.29579107074) (yaw, pitch): (-1.0500008, 6.0000205)
+[Screenshot Path] 93215-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.0366498907128, 1.20354439207, 1.88418090475)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.0549748360692, 1.30805565911, 2.87853576668)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.944857248022, 1.30997114401, 2.89676032538)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.94468933211, 1.31188662891, 2.91498488409)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:17
+[Builder Position] (x, y, z): (1.72486271899, 1.0, -1.31373572426) (yaw, pitch): (-1.0500008, 6.0000205)
+[Screenshot Path] 93964-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.03631405889, 1.19971342227, 1.84773178735)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.0366498907128, 1.20354439207, 1.88418090475)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -2.05463900425, 1.30422468932, 2.84208664928)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.05480692016, 1.30614017422, 2.86031120798)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.0549748360692, 1.30805565911, 2.87853576668)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:30
+[Builder Position] (x, y, z): (0.687107699992, 1.0, -1.73158159559) (yaw, pitch): (-1.0500008, 6.0000205)
+[Screenshot Path] 107961-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.0364819748, 1.20162890717, 1.86595634605)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.963182193378, 1.20545987696, 1.90240546346)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.05480692016, 1.30614017422, 2.86031120798)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.0549748360692, 1.30805565911, 2.87853576668)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.944857248022, 1.30997114401, 2.89676032538)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:33
+[Builder Position] (x, y, z): (2.5800842694, 1.0, -1.67496507453) (yaw, pitch): (32.4, 9.900021)
+[Screenshot Path] 110711-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.46133018655, 1.55181219069, 3.07512487725)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.227325664456, 1.36756336623, 2.01942899891)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.925503391569, 1.69697703612, 3.90688013779)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.081175466067, 1.60485262388, 3.37903219862)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.763152459435, 1.51272821165, 2.85118425945)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:35
+[Builder Position] (x, y, z): (2.61779299087, 1.0, -1.67496507453) (yaw, pitch): (17.700003, 4.9500203)
+[Screenshot Path] 112111-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.24991817439, 1.23937646842, 2.72062753387)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.34459524372, 1.18690842935, 2.11482918892)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 0.608066221614, 1.16067440982, 1.81193001645)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.94588506358, 1.32157850037, 3.66973590149)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.993223598247, 1.29534448083, 3.36683672901)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.040562132913, 1.2691104613, 3.06393755654)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:37
+[Builder Position] (x, y, z): (-1.90384470387, 1.0, -1.82380161751) (yaw, pitch): (-18.749987, 4.0500197)
+[Screenshot Path] 114262-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -0.642878500904, 1.13126107384, 1.81850367497)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.304051701523, 1.15396346951, 2.13914021837)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.19791210638, 1.19936826083, 2.78041330517)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 3.1448423088, 1.2220706565, 3.10104984857)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.017387548929, 1.22084262036, 3.08370572031)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.929542653498, 1.24354501602, 3.40434226371)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.87647285592, 1.26624741169, 3.7249788071)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:42
+[Builder Position] (x, y, z): (0.757640640591, 1.0, -2.75533889338) (yaw, pitch): (0.7500127, 6.450021)
+[Screenshot Path] 119860-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.96055919772, 1.33359171907, 2.89443271801)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.960644873045, 1.33212125508, 2.8814257564)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.0391837763, 1.32918032711, 2.85541183319)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.03909810097, 1.32770986312, 2.84240487158)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.947555055836, 1.44444811058, 3.87501084799)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.0523592688368, 1.44297764659, 3.86200388638)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.05227359351, 1.4415071826, 3.84899692477)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:44
+[Builder Position] (x, y, z): (2.04598957048, 1.0, -2.74767227528) (yaw, pitch): (-3.4499874, 5.55002)
+[Screenshot Path] 121659-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 12
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -0.120354519913, 1.18839101431, 1.89030198293)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -4.17328260582, 1.26165034419, 2.64422969898)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -3.17509489933, 1.26747037045, 2.70412485663)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.17871948636, 1.27911042299, 2.82391517193)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.180531779869, 1.28493044926, 2.88381032959)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -3.23527215929, 1.36400980541, 3.69763320329)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.2370844528, 1.36982983168, 3.75752836094)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.23889674631, 1.37564985795, 3.81742351859)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:45
+[Builder Position] (x, y, z): (-1.35626099295, 1.0, -2.54450878195) (yaw, pitch): (-3.4499874, 5.40002)
+[Screenshot Path] 122709-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -0.120354519913, 1.18343814839, 1.89340670181)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 3.87239630604, 1.20609095378, 2.13304745849)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -0.180531779869, 1.27737625671, 2.88716438313)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 0.817655926619, 1.28303945806, 2.9470745723)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.81403133959, 1.29436586075, 3.06689495064)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 3.81221904608, 1.3000290621, 3.12680513981)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.757478666662, 1.37697756638, 3.94083225363)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.75566637315, 1.38264076773, 4.0007424428)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.75385407964, 1.38830396907, 4.06065263197)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:54
+[Builder Position] (x, y, z): (1.50679588534, 1.0, -3.5169387285) (yaw, pitch): (1.0500122, 6.3000207)
+[Screenshot Path] 131808-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -2.94452080846, 1.32914235759, 2.92629079242)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 1.05480751332, 1.32109874293, 2.85343288361)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -2.92619566417, 1.43885860118, 3.92008480275)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.92636358373, 1.43684769752, 3.90187032555)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.073300577162, 1.43282589019, 3.86544137115)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 1.07313265761, 1.43081498653, 3.84722689395)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.90803843944, 1.54656394111, 4.89566433589)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.908206358993, 1.54455303745, 4.87744985869)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.0916257214525, 1.54254213379, 4.85923538148)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:57
+[Builder Position] (x, y, z): (4.80220976265, 1.0, -2.42909295606) (yaw, pitch): (40.800014, 7.6500216)
+[Screenshot Path] 134607-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -3.23512779803, 1.71455157562, 5.25302398862)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -0.207148214064, 1.36661359886, 2.66260340434)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 0.549846681927, 1.27962910467, 2.01499825827)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -2.58170700907, 1.81532403227, 6.0032814008)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.82471211308, 1.72833953808, 5.35567625473)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.310722321096, 1.5543705497, 4.06046596259)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 0.446272574895, 1.46738605551, 3.41286081653)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.17129132412, 1.82911199473, 6.10593366691)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.414296428128, 1.74212750054, 5.45832852085)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.342698467863, 1.65514300635, 4.81072337478)
+
+--------------------
+[Timestamp] 2018-04-16 15:06:58
+[Builder Position] (x, y, z): (4.80220976265, 1.0, -2.42909295606) (yaw, pitch): (40.800014, 7.6500216)
+[Screenshot Path] 134908-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 9
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -2)  Perspective (x, y, z): -0.103574107032, 1.17885664802, 1.26474084609)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -3.23512779803, 1.71455157562, 5.25302398862)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -0.207148214064, 1.36661359886, 2.66260340434)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 0.549846681927, 1.27962910467, 2.01499825827)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -2.58170700907, 1.81532403227, 6.0032814008)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.82471211308, 1.72833953808, 5.35567625473)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.310722321096, 1.5543705497, 4.06046596259)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 0.446272574895, 1.46738605551, 3.41286081653)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.17129132412, 1.82911199473, 6.10593366691)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.414296428128, 1.74212750054, 5.45832852085)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.342698467863, 1.65514300635, 4.81072337478)
+
+--------------------
+[Timestamp] 2018-04-16 15:07:00
+[Builder Position] (x, y, z): (-2.55330807608, 1.0, -3.2232166546) (yaw, pitch): (-13.199975, 6.3000207)
+[Screenshot Path] 137657-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -2)  Perspective (x, y, z): 5.38477312445, 1.35797942213, 3.18749279016)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -0.685051335921, 1.31446702805, 2.79336376065)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): 0.288527666589, 1.33952498885, 3.0203351784)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 4.18284367663, 1.43975683207, 3.92822084937)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 5.15642267914, 1.46481479287, 4.15519226711)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.060177221282, 1.4463603596, 3.98803465534)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.03375622379, 1.4714183204, 4.21500607309)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.98091422881, 1.52153424201, 4.66894890857)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 3.95449323132, 1.54659220281, 4.89592032632)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.805405778485, 1.57825369115, 5.18270555004)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.77898478099, 1.60331165195, 5.40967696778)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.7525637835, 1.62836961276, 5.63664838552)
+
+--------------------
+[Timestamp] 2018-04-16 15:07:01
+[Builder Position] (x, y, z): (-2.55330807608, 1.0, -3.2232166546) (yaw, pitch): (-13.199975, 6.3000207)
+[Screenshot Path] 138106-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 7
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -2)  Perspective (x, y, z): -0.456700890614, 1.2076316573, 1.8256642837)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -2)  Perspective (x, y, z): 5.38477312445, 1.35797942213, 3.18749279016)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -0.685051335921, 1.31446702805, 2.79336376065)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): 0.288527666589, 1.33952498885, 3.0203351784)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 4.18284367663, 1.43975683207, 3.92822084937)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 5.15642267914, 1.46481479287, 4.15519226711)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.060177221282, 1.4463603596, 3.98803465534)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.03375622379, 1.4714183204, 4.21500607309)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 2.98091422881, 1.52153424201, 4.66894890857)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 3.95449323132, 1.54659220281, 4.89592032632)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.805405778485, 1.57825369115, 5.18270555004)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.77898478099, 1.60331165195, 5.40967696778)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 2.7525637835, 1.62836961276, 5.63664838552)
+
+--------------------
+[Timestamp] 2018-04-16 15:07:13
+[Builder Position] (x, y, z): (0.825658633829, 1.0, -3.94114282645) (yaw, pitch): (0.9000227, 7.050021)
+[Screenshot Path] 150354-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 7
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -2)  Perspective (x, y, z): -2.96821445187, 1.24366443133, 1.90866491296)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -2)  Perspective (x, y, z): 3.03104530568, 1.23209703673, 1.81513119278)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.95250673842, 1.3663851095, 2.90098184967)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -1.95263011216, 1.3644572104, 2.88539289631)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 2.04687639288, 1.356745614, 2.82303708285)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.04675301914, 1.35481771491, 2.80744812949)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.93692239871, 1.48717788858, 3.87770983302)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.937045772448, 1.48524998948, 3.86212087966)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.06270748007, 1.48139419128, 3.83094297293)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.06258410633, 1.47946629218, 3.81535401957)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.921338058996, 1.60797066766, 4.85443781637)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.0785385672635, 1.60604276856, 4.83884886301)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.07841519352, 1.60411486946, 4.82325990964)
+
+--------------------
+[Timestamp] 2018-04-16 15:07:17
+[Builder Position] (x, y, z): (2.88521369736, 1.0, -4.16687237491) (yaw, pitch): (-7.049979, 6.1500206)
+[Screenshot Path] 154670-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 8
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -2)  Perspective (x, y, z): -5.33040261738, 1.24746685352, 2.2429075741)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -5.45313771044, 1.35378898951, 3.22963534828)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -4.4606982428, 1.36693785922, 3.35166407561)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -0.490940372236, 1.41953333805, 3.83977898492)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 0.501499095405, 1.43268220776, 3.96180771225)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -4.58343333586, 1.4732599952, 4.33839184978)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -3.59099386822, 1.48640886491, 4.46042057711)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.60611493294, 1.51270660433, 4.70447803177)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.613675465295, 1.52585547404, 4.8265067591)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -3.71372896128, 1.59273100089, 5.44714835129)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.72128949364, 1.6058798706, 5.56917707862)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.72885002599, 1.61902874031, 5.69120580595)
+
+--------------------
+[Timestamp] 2018-04-16 15:07:19
+[Builder Position] (x, y, z): (-1.7902448751, 1.0, -4.36275130946) (yaw, pitch): (10.80002, 4.6500196)
+[Screenshot Path] 156203-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 9
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -0.232760555444, 1.33043185084, 4.02191168651)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): 0.749526629876, 1.3152409907, 3.83514679869)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 4.67867537116, 1.25447755015, 3.08808724739)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 5.66096255648, 1.23928669002, 2.90132235956)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.936908287345, 1.39487411727, 4.81420077044)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): 1.91919547267, 1.37968325713, 4.62743588261)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 3.88376984331, 1.34930153686, 4.25390610696)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 4.86605702862, 1.33411067672, 4.06714121914)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 2.10657713013, 1.4593163837, 5.60648985436)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 3.08886431545, 1.44412552357, 5.41972496653)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 4.07115150077, 1.42893466343, 5.23296007871)
+
+--------------------
+[Timestamp] 2018-04-16 15:07:44
+[Builder Position] (x, y, z): (0.522638213026, 1.0, -4.03862600249) (yaw, pitch): (1.3500196, 4.0500193)
+[Screenshot Path] 181116-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 9
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.90492683918, 1.28492560381, 3.98878004554)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -1.90520441703, 1.28326161656, 3.96527877366)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 2.09368527161, 1.27660566756, 3.87127368614)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.09340769377, 1.27494168031, 3.84777241426)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.8816443102, 1.35386933392, 4.96250466162)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.881921888043, 1.35220534667, 4.93900338974)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.11752295627, 1.34887737217, 4.89200084598)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.11724537843, 1.34721338492, 4.8684995741)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.85836178122, 1.42281306403, 5.9362292777)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.141360640939, 1.42114907678, 5.91272800582)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.1410830631, 1.41948508953, 5.88922673394)
+
+--------------------
+[Timestamp] 2018-04-16 15:07:52
+[Builder Position] (x, y, z): (2.461524517, 1.0, -4.02940905536) (yaw, pitch): (0.60001963, 4.0500193)
+[Screenshot Path] 189765-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -4.95783732207, 1.28369466052, 3.97139485653)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -3.95789215629, 1.28295504226, 3.96094888111)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.0418336726, 1.27925695094, 3.90871900399)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -3.94742002958, 1.3535784914, 4.95839695645)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -2.94747486381, 1.35283887314, 4.94795098102)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.94758453225, 1.35135963661, 4.92705903017)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 0.052360633528, 1.35062001835, 4.91661305475)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -2.9370027371, 1.42346232228, 5.94539905636)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.93705757132, 1.42272270402, 5.93495308093)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.937112405544, 1.42198308576, 5.92450710551)
+
+--------------------
+[Timestamp] 2018-04-16 15:08:17
+[Builder Position] (x, y, z): (0.73366551448, 1.0, -4.03760189725) (yaw, pitch): (0.60001963, 4.0500193)
+[Screenshot Path] 214461-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.95794699051, 1.282215424, 3.95050290568)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -1.95800182473, 1.28147580573, 3.94005693026)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.04172400416, 1.27777771441, 3.88782705314)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.94752969803, 1.35209925488, 4.9375050056)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.94758453225, 1.35135963661, 4.92705903017)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.05230579931, 1.34988040008, 4.90616707932)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.05225096508, 1.34914078182, 4.8957211039)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.937112405544, 1.42198308576, 5.92450710551)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.0628327602336, 1.42124346749, 5.91406113009)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.06277792601, 1.42050384923, 5.90361515466)
+
+--------------------
+[Timestamp] 2018-04-16 15:08:22
+[Builder Position] (x, y, z): (1.58941410236, 1.0, -2.99673027245) (yaw, pitch): (0.15001963, 4.2000194)
+[Screenshot Path] 219710-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -3.99474962165, 1.14455807159, 1.93182874011)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -2.99475304949, 1.14436630868, 1.92921743827)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.00522981131, 1.14340749413, 1.9161609291)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -2.99213471599, 1.21760459244, 2.92652847207)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -1.99213814383, 1.21741282953, 2.92391717023)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 1.00785157264, 1.2168375408, 2.91608326472)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.98951981034, 1.29065111329, 3.92122820402)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.989523238181, 1.29045935038, 3.91861690219)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.0104733339775, 1.29026758747, 3.91600560035)
+
+--------------------
+[Timestamp] 2018-04-16 15:08:25
+[Builder Position] (x, y, z): (0.18500791508, 1.0, -4.18449090803) (yaw, pitch): (1.2000198, 4.2000194)
+[Screenshot Path] 222260-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.91557096718, 1.29480579223, 3.97780390363)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -1.91579029094, 1.29327197477, 3.95691738104)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.08311309025, 1.28560288752, 3.85248476809)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.89484752556, 1.36649444664, 4.95401309871)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.895066849324, 1.36496062918, 4.93312657612)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.10427517939, 1.36035917683, 4.87046700835)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.874124083941, 1.43818310104, 5.93022229379)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.125656592297, 1.43664928359, 5.9093357712)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.12543726853, 1.43511546614, 5.88844924861)
+
+--------------------
+[Timestamp] 2018-04-16 15:08:34
+[Builder Position] (x, y, z): (0.395101971491, 1.0, -4.18244280954) (yaw, pitch): (1.2000198, 4.2000194)
+[Screenshot Path] 231409-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.91557096718, 1.29480579223, 3.97780390363)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -1.91579029094, 1.29327197477, 3.95691738104)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.08311309025, 1.28560288752, 3.85248476809)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.89484752556, 1.36649444664, 4.95401309871)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 0)  Perspective (x, y, z): -0.895066849324, 1.36496062918, 4.93312657612)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.10427517939, 1.36035917683, 4.87046700835)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.874124083941, 1.43818310104, 5.93022229379)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.125656592297, 1.43664928359, 5.9093357712)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.12543726853, 1.43511546614, 5.88844924861)
+
+--------------------
+[Timestamp] 2018-04-16 15:08:37
+[Builder Position] (x, y, z): (0.352153382679, 1.0, -2.68002525315) (yaw, pitch): (10.050018, 3.1500192)
+[Screenshot Path] 234607-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 12
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.60495170446, 1.13547164796, 2.43411806494)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, -1)  Perspective (x, y, z): -1.62029591787, 1.12588235304, 2.25987390481)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.30298301513, 1.07793587846, 1.38865310416)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.4457880902, 1.17998969513, 3.24304195434)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.4928350562, 1.14163251547, 2.54606531382)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.286624475935, 1.22450774231, 4.05196584374)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.698031310664, 1.21491844739, 3.87772168361)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.68268709726, 1.20532915247, 3.70347752347)
+
+--------------------
+[Timestamp] 2018-04-16 15:08:38
+[Builder Position] (x, y, z): (0.352153382679, 1.0, -2.6769560119) (yaw, pitch): (41.250023, 2.7000194)
+[Screenshot Path] 235409-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -0.936826394587, 1.16290238739, 3.43074545016)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.57421086222, 0.976544317234, -0.520939448386)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.474359265122, 1.16725945568, 3.52313619531)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 3.48171743633, 1.04302074224, 0.88867959628)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.88554492483, 1.17161652397, 3.61552694046)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 2.63738446763, 1.14055684561, 2.9569127907)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 3.38922401043, 1.10949716725, 2.29829864095)
+
+--------------------
+[Timestamp] 2018-04-16 15:08:53
+[Builder Position] (x, y, z): (0.738390430674, 1.0, -4.07295492309) (yaw, pitch): (3.7500224, 2.7000177)
+[Screenshot Path] 250357-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.73196261562, 1.19615629953, 4.13589051765)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.25519077039, 1.17767061247, 3.74390504378)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.6687001986, 1.24008125058, 5.06731074034)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.32273539207, 1.22775745921, 4.8059870911)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.605437781588, 1.28400620164, 5.99873096303)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.392421116081, 1.2809252538, 5.93340005072)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.39028001375, 1.27784430595, 5.86806913841)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:02
+[Builder Position] (x, y, z): (0.718156786501, 2.37631454238, -0.983068634826) (yaw, pitch): (-11.0999775, 26.100018)
+[Screenshot Path] 259553-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.94387821878, -0.254093516747, -0.518668986642)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.94387821878, 0.254093516747, 0.518668986642)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -2.15510706036, 0.262313712258, 0.535448479997)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 1.77006389802, 0.601105067921, 1.22700712885)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.36633590194, 0.778720941263, 1.58956594664)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.385043162346, 0.863418780179, 1.76245560885)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.596249577249, 0.948116619094, 1.93534527106)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.596249577249, 1.84614405664, 1.49540581908)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:03
+[Builder Position] (x, y, z): (0.718156786501, 2.37631454238, -0.964273553009) (yaw, pitch): (4.9500227, 25.50002)
+[Screenshot Path] 260404-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.98881102692, 0.111442305279, 0.233643441911)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.98881102692, -0.111442305279, -0.233643441911)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.9062539241, 0.503200621856, 1.05498109509)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.07882744512, 0.354610881485, 0.743456505877)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.823696821287, 0.894958938434, 1.87631874827)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.17257352102, 0.857811503342, 1.79843760097)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.16884386333, 0.820664068249, 1.72055645366)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.17257352102, 1.76039663741, 1.3679261891)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.16884386333, 1.72324920232, 1.29004504179)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:04
+[Builder Position] (x, y, z): (0.718156786501, 2.37631454238, -0.964273553009) (yaw, pitch): (26.550022, 23.550022)
+[Screenshot Path] 261253-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.68363340463, 0.53577073849, 1.22925240099)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 2.68363340463, -0.53577073849, -1.22925240099)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.34210997227, 0.714595336411, 1.63954088925)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.23606790057, 0.000234351758356, 0.000537687934295)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.000586539906, 0.893419934333, 2.04982937751)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.893957928304, 0.714829688169, 1.64007857718)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.78850239651, 0.536239442006, 1.23032777685)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.000586539906, 1.81013153195, 1.65027982264)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.893957928304, 1.63154128579, 1.24052902231)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.78850239651, 1.45295103962, 0.830778221984)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:14
+[Builder Position] (x, y, z): (0.763765328895, 1.0, -3.76447027565) (yaw, pitch): (0.9000232, 12.300034)
+[Screenshot Path] 271519-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -2.95250671183, 1.62609819254, 2.76378522769)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 3.0467530449, 1.60602080515, 2.67170227698)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -1.93692236353, 1.83575664491, 3.72536297537)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 2.06258414096, 1.82237171999, 3.66397434156)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.921338015229, 2.04541509729, 4.68694072305)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.0785386108915, 2.04206886606, 4.6715935646)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.07841523701, 2.03872263483, 4.65624640615)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.921338015229, 3.02246054531, 4.47390975699)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.0785386108915, 3.01911431408, 4.45856259854)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.07841523701, 3.01576808285, 4.44321544008)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:20
+[Builder Position] (x, y, z): (-0.273874520199, 2.74870518963, 5.3052654081) (yaw, pitch): (-181.35002, 16.05004)
+[Screenshot Path] 276967-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 1.85808416117, 1.67142787011, 5.80980654799)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -4.14025037079, 1.6323449236, 5.67395602006)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.881921852981, 1.38851400882, 4.82641095355)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -3.116967835, 1.36245871114, 4.73584393493)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.0942404552104, 1.10560014752, 3.84301535912)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.0939628772, 1.0990863231, 3.82037360446)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -2.0936852992, 1.09257249868, 3.79773184981)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.0942404552104, 2.06662074548, 3.56653857837)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.0939628772, 2.06010692106, 3.54389682371)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -2.0936852992, 2.05359309664, 3.52125506906)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): -0.0706803414078, 1.7902207086, 2.60578473859)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:20
+[Builder Position] (x, y, z): (0.198381589477, 2.74870518963, 5.40265128678) (yaw, pitch): (-180.90001, 14.8500395)
+[Screenshot Path] 277717-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 2.90538493828, 1.54962754676, 5.84443263514)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -3.09387484016, 1.52547350456, 5.7533354726)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 1.92121580036, 1.28934345212, 4.86276909907)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -2.0782907186, 1.27324075732, 4.80203765738)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.937046662447, 1.02905935747, 3.881105563)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.0628299672928, 1.02503368377, 3.86592270258)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.06270659703, 1.02100801007, 3.85073984216)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): 0.937046662447, 1.9956592828, 3.62481552349)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.0628299672928, 1.9916336091, 3.60963266307)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.06270659703, 1.9876079354, 3.59444980264)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 0.95275415427, 1.73940086186, 2.65833484785)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.0471224754696, 1.73537518816, 2.64315198742)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:22
+[Builder Position] (x, y, z): (0.335816521988, 2.74870518963, 5.40584458135) (yaw, pitch): (-162.90002, 13.050042)
+[Screenshot Path] 278967-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 4.6316193019, 1.09573543815, 4.72731070397)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.10313940273, 1.49410431368, 6.44598601907)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 3.38178619287, 0.946310271421, 4.08264852957)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.441386276886, 1.21188952178, 5.22843207297)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 2.13195308383, 0.79688510469, 3.43798635516)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.17615996639, 0.863279917279, 3.72443224101)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.220366848954, 0.929674729868, 4.01087812686)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): 2.13195308383, 1.77105832614, 3.21218437419)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.17615996639, 1.83745313873, 3.49863026004)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.220366848954, 1.90384795132, 3.78507614589)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.83791309223, 1.55523834682, 2.28107631394)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.882119974794, 1.62163315941, 2.56752219979)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.073673142644, 1.688027972, 2.85396808563)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:33
+[Builder Position] (x, y, z): (0.283884474065, 1.0, 6.04479963079) (yaw, pitch): (-181.05, 5.7000422)
+[Screenshot Path] 290667-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 2.87122173327, 1.69564225607, 6.91960136842)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -3.12777077281, 1.68472200989, 6.81019542613)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 1.88971458032, 1.59451840987, 5.90647863329)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -2.10961375707, 1.58723824575, 5.83354133843)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.908207427366, 1.49339456367, 4.89335589816)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.0916246569805, 1.49157452264, 4.87512157445)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.09145674133, 1.48975448161, 4.85688725073)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): 0.908207427366, 2.48845006048, 4.79403541553)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.0916246569805, 2.48663001945, 4.77580109182)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.09145674133, 2.48480997842, 4.7575667681)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 0.926532358763, 2.38914625532, 3.79914700411)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.0732997255844, 2.38732621429, 3.7809126804)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -1.07313180993, 2.38550617326, 3.76267835669)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:37
+[Builder Position] (x, y, z): (0.289274845726, 4.12649399207, 5.08794749862) (yaw, pitch): (-187.19995, 25.200043)
+[Screenshot Path] 293715-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 2.22435022538, 0.884974259512, 6.5779241889)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -3.72833863875, 0.564790188276, 5.89749972768)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 1.35756778247, 0.409187632683, 5.56682810919)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -2.61089146028, 0.195731585192, 5.11321180171)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.490785339564, -0.0665989941459, 4.55573202948)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.501329471124, -0.119963006019, 4.44232795261)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.49344428181, -0.173327017891, 4.32892387574)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.501329471124, 0.784863726903, 4.01654798198)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.49344428181, 0.731499715031, 3.90314390511)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 0.616117707345, 0.41580512382, 3.23226005601)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.375997103343, 0.362441111947, 3.11885597915)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -1.36811191403, 0.309077100074, 3.00545190228)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:37
+[Builder Position] (x, y, z): (0.289274845726, 4.12649399207, 4.99237804479) (yaw, pitch): (-180.59995, 27.900043)
+[Screenshot Path] 294915-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 2.94748097801, 0.586692542381, 5.38220658698)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -3.05219009301, 0.557294590673, 5.32668361885)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 1.95800671101, 0.113888058893, 4.48923592938)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -2.041774003, 0.0942894244209, 4.4522206173)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.968532444005, -0.358916424595, 3.59626527179)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.0314127344985, -0.363816083213, 3.58701144376)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.031357913, -0.368715741831, 3.57775761574)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.031357913, 0.51504953708, 3.10982713822)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 0.979003355504, 0.0569440294465, 2.24461796469)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.020941822999, 0.0520443708285, 2.23536413667)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -1.0208870015, 0.0471447122104, 2.22611030865)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:38
+[Builder Position] (x, y, z): (0.289274845726, 4.12649399207, 4.989244311) (yaw, pitch): (-163.34996, 25.200045)
+[Screenshot Path] 295765-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 4.30684420624, -0.136002584143, 4.40824185819)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.44159199035, 0.595977672752, 5.96377591354)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 3.06224628522, -0.421934070745, 3.80060775779)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.770044512504, 0.066052767185, 4.83763046136)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.8176483642, -0.707865557347, 3.1929736574)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.859575664767, -0.585868847865, 3.45222933329)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.098497034663, -0.463872138382, 3.71148500918)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.53112314261, -0.210967035373, 1.9003038789)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.573050443178, -0.08897032589, 2.15955955479)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.385022256252, 0.0330263835925, 2.41881523068)
+
+--------------------
+[Timestamp] 2018-04-16 15:09:48
+[Builder Position] (x, y, z): (0.213816444748, 1.0, 6.49426966592) (yaw, pitch): (-177.44983, 4.950046)
+[Screenshot Path] 304964-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 3.30848811388, 1.58816445461, 6.74771369172)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.68556975054, 1.6112001089, 7.0136830071)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 2.264984301, 1.50580201968, 5.79675826594)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -1.73105427528, 1.52115912254, 5.97407114286)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.22148048812, 1.42343958475, 4.84580284016)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.222470844049, 1.42727886046, 4.89013105939)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.77653880002, 1.43111813618, 4.93445927862)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.17698631931, 2.33350818131, 3.7642320295)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.177976675239, 2.33734745703, 3.80856024873)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.82103296883, 2.34118673274, 3.85288846796)
+
+--------------------
+[Timestamp] 2018-04-16 15:10:13
+[Builder Position] (x, y, z): (0.213816444748, 1.0, 6.49426966592) (yaw, pitch): (-177.44983, 4.950046)
+[Screenshot Path] 330008-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 3.30848811388, 1.58816445461, 6.74771369172)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.68556975054, 1.6112001089, 7.0136830071)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 2.264984301, 1.50580201968, 5.79675826594)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -1.73105427528, 1.52115912254, 5.97407114286)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.22148048812, 1.42343958475, 4.84580284016)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.222470844049, 1.42727886046, 4.89013105939)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.77653880002, 1.43111813618, 4.93445927862)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.17698631931, 2.33350818131, 3.7642320295)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.177976675239, 2.33734745703, 3.80856024873)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.82103296883, 2.34118673274, 3.85288846796)
+
+--------------------
+[Timestamp] 2018-04-16 15:10:26
+[Builder Position] (x, y, z): (1.71963099706, 1.0, 6.52484231641) (yaw, pitch): (-184.34982, -9.449951)
+[Screenshot Path] 343406-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 3.45755782663, -0.209373386371, 7.34856834088)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.52515953837, -0.134656499705, 6.89966933504)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 2.53628403961, -0.0332074967571, 6.29016379219)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -1.45219420372, 0.0166037610199, 5.9908977883)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.61501025259, 0.142958392856, 5.2317592435)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.617890691759, 0.155411207301, 5.15694274253)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.379228869073, 0.167864021745, 5.08212624155)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.69085602641, 1.29310086562, 4.41235719874)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.693736465574, 1.30555368006, 4.33754069777)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.303383095258, 1.31800649451, 4.2627241968)
+
+--------------------
+[Timestamp] 2018-04-16 15:10:36
+[Builder Position] (x, y, z): (1.92916697384, 1.0, 6.51336353956) (yaw, pitch): (-186.14981, -10.949951)
+[Screenshot Path] 353505-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 3.22708155065, -0.421611558311, 7.44366766852)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.73838957669, -0.299516322337, 6.81259954048)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 2.33996482003, -0.21240403536, 6.36234619985)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -1.63701593153, -0.131007211377, 5.94163411449)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.45284808942, -0.00319651240872, 5.28102473118)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.458602901525, 0.017152693587, 5.17584670984)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.535642286365, 0.0375018995827, 5.0706686885)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.55997654669, 1.16745528891, 4.49483273573)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.565731358798, 1.1878044949, 4.38965471439)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.428513829092, 1.2081537009, 4.28447669305)
+
+--------------------
+[Timestamp] 2018-04-16 15:10:42
+[Builder Position] (x, y, z): (1.92916697384, 1.0, 6.51336353956) (yaw, pitch): (-186.14981, -10.949951)
+[Screenshot Path] 359154-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 3.22708155065, -0.421611558311, 7.44366766852)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.73838957669, -0.299516322337, 6.81259954048)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 2.33996482003, -0.21240403536, 6.36234619985)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -1.63701593153, -0.131007211377, 5.94163411449)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.45284808942, -0.00319651240872, 5.28102473118)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.458602901525, 0.017152693587, 5.17584670984)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.535642286365, 0.0375018995827, 5.0706686885)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.55997654669, 1.16745528891, 4.49483273573)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.565731358798, 1.1878044949, 4.38965471439)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.428513829092, 1.2081537009, 4.28447669305)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 3)  Perspective (x, y, z): -0.321385371819, 1.39701201785, 3.30833324572)
+
+--------------------
+[Timestamp] 2018-04-16 15:10:43
+[Builder Position] (x, y, z): (-0.424801435531, 1.0, 6.76309390751) (yaw, pitch): (-183.89981, -11.39995)
+[Screenshot Path] 360204-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 1.51928513322, -0.427006357004, 7.17700761146)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -4.46682189304, -0.346348300973, 6.77698642689)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.589612611066, -0.21636453546, 6.13233588094)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -3.40112540644, -0.162592498106, 5.86565509122)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -0.340059911093, -0.00572271391642, 5.08766415041)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -1.33774441547, 0.00772029542207, 5.02099395298)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -2.33542891985, 0.0211633047606, 4.95432375556)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): -0.272047928874, 1.1717474454, 4.30731910225)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.26973243325, 1.18519045474, 4.24064890482)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -2.26741693763, 1.19863346408, 4.17397870739)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 3)  Perspective (x, y, z): -0.204035946655, 1.3689462576, 3.32931756915)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 3)  Perspective (x, y, z): -2.19940495541, 1.39583227628, 3.19597717429)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:01
+[Builder Position] (x, y, z): (0.649884368132, 1.0, 6.68127490325) (yaw, pitch): (-178.04979, -6.5999618)
+[Screenshot Path] 378669-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 3.23647942692, 0.201017657182, 6.96310224115)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.76004523693, 0.177549226045, 7.16593514919)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 2.20302763604, 0.311976166367, 6.00411026768)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -1.79465547319, 0.296330545608, 6.13933220638)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.16957584516, 0.422934675551, 5.04511829422)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.170155067854, 0.419023270362, 5.07892377889)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.829265709454, 0.415111865172, 5.11272926357)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.13554483159, 1.53117743216, 4.16725732427)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.136124054284, 1.52726602697, 4.20106280895)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.863296723024, 1.52335462178, 4.23486829362)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 3)  Perspective (x, y, z): 1.10151381802, 1.64604734653, 3.17445986613)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 3)  Perspective (x, y, z): -0.897327736595, 1.63822453615, 3.24207083548)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:03
+[Builder Position] (x, y, z): (0.649884368132, 1.0, 6.68127490325) (yaw, pitch): (-165.29977, -14.549961)
+[Screenshot Path] 381017-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 4.67813299446, -0.541822905968, 6.06807215058)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.12546741025, -0.924329453598, 7.54181265808)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 3.4571044329, -0.362573265129, 5.37745009902)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.411962503572, -0.617577630215, 6.35994377068)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 2.23607587134, -0.18332362429, 4.68682804745)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.26880913722, -0.247074715561, 4.93245146537)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.301542403102, -0.310825806833, 5.17807488329)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.98231404389, 1.02760605281, 4.00180669593)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 1.01504730978, 0.963854961543, 4.24743011385)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): 0.047780575658, 0.900103870271, 4.49305353176)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 3)  Perspective (x, y, z): 1.72855221645, 1.27060678493, 3.06556122645)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:04
+[Builder Position] (x, y, z): (0.649884368132, 1.0, 6.68127490325) (yaw, pitch): (-205.04977, -13.349961)
+[Screenshot Path] 381820-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 17
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): -0.246016554602, -0.784573010892, 7.63700995452)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -5.68165858047, -0.197991671718, 5.16522555876)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -0.728551525456, -0.477629419442, 6.34358595846)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -4.35231287604, -0.0865751933261, 4.69572969462)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): -1.21108649631, -0.170685827992, 5.05016196241)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -2.11702683395, -0.0729222714627, 4.63819789645)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -3.0229671716, 0.0248412850662, 4.22623383049)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): -0.787681129519, 1.01147211007, 4.39960027829)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.69362146716, 1.1092356666, 3.98763621233)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -2.59956180481, 1.20699922313, 3.57567214637)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:07
+[Builder Position] (x, y, z): (0.513071808975, 4.28271854439, 5.97400067655) (yaw, pitch): (-193.79973, 27.00003)
+[Screenshot Path] 384516-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 16
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 1.4822329246, 1.18817750137, 6.73730063025)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -4.34457949916, 0.538437757781, 5.46211623424)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 0.749626401857, 0.639000843683, 5.65948214763)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -3.13491521399, 0.205841014624, 4.80935921696)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.017019879109, 0.0898241859961, 4.58166366501)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.954115524852, -0.0184657712688, 4.36913293234)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.92525092881, -0.126755728534, 4.15660219968)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 0.255548760322, 0.539943772053, 3.26238494879)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.715586643639, 0.431653814788, 3.04985421612)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -1.6867220476, 0.323363857523, 2.83732348346)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 2)  Perspective (x, y, z): 0.255548760322, 1.43095005853, 2.80839398252)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:10
+[Builder Position] (x, y, z): (0.47599753361, 3.1782937965, 5.64335907435) (yaw, pitch): (-158.84972, 14.400037)
+[Screenshot Path] 386966-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 4.96280408494, 0.153851140498, 4.62027114368)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -0.633019474332, 0.692239317733, 6.71714902858)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 3.66935144084, 0.0116444650959, 4.06641419559)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.061197598671, 0.370569916586, 5.46433278552)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 2.37589879675, -0.130562210306, 3.51255724749)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.44326153687, -0.0408308474335, 3.86203689497)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.51062427699, 0.048900515439, 4.21151654245)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 2.01508341253, 0.606082751951, 2.36053013926)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 1.08244615265, 0.695814114824, 2.71000978674)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): 0.149808892773, 0.785545477696, 3.05948943422)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 2)  Perspective (x, y, z): 2.01508341253, 1.57466575248, 2.11183962661)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 2)  Perspective (x, y, z): 0.149808892773, 1.75412847823, 2.81079892158)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:21
+[Builder Position] (x, y, z): (0.47599753361, 3.16512560654, 5.64335907435) (yaw, pitch): (-184.79971, 13.050036)
+[Screenshot Path] 397867-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+	<Architect> good! and now extend those one block outwards on either side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 2.48744305054, 0.432567514746, 6.29487985712)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -3.49151664607, 0.319206662504, 5.80580904068)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 1.5746225674, 0.188663983753, 5.24261095939)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -2.41135056367, 0.113090082258, 4.91656374843)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.661802084258, -0.0552395472411, 4.19034206166)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.33469119851, -0.0741330226149, 4.10883025892)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.33118448128, -0.0930264979886, 4.02731845618)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 0.745474883885, 0.693923642234, 2.99378308771)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.251018398883, 0.67503016686, 2.91227128497)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -1.24751168165, 0.656136691486, 2.83075948223)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 2)  Perspective (x, y, z): 0.745474883885, 1.66809688733, 2.76798120875)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 2)  Perspective (x, y, z): -1.24751168165, 1.63030993658, 2.60495760327)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:25
+[Builder Position] (x, y, z): (-3.79577292833, 3.16512560654, 4.05766574193) (yaw, pitch): (-115.64969, 3.0000396)
+[Screenshot Path] 402264-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+	<Architect> good! and now extend those one block outwards on either side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 4.07441959165, -0.838176018299, 3.11393094874)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.47721336661, -0.55510045634, 8.51526301137)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 2.74009442831, -0.813651601964, 3.58187850081)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 1.00862361162, -0.624934560658, 7.18276654256)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.40576926498, -0.789127185629, 4.04982605287)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.972901560803, -0.741947925302, 4.95004806331)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.54003385663, -0.694768664976, 5.85027007375)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 0.504311805811, 0.186847468962, 3.56521494806)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.071444101638, 0.234026729289, 4.4654369585)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.361423602535, 0.281205989615, 5.36565896894)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-2, 4, 2)  Perspective (x, y, z): 0.937179509984, 1.13829770722, 2.61265629117)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 2)  Perspective (x, y, z): 0.504311805811, 1.18547696754, 3.51287830161)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 2)  Perspective (x, y, z): -0.361423602535, 1.2798354882, 5.31332232249)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:28
+[Builder Position] (x, y, z): (3.91123833379, 3.16512560654, 4.97390028208) (yaw, pitch): (-218.69968, 6.0000405)
+[Screenshot Path] 404813-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+	<Architect> good! and now extend those one block outwards on either side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 1.55641190814, -0.194497469673, 7.71620066525)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -3.1261914879, -0.586631297409, 3.98532188184)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 1.40121630638, -0.341431212443, 6.31822899157)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -1.72051929098, -0.602853764267, 3.83097646929)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.24602070462, -0.488364955213, 4.92025731788)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.46558680528, -0.55372059317, 4.29844418731)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.31484709406, -0.619076231126, 3.67663105674)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.8712590022, 0.424578761453, 4.03956960851)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 1.09082510286, 0.359223123497, 3.41775647794)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): 0.31039120352, 0.293867485541, 2.79594334737)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-2, 4, 2)  Perspective (x, y, z): 2.65169290154, 1.48445622089, 4.55685357282)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 2)  Perspective (x, y, z): 1.8712590022, 1.41910058293, 3.93504044226)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 2)  Perspective (x, y, z): 0.31039120352, 1.28838930702, 2.69141418112)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 4, 2)  Perspective (x, y, z): -0.47004269582, 1.22303366907, 2.06960105055)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:52
+[Builder Position] (x, y, z): (0.141415747333, 3.16512560654, 6.60132144583) (yaw, pitch): (-179.09962, 1.9500402)
+[Screenshot Path] 429759-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+	<Architect> good! and now extend those one block outwards on either side
+	<Architect> okay, now delete the two on top of the bottom row
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 13
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 3.10962722607, -0.762858071825, 6.98199585199)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.88963194364, -0.759649781461, 7.07622494271)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 2.09403674904, -0.79634720698, 5.99840322249)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -1.9054693641, -0.794208346738, 6.06122261631)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.07844627201, -0.829836342136, 5.014810593)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.078569743722, -0.829301627076, 5.03051544145)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.921306784563, -0.828766912015, 5.04622028991)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.06273232326, 0.135560685805, 3.98148506334)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.0628557949776, 0.136095400865, 3.99718991179)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.937020733307, 0.136630115926, 4.01289476024)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-2, 4, 2)  Perspective (x, y, z): 2.06260885155, 1.1344468489, 3.93175216316)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 4, 2)  Perspective (x, y, z): 1.06273232326, 1.13498156396, 3.94745701162)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 2)  Perspective (x, y, z): -0.937020733307, 1.13605099408, 3.97886670852)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 4, 2)  Perspective (x, y, z): -1.93689726159, 1.13658570914, 3.99457155698)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:54
+[Builder Position] (x, y, z): (0.14052383961, 3.16512560654, 5.54890143552) (yaw, pitch): (-187.04959, 7.200041)
+[Screenshot Path] 431859-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+	<Architect> good! and now extend those one block outwards on either side
+	<Architect> okay, now delete the two on top of the bottom row
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 14
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 2.24095077239, -0.199649785822, 6.39830286863)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -3.71369103306, -0.291941958138, 5.66773930276)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 1.37123882653, -0.33941827115, 5.29192775062)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -2.59852237709, -0.400946386027, 4.80488537337)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 0.501526880683, -0.479186756477, 4.18555263261)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): -0.490913420224, -0.494568785196, 4.0637920383)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.48335372113, -0.509950813916, 3.94203144399)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 0.624255235739, 0.388541398543, 3.07560416541)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.368185065168, 0.373159369824, 2.95384357109)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -1.36062536607, 0.357777341105, 2.83208297678)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-2, 4, 2)  Perspective (x, y, z): 1.61669553665, 1.39603803889, 3.07203081621)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 4, 2)  Perspective (x, y, z): -1.36062536607, 1.34989195273, 2.70674903328)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 4, 2)  Perspective (x, y, z): -2.35306566698, 1.33450992401, 2.58498843896)
+
+--------------------
+[Timestamp] 2018-04-16 15:11:55
+[Builder Position] (x, y, z): (0.14052383961, 3.16512560654, 5.04870030509) (yaw, pitch): (-154.94963, 6.9000406)
+[Screenshot Path] 432959-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+	<Architect> good! and now extend those one block outwards on either side
+	<Architect> okay, now delete the two on top of the bottom row
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 5.25829683363, -0.49233983877, 4.2553396918)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -0.177318588597, -0.187131719335, 6.777428704)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 3.92894607617, -0.550308731822, 3.7763134179)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 0.305202461355, -0.346836652199, 5.4577060927)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 2.59959531872, -0.608277624874, 3.297287144)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 1.69365941501, -0.557409604968, 3.7176353127)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.787723511307, -0.506541585063, 4.1379834814)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 2.17618046496, 0.275642718968, 2.2777751591)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 1.27024456126, 0.326510738874, 2.6981233278)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): 0.364308657554, 0.377378758779, 3.1184714965)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-2, 4, 2)  Perspective (x, y, z): 3.08211636867, 1.21753195586, 1.73728944809)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 4, 2)  Perspective (x, y, z): -0.541627246151, 1.42100403549, 3.41868212289)
+
+--------------------
+[Timestamp] 2018-04-16 15:12:02
+[Builder Position] (x, y, z): (0.0675977175532, 3.16512560654, 6.05200039525) (yaw, pitch): (-177.4496, -1.7999599)
+[Screenshot Path] 439407-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+	<Architect> good! and now extend those one block outwards on either side
+	<Architect> okay, now delete the two on top of the bottom row
+	<Architect> perfect! i think we're done! :)
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 3.30851564998, -1.21496613856, 6.82477702756)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.68554114271, -1.22335228129, 7.09163436498)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 2.26500800544, -1.18498488222, 5.87073671392)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -1.73102985635, -1.19057564404, 6.04864160553)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.2215003609, -1.15500362588, 4.91669640028)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.222490895455, -1.15640131633, 4.96117262318)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.776518569993, -1.15779900679, 5.00564884608)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.17700218181, -0.124118096734, 3.94958992328)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.177992716364, -0.125515787189, 3.99406614618)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.821016749085, -0.126913477644, 4.03854236909)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-2, 4, 2)  Perspective (x, y, z): 2.17601164726, 0.87678617607, 3.93652375992)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 4, 2)  Perspective (x, y, z): -1.82002621453, 0.87119541425, 4.11442865154)
+
+--------------------
+[Timestamp] 2018-04-16 15:12:08
+[Builder Position] (x, y, z): (0.0675977175532, 1.0, 6.05200039525) (yaw, pitch): (-177.4496, -1.7999599)
+[Screenshot Path] 445106-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. ready
+	<Architect> hello!
+	<Architect> okay, so it looks like we're building an X shaped thing
+	<Architect> start by putting an orange block near the middle of the grid
+	<Architect> and stack another one on top
+	<Architect> then remove the bottom one
+	<Architect> alright, put one orange block on both sides of the current one
+	<Architect> then extend each side by one orange block towards you
+	<Architect> yep! now from each of those, build outward again
+	<Architect> to the sides
+	<Architect> and repeat that pattern again on each side
+	<Architect> and one more off each side
+	<Architect> oops, one block too many. get rid of the last one you put down on each side
+	<Architect> okay, now, delete the second block from the left on the left side
+	<Architect> yep! and delete the third block from the left on the left side, so you have a diagonal line from the row of 3
+	<Architect> perfect!
+	<Architect> now make the right side mirror the left. so delete the same two blocks
+	<Architect> okay, cool! now stack a row of 3 red blocks on top of the row of 3 orange
+	<Architect> and put 3 more red blocks directly behind those 3
+	<Architect> and now delete the first row of red that you put down
+	<Architect> good! almost done!
+	<Architect> on top of the ends of the row of red blocks, place one more red block each
+	<Builder> do I repeat the thing I did with orange but on red?
+	<Architect> no, it's a little different
+	<Architect> sorry, i meant on top, so stack them
+	<Architect> good! and now extend those one block outwards on either side
+	<Architect> okay, now delete the two on top of the bottom row
+	<Architect> perfect! i think we're done! :)
+	<Builder> nice
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 15
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 2, -1)  Perspective (x, y, z): 3.30851564998, 0.784047026134, 6.88759714665)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.68554114271, 0.775660883404, 7.15445448408)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): 2.26500800544, 0.814028282476, 5.93355683301)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -1.73102985635, 0.808437520656, 6.11146172463)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-1, 2, 1)  Perspective (x, y, z): 1.2215003609, 0.844009538818, 4.97951651937)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 1)  Perspective (x, y, z): 0.222490895455, 0.842611848363, 5.02399274227)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.776518569993, 0.841214157908, 5.06846896518)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-1, 3, 2)  Perspective (x, y, z): 1.17700218181, 1.87489506796, 4.01241004237)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.177992716364, 1.87349737751, 4.05688626527)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (1, 3, 2)  Perspective (x, y, z): -0.821016749085, 1.87209968705, 4.10136248818)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-2, 4, 2)  Perspective (x, y, z): 2.17601164726, 2.87579934077, 3.99934387901)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (2, 4, 2)  Perspective (x, y, z): -1.82002621453, 2.87020857895, 4.17724877063)
+
+Time elapsed: 0:07:58 (478.51s)

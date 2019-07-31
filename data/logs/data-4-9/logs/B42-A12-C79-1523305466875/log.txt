@@ -1,0 +1,3403 @@
+
+--------------------
+[Timestamp] 2018-04-09 20:24:37
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-09 20:24:56
+[Builder Position] (x, y, z): (-5.18794736146, 1.0, 0.51726991107) (yaw, pitch): (-91.35002, 13.500034)
+[Screenshot Path] 18227-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-09 20:25:02
+[Builder Position] (x, y, z): (-3.93873647884, 1.0, 0.552342261595) (yaw, pitch): (-89.55002, 52.20003)
+[Screenshot Path] 24893-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-09 20:25:14
+[Builder Position] (x, y, z): (-0.721955427562, 1.0, 0.309713160256) (yaw, pitch): (-91.04998, 54.000042)
+[Screenshot Path] 36691-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.0183245823889, 0.808881583729, 0.587685964767)
+
+--------------------
+[Timestamp] 2018-04-09 20:25:15
+[Builder Position] (x, y, z): (-1.79459222785, 1.0, 0.311507625608) (yaw, pitch): (-84.29997, 18.000048)
+[Screenshot Path] 38090-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.198640541507, 0.614979716422, 1.89270755365)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.198640541507, 1.56603597383, 1.58368976252)
+
+--------------------
+[Timestamp] 2018-04-09 20:25:18
+[Builder Position] (x, y, z): (-0.727148966133, 3.11374243022, 0.414645017498) (yaw, pitch): (-84.89998, 47.85006)
+[Screenshot Path] 40639-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0888946445504, -0.603690105176, 2.15119873538)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0888946445504, 0.0673829781084, 1.4098075317)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.0888946445504, 0.738456061392, 0.668416328019)
+
+--------------------
+[Timestamp] 2018-04-09 20:25:27
+[Builder Position] (x, y, z): (-0.727148966133, 3.11766146085, 0.414645017498) (yaw, pitch): (-83.99998, 25.80006)
+[Screenshot Path] 49489-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.104528810421, -1.36778885162, 1.76585032921)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.104528810421, -0.467470535992, 1.33061828703)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.104528810421, 0.432847779637, 0.895386244844)
+
+--------------------
+[Timestamp] 2018-04-09 20:25:34
+[Builder Position] (x, y, z): (-0.727148966133, 3.11766146085, 0.414645017498) (yaw, pitch): (-83.99998, 25.80006)
+[Screenshot Path] 56937-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.104528810421, -1.36778885162, 1.76585032921)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.104528810421, -0.467470535992, 1.33061828703)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.104528810421, 0.432847779637, 0.895386244844)
+
+--------------------
+[Timestamp] 2018-04-09 20:25:41
+[Builder Position] (x, y, z): (-0.727148966133, 3.11766146085, 0.414645017498) (yaw, pitch): (-83.99998, 25.80006)
+[Screenshot Path] 63186-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.104528810421, -1.36778885162, 1.76585032921)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.104528810421, -0.467470535992, 1.33061828703)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.104528810421, 0.432847779637, 0.895386244844)
+
+--------------------
+[Timestamp] 2018-04-09 20:25:47
+[Builder Position] (x, y, z): (-0.727148966133, 3.11766146085, 0.414645017498) (yaw, pitch): (-83.99998, 25.80006)
+[Screenshot Path] 69035-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.104528810421, -1.36778885162, 1.76585032921)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.104528810421, -0.467470535992, 1.33061828703)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.104528810421, 0.432847779637, 0.895386244844)
+
+--------------------
+[Timestamp] 2018-04-09 20:25:55
+[Builder Position] (x, y, z): (-0.727148966133, 3.11766146085, 0.414645017498) (yaw, pitch): (-88.65001, 12.750059)
+[Screenshot Path] 77685-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0235595903491, -1.73004700543, 1.41646825051)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0235595903491, -0.754704912181, 1.19576981114)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.0235595903491, 0.220637181065, 0.975071371764)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:00
+[Builder Position] (x, y, z): (-2.22114752006, 3.11766146085, 0.422837004672) (yaw, pitch): (-88.95001, 32.40006)
+[Screenshot Path] 82983-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0549742706775, -0.0814416077222, 3.60421213223)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0549742706775, 0.762885756663, 3.06838445307)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.0549742706775, 1.60721312105, 2.53255677391)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:01
+[Builder Position] (x, y, z): (-1.89239669013, 3.11766146085, 0.424631470257) (yaw, pitch): (-89.10001, 32.700058)
+[Screenshot Path] 83883-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0314142856008, -0.60267141893, 2.76329518935)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0314142856008, 0.238838816134, 2.22305401701)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.0157071428004, 0.540174525599, 0.841406422342)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.0314142856008, 1.0803490512, 1.68281284468)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:03
+[Builder Position] (x, y, z): (-0.358124547077, 3.11766146085, -2.28614315877) (yaw, pitch): (-20.55001, 32.25005)
+[Screenshot Path] 85883-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 15
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.116708277987, -0.0051647227069, 3.73983321867)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.116708277987, 0.84056263333, 3.20621796472)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.234316533932, 1.1866307243, 1.88069223587)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.05307443576, 1.49897779521, 2.37573142468)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.116708277987, 1.68628998937, 2.67260271077)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:05
+[Builder Position] (x, y, z): (3.36090376061, 3.11766146085, -0.356390480397) (yaw, pitch): (68.250015, 29.55004)
+[Screenshot Path] 87832-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.18286193316, -0.18287709667, 3.73270913425)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.18286193316, 0.687048202989, 3.2395256258)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.11167158304, 1.37422080546, 2.423985039)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.553419127508, 2.01504710447, 3.55433713034)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.18286193316, 1.55697350265, 2.74634211734)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.187695261188, 1.09889990083, 1.93834710434)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:07
+[Builder Position] (x, y, z): (2.00318502969, 3.11766146085, 2.80168934524) (yaw, pitch): (141.45003, 29.700045)
+[Screenshot Path] 89632-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 13
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.317735988496, -0.344761970304, 3.43222712323)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.317735988496, 0.523869155002, 2.93676777258)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.305460955985, 1.77998166702, 3.12063436972)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.09980092722, 1.70126903375, 2.9826366851)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.317735988496, 1.39250028031, 2.44130842192)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.464328950233, 1.08373152687, 1.89998015875)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.940932932977, 1.0050188936, 1.76198247413)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:12
+[Builder Position] (x, y, z): (2.61447322932, 3.11766146085, 3.33302935523) (yaw, pitch): (142.65001, 4.800049)
+[Screenshot Path] 94681-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 13
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.230157718226, -1.69189307696, 3.75293554979)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.230157718226, -0.695400289277, 3.66925685425)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.836839930484, 0.367612413792, 4.37773457898)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.564786741048, 0.351858874542, 4.19013260763)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.230157718226, 0.30109249841, 3.5855781587)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.0251021775, 0.250326122278, 2.98102370977)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.376524494032, 0.234572583028, 2.79342173842)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:15
+[Builder Position] (x, y, z): (2.61447322932, 3.11766146085, 3.33302935523) (yaw, pitch): (142.65001, 4.800049)
+[Screenshot Path] 97130-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 13
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.230157718226, -1.69189307696, 3.75293554979)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.230157718226, -0.695400289277, 3.66925685425)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.836839930484, 0.367612413792, 4.37773457898)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.564786741048, 0.351858874542, 4.19013260763)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.230157718226, 0.30109249841, 3.5855781587)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.0251021775, 0.250326122278, 2.98102370977)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.376524494032, 0.234572583028, 2.79342173842)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:19
+[Builder Position] (x, y, z): (2.61447322932, 3.11766146085, 3.33302935523) (yaw, pitch): (124.79999, 25.65005)
+[Screenshot Path] 101180-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 12
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.32202107749, -0.35086221777, 3.88962157218)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.32202107749, 0.550592521589, 3.456748204)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.14317038623, 1.69909390322, 3.53834715702)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.751307653125, 1.80750092801, 3.76410377189)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.32202107749, 1.45204726095, 3.02387483581)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.89273450186, 1.09659359389, 2.28364589972)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.50087176875, 1.20500061867, 2.5094025146)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.320277539992, 0.957953976397, 1.99493019339)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:20
+[Builder Position] (x, y, z): (2.74939224997, 3.11766146085, 1.457966869) (yaw, pitch): (147.6, 37.950058)
+[Screenshot Path] 102929-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.15282905602, -0.398814668266, 2.74079040205)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.15282905602, 0.389732428679, 2.12581603193)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.617002261046, 1.69751955978, 2.17663399634)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.99715698153, 1.50779927136, 1.93336632546)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.15282905602, 1.17827952562, 1.51084166182)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.308501130523, 0.84875977989, 1.08831699817)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.535826794979, 0.519240034157, 0.665792334524)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.688655851, 0.659039491467, 0.845049327292)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 2.22448264598, 0.13979945731, 0.179256992768)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:23
+[Builder Position] (x, y, z): (2.17327921455, 3.11766146085, -2.83834053491) (yaw, pitch): (44.550003, 25.950047)
+[Screenshot Path] 105279-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 10
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.679317424869, -0.248864372385, 4.05913714481)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.679317424869, 0.650311523668, 3.62154977302)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.723745501301, 0.925804218793, 1.90238770965)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.022214038216, 1.23764581926, 2.54317505543)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.033321057324, 1.85646872889, 3.81476258315)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.679317424869, 1.54948741972, 3.18396240122)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.39195590706, 1.24250611056, 2.55316221929)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.10459438926, 0.935524801393, 1.92236203736)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.38084888795, 1.86132902019, 3.82474974701)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 2.08238035104, 2.17317062065, 4.4655370928)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:23
+[Builder Position] (x, y, z): (0.673982179307, 3.11766146085, -3.9580325237) (yaw, pitch): (18.750004, 25.800047)
+[Screenshot Path] 105729-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 10
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.28575812564, -0.152100305306, 4.28061812586)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.28575812564, 0.748218109074, 3.84538628795)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.642879062822, 0.824268261727, 1.70507722502)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.964318594233, 1.23640239259, 2.55761583753)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.33882801859, 1.78843724149, 3.69955237929)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.28575812564, 1.64853652345, 3.41015445005)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.2326882327, 1.50863580542, 3.12075652081)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 3.17961833975, 1.36873508739, 2.83135859157)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.60719765705, 2.06067065432, 4.26269306256)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 1.92863718847, 2.47280478518, 5.11523167507)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:25
+[Builder Position] (x, y, z): (-2.43515433715, 3.11766146085, 0.112430584913) (yaw, pitch): (-64.35, 36.45005)
+[Screenshot Path] 107479-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 9
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.29861774456, -0.00202791826166, 3.36356772506)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.29861774456, 0.802347198539, 2.76944596021)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 3.10152797878, 1.09236427116, 1.47894032871)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.20007286167, 1.34954329325, 1.82713226203)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 0.43287258152, 0.535574105113, 0.725108065118)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.86574516304, 1.07114821023, 1.45021613024)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.29861774456, 1.60672231534, 2.17532419535)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.73149032608, 2.14229642045, 2.90043226047)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.1643629076, 2.67787052557, 3.62554032559)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.397162627448, 1.86390133743, 2.52351612867)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.504292489664, 2.12108035952, 2.87170806199)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:38
+[Builder Position] (x, y, z): (-1.49586385874, 3.11766146085, 2.61979662746) (yaw, pitch): (-143.10011, 3.7500484)
+[Screenshot Path] 120794-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 9
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.39853424234, -1.81257294434, 2.92502132969)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.39853424234, -0.814714076346, 2.85961735753)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.80230313774, 0.287750048711, 4.39016054201)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.2018844477, 0.235447420178, 3.59218696369)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 1.20083738008, 0.104605257068, 1.59594715664)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.40115156887, 0.143875024356, 2.19508027101)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.39853424234, 0.183144791644, 2.79421338537)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.19822005355, 0.222414558932, 3.39334649973)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -1.99790586476, 0.26168432622, 3.9924796141)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.99895293238, 0.13084216311, 1.99623980705)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.59937162242, 0.0785395345764, 1.19826622873)
+
+--------------------
+[Timestamp] 2018-04-09 20:26:52
+[Builder Position] (x, y, z): (-2.11232092178, 3.11766146085, 2.13757991082) (yaw, pitch): (-108.75018, 15.000025)
+[Screenshot Path] 134442-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 9
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.929530918808, -1.03020923604, 3.882607526)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.929530918808, -0.0642835226837, 3.62378805943)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 2.82338915813, 1.06803331247, 3.98594762952)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.87646003847, 0.984837751571, 3.67545811119)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 1.57241579915, 0.41147481142, 1.53564222206)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.25097335898, 0.656558501047, 2.45030540746)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.929530918808, 0.901642190674, 3.36496859287)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.608088478638, 1.1467258803, 4.27963177827)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.286646038468, 1.39180956993, 5.19429496368)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.017398200851, 0.818446629777, 3.05447907454)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.96432732051, 0.735251068881, 2.74398955622)
+
+--------------------
+[Timestamp] 2018-04-09 20:27:01
+[Builder Position] (x, y, z): (-0.969453057124, 1.0, 2.79305957043) (yaw, pitch): (-150.3002, -1.0499791)
+[Screenshot Path] 143839-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 10
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.122278028756, -0.0409136654498, 2.23234723008)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 1.11318930142, 1.92691586101, 4.00597114865)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.617733665089, 1.94283318881, 3.13748375605)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 1.85954451658, 1.97690853631, 1.27825147367)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.990911272666, 1.96782952646, 1.77362391856)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.122278028756, 1.95875051661, 2.26899636345)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.746355215154, 1.94967150677, 2.76436880834)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -1.61498845906, 1.94059249692, 3.25974125323)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.373177607577, 1.97466784441, 1.40050897085)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.86863324391, 1.99058517222, 0.532021578255)
+
+--------------------
+[Timestamp] 2018-04-09 20:27:02
+[Builder Position] (x, y, z): (-0.965172401648, 1.0, 2.78122686505) (yaw, pitch): (-149.85019, 27.750021)
+[Screenshot Path] 144690-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 1.14433555648, 3.61433264596, 2.57431459975)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.642072890835, 3.21170845614, 1.8090525685)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 1.86924043737, 2.3413623602, 0.154798208979)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.00452533128, 2.57522331326, 0.599294373117)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.139810225193, 2.80908426632, 1.04379053725)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.724904880898, 3.04294521937, 1.48828670139)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -1.58961998699, 3.27680617243, 1.93278286553)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.362452440449, 2.40646007649, 0.278528506006)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.864715106091, 2.00383588667, -0.486733525242)
+
+--------------------
+[Timestamp] 2018-04-09 20:27:18
+[Builder Position] (x, y, z): (-2.08001800566, 2.78351091432, 2.96809856939) (yaw, pitch): (-140.10019, 0.3000189)
+[Screenshot Path] 160388-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.264286513383, 1.02613115928, 4.98770563314)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.377160574167, 1.02211404609, 4.22054887166)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 0.515726896161, 1.01137932223, 2.1705155229)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.251440382778, 1.01473812757, 2.81195381654)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.01860766172, 1.01809693291, 3.45339211019)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.78577494066, 1.02145573825, 4.09483040383)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -2.5529422196, 1.02481454359, 4.73626869747)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.66005474927, 1.01407981972, 2.68623534871)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -2.30150183682, 1.01006270654, 1.91907858724)
+
+--------------------
+[Timestamp] 2018-04-09 20:27:38
+[Builder Position] (x, y, z): (-3.5175879979, 2.78351091432, 2.35301681431) (yaw, pitch): (-143.25024, 19.350018)
+[Screenshot Path] 180885-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.811740298636, 2.7984460175, 4.95073505398)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.41006154292, 2.53295920316, 4.19474005396)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 0.395386169622, 1.67273236366, 1.74517512486)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.405870149318, 1.87097903872, 2.30969843455)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.20712646826, 2.06922571377, 2.87422174425)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.0083827872, 2.26747238882, 3.43874505394)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -2.80963910614, 2.46571906388, 4.00326836363)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -3.61089542508, 2.66396573893, 4.56779167333)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.60670403148, 2.00198557448, 2.68275005392)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -3.20502527576, 1.73649876015, 1.9267550539)
+
+--------------------
+[Timestamp] 2018-04-09 20:27:43
+[Builder Position] (x, y, z): (-4.04631177252, 2.78351091432, 2.13964785726) (yaw, pitch): (-123.300255, 19.650019)
+[Screenshot Path] 185733-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.5980869824, 3.08555403257, 5.66759634003)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.237717935485, 2.90093076251, 5.15054277666)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 0.573556760114, 1.87312946858, 2.2720956487)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 0.024530222286, 2.15418880987, 3.0592268369)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.524496315542, 2.43524815116, 3.8463580251)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.07352285337, 2.71630749245, 4.6334892133)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.6225493912, 2.99736683374, 5.42062040149)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -2.17157592903, 3.27842617503, 6.20775158969)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.90932777126, 2.53168422239, 4.11643564993)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -2.74513268914, 2.34706095233, 3.59938208656)
+
+--------------------
+[Timestamp] 2018-04-09 20:28:17
+[Builder Position] (x, y, z): (-4.04631177252, 2.78351091432, 2.13964785726) (yaw, pitch): (-135.30025, 22.64999)
+[Screenshot Path] 219979-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.740446309601, 3.37217958651, 5.48453681718)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.44383791096, 3.09844905234, 4.8285552246)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -0.014821883298, 2.01208879141, 2.22514696307)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.725624426303, 2.282965367, 2.87428918605)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.43642696931, 2.55384194258, 3.52343140903)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.14722951231, 2.82471851817, 4.17257363201)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -2.85803205532, 3.09559509376, 4.82171585499)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -3.56883459832, 3.36647166935, 5.47085807798)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.85062111367, 2.55098798401, 3.51659203943)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -3.55401271503, 2.27725744984, 2.86061044685)
+
+--------------------
+[Timestamp] 2018-04-09 20:28:33
+[Builder Position] (x, y, z): (-4.04631177252, 2.78351091432, 2.13964785726) (yaw, pitch): (-135.30025, 22.64999)
+[Screenshot Path] 235592-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.740446309601, 3.37217958651, 5.48453681718)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.44383791096, 3.09844905234, 4.8285552246)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -0.014821883298, 2.01208879141, 2.22514696307)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.725624426303, 2.282965367, 2.87428918605)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.43642696931, 2.55384194258, 3.52343140903)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.14722951231, 2.82471851817, 4.17257363201)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -2.85803205532, 3.09559509376, 4.82171585499)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -3.56883459832, 3.36647166935, 5.47085807798)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.85062111367, 2.55098798401, 3.51659203943)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -3.55401271503, 2.27725744984, 2.86061044685)
+
+--------------------
+[Timestamp] 2018-04-09 20:28:39
+[Builder Position] (x, y, z): (5.5406692019, 2.78351091432, 2.01364762653) (yaw, pitch): (-233.85023, 12.89999)
+[Screenshot Path] 241391-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.280421115546, 2.40288686178, 6.01227899615)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.527056657948, 2.27119216617, 5.43726929844)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 3.1042284185, 2.68030557826, 7.22355369144)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 2.51433042281, 2.50003620902, 6.4364556612)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.92443242713, 2.31976683979, 5.64935763096)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.33453443144, 2.13949747055, 4.86225960072)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.744636435756, 1.95922810132, 4.07516157049)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.15473844007, 1.77895873209, 3.28806354025)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -0.435159555616, 1.59868936285, 2.50096551001)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 2.14201220494, 2.00780277494, 4.28724990301)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 2.94948997843, 1.87610807933, 3.7122402053)
+
+--------------------
+[Timestamp] 2018-04-09 20:28:49
+[Builder Position] (x, y, z): (0.628378136954, 2.78351091432, 5.59219946897) (yaw, pitch): (-182.25027, -0.45001134)
+[Screenshot Path] 251439-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.274851671601, 0.94503286122, 7.00224031648)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.235587147087, 0.952880903345, 6.00304228539)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 2.80136393109, 0.959803783104, 5.12163419462)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 1.80213507987, 0.960112170559, 5.08237088118)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.80290622865, 0.960420558014, 5.04310756773)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.196322622572, 0.960728945469, 5.00384425429)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.19555147379, 0.961037332924, 4.96458094085)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -2.19478032502, 0.961345720379, 4.9253176274)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -3.19400917624, 0.961654107834, 4.88605431396)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.157058098058, 0.968576987593, 4.00464622319)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.117793573544, 0.976425029717, 3.00544819209)
+
+--------------------
+[Timestamp] 2018-04-09 20:28:54
+[Builder Position] (x, y, z): (3.54788503839, 2.78351091432, 3.06049760356) (yaw, pitch): (-196.80023, 20.249979)
+[Screenshot Path] 256239-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 1.42677681248, 2.89503104178, 4.95813505206)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.71581245235, 2.56368716538, 4.05998716087)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 4.87680310405, 2.532463486, 3.97535157896)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 3.91948476677, 2.43242342033, 3.7041808092)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 2.9621664295, 2.33238335466, 3.43301003943)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 2.00484809222, 2.23234328899, 3.16183926967)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.04752975495, 2.13230322331, 2.89066849991)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.090211417669, 2.03226315764, 2.61949773014)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -0.867106919607, 1.93222309197, 2.34832696038)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 2.29388373209, 1.90099941259, 2.26369137847)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 2.58291937196, 1.56965553619, 1.36554348728)
+
+--------------------
+[Timestamp] 2018-04-09 20:28:56
+[Builder Position] (x, y, z): (4.67131174878, 2.78351091432, 3.42844254716) (yaw, pitch): (-204.45021, 20.399979)
+[Screenshot Path] 258538-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 1.57177353003, 3.10094190396, 5.46934066214)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.98567586038, 2.78362965901, 4.61611279097)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 5.13054207705, 2.89914133553, 4.92671467737)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 4.22022078161, 2.75486669504, 4.53877142484)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 3.30989948617, 2.61059205455, 4.15082817232)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 2.39957819073, 2.46631741406, 3.7628849198)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.48925689529, 2.32204277357, 3.37494166728)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.578935599844, 2.17776813308, 2.98699841476)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -0.331385695597, 2.03349349259, 2.59905516224)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 2.81348052107, 2.14900516911, 2.90965704863)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 0.082516634749, 1.71618124764, 1.74582729107)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 3.22738285142, 1.83169292416, 2.05642917746)
+
+--------------------
+[Timestamp] 2018-04-09 20:28:57
+[Builder Position] (x, y, z): (7.03717010182, 2.78351091432, 0.713378488336) (yaw, pitch): (-266.55023, 14.549974)
+[Screenshot Path] 259787-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -1.57516156222, 2.75354668842, 6.62848751131)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.576973627408, 2.73842964766, 6.570243869)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 0.601734724866, 3.47561991499, 9.41052503994)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 0.541561252379, 3.22485081229, 8.44435010219)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.481387779893, 2.97408170959, 7.47817516444)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.421214307406, 2.72331260689, 6.51200022668)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.36104083492, 2.47254350419, 5.54582528893)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.300867362433, 2.22177440149, 4.57965035118)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.240693889946, 1.97100529879, 3.61347541343)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (4, 3, 0)  Perspective (x, y, z): 0.18052041746, 1.72023619609, 2.64730047568)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.41940224222, 2.70819556613, 6.45375658437)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 1.23888182476, 1.95588825803, 3.55523177112)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 2.41759017703, 2.69307852536, 6.39551294206)
+
+--------------------
+[Timestamp] 2018-04-09 20:28:59
+[Builder Position] (x, y, z): (5.30272694305, 2.78351091432, -3.50153490226) (yaw, pitch): (-330.30026, 10.949977)
+[Screenshot Path] 261637-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.35225936034, 1.78235348797, 3.94785678881)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.85680463364, 1.94735211934, 4.8006756825)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -0.250903345389, 1.66501442311, 3.3413731432)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -4.96725119518, 2.39468844695, 7.11279711548)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -4.09861743243, 2.30057588154, 6.62636293572)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -3.22998366968, 2.20646331613, 6.13992875595)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.36134990693, 2.11235075072, 5.65349457619)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.49271614418, 2.01823818531, 5.16706039642)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.624082381435, 1.9241256199, 4.68062621666)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.244551381314, 1.83001305449, 4.19419203689)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (4, 3, 0)  Perspective (x, y, z): 1.11318514406, 1.73590048908, 3.70775785712)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.86589518023, 2.27734938209, 6.50631346988)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 0.740006108017, 1.99501168586, 5.04701093058)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.37044045353, 2.44234801347, 7.35913236356)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:02
+[Builder Position] (x, y, z): (4.29302423081, 2.78351091432, -2.32247217845) (yaw, pitch): (-332.1002, 3.1499755)
+[Screenshot Path] 264437-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.06714232453, 1.14990174645, 2.69636123963)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.5992155952, 1.19846453925, 3.57879323765)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 0.052086195202, 1.12132716471, 2.17713399173)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -4.78259065626, 1.32416470657, 5.86288448159)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -3.89882339279, 1.29845224839, 5.39566473295)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -3.01505612933, 1.27273979022, 4.92844498431)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.13128886586, 1.24702733204, 4.46122523567)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.2475216024, 1.22131487386, 3.99400548703)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.36375433893, 1.19560241569, 3.52678573839)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.520012924536, 1.16988995751, 3.05956598975)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (4, 3, 0)  Perspective (x, y, z): 1.403780188, 1.14417749933, 2.59234624111)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.66336213653, 1.29559012484, 5.34365723369)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 0.98793965387, 1.2184527503, 3.94199798777)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.19543540719, 1.34415291763, 6.22608923171)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:07
+[Builder Position] (x, y, z): (4.26968128194, 2.78351091432, -2.25644340789) (yaw, pitch): (-332.1002, 3.1499755)
+[Screenshot Path] 269786-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.06714232453, 1.14990174645, 2.69636123963)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.5992155952, 1.19846453925, 3.57879323765)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 0.052086195202, 1.12132716471, 2.17713399173)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -4.78259065626, 1.32416470657, 5.86288448159)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -3.89882339279, 1.29845224839, 5.39566473295)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -3.01505612933, 1.27273979022, 4.92844498431)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.13128886586, 1.24702733204, 4.46122523567)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.2475216024, 1.22131487386, 3.99400548703)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.36375433893, 1.19560241569, 3.52678573839)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.520012924536, 1.16988995751, 3.05956598975)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (4, 3, 0)  Perspective (x, y, z): 1.403780188, 1.14417749933, 2.59234624111)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.66336213653, 1.29559012484, 5.34365723369)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 0.98793965387, 1.2184527503, 3.94199798777)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.19543540719, 1.34415291763, 6.22608923171)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:08
+[Builder Position] (x, y, z): (4.26968128194, 2.78351091432, -2.25644340789) (yaw, pitch): (-334.3502, 34.949974)
+[Screenshot Path] 271236-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.17295707762, 2.32795794969, 1.58523032019)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.74008764278, 2.8443672961, 2.32411152804)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -5.01158809228, 4.10469869586, 4.12740032096)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -4.11013146416, 3.85672467808, 3.77259779261)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -3.20867483605, 3.6087506603, 3.41779526425)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.30721820793, 3.36077664251, 3.06299273589)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.40576157981, 3.11280262473, 2.70819020754)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.504304951696, 2.86482860695, 2.35338767918)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.397151676421, 2.61685458916, 1.99858515082)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (4, 3, 0)  Perspective (x, y, z): 1.29860830454, 2.36888057138, 1.64378262247)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.87434877308, 3.87718598893, 3.80187394374)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 0.830021111267, 3.13326393558, 2.73746635867)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.44147933824, 4.39359533534, 4.54075515159)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:09
+[Builder Position] (x, y, z): (4.76071666592, 2.78351091432, -1.05864041501) (yaw, pitch): (-3.750183, 17.699972)
+[Screenshot Path] 272185-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.99143485736, 0.873119021386, -0.553272947085)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -4.0568411737, 1.17650059612, 0.39734876206)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -7.11582363306, 1.42022521451, 1.16104020742)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -6.11796491872, 1.44011086662, 1.22335029535)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -5.12010620438, 1.45999651874, 1.28566038327)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -4.12224749004, 1.47988217085, 1.3479704712)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -3.1243887757, 1.49976782296, 1.41028055913)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -2.12653006137, 1.51965347507, 1.47259064706)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -1.12867134703, 1.53953912718, 1.53490073499)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -4.18765380639, 1.78326374558, 2.29859218035)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -1.19407766337, 1.84292070191, 2.48552244414)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -4.25306012273, 2.08664532031, 3.24921388949)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:10
+[Builder Position] (x, y, z): (5.14535337477, 2.78351091432, -0.0317993073813) (yaw, pitch): (-317.85016, 20.099974)
+[Screenshot Path] 272985-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.37803366392, 1.83740824777, 2.11110212179)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -3.7069618746, 2.09219460896, 2.80733955525)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -5.26006721006, 3.0388410907, 5.39417628291)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -4.51867483514, 2.80822105052, 4.76397651817)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -3.77728246021, 2.57760101034, 4.13377675344)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -3.03589008529, 2.34698097015, 3.5035769887)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -2.29449771037, 2.11636092997, 2.87337722396)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -1.55310533545, 1.88574088978, 2.24317745923)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -0.811712960531, 1.6551208496, 1.61297769449)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.36481829598, 2.60176733134, 4.19981442215)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.69374650667, 2.85655369253, 4.89605185561)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:11
+[Builder Position] (x, y, z): (5.22251362259, 2.78351091432, 0.219512997411) (yaw, pitch): (-280.80017, 15.149976)
+[Screenshot Path] 273985-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -2.90149453496, 2.15088673936, 4.11764686418)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.9192078402, 2.19985895906, 4.29851856182)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.49907383272, 3.01898286222, 7.32383233845)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -1.31168960363, 2.7622656344, 6.37568497879)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.12430537454, 2.50554840658, 5.42753761913)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.93692114545, 2.24883117877, 4.47939025947)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.74953691636, 1.99211395095, 3.53124289981)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.56215268727, 1.73539672314, 2.58309554015)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -0.37476845818, 1.47867949532, 1.63494818049)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.045365549303, 2.29780339847, 4.66026195711)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 1.02765224406, 2.34677561818, 4.84113365475)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -0.37476845818, 2.443924535, 1.37360164165)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:13
+[Builder Position] (x, y, z): (4.82975187331, 2.78351091432, 2.18376073773) (yaw, pitch): (-232.80028, 30.899963)
+[Screenshot Path] 275985-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.767750601468, 3.73621043645, 4.29549654738)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.028782271175, 3.42572618403, 3.77671440447)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 2.63910081065, 4.34239807366, 5.30836376684)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 2.03450558837, 3.93334602631, 4.62488659841)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.42991036609, 3.52429397896, 3.94140942999)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.825315143818, 3.11524193161, 3.25793226157)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.220719921542, 2.70618988425, 2.57445509314)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.383875300734, 2.2971378369, 1.89097792472)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -0.98847052301, 1.88808578955, 1.20750075629)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.62184801646, 2.80475767918, 2.73915011866)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -0.191937650367, 1.57760153713, 0.688718613386)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 2.4183808891, 2.49427342676, 2.22036797575)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -0.98847052301, 2.7461510269, 0.693960058347)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:15
+[Builder Position] (x, y, z): (5.21584866679, 2.78351091432, -0.532587854606) (yaw, pitch): (-290.70023, 25.799965)
+[Screenshot Path] 277934-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -2.70283560633, 2.78214036198, 3.45750989751)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.76739299445, 2.93598504678, 3.77575340936)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -0.706957197778, 1.71458544107, 1.2491630341)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.89238617923, 4.31122933727, 6.62058729646)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -1.53890758034, 3.90409613537, 5.77839050471)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.18542898145, 3.49696293347, 4.93619371296)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.831950382562, 3.08982973157, 4.09399692121)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.478471783673, 2.68269652967, 3.25180012946)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.124993184784, 2.27556332777, 2.4096033377)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.228485414105, 1.86843012587, 1.56740654595)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.103492229321, 3.24367441637, 4.41224043305)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 1.16392802599, 2.02227481066, 1.8856500578)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 1.0389348412, 3.39751910116, 4.7304839449)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.228485414105, 2.76874916314, 1.13217599655)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:17
+[Builder Position] (x, y, z): (5.11825989825, 1.0, -0.582291381984) (yaw, pitch): (-304.9502, -9.60004)
+[Screenshot Path] 279835-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -0.326078195787, 0.617074450137, 2.34795488313)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.68397144326, 1.38406502148, 3.80955619745)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.86432117075, 1.28852877677, 4.3743979954)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -1.1457284683, 1.69860661548, 1.94988252025)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -3.76326360069, 0.782914693364, 7.36375526852)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -3.19039936654, 0.919607306267, 6.55558344346)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -2.61753513239, 1.05629991917, 5.74741161841)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.04467089824, 1.19299253207, 4.93923979336)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.47180666409, 1.32968514498, 4.13106796831)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.898942429937, 1.46637775788, 3.32289614325)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -0.326078195787, 1.60307037078, 2.5147243182)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.22502062572, 1.09745628737, 5.50408159131)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 0.493572076726, 1.50753412608, 3.07956611616)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.405370353211, 1.00192004267, 6.06892338927)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -0.326078195787, 2.58906629142, 2.68149375327)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:18
+[Builder Position] (x, y, z): (5.94406424467, 1.0, -1.15622313848) (yaw, pitch): (-304.8002, -9.75004)
+[Screenshot Path] 280585-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.500861565862, 0.514131188049, 2.91286917202)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -2.85358217016, 1.27580468782, 4.38513297366)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.0324349532, 1.1791537502, 4.94760594575)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -0.320285651101, 1.5963380665, 2.51974639183)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -2.92343703833, 0.665318496269, 7.93793847176)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -2.3527206043, 0.804379935037, 7.12865195379)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.78200417027, 0.943441373806, 6.31936543582)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.21128773623, 1.08250281257, 5.51007891784)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.640571302202, 1.22156425134, 4.70079239987)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.06985486817, 1.36062569011, 3.89150588189)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.500861565862, 1.49968712888, 3.08221936392)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.390140519271, 0.985851874952, 6.07255188993)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 1.32200878282, 1.40303619126, 3.64469233601)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.431006697692, 0.88920093733, 6.63502486202)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.500861565862, 2.48524306971, 3.25156955582)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:39
+[Builder Position] (x, y, z): (5.99915708492, 1.0, -1.1945125114) (yaw, pitch): (-304.9502, -16.050041)
+[Screenshot Path] 302131-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.493572076726, 0.191024690514, 2.95294703181)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -2.86432117075, 0.788969774091, 4.49145755032)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.04467089824, 0.630586105216, 5.04199187641)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -0.326078195787, 1.31042895252, 2.67888950325)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -2.94361332817, -0.207640410966, 7.95562857566)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -2.37074909402, 0.0189738714701, 7.16792778461)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.79788485987, 0.245588153906, 6.38022699355)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.22502062572, 0.472202436342, 5.5925262025)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.652156391574, 0.698816718777, 4.80482541144)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.079292157424, 0.925431001213, 4.01712462039)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.493572076726, 1.15204528365, 3.22942382934)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.405370353211, 0.313818767467, 6.14306052859)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 1.31322234924, 0.993661614774, 3.77995815543)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.414279919302, 0.155435098592, 6.69359485468)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.493572076726, 2.11306587678, 3.50590062686)
+
+--------------------
+[Timestamp] 2018-04-09 20:29:58
+[Builder Position] (x, y, z): (4.86318650859, 1.0, 3.02013865745) (yaw, pitch): (-244.20041, -3.1500432)
+[Screenshot Path] 320978-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -2.26574100067, 0.877267526062, 2.25761365287)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -2.76071080188, 1.67950399816, 5.87858334878)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.86038891605, 1.70341999901, 5.44401629204)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -3.1660628865, 1.85184058123, 2.74713164236)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 0.345606940221, 1.57891541764, 7.70633388498)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.089617716594, 1.62838894505, 6.80737233509)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.524842373409, 1.67786247246, 5.9084107852)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.960067030224, 1.72733599986, 5.0094492353)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.39529168704, 1.77680952727, 4.11048768541)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -1.83051634385, 1.82628305467, 3.21152613552)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -2.26574100067, 1.87575658208, 2.31256458562)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.059745144396, 1.75125200071, 4.57488217856)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -1.36541911484, 1.89967258293, 1.87799752888)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.840576741432, 1.77516800156, 4.14031512182)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -2.26574100067, 2.8742456381, 2.36751551838)
+
+--------------------
+[Timestamp] 2018-04-09 20:30:15
+[Builder Position] (x, y, z): (-0.341481332505, 1.0, 1.81450585347) (yaw, pitch): (-249.4504, -16.800041)
+[Screenshot Path] 337591-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -2.34044111528, 1.93842749729, -2.96054627115)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.1601241203, 1.88091263415, 0.689770401661)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.22375545067, 1.98236827012, 0.353733992217)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -3.27680978491, 2.79429115203, -2.33547737972)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -0.234332446799, 1.27190102417, 2.70690895471)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.585350558213, 1.54254198481, 1.81050516407)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.936368669627, 1.81318294545, 0.914101373419)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.28738678104, 2.08382390608, 0.0176975827738)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.63840489246, 2.35446486672, -0.878706207872)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -1.98942300387, 2.62510582736, -1.77510999852)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -2.34044111528, 2.895746788, -2.67151378916)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.351018111414, 2.18527954205, -0.31833882667)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -1.40407244566, 2.99720242396, -3.00755019861)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.585350558213, 2.28673517801, -0.654375236113)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -2.34044111528, 3.8530660787, -2.38248130718)
+
+--------------------
+[Timestamp] 2018-04-09 20:30:26
+[Builder Position] (x, y, z): (-0.341481332505, 1.0, 1.81450585347) (yaw, pitch): (-249.4504, -16.800041)
+[Screenshot Path] 348290-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -2.34044111528, 1.93842749729, -2.96054627115)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.1601241203, 1.88091263415, 0.689770401661)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.22375545067, 1.98236827012, 0.353733992217)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -3.27680978491, 2.79429115203, -2.33547737972)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -0.234332446799, 1.27190102417, 2.70690895471)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.585350558213, 1.54254198481, 1.81050516407)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.936368669627, 1.81318294545, 0.914101373419)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.28738678104, 2.08382390608, 0.0176975827738)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.63840489246, 2.35446486672, -0.878706207872)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -1.98942300387, 2.62510582736, -1.77510999852)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -2.34044111528, 2.895746788, -2.67151378916)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.351018111414, 2.18527954205, -0.31833882667)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -1.40407244566, 2.99720242396, -3.00755019861)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.585350558213, 2.28673517801, -0.654375236113)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -2.34044111528, 3.8530660787, -2.38248130718)
+
+--------------------
+[Timestamp] 2018-04-09 20:30:30
+[Builder Position] (x, y, z): (-0.341481332505, 1.0, 1.81450585347) (yaw, pitch): (-249.4504, -16.800041)
+[Screenshot Path] 352289-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -2.34044111528, 1.93842749729, -2.96054627115)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.1601241203, 1.88091263415, 0.689770401661)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.22375545067, 1.98236827012, 0.353733992217)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -3.27680978491, 2.79429115203, -2.33547737972)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -0.234332446799, 1.27190102417, 2.70690895471)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.585350558213, 1.54254198481, 1.81050516407)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.936368669627, 1.81318294545, 0.914101373419)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.28738678104, 2.08382390608, 0.0176975827738)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.63840489246, 2.35446486672, -0.878706207872)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -1.98942300387, 2.62510582736, -1.77510999852)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -2.34044111528, 2.895746788, -2.67151378916)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): 0.702036222828, 1.37335666013, 2.37087254527)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.351018111414, 2.18527954205, -0.31833882667)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -1.40407244566, 2.99720242396, -3.00755019861)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): 0.585350558213, 2.28673517801, -0.654375236113)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -2.34044111528, 3.8530660787, -2.38248130718)
+
+--------------------
+[Timestamp] 2018-04-09 20:30:32
+[Builder Position] (x, y, z): (-0.707874490393, 1.0, 2.80681553914) (yaw, pitch): (-246.0004, -19.50004)
+[Screenshot Path] 354239-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -3.45401765562, 1.89089917402, -2.34398428928)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.06092345403, 1.6471533248, 1.34006963444)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -3.14737515685, 1.78292294488, 0.956668905454)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -4.36756595279, 2.69777081199, -1.62677604297)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.01363606373, 1.00384469786, 3.1567131249)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -1.42036632904, 1.3087939869, 2.29556480875)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.82709659436, 1.61374327593, 1.43441649261)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.23382685967, 1.91869256497, 0.57326817647)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -2.64055712499, 2.223641854, -0.287880139673)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -3.0472873903, 2.52859114304, -1.14902845581)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -3.45401765562, 2.83354043207, -2.01017677196)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -0.100087766548, 1.13961431795, 2.77331239591)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.32027856249, 2.05446218505, 0.189867447486)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -2.54046935844, 2.96931005216, -2.39357750094)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): 0.81346053063, 1.27538393803, 2.38991166693)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.406730265315, 2.19023180514, -0.193533281498)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -3.45401765562, 3.77618169012, -1.67636925463)
+
+--------------------
+[Timestamp] 2018-04-09 20:30:33
+[Builder Position] (x, y, z): (-1.40824182436, 1.0, 4.39101151579) (yaw, pitch): (-217.65039, -23.550037)
+[Screenshot Path] 355238-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -6.4021305547, 0.8716413542, 0.502956966569)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -5.2485558072, 0.423478507591, 4.03402130539)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -4.63771408327, 0.739823149162, 3.30821247653)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -7.01297227864, 1.47200820564, 1.62831559029)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.65161416396, 0.32398273425, 4.26230053391)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -2.44336689575, 0.568044419744, 3.70233490516)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -3.23511962754, 0.812106105238, 3.14236927642)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -4.02687235933, 1.05616779073, 2.58240364767)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -4.81862509112, 1.30022947623, 2.02243801893)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -5.61037782291, 1.54429116172, 1.46247239018)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -6.4021305547, 1.78835284721, 0.902506761434)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -1.04077244002, 0.640327375821, 3.53649170505)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -3.41603063539, 1.3725124323, 1.85659481881)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -5.79128883077, 2.10469748879, 0.176697932576)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -0.429930716083, 0.956672017392, 2.81068287619)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -2.80518891146, 1.68885707387, 1.13078598996)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): 0.180911007854, 1.27301665896, 2.08487404733)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -6.4021305547, 2.70506434023, 1.3020565563)
+
+--------------------
+[Timestamp] 2018-04-09 20:30:43
+[Builder Position] (x, y, z): (-0.0937790531006, 1.0, 3.6088213166) (yaw, pitch): (-245.10036, -13.65004)
+[Screenshot Path] 365037-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -4.4052604361, 1.529896464, -2.06230388149)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.95626341283, 1.66076891332, 1.63624558034)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -4.04921675311, 1.760128188, 1.22710734988)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -5.31230709582, 2.40229245487, -1.41717475318)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.87907975069, 1.21732319581, 3.46225122247)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -2.30010986493, 1.43137795143, 2.58082385479)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -2.72113997916, 1.64543270706, 1.6993964871)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -3.14217009339, 1.85948746268, 0.817969119417)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -3.56320020763, 2.07354221831, -0.0634582482685)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -3.98423032186, 2.28759697393, -0.944885615954)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -4.4052604361, 2.50165172956, -1.82631298364)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -0.972033090972, 1.31668247049, 3.05311299201)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.23512343367, 1.95884673737, 0.408830888953)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -3.49821377638, 2.60101100424, -2.2354512141)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -0.064986431252, 1.41604174517, 2.64397476155)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.32807677395, 2.05820601205, -0.0003073415099)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): 0.842060228468, 1.51540101986, 2.23483653108)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -4.4052604361, 3.47340699511, -1.59032208578)
+
+--------------------
+[Timestamp] 2018-04-09 20:31:02
+[Builder Position] (x, y, z): (-0.0937790531006, 1.0, 3.6088213166) (yaw, pitch): (-245.10036, -13.65004)
+[Screenshot Path] 384934-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -4.4052604361, 1.529896464, -2.06230388149)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.95626341283, 1.66076891332, 1.63624558034)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -4.04921675311, 1.760128188, 1.22710734988)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -5.31230709582, 2.40229245487, -1.41717475318)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.87907975069, 1.21732319581, 3.46225122247)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -2.30010986493, 1.43137795143, 2.58082385479)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -2.72113997916, 1.64543270706, 1.6993964871)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -3.14217009339, 1.85948746268, 0.817969119417)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -3.56320020763, 2.07354221831, -0.0634582482685)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -3.98423032186, 2.28759697393, -0.944885615954)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -4.4052604361, 2.50165172956, -1.82631298364)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -0.972033090972, 1.31668247049, 3.05311299201)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.23512343367, 1.95884673737, 0.408830888953)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -3.49821377638, 2.60101100424, -2.2354512141)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -0.064986431252, 1.41604174517, 2.64397476155)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.32807677395, 2.05820601205, -0.0003073415099)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): 0.842060228468, 1.51540101986, 2.23483653108)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -4.4052604361, 3.47340699511, -1.59032208578)
+
+--------------------
+[Timestamp] 2018-04-09 20:31:08
+[Builder Position] (x, y, z): (-0.0937790531006, 4.22810592973, 3.6088213166) (yaw, pitch): (-242.70033, 47.699963)
+[Screenshot Path] 390833-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -4.50043736845, -2.95734553785, 0.0130714344965)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.90174380777, 0.365873941307, 1.68494626089)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -4.0131239335, 0.0266464539324, 1.37627259687)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -5.38905724272, -1.94510505933, -0.417885561851)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.74857075, 1.65917047982, 2.86175709157)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -2.20721518641, 1.0019199754, 2.263704372)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -2.66585962282, 0.34466947098, 1.66565165242)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -3.12450405922, -0.312581033442, 1.06759893285)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -3.58314849563, -0.969831537864, 0.469546213276)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -4.04179293204, -1.62708204229, -0.128506506297)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -4.50043736845, -2.28433254671, -0.72655922587)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -0.859950875726, 1.31994299245, 2.55308342755)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.23588418495, -0.651808520816, 0.758925268831)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -3.61181749418, -2.62356003408, -1.03523288989)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): 0.028668998546, 0.980715505076, 2.24440976353)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -0.429975437863, 0.323465000654, 1.64635704396)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.34726431068, -0.991036008191, 0.450251604812)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): 0.917288872818, 0.641488017701, 1.93573609951)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -4.50043736845, -1.61131955557, -1.46618988624)
+
+--------------------
+[Timestamp] 2018-04-09 20:31:11
+[Builder Position] (x, y, z): (-4.19960895195, 4.24135261788, 3.20453418534) (yaw, pitch): (-121.35024, 59.24997)
+[Screenshot Path] 393383-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -1.60013629885, 6.1902609766, 6.01001105379)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 1.66867406196, 5.39399162603, 4.37268581231)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.814671102362, 4.94686998391, 4.10667607163)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -0.746133339256, 7.14867615479, 5.41661465068)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 1.52147258438, 2.2979421709, 2.53072775188)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 1.00120443718, 3.0318775612, 2.9673739449)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.48093628997, 3.76581295149, 3.40402013792)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.039331857236, 4.49974834178, 3.84066633094)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.559600004442, 5.23368373207, 4.27731252396)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -1.07986815165, 5.96761912237, 4.71395871698)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -1.60013629885, 6.70155451266, 5.15060491)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): 0.667469624784, 1.85082052878, 2.2647180112)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.893334816834, 4.05262669965, 3.57465659026)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -2.45413925845, 6.25443287053, 4.88459516931)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): 0.333734812392, 0.669763496358, 1.56206207749)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -0.186533334814, 1.40369888665, 1.99870827051)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -0.70680148202, 2.13763427694, 2.43535446353)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -1.74733777643, 3.60550505753, 3.30864684957)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -1.04053629441, 0.956577244524, 1.73269852983)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -1.60013629885, 7.21284804872, 4.29119876621)
+
+--------------------
+[Timestamp] 2018-04-09 20:31:12
+[Builder Position] (x, y, z): (-4.37673041717, 4.24135261788, 3.20453418534) (yaw, pitch): (-110.25023, 40.649967)
+[Screenshot Path] 394182-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.045603253808, 4.04838640909, 7.78514533107)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 2.96034561648, 3.42452864804, 5.52349141121)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.02215566997, 3.19905304135, 5.26088833611)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 0.98379320032, 5.03256550164, 7.39631228456)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 2.1223281931, 1.14006497439, 2.86286131256)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 1.77620736989, 1.75123579448, 3.57466929537)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.43008654667, 2.36240661457, 4.28647727819)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.08396572346, 2.97357743467, 4.998285261)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.73784490024, 3.58474825476, 5.71009324382)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.391724077024, 4.19591907486, 6.42190122664)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.045603253808, 4.80708989495, 7.13370920945)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): 1.18413824659, 0.914589367701, 2.60025823745)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.145775776944, 2.74810182798, 4.7356821859)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -0.892586692704, 4.58161428826, 6.87110613435)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): 0.592069123296, 0.077942940921, 1.62584717953)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): 0.24594830008, 0.689113761015, 2.33765516235)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -0.100172523136, 1.30028458111, 3.04946314517)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.792414169568, 2.5226262213, 4.4730791108)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -0.692241646432, 0.463638154329, 2.07505208725)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.045603253808, 5.56579338081, 6.48227308784)
+
+--------------------
+[Timestamp] 2018-04-09 20:31:19
+[Builder Position] (x, y, z): (-4.39563745588, 4.24135261788, 3.20453418534) (yaw, pitch): (-109.800224, 39.599964)
+[Screenshot Path] 401431-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.112705544706, 3.90464767712, 7.85754567137)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 3.01068922994, 3.30778901312, 5.56725086604)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.0698097853, 3.09186715581, 5.30624584273)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 1.05358498934, 4.89108317771, 7.48112718906)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 2.14515513661, 1.07672927659, 2.8703594731)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 1.80641353796, 1.67646795056, 3.59531992187)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.46767193931, 2.27620662453, 4.32028037065)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.12893034066, 2.87594529849, 5.04524081942)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.790188742008, 3.47568397246, 5.7702012682)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.451447143357, 4.07542264643, 6.49516171698)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.112705544706, 4.6751613204, 7.22012216575)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): 1.20427569197, 0.860807419278, 2.60935444979)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.188050896021, 2.66002344118, 4.78423579612)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -0.828173899932, 4.45923946309, 6.95911714245)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): 0.602137845987, 0.0451468879987, 1.6233889777)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): 0.263396247336, 0.644885561967, 2.34834942648)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -0.075345351315, 1.24462423593, 3.07330987526)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.752828548617, 2.44410158387, 4.52323077281)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -0.677483197302, 0.428963704655, 2.08734440317)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.112705544706, 5.44567496368, 6.58269866013)
+
+--------------------
+[Timestamp] 2018-04-09 20:31:23
+[Builder Position] (x, y, z): (-4.39563745588, 4.24135261788, 3.20453418534) (yaw, pitch): (-109.800224, 39.599964)
+[Screenshot Path] 405081-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+	<Architect> rght
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.112705544706, 3.90464767712, 7.85754567137)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 3.01068922994, 3.30778901312, 5.56725086604)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.0698097853, 3.09186715581, 5.30624584273)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 1.05358498934, 4.89108317771, 7.48112718906)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 2.14515513661, 1.07672927659, 2.8703594731)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 1.80641353796, 1.67646795056, 3.59531992187)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.46767193931, 2.27620662453, 4.32028037065)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.12893034066, 2.87594529849, 5.04524081942)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.790188742008, 3.47568397246, 5.7702012682)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.451447143357, 4.07542264643, 6.49516171698)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.112705544706, 4.6751613204, 7.22012216575)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): 1.20427569197, 0.860807419278, 2.60935444979)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.188050896021, 2.66002344118, 4.78423579612)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -0.828173899932, 4.45923946309, 6.95911714245)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): 0.602137845987, 0.0451468879987, 1.6233889777)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): 0.263396247336, 0.644885561967, 2.34834942648)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -0.075345351315, 1.24462423593, 3.07330987526)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.752828548617, 2.44410158387, 4.52323077281)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -0.677483197302, 0.428963704655, 2.08734440317)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.112705544706, 5.44567496368, 6.58269866013)
+
+--------------------
+[Timestamp] 2018-04-09 20:31:50
+[Builder Position] (x, y, z): (-4.36482685193, 4.24135261788, 3.23786513613) (yaw, pitch): (-108.750206, 39.449963)
+[Screenshot Path] 432543-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+	<Architect> rght
+	<Architect> extend the orange line by 3 blue blocks in the opposite direction
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.269243962395, 3.88183929124, 7.86503855081)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 3.1274305196, 3.25746362978, 5.53245958375)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.18050154581, 3.05321750912, 5.28424789831)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 1.21617293619, 4.85826519469, 7.47784612622)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): 2.19790118163, 1.04392370289, 2.84243798496)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): 1.87645831176, 1.64560626475, 3.57363739426)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.55501544189, 2.24728882661, 4.30483680356)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.23357257201, 2.84897138846, 5.03603621287)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.912129702141, 3.45065395032, 5.76723562217)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.590686832268, 4.05233651218, 6.49843503148)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.269243962395, 4.65401907403, 7.22963444078)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): 1.25097220784, 0.839677582235, 2.59422629952)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.286643598221, 2.6447252678, 4.78782452743)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -0.677685011398, 4.44977295337, 6.98142275534)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): 0.62548610392, 0.0337488997212, 1.61481520477)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): 0.304043234047, 0.635431461578, 2.34601461408)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -0.017399635826, 1.23711402343, 3.07721402338)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.660285375572, 2.44047914715, 4.53961284199)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -0.642885739746, 0.43118534092, 2.09780292864)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.269243962395, 5.42619885683, 6.59423033075)
+
+--------------------
+[Timestamp] 2018-04-09 20:31:59
+[Builder Position] (x, y, z): (-3.72314888815, 4.24135261788, -1.42053240628) (yaw, pitch): (-46.20021, 53.699993)
+[Screenshot Path] 441791-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+	<Architect> rght
+	<Architect> extend the orange line by 3 blue blocks in the opposite direction
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 3.40145816947, 4.00342741163, 5.42242116413)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 2.7685621139, 1.73474261525, 2.51510076941)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -0.029622236455, 0.547491272993, 1.64297773238)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.04679934897, 2.29255819238, 2.924857152)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 4.1232209344, 4.03762511176, 4.20673657162)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -0.751385001386, 1.10530685012, 2.05273411497)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.05924447291, 1.68699582325, 2.48002725484)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.632896055566, 2.26868479638, 2.90732039472)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.32503658404, 2.8503737695, 3.33461353459)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.01717711252, 3.43206274263, 3.76190667446)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.70931764099, 4.01375171576, 4.18919981433)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 3.40145816947, 4.59544068889, 4.61649295421)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -1.47314776632, 1.66312242725, 2.46249049756)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.603273819111, 3.40818934663, 3.74436991718)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 2.67969540454, 5.15325626602, 5.02624933679)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): -2.88705105972, 1.63924903125, 2.44495374028)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -2.19491053125, 2.22093800438, 2.87224688015)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -1.50277000277, 2.8026269775, 3.29954002002)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.11848894582, 3.96600492376, 4.15412629977)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -2.91667329618, 2.7787535815, 3.28200326274)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 3.40145816947, 5.18745396615, 3.81056474429)
+
+--------------------
+[Timestamp] 2018-04-09 20:32:01
+[Builder Position] (x, y, z): (-4.16851128706, 4.24135261788, -2.18349343258) (yaw, pitch): (-46.350212, 52.79999)
+[Screenshot Path] 443341-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+	<Architect> rght
+	<Architect> extend the orange line by 3 blue blocks in the opposite direction
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 3.35127150407, 5.05098764656, 6.34480126564)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -2)  Perspective (x, y, z): 0.656924792721, 1.0978981743, 2.0887961642)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 2.72767048157, 2.82693897895, 3.40121004251)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -0.06664754046, 1.64770173273, 2.50611993035)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.00409814839, 3.37674253737, 3.81853380867)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 4.07484383725, 5.10578334201, 5.13094768698)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -0.790219873641, 2.19750529116, 2.92344369651)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.09997131069, 2.77385222604, 3.36091498928)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.590277252261, 3.35019916092, 3.79838628205)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.28052581521, 3.9265460958, 4.23585757482)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.97077437816, 4.50289303068, 4.67332886759)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.66102294111, 5.07923996556, 5.11080016037)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 3.35127150407, 5.65558690044, 5.54827145314)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -1.51379220682, 2.74730884959, 3.34076746266)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.556953482031, 4.47634965423, 4.65318134098)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): 2.62769917088, 6.20539045887, 5.96559521929)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): -2.92761310295, 2.72076547313, 3.32061993604)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -2.23736454, 3.29711240801, 3.75809122882)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -1.54711597705, 3.87345934289, 4.19556252159)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -0.16661885115, 5.02615321265, 5.07050510713)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -2.96093687318, 3.84691596644, 4.17541499497)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 3.35127150407, 6.26018615432, 4.75174164063)
+
+--------------------
+[Timestamp] 2018-04-09 20:32:02
+[Builder Position] (x, y, z): (-4.26628208359, 4.24135261788, -2.27976156485) (yaw, pitch): (-80.700226, 53.849995)
+[Screenshot Path] 444891-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+	<Architect> rght
+	<Architect> extend the orange line by 3 blue blocks in the opposite direction
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -1.66776963347, 5.58655873263, 6.55811756349)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): 0.32319985701, 1.00382305976, 1.97177106103)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -2)  Perspective (x, y, z): -0.663656496826, 1.13431101924, 2.06709907016)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.178856711311, 3.52489757024, 3.81354263069)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -1.65051285066, 1.26479897872, 2.16242707929)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.16571306515, 3.65538552972, 3.90887063982)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): -0.680913279632, 6.04597208072, 5.65531420036)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -2.6373692045, 1.39528693819, 2.25775508841)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -2.47576927599, 2.19214912186, 2.83990294193)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -2.31416934749, 2.98901130553, 3.42205079544)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -2.15256941898, 3.78587348919, 4.00419864895)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.99096949048, 4.58273567286, 4.58634650246)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -1.82936956197, 5.37959785653, 5.16849435597)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -1.66776963347, 6.1764600402, 5.75064220948)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -3.62422555833, 1.52577489767, 2.35308309754)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -3.13942577282, 3.91636144867, 4.09952665808)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -2.6546259873, 6.30694799967, 5.84597021861)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): -4.77268184068, 0.859400673481, 1.86626325316)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -4.61108191217, 1.65626285715, 2.44841110667)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -4.44948198366, 2.45312504081, 3.03055896018)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -4.12628212666, 4.04684940815, 4.19485466721)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -5.59793826601, 1.78675081663, 2.5437391158)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): -1.66776963347, 6.76636134777, 4.94316685548)
+
+--------------------
+[Timestamp] 2018-04-09 20:32:07
+[Builder Position] (x, y, z): (-4.26948799967, 4.24135261788, -2.28291820839) (yaw, pitch): (-68.70021, 52.199986)
+[Screenshot Path] 449391-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+	<Architect> rght
+	<Architect> extend the orange line by 3 blue blocks in the opposite direction
+	<Architect> and then turn it into a vertical plus
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.110904848257, 5.52470283757, 6.81655034979)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): 0.726495631288, 0.859455565131, 1.93223710483)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -2)  Perspective (x, y, z): -0.205196927677, 1.146477593, 2.1548743234)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.884546519255, 3.35502181078, 3.86799768672)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -1.13688948664, 1.43349962086, 2.37751154196)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.04714603971, 3.64204383864, 4.09063490529)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 1.04259740722, 5.85058805643, 5.80375826861)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -2.06858204561, 1.72052164873, 2.60014876053)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -1.70533422996, 2.45670305465, 3.17118988163)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.34208641432, 3.19288446058, 3.74223100274)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.978838598675, 3.92906586651, 4.31327212385)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.615590783031, 4.66524727244, 4.88431324496)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.252342967387, 5.40142867836, 5.45535436607)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.110904848257, 6.13761008429, 6.02639548718)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -3.00027460457, 2.00754367659, 2.82278597909)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.91053115764, 4.21608789437, 4.53590934242)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -0.820787710708, 6.42463211216, 6.24903270574)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): -4.29521497918, 1.55838429853, 2.47438207655)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -3.93196716354, 2.29456570446, 3.04542319766)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -3.56871934789, 3.03074711038, 3.61646431876)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -2.8422237166, 4.50310992224, 4.75854656098)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -4.8636597225, 2.58158773232, 3.26806041622)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.110904848257, 6.75051733101, 5.23624062456)
+
+--------------------
+[Timestamp] 2018-04-09 20:32:10
+[Builder Position] (x, y, z): (-4.26948799967, 4.24135261788, -2.28291820839) (yaw, pitch): (-67.9502, 50.24998)
+[Screenshot Path] 452990-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+	<Architect> rght
+	<Architect> extend the orange line by 3 blue blocks in the opposite direction
+	<Architect> and then turn it into a vertical plus
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.222724968818, 5.28787472184, 6.99919813367)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): 0.750824671766, 0.785774577049, 1.95418029525)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -2)  Perspective (x, y, z): -0.176033234316, 1.07440720136, 2.19423368539)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.950203773333, 3.21222797247, 3.97224171496)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -1.1028911404, 1.36303982567, 2.43428707553)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.023345867251, 3.50086059678, 4.2122951051)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 1.1495828749, 5.63868136789, 5.99030313466)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -2.02974904648, 1.65167244998, 2.67434046567)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -1.6543367106, 2.36427937368, 3.26700980886)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.27892437471, 3.07688629738, 3.85967915205)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.903512038831, 3.78949322109, 4.45234849524)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.528099702948, 4.50210014479, 5.04501783843)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): -0.152687367065, 5.21470706849, 5.63768718161)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.222724968818, 5.92731399219, 6.2303565248)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -2.95660695256, 1.94030507428, 2.91439385581)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.83036994491, 4.07812584539, 4.69240188538)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -0.704132937264, 6.2159466165, 6.47040991494)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): -4.25887719453, 1.51633077489, 2.56177790276)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -3.88346485864, 2.22893769859, 3.15444724595)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -3.50805252276, 2.9415446223, 3.74711658914)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -2.757227851, 4.3667584697, 4.93245527552)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -4.81032276473, 2.5175703229, 3.39450063609)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 4, -2)  Perspective (x, y, z): -0.176033234316, 1.71384647172, 1.42539207652)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.222724968818, 6.56675326255, 5.46151491594)
+
+--------------------
+[Timestamp] 2018-04-09 20:32:13
+[Builder Position] (x, y, z): (-4.26948799967, 1.0, -2.28291820839) (yaw, pitch): (-65.70018, -10.650019)
+[Screenshot Path] 456140-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+	<Architect> rght
+	<Architect> extend the orange line by 3 blue blocks in the opposite direction
+	<Architect> and then turn it into a vertical plus
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -2)  Perspective (x, y, z): -0.088381578751, 0.569850976272, 2.38064246819)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.557878254437, -0.592868068215, 8.56371877789)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): 0.82302299069, 1.62867654606, 2.16102889039)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -2)  Perspective (x, y, z): -0.088381578751, 1.55262536205, 2.56545184746)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 1.14615290728, 1.04731702382, 5.25256704524)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -0.999786148192, 1.47657417803, 2.96987480454)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.234748337843, 0.971265839802, 5.65699000231)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 1.46928282388, 0.465957501576, 8.34410520009)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.91119071763, 1.40052299401, 3.37429776162)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -1.49967922229, 1.23208688127, 4.27000282754)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.08816772694, 1.06365076853, 5.16570789347)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.676656231598, 0.895214655785, 6.06141295939)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.265144736253, 0.726778543043, 6.95711802531)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.146366759092, 0.558342430301, 7.85282309124)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.557878254437, 0.389906317559, 8.74852815716)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -2.82259528707, 1.32447180999, 3.77872071869)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.58806080104, 0.819163471768, 6.46583591647)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -0.353526315004, 0.313855133541, 9.15295111424)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): -4.14551135186, 1.41685673872, 3.28743860985)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -3.73399985652, 1.24842062598, 4.18314367577)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -3.32248836117, 1.07998451324, 5.0788487417)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -2.49946537048, 0.743112287751, 6.87025887354)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -4.64540442596, 1.17236944196, 4.58756663285)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 4, -2)  Perspective (x, y, z): -0.088381578751, 2.53539974782, 2.75026122673)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.557878254437, 1.37268070333, 8.93333753643)
+
+--------------------
+[Timestamp] 2018-04-09 20:32:15
+[Builder Position] (x, y, z): (-5.29961870253, 1.0, -2.57789584045) (yaw, pitch): (-68.850204, -10.200019)
+[Screenshot Path] 457639-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+	<Architect> rght
+	<Architect> extend the orange line by 3 blue blocks in the opposite direction
+	<Architect> and then turn it into a vertical plus
+	<Architect> and you win
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -2)  Perspective (x, y, z): 0.149782209759, 0.424831914697, 3.28589152802)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.449346629277, -0.693895354402, 9.50350445067)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): 1.08242251755, 1.47292108518, 3.10787145332)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -2)  Perspective (x, y, z): 0.149782209759, 1.40902746394, 3.46297659471)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 1.23220472731, 0.913557450629, 6.21667791464)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -0.782858098035, 1.34513384271, 3.8180817361)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.299564419518, 0.849663829393, 6.57178305604)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 1.38198693707, 0.35419381608, 9.32548437597)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.71549840583, 1.28124022147, 4.1731868775)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -1.35469089998, 1.11608355037, 5.09108731747)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.993883394127, 0.950926879261, 6.00898775745)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.633075888276, 0.785770208157, 6.92688819743)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.272268382425, 0.620613537052, 7.84478863741)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.088539123426, 0.455456865948, 8.76268907739)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.449346629277, 0.290300194844, 9.68058951737)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -2.64813871362, 1.21734660023, 4.52829201889)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.56571619607, 0.721876586921, 7.28199333882)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -0.483293678517, 0.226406573607, 10.0356946588)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): -3.94158652727, 1.3186096501, 3.9654967203)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -3.58077902142, 1.153452979, 4.88339716028)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -3.21997151557, 0.988296307893, 5.80129760026)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -2.49835650386, 0.657982965684, 7.63709848022)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -4.51341932921, 1.08955935776, 5.23850230168)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 4, -2)  Perspective (x, y, z): 0.149782209759, 2.39322301319, 3.6400616614)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.449346629277, 1.27449574409, 9.85767458406)
+
+--------------------
+[Timestamp] 2018-04-09 20:32:20
+[Builder Position] (x, y, z): (-5.29961870253, 1.0, -2.57789584045) (yaw, pitch): (-69.3002, -10.500018)
+[Screenshot Path] 462338-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> ready to go
+	<Architect> start with a yellow tower 3 high in the center
+	<Builder> good
+	<Architect> make a flat plus sign
+	<Builder> on top?
+	<Builder> and what color?
+	<Architect> at the 3rd level
+	<Architect> yellow
+	<Builder> good?
+	<Architect> good. One bieeger on each side
+	<Architect> r
+	<Architect> good
+	<Architect> cut the 2 supporting blocks
+	<Architect> add and orange block to any side
+	<Builder> like so?
+	<Architect> good
+	<Architect> and a green one on the opposite end
+	<Architect> make that green one into a plus
+	<Architect> a small one
+	<Architect> vertical
+	<Builder> ok
+	<Architect> good
+	<Architect> add 3 more orange blocks to the left of the one over there
+	<Builder> you mean the other orange one?
+	<Architect> yes
+	<Builder> what configuration just a line?
+	<Architect> roght
+	<Architect> make that into a flat plus by adding 2 more orange blocks
+	<Architect> not touching andy yellow
+	<Builder> that good?
+	<Architect> rght
+	<Architect> extend the orange line by 3 blue blocks in the opposite direction
+	<Architect> and then turn it into a vertical plus
+	<Architect> and you win
+	<Architect> !
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 2, -2)  Perspective (x, y, z): 0.124969470699, 0.407424717268, 3.28913175947)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.374908412097, -0.744235548821, 9.50292360963)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -3)  Perspective (x, y, z): 1.06041473538, 1.45509475562, 3.12381494989)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -2)  Perspective (x, y, z): 0.124969470699, 1.39067956758, 3.47136759386)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 1.18538420608, 0.879264622571, 6.23071087497)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 3, -1)  Perspective (x, y, z): -0.810475793985, 1.32626437955, 3.81892023783)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.249938941398, 0.814849434537, 6.57826351894)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, -1)  Perspective (x, y, z): 1.31035367678, 0.303434489526, 9.33760680005)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 0)  Perspective (x, y, z): -1.74592105867, 1.26184919151, 4.1664728818)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -1.39244948021, 1.09137754318, 5.0862539755)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.03897790175, 0.920905894839, 6.00603506921)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.685506323286, 0.750434246502, 6.92581616291)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.332034744825, 0.579962598165, 7.84559725661)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.021436833636, 0.409490949829, 8.76537835031)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 0.374908412097, 0.239019301492, 9.68515944402)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 1)  Perspective (x, y, z): -2.68136632335, 1.19743400348, 4.51402552577)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.62095158797, 0.686019058468, 7.27336880688)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 3, 1)  Perspective (x, y, z): -0.560536852587, 0.174604113457, 10.032712088)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-4, 3, 2)  Perspective (x, y, z): -3.9702831665, 1.30349046378, 3.94179707604)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 2)  Perspective (x, y, z): -3.61681158804, 1.13301881544, 4.86157816974)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 2)  Perspective (x, y, z): -3.26334000958, 0.962547167107, 5.78135926344)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, 2)  Perspective (x, y, z): -2.55639685265, 0.621603870433, 7.62092145085)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-3, 3, 3)  Perspective (x, y, z): -4.55225685272, 1.06860362741, 5.20913081371)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-3, 4, -2)  Perspective (x, y, z): 0.124969470699, 2.37393441789, 3.65360342825)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (3, 4, 0)  Perspective (x, y, z): 0.374908412097, 1.2222741518, 9.86739527841)
+
+Time elapsed: 0:07:58 (478.44s)

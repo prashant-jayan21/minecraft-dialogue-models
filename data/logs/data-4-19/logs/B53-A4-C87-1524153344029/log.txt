@@ -1,0 +1,1332 @@
+
+--------------------
+[Timestamp] 2018-04-19 15:55:55
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-19 15:56:09
+[Builder Position] (x, y, z): (0.0, 1.0, -3.65270770952) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 13547-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-19 15:56:16
+[Builder Position] (x, y, z): (0.0, 1.0, -3.65574759686) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 20946-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-19 15:56:24
+[Builder Position] (x, y, z): (5.92005661709, 1.0, -4.32078280871) (yaw, pitch): (32.699997, 32.699997)
+[Screenshot Path] 29045-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-19 15:56:30
+[Builder Position] (x, y, z): (7.19999851506, 1.0, -0.474831177349) (yaw, pitch): (68.10002, 38.25)
+[Screenshot Path] 35097-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-19 15:56:33
+[Builder Position] (x, y, z): (5.4024015231, 1.0, -1.77953924896) (yaw, pitch): (-4.7999845, 36.899998)
+[Screenshot Path] 37493-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): -0.16735514751, 1.19662890572, 1.59376018164)
+
+--------------------
+[Timestamp] 2018-04-19 15:56:34
+[Builder Position] (x, y, z): (4.38340342055, 1.0, -1.69217232478) (yaw, pitch): (-5.0999846, 36.449993)
+[Screenshot Path] 38693-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): -0.1777880583, 1.18353778557, 1.60238251253)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 0.818253031004, 1.23635159192, 1.67388671015)
+
+--------------------
+[Timestamp] 2018-04-19 15:56:50
+[Builder Position] (x, y, z): (1.88121682457, 1.0, -3.49823355162) (yaw, pitch): (-14.249997, 19.04999)
+[Screenshot Path] 53907-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 1.92307979866, 1.5064287752, 4.36261807098)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.89231072126, 1.58677146696, 4.59529052436)
+
+--------------------
+[Timestamp] 2018-04-19 15:56:54
+[Builder Position] (x, y, z): (3.89066394118, 1.0, -1.65544413107) (yaw, pitch): (-19.95, 14.999988)
+[Screenshot Path] 58156-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 17
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 0.257590778442, 0.574883610033, 2.14549663849)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.19758151026, 0.663192593162, 2.4750705264)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 0.257590778442, 1.54080949053, 1.88667779569)
+
+--------------------
+[Timestamp] 2018-04-19 15:56:55
+[Builder Position] (x, y, z): (2.67972953642, 1.0, -1.21423321549) (yaw, pitch): (-46.200005, 8.399988)
+[Screenshot Path] 58956-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): -0.059234355228, 0.413093995453, 2.79747111551)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 0.632908755657, 0.51853077475, 3.51148862203)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -0.751377466113, 1.29692957972, 1.93737078761)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -0.059234355228, 1.40236635901, 2.65138829414)
+
+--------------------
+[Timestamp] 2018-04-19 15:56:57
+[Builder Position] (x, y, z): (4.24405236237, 1.0, -4.28087715574) (yaw, pitch): (6.299996, 9.299989)
+[Screenshot Path] 61706-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 0.548671208495, 0.803138506745, 4.90448044587)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.54263217161, 0.785405054771, 4.79618857876)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -0.445289754621, 1.80772770615, 4.85116868134)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 0.548671208495, 1.78999425418, 4.74287681423)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:00
+[Builder Position] (x, y, z): (4.24405236237, 1.0, -4.28087715574) (yaw, pitch): (4.0499954, 6.7499895)
+[Screenshot Path] 64456-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 16
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 0.353134529232, 0.586218508899, 4.95294294982)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.35063733132, 0.577917219049, 4.88280559589)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -0.644368272855, 1.58758827724, 4.90554308828)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 0.353134529232, 1.57928698739, 4.83540573435)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:04
+[Builder Position] (x, y, z): (3.30965613644, 3.11650136793, -1.2703559359) (yaw, pitch): (-6.6000056, 40.65001)
+[Screenshot Path] 67755-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 15
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 0.763498259199, -0.148292733585, 2.89742638791)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 1.75687101357, -0.0734183933444, 2.98462962212)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -0.229874495168, 0.535535923137, 2.15878646269)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 0.763498259199, 0.610410263377, 2.2459896969)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): -0.229874495168, 1.2942389201, 1.50734977168)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:05
+[Builder Position] (x, y, z): (1.65083382024, 3.11650136793, -1.99839621414) (yaw, pitch): (-24.150005, 23.550016)
+[Screenshot Path] 69456-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 1.91917841029, -0.613864135971, 3.59721073223)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 2.83165586873, -0.450397671493, 3.97226219912)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 1.00670095184, 0.139381039008, 2.82260980646)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 1.91917841029, 0.302847503485, 3.19766127335)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 0.094223493397, 0.892626213987, 2.04800888069)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 1.00670095184, 1.05609267846, 2.42306034759)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:18
+[Builder Position] (x, y, z): (1.87528222756, 3.11650136793, -5.689853896) (yaw, pitch): (0.30000004, 17.400019)
+[Screenshot Path] 82803-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 3.03137466391, -0.118955707547, 6.30845600656)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 4.03136095615, -0.120521476185, 6.30345963857)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 2.03138837167, 0.836850290442, 6.01441126586)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 3.03137466391, 0.835284521804, 6.00941489787)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 1.03140207942, 1.79265628843, 5.72036652516)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 2.03138837167, 1.79109051979, 5.71537015717)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:28
+[Builder Position] (x, y, z): (0.370450989906, 2.10610132778, -5.69177055088) (yaw, pitch): (0.75, 17.850018)
+[Screenshot Path] 92901-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 14
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 4.07819488372, 0.871089307964, 5.96737211073)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 5.0781092113, 0.867077001656, 5.95491261996)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 3.07828055615, 1.82696377873, 5.67330522437)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 4.07819488372, 1.82295147242, 5.6608457336)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.07836622858, 2.78283824949, 5.37923833801)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 3.07828055615, 2.77882594318, 5.36677884723)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:32
+[Builder Position] (x, y, z): (0.266891788557, 1.24672919921, -0.51116471899) (yaw, pitch): (-9.900001, 55.800014)
+[Screenshot Path] 97100-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.171929117473, 0.814764920015, 0.553713376827)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 3.76850817514, 1.38356194732, 0.940267234245)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 4.7536174983, 1.52576120415, 1.0369056986)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 2.78339885199, 1.80344586625, 0.0165480582737)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 3.76850817514, 1.94564512308, 0.113186522628)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 1.79828952884, 2.22332978519, -0.907171117698)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 2.78339885199, 2.36552904201, -0.810532653343)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:33
+[Builder Position] (x, y, z): (0.266891788557, 1.24672919921, -0.325075938748) (yaw, pitch): (-8.550001, 49.500015)
+[Screenshot Path] 97701-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 12
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.148672451156, 0.751955359109, 0.642230208083)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 3.80687353344, 1.20416113534, 1.02845022267)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 4.79576002959, 1.3172125794, 1.12500522632)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.148672451156, 1.40140320837, -0.118175927542)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 2.81798703729, 1.74055754054, 0.171489083399)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 3.80687353344, 1.85360898459, 0.268044087045)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 1.82910054114, 2.27695394574, -0.685472055873)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 2.81798703729, 2.39000538979, -0.588917052226)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:34
+[Builder Position] (x, y, z): (0.0570667413998, 1.24672919921, -1.69036021091) (yaw, pitch): (-8.100002, 48.450012)
+[Screenshot Path] 98300-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 3.6782920782, 1.90361176907, 1.68713651496)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 4.668315731, 2.00905908262, 1.78059255257)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.281802532992, 2.14509574114, 0.56493503499)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 2.6882684254, 2.46143768177, 0.845303147825)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 3.6782920782, 2.56688499532, 0.938759185436)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 1.6982447726, 3.01926359448, 0.0034697806933)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 2.6882684254, 3.12471090802, 0.0969258183048)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:49
+[Builder Position] (x, y, z): (0.28631292421, 1.24672919921, -5.5904838905) (yaw, pitch): (-1.0500022, 0.45000628)
+[Screenshot Path] 113998-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 13
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 3.88937851585, 0.047691848071, 6.07210509198)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 4.88921059949, 0.0478357725759, 6.09042949657)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.109949818721, 1.04708530684, 5.99095346314)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 2.88954643221, 1.04751708035, 6.0459266769)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 3.88937851585, 1.04766100485, 6.06425108149)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 1.88971434856, 2.04734231263, 6.01974826182)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 2.88954643221, 2.04748623713, 6.03807266641)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:56
+[Builder Position] (x, y, z): (0.379893676726, 4.2506023393, -0.480653832544) (yaw, pitch): (-1.6500005, 73.650024)
+[Screenshot Path] 120447-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 12
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 3.96954751068, 0.225169034411, 3.19248985377)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 4.96913287862, 0.252798571071, 3.20059546289)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.0287939610913, 0.396154675899, 2.20050730073)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 2.96996214273, 0.479043285881, 2.2248241281)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 3.96954751068, 0.506672822542, 2.23292973722)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.0287939610913, 0.67765846403, 1.24094718418)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 1.97037677479, 0.732917537351, 1.25715840243)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 2.96996214273, 0.760547074012, 1.26526401155)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:57
+[Builder Position] (x, y, z): (0.379893676726, 4.2506023393, -0.374552521635) (yaw, pitch): (-1.3500004, 73.650024)
+[Screenshot Path] 121296-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 3.9753299484, 0.205210476651, 3.18663466083)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 4.97505237846, 0.227817494038, 3.19326682585)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.023559771813, 0.396286195235, 2.20054588423)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 2.97560751835, 0.464107247395, 2.22044237927)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 3.9753299484, 0.486714264782, 2.22707454429)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.023559771813, 0.677789983366, 1.24098576769)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 1.97588508829, 0.72300401814, 1.25425009771)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 2.97560751835, 0.745611035526, 1.26088226273)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): -0.023559771813, 0.959293771497, 0.28142565114)
+
+--------------------
+[Timestamp] 2018-04-19 15:57:57
+[Builder Position] (x, y, z): (0.379893676726, 4.2506023393, -0.355566093163) (yaw, pitch): (1.3499995, 47.700012)
+[Screenshot Path] 121946-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 4.02244947781, -1.34931326512, 2.82829523054)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 5.02217190823, -1.36673879665, 2.81243922351)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0235597561094, -0.606598780399, 2.15208802271)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 3.02272704738, -0.658875374987, 2.10452000163)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 4.02244947781, -0.676300906517, 2.08866399461)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.0235597561094, 0.0664135782034, 1.41245678678)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.02300461696, 0.0315625151444, 1.38074477273)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 3.02272704738, 0.0141369836149, 1.3648887657)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.0235597561094, 0.739425936805, 0.672825550847)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.0235597561094, 1.41243829541, -0.066805685087)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:01
+[Builder Position] (x, y, z): (0.382965824799, 5.35502708719, -1.95735391542) (yaw, pitch): (1.1999997, 24.30001)
+[Screenshot Path] 125445-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 9
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 4.04100756363, -2.85723671833, 3.39211677365)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 5.04078824722, -2.865854826, 3.37302978982)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.041884829297, -1.91136108287, 3.05695019128)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 3.04122688005, -1.93721540586, 2.9996892398)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 4.04100756363, -1.94583351352, 2.98060225597)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.041884829297, -0.999957878054, 2.64543567361)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.04144619646, -1.01719409338, 2.60726170595)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 3.04122688005, -1.02581220104, 2.58817472213)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.041884829297, -0.0885546732413, 2.23392115593)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 5, 0)  Perspective (x, y, z): 0.041884829297, 0.822848531572, 1.82240663826)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.041884829297, 1.73425173638, 1.41089212058)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:02
+[Builder Position] (x, y, z): (0.382965824799, 5.36819527715, -1.95735391542) (yaw, pitch): (1.1999997, 31.80001)
+[Screenshot Path] 126245-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 4.04100756363, -2.39003257609, 3.73604097353)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 5.04078824722, -2.40106830597, 3.71824217027)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.041884829297, -1.49599705556, 3.28028024273)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 3.04122688005, -1.5291042452, 3.22688383296)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 4.04100756363, -1.54013997507, 3.2090850297)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.041884829297, -0.646104454548, 2.7533242989)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.04144619646, -0.668175914302, 2.71772669238)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 3.04122688005, -0.67921164418, 2.69992788912)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.041884829297, 0.203788146468, 2.22636835506)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.041884829297, 1.9035733485, 1.1724564674)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:02
+[Builder Position] (x, y, z): (0.382965824799, 5.36819527715, -1.95735391542) (yaw, pitch): (0.29999968, 46.50001)
+[Screenshot Path] 126895-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 4.0104170856, -1.31788082272, 4.26377121063)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 5.01040337788, -1.32167885327, 4.26016701548)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0104719164929, -0.614334251435, 3.5528135001)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 3.01043079332, -0.625728343081, 3.54200091464)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 4.0104170856, -0.62952637363, 3.53839671948)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.0104719164929, 0.0740201976568, 2.82743900895)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.01044450105, 0.0664241365594, 2.82023061864)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 3.01043079332, 0.0626261060107, 2.81662642348)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.0104719164929, 2.13908354493, 0.651315535487)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:03
+[Builder Position] (x, y, z): (0.382965824799, 5.36819527715, -1.95735391542) (yaw, pitch): (0.29999968, 46.50001)
+[Screenshot Path] 127445-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 12
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 4.0104170856, -1.31788082272, 4.26377121063)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 5.01040337788, -1.32167885327, 4.26016701548)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0104719164929, -0.614334251435, 3.5528135001)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 3.01043079332, -0.625728343081, 3.54200091464)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 4.0104170856, -0.62952637363, 3.53839671948)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.01044450105, 0.0664241365594, 2.82023061864)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 3.01043079332, 0.0626261060107, 2.81662642348)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.0104719164929, 2.13908354493, 0.651315535487)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:21
+[Builder Position] (x, y, z): (-0.216233548394, 3.49842310843, -5.75634223714) (yaw, pitch): (2.100001, 15.150005)
+[Screenshot Path] 145892-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 12
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 5.21650432258, -0.411344429726, 6.13342305834)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 6.21583271572, -0.420921158628, 6.09805288829)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.21919075003, 0.592207393286, 6.01355671116)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 4.21717592944, 0.563477206582, 5.90744620101)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 5.21650432258, 0.553900477681, 5.87207603095)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 3.21784753631, 1.53829884289, 5.68146934367)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 4.21717592944, 1.52872211399, 5.64609917362)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.21919075003, 4.45318702291, 4.96816860161)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:27
+[Builder Position] (x, y, z): (-1.39538593639, 3.49842310843, -5.76389971774) (yaw, pitch): (0.45000133, 18.900002)
+[Screenshot Path] 151441-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 12
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 6.04693848938, 0.0360099312171, 6.27958901446)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 7.04690764684, 0.0334659081402, 6.27215853195)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 2.04706185953, 0.992271371046, 5.98539349328)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 5.04696933192, 0.984639301815, 5.96310204575)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 6.04693848938, 0.982095278738, 5.95567156324)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 4.04700017445, 1.93326867241, 5.64661507704)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 5.04696933192, 1.93072464934, 5.63918459452)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 2.04706185953, 4.77661276113, 4.68972368839)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:31
+[Builder Position] (x, y, z): (-1.62320016636, 2.00335708899, -0.505660737344) (yaw, pitch): (-6.9, 67.49999)
+[Screenshot Path] 155757-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.120136838835, 0.534504529039, 1.30379141291)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 5.83640721274, 1.2004562799, 1.57963779618)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 6.82916455467, 1.31144823837, 1.62561219339)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.86537784502, 1.1391720396, 0.471860741615)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 4.84364987081, 1.47214791503, 0.609783933247)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 5.83640721274, 1.58313987351, 0.655758330457)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 3.85089252888, 1.74383955017, -0.360069929684)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 4.84364987081, 1.85483150864, -0.314095532473)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.86537784502, 2.66990641405, -3.22365712126)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:32
+[Builder Position] (x, y, z): (-1.60916042868, 2.00335708899, -0.442872713329) (yaw, pitch): (-5.55, 62.999996)
+[Screenshot Path] 156307-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.0967143629658, 0.432839050856, 1.34286882757)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 5.875158706, 0.949877802775, 1.60631327551)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 6.87047088416, 1.0360509281, 1.6502206835)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -0.0967143629658, 0.8868296128, 0.451862335073)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.89390999336, 1.05917586344, 0.539677151055)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 4.87984652784, 1.3176952394, 0.671399375028)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 5.875158706, 1.40386836472, 0.715306783018)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 3.88453434968, 1.68551267602, -0.263514525457)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 4.87984652784, 1.77168580134, -0.219607117466)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.89390999336, 2.87513811122, -3.02434881892)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:33
+[Builder Position] (x, y, z): (-1.77021834849, 2.00335708899, -2.22382272165) (yaw, pitch): (-5.364418e-08, 12.299998)
+[Screenshot Path] 157407-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 9
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -2.8088026966e-09, -0.337954525361, 3.14416709778)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 5.99999999719, -0.337954524164, 3.14416710327)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 6.99999999719, -0.337954523965, 3.14416710419)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 2, 0)  Perspective (x, y, z): -2.8088026966e-09, 0.63909105651, 2.93113674561)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.99999999719, 0.639091056909, 2.93113674744)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 4.99999999719, 0.639091057507, 2.93113675019)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 5.99999999719, 0.639091057707, 2.9311367511)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -2.8088026966e-09, 1.61613663838, 2.71810639344)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 3.99999999719, 1.61613663918, 2.7181063971)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 4.99999999719, 1.61613663938, 2.71810639802)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.99999999719, 4.54727338439, 2.07901533876)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:33
+[Builder Position] (x, y, z): (-1.77326347698, 2.00335708899, -2.45646569189) (yaw, pitch): (-4.3500004, 25.499998)
+[Screenshot Path] 157990-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 1, 0)  Perspective (x, y, z): -0.227546739957, 0.385227405291, 3.13046679065)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 5.75516919217, 0.581150184141, 3.54122747546)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 6.75228851419, 0.613803980616, 3.6096875896)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.76669190409, 1.35312029762, 2.83687595362)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 4.75804987015, 1.45108168704, 3.04225629602)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 5.75516919217, 1.48373548352, 3.11071641016)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.227546739957, 2.19039800405, 2.26944466004)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 3.76093054813, 2.32101318995, 2.54328511659)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 4.75804987015, 2.35366698642, 2.61174523072)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.76669190409, 4.96346149513, 1.11483169241)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:34
+[Builder Position] (x, y, z): (-1.77326347698, 2.00335708899, -2.52816592908) (yaw, pitch): (-5.4000006, 35.249996)
+[Screenshot Path] 158391-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 5.69104681048, 1.23299459648, 3.47731369394)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 6.68660877409, 1.28730875751, 3.55416646559)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.708798956, 1.83237954783, 2.59275747432)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 4.69548484686, 1.99532203091, 2.82331578927)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 5.69104681048, 2.04963619194, 2.90016856091)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.282324971232, 2.54039282123, 1.861906798)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 3.69992288324, 2.75764946534, 2.16931788459)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 4.69548484686, 2.81196362636, 2.24617065624)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.708798956, 5.09894592965, 0.284176942223)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:43
+[Builder Position] (x, y, z): (1.25282761326, 2.00335708899, -10.9560302525) (yaw, pitch): (3.5999918, 1.3499955)
+[Screenshot Path] 167255-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+	<Architect> and a final block one blank space above that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 11
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 3.68477435589, -0.745515231255, 10.8104877312)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 4.6828010933, -0.746994552833, 10.7477147831)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.307332593773, 0.260124487127, 11.0380198373)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 2.68674761847, 0.255686522392, 10.849700993)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 3.68477435589, 0.254207200813, 10.7869280449)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -2.3033860686, 1.26280556235, 11.1400060472)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 1.68872088106, 1.25688827604, 10.8889142548)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 2.68674761847, 1.25540895446, 10.8261413067)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): -0.307332593773, 4.2590142154, 10.943781092)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:48
+[Builder Position] (x, y, z): (-2.32976837497, 3.86135365124, -0.482531114941) (yaw, pitch): (-51.30001, 49.05)
+[Screenshot Path] 172105-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+	<Architect> and a final block one blank space above that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 3.59626712441, 3.28754878576, 5.50080773625)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 4.22150964454, 3.87699376059, 6.01230203012)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.09529704391, 1.58516905732, 2.69954874846)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 2.97102460429, 3.35350398183, 4.23403163009)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 3.59626712441, 3.94294895667, 4.74552592396)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.155187996339, 1.06167927856, 0.921278348427)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.34578208416, 3.4194591779, 2.96725552393)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 2.97102460429, 4.00890415274, 3.4787498178)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -0.155187996339, 1.71707944947, 0.165996536142)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.09529704391, 4.20676974097, -0.321578500677)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:49
+[Builder Position] (x, y, z): (-1.71260434458, 3.87223589908, -1.00639754752) (yaw, pitch): (-15.750012, 24.6)
+[Screenshot Path] 172905-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+	<Architect> and a final block one blank space above that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 9
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 5.23184977474, -0.339195832134, 4.06358144031)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 6.19430495434, -0.2262003027, 4.31038508206)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.38202905632, 0.11805815918, 2.66008608104)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 4.26939459513, 0.45704474748, 3.4004970063)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 5.23184977474, 0.570040276913, 3.64730064805)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.542881302882, 0.80130320936, 1.75019800527)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 3.30693941553, 1.25328532709, 2.73741257228)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 4.26939459513, 1.36628085653, 2.98421621404)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 4, 0)  Perspective (x, y, z): -0.542881302882, 1.71053931841, 1.33391721301)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 5, 0)  Perspective (x, y, z): -0.542881302882, 2.61977542745, 0.917636420749)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.38202905632, 3.75500259537, 0.994962911996)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:49
+[Builder Position] (x, y, z): (-1.57262249494, 3.87223589908, -1.12521813425) (yaw, pitch): (-11.100014, 35.4)
+[Screenshot Path] 173605-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+	<Architect> and a final block one blank space above that one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 5.5027112891, 0.175780019867, 3.69990133023)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 6.48400390605, 0.287304509235, 3.85683153188)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.5775408213, 0.544809858124, 2.49289935128)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 4.52141867215, 0.879383326228, 2.96368995624)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 5.5027112891, 0.990907815596, 3.12062015789)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -0.385044412602, 1.13688867512, 1.59975777564)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 3.5401260552, 1.58298663259, 2.22747858224)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 4.52141867215, 1.69451112196, 2.38440878389)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 5, 0)  Perspective (x, y, z): -0.385044412602, 2.76714426657, 0.441195430953)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 1.5775408213, 3.80532104104, 0.175774661912)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:53
+[Builder Position] (x, y, z): (-0.0199547030631, 3.87223589908, -10.6829810651) (yaw, pitch): (-3.9000154, 7.5000124)
+[Screenshot Path] 177554-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+	<Architect> and a final block one blank space above that one
+	<Architect> excellent
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 4.24025015571, -0.506034975715, 11.4788591428)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 5.23793441627, -0.497157149216, 11.5462928172)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.249513113496, 0.449898551415, 11.0785980385)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 3.24256589516, 0.476532030912, 11.2808990616)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 4.24025015571, 0.48540985741, 11.348332736)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -1.74585540761, 1.42358773154, 10.813204283)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.2448816346, 1.45909903754, 11.0829389805)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 3.24256589516, 1.46797686404, 11.1503726549)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 5, 0)  Perspective (x, y, z): -1.74585540761, 3.40647739779, 10.5521514694)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.249513113496, 4.41567788391, 10.5564924114)
+
+--------------------
+[Timestamp] 2018-04-19 15:58:56
+[Builder Position] (x, y, z): (-0.0199547030631, 3.87223589908, -10.6895000789) (yaw, pitch): (-0.60001534, 4.8000116)
+[Screenshot Path] 180803-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with orange
+	<Architect> go to an edge and place a row of 2
+	<Builder> Along the edge?
+	<Architect> toward the middle
+	<Architect> now stack another row of two in a stairstep fashion such that it overhangs by one block
+	<Architect> great
+	<Architect> do it again
+	<Architect> okay now a single orange block one blank space away from that
+	<Architect> still in line with the structure and floating up one space
+	<Architect> now another block three empty spaces above that
+	<Architect> now another lone block one blank space to the right
+	<Architect> two floating spaces
+	<Architect> and a final block one blank space above that one
+	<Architect> excellent
+	<Builder> Nice
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 10
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, 0)  Perspective (x, y, z): 4.88453326262, -1.06819625651, 11.1803529266)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (5, 1, 0)  Perspective (x, y, z): 5.88447842919, -1.06731997568, 11.1907882513)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.884752596376, -0.0752085375008, 11.0549335828)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 3.88458809606, -0.0725796950242, 11.0862395568)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 4.88453326262, -0.0717034141987, 11.0966748815)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 3, 0)  Perspective (x, y, z): -1.11513773675, 0.919531743156, 10.9503848883)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 3, 0)  Perspective (x, y, z): 2.8846429295, 0.923036866458, 10.9921261871)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (3, 3, 0)  Perspective (x, y, z): 3.88458809606, 0.923913147284, 11.0025615118)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (-2, 5, 0)  Perspective (x, y, z): -1.11513773675, 2.91251742777, 10.7830287981)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 6, 0)  Perspective (x, y, z): 0.884752596376, 3.91076283173, 10.7202214024)
+
+Time elapsed: 0:03:17 (197.29s)

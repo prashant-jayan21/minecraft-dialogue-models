@@ -1,0 +1,752 @@
+
+--------------------
+[Timestamp] 2018-04-11 14:33:26
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-11 14:33:54
+[Builder Position] (x, y, z): (0.501682157705, 3.11650136793, -6.39797112554) (yaw, pitch): (0.7499975, 21.599989)
+[Screenshot Path] 28143-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-11 14:34:08
+[Builder Position] (x, y, z): (0.760986195538, 3.11650136793, -4.81886801733) (yaw, pitch): (-12.600002, 58.349983)
+[Screenshot Path] 41790-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-11 14:34:29
+[Builder Position] (x, y, z): (2.97198681673, 3.11650136793, -2.80469101216) (yaw, pitch): (8.849995, 43.64996)
+[Screenshot Path] 62788-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-11 14:34:42
+[Builder Position] (x, y, z): (0.548556608946, 3.11650136793, -3.01502858066) (yaw, pitch): (-0.45000425, 54.449974)
+[Screenshot Path] 76385-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-11 14:34:46
+[Builder Position] (x, y, z): (0.471492531678, 3.11650136793, -1.81966757631) (yaw, pitch): (-2.1000042, 63.299984)
+[Screenshot Path] 80484-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.0366437819612, -0.00586722942739, 2.23576000699)
+
+--------------------
+[Timestamp] 2018-04-11 14:34:48
+[Builder Position] (x, y, z): (0.467904202143, 3.11650136793, -1.61001445809) (yaw, pitch): (-2.1000042, 62.699978)
+[Screenshot Path] 82083-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.0366437819612, -0.0292795379621, 2.23557597543)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.0366437819612, 0.429370357727, 1.34695891888)
+
+--------------------
+[Timestamp] 2018-04-11 14:34:49
+[Builder Position] (x, y, z): (0.467904202143, 3.11650136793, -1.84882003305) (yaw, pitch): (-2.2500043, 55.199963)
+[Screenshot Path] 83034-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.0392598907504, -0.320912433752, 2.21257177756)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.0392598907504, 0.249801664207, 1.39142293697)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.0392598907504, 0.820515762166, 0.570274096391)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:10
+[Builder Position] (x, y, z): (0.468157883935, 3.11650136793, -2.94982763458) (yaw, pitch): (-3.6000044, 30.599943)
+[Screenshot Path] 103996-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.125581192345, -0.705412903369, 2.73616921989)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.125581192345, 0.155329630048, 2.22712866044)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.125581192345, 1.01607216346, 1.71808810099)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:17
+[Builder Position] (x, y, z): (-1.664414281, 3.11650136793, -2.12397934522) (yaw, pitch): (-42.90001, 28.799946)
+[Screenshot Path] 110895-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.103643566334, -0.390926568712, 3.4404119563)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.103643566334, 0.485380565374, 2.9586591081)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.628899213645, 1.03374842041, 1.88038559407)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.103643566334, 1.36168769946, 2.47690625989)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:18
+[Builder Position] (x, y, z): (-1.664414281, 3.11650136793, -2.12397934522) (yaw, pitch): (-25.80001, 33.899952)
+[Screenshot Path] 112445-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.930174877864, -0.170234455056, 3.3325358103)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.930174877864, 0.659778297295, 2.77479139667)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -0.870462513016, 1.00429544574, 1.49455199679)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.029856182424, 1.24704324769, 1.85579948991)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.930174877864, 1.48979104965, 2.21704698304)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:20
+[Builder Position] (x, y, z): (2.63410748261, 3.11650136793, -1.97099741148) (yaw, pitch): (46.5, 29.249958)
+[Screenshot Path] 114345-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.651334780376, -0.699782779821, 2.84360107345)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.651334780376, 0.17271358543, 2.35498047153)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.02804393176, 1.75407567425, 3.13213287391)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.33968935607, 1.39964281247, 2.49924637176)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.651334780376, 1.04520995068, 1.86635986961)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.037019795318, 0.690777088897, 1.23347336745)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:22
+[Builder Position] (x, y, z): (3.45701297215, 3.11650136793, -1.72984749299) (yaw, pitch): (49.350014, 30.599955)
+[Screenshot Path] 115847-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -1.1956058498, -0.231244579179, 3.53794468534)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.1956058498, 0.629497847625, 3.02890394562)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.49847859622, 2.26266202185, 3.8259593933)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.84704222301, 1.87645114814, 3.17291129959)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.1956058498, 1.49024027443, 2.51986320589)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -0.544169476587, 1.10402940072, 1.86681511219)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 0.107266896624, 0.717818527012, 1.21376701849)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:25
+[Builder Position] (x, y, z): (0.511529049437, 3.11650136793, -4.38970335138) (yaw, pitch): (31.80001, 28.949959)
+[Screenshot Path] 119144-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.10782377532, -0.10453863364, 3.94286071352)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.10782377532, 0.770504162997, 3.45881515363)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): 0.408038573292, 2.15568832938, 3.89698759933)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.25793117431, 1.90061764451, 3.43587859653)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.10782377532, 1.64554695963, 2.97476959374)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 2.95771637634, 1.39047627476, 2.51366059094)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 3.80760897736, 1.13540558989, 2.05255158815)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:29
+[Builder Position] (x, y, z): (0.508335626123, 3.11650136793, -4.38970335138) (yaw, pitch): (3.0000122, 19.499958)
+[Screenshot Path] 122795-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.209344675525, -0.551888692494, 4.43301180665)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.209344675525, 0.390753043291, 4.09920563841)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -1.7879143717, 1.36833505107, 3.86406798433)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.789284848086, 1.35086491507, 3.81473372725)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.209344675525, 1.33339477908, 3.76539947017)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.20797419914, 1.31592464308, 3.71606521309)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 2.20660372275, 1.29845450709, 3.66673095601)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:45
+[Builder Position] (x, y, z): (0.508335626123, 3.11650136793, -4.38970335138) (yaw, pitch): (0.30001193, 17.549953)
+[Screenshot Path] 138842-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+	<Architect> and then on every other block place 2 yellow blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.0209446881854, -0.700776662963, 4.4168397513)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.0209446881854, 0.252677756709, 4.11530257348)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -1.97902789413, 1.20928997746, 3.82375029842)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.979041602972, 1.20771107692, 3.81875784704)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.0209446881854, 1.20613217638, 3.81376539566)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.02093097934, 1.20455327584, 3.80877294428)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 2.0209172705, 1.2029743753, 3.8037804929)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:50
+[Builder Position] (x, y, z): (0.508335626123, 4.92427014376, -4.38970335138) (yaw, pitch): (-7.349988, 39.29995)
+[Screenshot Path] 144040-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+	<Architect> and then on every other block place 2 yellow blocks
+	<Architect> going upward
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.511719774332, 0.191181085849, 4.97006968411)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.511719774332, 0.965021848304, 4.33668948679)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.49528618818, 1.57680602494, 3.5053144793)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.50350298126, 1.65783431785, 3.60431188438)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.511719774332, 1.73886261076, 3.70330928947)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.480063432591, 1.81989090367, 3.80230669455)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.47184663951, 1.90091919658, 3.90130409963)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:54
+[Builder Position] (x, y, z): (2.01383018309, 4.98627353665, -2.45285127165) (yaw, pitch): (-22.949991, 51.449963)
+[Screenshot Path] 148039-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+	<Architect> and then on every other block place 2 yellow blocks
+	<Architect> going upward
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -2.62154616907, -1.03916964729, 3.00792654957)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.62154616907, -0.41597178828, 2.22586233959)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -4.46323725185, -0.402670681229, 0.957794109506)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -3.54239171046, -0.0977223052523, 1.20079611956)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.62154616907, 0.207226070725, 1.44379812961)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -1.70070062768, 0.512174446701, 1.68680013967)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): -0.779855086284, 0.817122822678, 1.92980214972)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): -0.779855086284, 1.44032068168, 1.14773793974)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:56
+[Builder Position] (x, y, z): (2.25755659815, 4.98627353665, -2.55419964479) (yaw, pitch): (-10.499992, 35.099957)
+[Screenshot Path] 149389-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+	<Architect> and then on every other block place 2 yellow blocks
+	<Architect> going upward
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -2.33098064243, -1.53327054005, 3.03572243389)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.33098064243, -0.715120391092, 2.46071779586)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -4.29749050844, -0.106542628992, 1.58752133782)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -3.31423557544, -0.00175643556181, 1.73661724783)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.33098064243, 0.103029757869, 1.88571315783)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -1.34772570942, 0.207815951299, 2.03480906784)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): -0.364470776408, 0.312602144729, 2.18390497784)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): -0.364470776408, 1.13075229369, 1.60890033982)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): -0.364470776408, 1.94890244265, 1.03389570179)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:57
+[Builder Position] (x, y, z): (1.2329493055, 4.98627353665, -2.78076378688) (yaw, pitch): (15.000007, 47.39995)
+[Screenshot Path] 150689-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+	<Architect> and then on every other block place 2 yellow blocks
+	<Architect> going upward
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.448287468442, -0.418084770426, 3.69110328633)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.448287468442, 0.258791841622, 2.9550067899)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.38013905778, 1.31670021203, 2.56928756999)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.41421326311, 1.12618433285, 2.39409893173)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.448287468442, 0.93566845367, 2.21891029346)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.517638326226, 0.745152574493, 2.0437216552)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.48356412089, 0.554636695315, 1.86853301694)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): -0.448287468442, 1.61254506572, 1.48281379703)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): 1.48356412089, 1.23151330736, 1.13243652051)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): 1.48356412089, 1.90838991941, 0.396340024074)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:58
+[Builder Position] (x, y, z): (0.78061194314, 4.98627353665, -2.87670349089) (yaw, pitch): (8.550011, 34.799942)
+[Screenshot Path] 151639-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+	<Architect> and then on every other block place 2 yellow blocks
+	<Architect> going upward
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.297345247498, -1.33470915371, 3.3361860378)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.297345247498, -0.513559366844, 2.76547330135)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -1.6804276929, 0.477289139884, 2.43892555152)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.691541222703, 0.392439779951, 2.31684305822)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.297345247498, 0.307590420017, 2.19476056491)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.2862317177, 0.222741060083, 2.07267807161)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 2.2751181879, 0.137891700149, 1.95059557831)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): 0.297345247498, 1.12874020688, 1.62404782847)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): 2.2751181879, 0.95904148701, 1.37988284186)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): 0.297345247498, 1.94988999374, 1.05333509203)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): 2.2751181879, 1.78019127387, 0.809170105421)
+
+--------------------
+[Timestamp] 2018-04-11 14:35:59
+[Builder Position] (x, y, z): (-0.635570523171, 4.98627353665, -3.16862482771) (yaw, pitch): (13.350008, 43.349953)
+[Screenshot Path] 152889-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+	<Architect> and then on every other block place 2 yellow blocks
+	<Architect> going upward
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 15
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 1.66567484608, -0.336315676822, 4.01402778673)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.66567484608, 0.39085887748, 3.32757518999)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -0.280280581394, 1.43503592862, 2.97693041223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.692697132342, 1.2765346802, 2.80902650274)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.66567484608, 1.11803343178, 2.64112259325)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 2.63865255981, 0.959532183364, 2.47321868375)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 3.61163027355, 0.801030934947, 2.30531477426)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 4, -1)  Perspective (x, y, z): -0.280280581394, 2.16221048292, 2.29047781549)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): 1.66567484608, 1.84520798608, 1.9546699965)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): 3.61163027355, 1.52820548925, 1.61886217752)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): 1.66567484608, 2.57238254039, 1.26821739976)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): 3.61163027355, 2.25538004355, 0.932409580775)
+
+--------------------
+[Timestamp] 2018-04-11 14:36:00
+[Builder Position] (x, y, z): (-1.32044749014, 4.98627353665, -3.31131483064) (yaw, pitch): (7.650009, 31.199947)
+[Screenshot Path] 153938-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+	<Architect> and then on every other block place 2 yellow blocks
+	<Architect> going upward
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.38156393553, -1.16376813715, 3.86959906759)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.38156393553, -0.308403397806, 3.35157284945)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): 0.399364482624, 0.684882189937, 3.0612814957)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.39046420908, 0.61592176574, 2.94741406351)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.38156393553, 0.546961341542, 2.83354663131)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 3.37266366199, 0.478000917344, 2.71967919912)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 4.36376338844, 0.409040493146, 2.60581176692)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 4, -1)  Perspective (x, y, z): 0.399364482624, 1.54024692929, 2.54325527756)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): 2.38156393553, 1.40232608089, 2.31552041317)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): 4.36376338844, 1.26440523249, 2.08778554878)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 5, -1)  Perspective (x, y, z): 0.399364482624, 2.39561166863, 2.02522905942)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): 2.38156393553, 2.25769082024, 1.79749419503)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): 4.36376338844, 2.11976997184, 1.56975933064)
+
+--------------------
+[Timestamp] 2018-04-11 14:36:04
+[Builder Position] (x, y, z): (0.751229316073, 4.98627353665, -6.55888435475) (yaw, pitch): (1.5000086, 30.899952)
+[Screenshot Path] 157488-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+	<Architect> and then on every other block place 2 yellow blocks
+	<Architect> going upward
+	<Architect> thats it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.157062590129, 0.505991314204, 6.68724936971)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.157062590129, 1.36405665015, 6.17370883651)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -1.84225205196, 2.24900798819, 5.70509162469)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.842594730917, 2.23556498715, 5.68262996399)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.157062590129, 2.2221219861, 5.6601683033)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.15671991117, 2.20867898505, 5.6377066426)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 2.15637723222, 2.195235984, 5.61524498191)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 4, -1)  Perspective (x, y, z): -1.84225205196, 3.10707332414, 5.19155109148)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): 0.157062590129, 3.08018732205, 5.14662777009)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): 2.15637723222, 3.05330131995, 5.1017044487)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 5, -1)  Perspective (x, y, z): -1.84225205196, 3.96513866009, 4.67801055827)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): 0.157062590129, 3.93825265799, 4.63308723688)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): 2.15637723222, 3.9113666559, 4.5881639155)
+
+--------------------
+[Timestamp] 2018-04-11 14:36:06
+[Builder Position] (x, y, z): (0.717044453027, 4.98627353665, -6.56924793893) (yaw, pitch): (1.5000086, 30.899952)
+[Screenshot Path] 160187-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello. how much space should I leave?
+	<Architect> the build is 5 blocks wide so leave enought space for that
+	<Architect> it looks like a candelabra (sp?)
+	<Architect> so start with a stack of 3 blue blocks
+	<Architect> on either side of the top block place 2 more blue blocks
+	<Builder> like this?
+	<Architect> yes
+	<Architect> and then on every other block place 2 yellow blocks
+	<Architect> going upward
+	<Architect> thats it
+	<Builder> great
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.157062590129, 0.505991314204, 6.68724936971)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.157062590129, 1.36405665015, 6.17370883651)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -1.84225205196, 2.24900798819, 5.70509162469)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.842594730917, 2.23556498715, 5.68262996399)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.157062590129, 2.2221219861, 5.6601683033)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.15671991117, 2.20867898505, 5.6377066426)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 2.15637723222, 2.195235984, 5.61524498191)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 4, -1)  Perspective (x, y, z): -1.84225205196, 3.10707332414, 5.19155109148)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): 0.157062590129, 3.08018732205, 5.14662777009)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): 2.15637723222, 3.05330131995, 5.1017044487)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 5, -1)  Perspective (x, y, z): -1.84225205196, 3.96513866009, 4.67801055827)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): 0.157062590129, 3.93825265799, 4.63308723688)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): 2.15637723222, 3.9113666559, 4.5881639155)
+
+Time elapsed: 0:03:08 (188.78s)

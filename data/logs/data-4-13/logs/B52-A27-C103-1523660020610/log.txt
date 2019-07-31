@@ -1,0 +1,2252 @@
+
+--------------------
+[Timestamp] 2018-04-13 22:53:54
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-13 22:54:01
+[Builder Position] (x, y, z): (-1.61679268055, 1.0, -0.694773917696) (yaw, pitch): (82.650024, 32.250004)
+[Screenshot Path] 6550-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): -0.383789207592, 1.58768996613, 2.51633591072)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:05
+[Builder Position] (x, y, z): (4.66182049164, 1.0, 2.51714474876) (yaw, pitch): (121.05002, 21.600027)
+[Screenshot Path] 70773-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 2.07192375956, 3.40803292998, 8.6076967583)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:06
+[Builder Position] (x, y, z): (4.66182049164, 1.0, 2.51714474876) (yaw, pitch): (121.05002, 21.600027)
+[Screenshot Path] 71524-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 2.07192375956, 3.40803292998, 8.6076967583)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:12
+[Builder Position] (x, y, z): (0.762206747984, 1.0, 2.39526875892) (yaw, pitch): (157.35002, 32.100018)
+[Screenshot Path] 77874-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 3.45907167462, 2.49445337806, 3.9764966358)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.152673625147, 1.18547100068, 1.88980138394)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:13
+[Builder Position] (x, y, z): (0.762206747984, 1.0, 2.39526875892) (yaw, pitch): (175.05002, 43.200024)
+[Screenshot Path] 78722-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 4.72249397896, 2.34131733471, 2.49324763248)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.823698370545, 1.42305552583, 1.51539894574)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.172572036068, 1.36398865556, 1.45249917035)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:14
+[Builder Position] (x, y, z): (1.00116113369, 1.0, 4.19636149462) (yaw, pitch): (149.70006, 29.700026)
+[Screenshot Path] 79771-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 17
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 2.65774287533, 3.63872107318, 6.37935041836)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.291314720784, 2.2110543189, 3.87638678828)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.15471079973, 1.96108198331, 3.43813909313)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.213211998885, 1.78327690697, 3.12641393878)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:15
+[Builder Position] (x, y, z): (1.00116113369, 1.0, 4.19636149462) (yaw, pitch): (170.70007, 34.050022)
+[Screenshot Path] 80171-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 5.11312240589, 3.30568825538, 4.89166683458)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 1.32730136596, 2.39119549489, 3.53842552403)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.340445452114, 2.30071152724, 3.40452982988)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.48890398139, 1.83863860499, 2.7207669901)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.502048067546, 1.74815463734, 2.58687129595)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:15
+[Builder Position] (x, y, z): (1.00116113369, 1.0, 4.19636149462) (yaw, pitch): (188.25005, 33.90002)
+[Screenshot Path] 80821-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 6.65537499771, 2.2796701993, 3.39250459428)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 2.5532764657, 2.04782808723, 3.04748739372)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 1.5636252041, 2.12786091858, 3.16658872168)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 2.40978298007, 1.49585464974, 2.22606488131)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.42013171847, 1.5758874811, 2.34516620927)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.430480456875, 1.65592031245, 2.46426753724)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:17
+[Builder Position] (x, y, z): (0.29675317561, 2.0, 0.684245385603) (yaw, pitch): (161.40002, 62.400013)
+[Screenshot Path] 82471-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 4.41988362827, 1.78993323084, 2.0641627217)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.628809542883, 0.659282743353, 1.47307325789)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.947768521347, -0.180633212176, 1.0339760503)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.463295834047, 0.88620368435)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 1.26672749981, -1.0205491677, 0.594878842723)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.318958978464, -1.30321178958, 0.447106476769)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.628809542883, -1.58587441145, 0.299334110815)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:17
+[Builder Position] (x, y, z): (0.29675317561, 2.0, 0.684245385603) (yaw, pitch): (187.05002, 60.750008)
+[Screenshot Path] 82921-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 13
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 5.0849327023, -0.158154188917, 1.05756638827)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.11517518305, 0.270191837563, 1.29745161067)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.122735803234, 0.377278344183, 1.35742291627)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.992439379813, -0.595707626294, 0.812524769697)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.488621119674, 0.872496075297)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.869703576579, -1.46160709015, 0.327597928724)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.122735803234, -1.35452058353, 0.387569234324)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.11517518305, -1.24743407691, 0.447540539924)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:18
+[Builder Position] (x, y, z): (0.29675317561, 2.0, 0.684245385603) (yaw, pitch): (231.45, 56.10001)
+[Screenshot Path] 83721-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 12
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 3.89805138227, -3.28610000452, -1.00336542769)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.40526196639, -0.689606755797, 0.741404969074)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.782064612424, -0.0404834436169, 1.17759756827)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.158867258455, 0.608639868563, 1.61379016746)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.623197353969, -1.2068682763, 0.393819783248)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.557744964115, 0.83001238244)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.158867258455, -1.72412979679, 0.046234597422)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.782064612424, -1.07500648461, 0.482427196614)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.40526196639, -0.425883172433, 0.918619795806)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:19
+[Builder Position] (x, y, z): (0.29675317561, 2.0, 0.684245385603) (yaw, pitch): (258.3, 63.450012)
+[Screenshot Path] 84271-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 11
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (-5, 1, -1)  Perspective (x, y, z): 1.99315928741, -4.64536916684, -1.20327110778)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.18201010598, -1.14153473436, 0.547494803267)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.979222810622, -0.265576126245, 0.985186281028)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.776435515265, 0.610382481874, 1.42287775879)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): 0.202787295357, -1.32293704144, 0.456853255692)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.446978433318, 0.894544733453)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -0.202787295357, 0.428980174801, 1.33223621121)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -0.776435515265, -1.50433934851, 0.366211708116)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.979222810622, -0.628380740391, 0.803903185878)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.18201010598, 0.247577867728, 1.24159466364)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:20
+[Builder Position] (x, y, z): (-1.52274098231, 1.0, 0.744412077171) (yaw, pitch): (113.999985, 18.450005)
+[Screenshot Path] 86120-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 11
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.32028196804, -0.160393467919, -0.480759254022)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -1.72701837195, -0.449509673061, -1.34734872872)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.13375477586, -0.738625878202, -2.21393820342)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.40673640391, -0.289116205141, -0.866589474699)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.81347280782, -0.578232410283, -1.7331789494)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): -1.22020921173, -0.867348615424, -2.5997684241)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): 0.506809160216, -0.417838942363, -1.25241969538)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.100072756306, -0.706955147505, -2.11900917008)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.306663647604, -0.996071352646, -2.98559864478)
+
+--------------------
+[Timestamp] 2018-04-13 22:55:58
+[Builder Position] (x, y, z): (0.463790528967, 4.99323530006, -2.53659341125) (yaw, pitch): (356.84985, 64.19986)
+[Screenshot Path] 123367-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 11
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.10839454149, 0.442739700885, 3.54618712107)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.109905587901, 0.492214674379, 3.57010440689)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.888583365687, 0.541689647872, 3.5940216927)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.16334733544, 1.34169698697, 3.98076276262)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.164858381852, 1.39117196047, 4.00468004844)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.833630571736, 1.44064693396, 4.02859733425)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.21830012939, 2.24065427306, 4.41533840417)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.219811175802, 2.29012924655, 4.43925568999)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.778677777786, 2.33960422005, 4.4631729758)
+
+--------------------
+[Timestamp] 2018-04-13 22:56:06
+[Builder Position] (x, y, z): (0.481360336471, 1.92159999847, -1.14388768402) (yaw, pitch): (359.0999, 78.749855)
+[Screenshot Path] 131780-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 12
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.01558566749, 0.965256553366, 0.192004005614)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.98416754264, 0.996070972246, 0.198133455691)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -1.03129472992, 1.94592031617, 0.387072736266)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.0314181248514, 1.96132752561, 0.390137461305)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.968458480215, 1.97673473505, 0.393202186343)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.04700379234, 2.92658407898, 0.582141466918)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.0471271872771, 2.94199128842, 0.585206191957)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.952749417789, 2.95739849786, 0.588270916996)
+
+--------------------
+[Timestamp] 2018-04-13 22:56:14
+[Builder Position] (x, y, z): (0.4795932178, 2.0, 0.302401706566) (yaw, pitch): (321.9001, 51.899857)
+[Screenshot Path] 140179-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 13
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.169901597212, -1.72186931245, -0.0793695037112)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.40397060057, -0.750739094671, 0.68209776753)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.786936098891, -1.10260294808, 0.406199846328)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.617037839188, 0.786933481948)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, 0)  Perspective (x, y, z): 0.786936098891, -0.1314727303, 1.16766711757)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.40397060057, -0.483336583705, 0.891769196366)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.617034501679, 0.00222852518287, 1.27250283199)
+
+--------------------
+[Timestamp] 2018-04-13 22:56:15
+[Builder Position] (x, y, z): (0.4795932178, 2.0, 0.302401706566) (yaw, pitch): (286.80008, 59.249855)
+[Screenshot Path] 140681-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.668285960353, -1.58241674366, 0.222151130057)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.24635222758, 0.0630331133185, 1.20109656208)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.289033133614, -1.33402018949, 0.369932401546)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.511295260999, 0.859405117555)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 1)  Perspective (x, y, z): -1.24635222758, -1.08562363532, 0.517713673034)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.957319093967, -0.262898706828, 1.00718638904)
+
+--------------------
+[Timestamp] 2018-04-13 22:56:16
+[Builder Position] (x, y, z): (0.47450285621, 2.0, 0.291862849059) (yaw, pitch): (36.450073, 47.849842)
+[Screenshot Path] 141581-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.39849696605, -0.826954936764, 0.600293068841)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.210252790557, -1.70790568234, -0.197108965568)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, 0)  Perspective (x, y, z): -0.804374878306, -0.230600531352, 1.14008966757)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.671075904138, 0.741388650362)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.594122087749, -0.0747214987256, 1.28118524909)
+
+--------------------
+[Timestamp] 2018-04-13 22:56:16
+[Builder Position] (x, y, z): (0.47450285621, 2.0, 0.291862849059) (yaw, pitch): (66.30008, 62.999847)
+[Screenshot Path] 142131-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.31760965271, 0.00373139062086, 1.12422901573)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.513716656415, -1.62799007858, 0.292819912183)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0, -0.453992879041, 0.89100531187)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.915663154564, -0.0958564141027, 1.07348615979)
+
+--------------------
+[Timestamp] 2018-04-13 22:56:21
+[Builder Position] (x, y, z): (0.567082006775, 5.61830201484, -1.61885736453) (yaw, pitch): (0.8999939, 72.89979)
+[Screenshot Path] 146878-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.984169423294, -0.205488463089, 4.12179391016)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.01558384501, -0.235514114077, 4.11255669333)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): 0.0314144217198, 0.735172736414, 4.41118285517)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.0471216325797, 1.69084676141, 4.7051904086)
+
+--------------------
+[Timestamp] 2018-04-13 22:56:27
+[Builder Position] (x, y, z): (-0.547270914672, 5.61830201484, 2.79447883532) (yaw, pitch): (158.55022, 75.29975)
+[Screenshot Path] 152228-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.097056713, 1.68576811621, 4.5776251951)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.95853361392, 0.978337205048, 4.39203087063)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -1.66210959246, 0.431780401781, 4.24864182855)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.29642402146, -0.468491857069, 4.01245562423)
+
+--------------------
+[Timestamp] 2018-04-13 22:56:41
+[Builder Position] (x, y, z): (-0.726611794691, 5.61830201484, -1.25952229294) (yaw, pitch): (327.90024, 68.24982)
+[Screenshot Path] 166626-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.531395031097, -0.695425407498, 4.02914418004)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.16285326349, 0.291702917723, 4.42297204325)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.215665914902, 0.584954769411, 4.53996873678)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.747060945999, 1.37177078371, 4.85387936191)
+
+--------------------
+[Timestamp] 2018-04-13 22:56:46
+[Builder Position] (x, y, z): (0.300000011921, 1.0, -1.90566137428) (yaw, pitch): (356.40018, 14.999785)
+[Screenshot Path] 172074-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.06081430982, 0.242054415219, 0.903372935256)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.93523954155, 0.274555101674, 1.02466896902)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 0)  Perspective (x, y, z): -0.125574768271, 0.516609516893, 1.92804190427)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.188362152407, 0.77491427534, 2.89206285641)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.125574768271, 1.48253631438, 1.66922648377)
+
+--------------------
+[Timestamp] 2018-04-13 22:56:47
+[Builder Position] (x, y, z): (0.300000011921, 1.0, -1.9148894123) (yaw, pitch): (355.0502, 26.699785)
+[Screenshot Path] 172724-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.08255356584, 0.408871751752, 0.812958589169)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.909987789525, 0.486408255062, 0.967124207287)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.258848664473, 1.34292001022, 2.67012419469)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.172565776315, 1.78865308119, 1.33076715018)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:21
+[Builder Position] (x, y, z): (4.60355781498, 3.53292827534, -0.43330764635) (yaw, pitch): (82.500244, 46.949757)
+[Screenshot Path] 206819-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.65260985024, 2.25724147231, 4.84550939727)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.391565910144, 0.808233342544, 3.49190993613)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.46080295426, 1.72349666903, 4.34690855214)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.469357537032, 2.31075646428, 3.52705373722)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:38
+[Builder Position] (x, y, z): (4.60355781498, 3.53292827534, -0.43330764635) (yaw, pitch): (82.500244, 46.949757)
+[Screenshot Path] 223867-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 16
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.65260985024, 2.25724147231, 4.84550939727)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.391565910144, 0.808233342544, 3.49190993613)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.46080295426, 1.72349666903, 4.34690855214)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.469357537032, 2.31075646428, 3.52705373722)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:43
+[Builder Position] (x, y, z): (0.660742343006, 3.53292827534, 3.04116121979) (yaw, pitch): (179.70044, 38.69973)
+[Screenshot Path] 228965-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 15
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.979073194476, 0.943323952372, 4.37624903322)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.02089947038, 0.936786097865, 4.36808837802)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.0104565689756, -0.310405841157, 2.81132333145)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.0156848534635, 1.0952579457, 2.9665070399)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.0156848534635, 1.87569129941, 2.34126806126)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:44
+[Builder Position] (x, y, z): (0.595785520061, 3.53292827534, 3.05193913189) (yaw, pitch): (179.25043, 37.649727)
+[Screenshot Path] 229632-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 14
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.947586060589, 0.867592529456, 4.39879118175)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.05224279097, 0.851610594765, 4.37807543376)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.0261641825964, -0.361959019058, 2.80504921598)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.0392462738946, 1.04058107164, 2.98590869976)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.0392462738946, 1.83234087175, 2.37507613766)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.0261641825964, 1.22156058117, 1.58338409177)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:46
+[Builder Position] (x, y, z): (3.60759738653, 3.53292827534, -0.217156582785) (yaw, pitch): (74.70041, 29.549732)
+[Screenshot Path] 231082-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 13
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.05546459092, 0.162945027669, 4.34274606848)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.52773229546, -0.788455436975, 2.6645518663)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.13752017015, -0.0524888075339, 3.96273804176)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.172960863479, 0.687305944717, 3.24001467251)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.172960863479, 1.55723389553, 2.74683584044)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.436827011209, 1.0815336632, 1.90773873935)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.13752017015, 1.68736709409, 2.97638037762)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:47
+[Builder Position] (x, y, z): (4.33784114923, 3.53292827534, 1.33673140274) (yaw, pitch): (83.40036, 26.849735)
+[Screenshot Path] 232615-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 12
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -2.56140152023, 0.355090664811, 5.12963282038)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.33153970234, -0.542227918862, 3.35706888526)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.45972363578, 0.010248961934, 4.44843221118)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.45309712353, 0.85053427016, 3.89423936152)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.45309712353, 1.74272837287, 3.44258719105)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.33816621459, 1.29406908103, 2.55630522349)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.45972363578, 1.79463716735, 3.54512787023)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.344792726835, 1.34597787551, 2.65884590267)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:49
+[Builder Position] (x, y, z): (2.54271082384, 3.53292827534, -2.37662758662) (yaw, pitch): (29.550293, 35.54973)
+[Screenshot Path] 234281-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 11
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.62339466619, 0.244571705292, 3.78216531087)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.116451577624, -0.328915767889, 2.97963981845)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.232903155248, 0.969390842895, 4.79646093636)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.260284194518, 1.27722059514, 3.50727240023)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.116451577624, 1.29830661078, 1.8168211179)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.260284194518, 2.09083178447, 2.92586304996)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.60963892739, 1.80408804788, 2.52460030375)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.232903155248, 2.59661322157, 3.63364223581)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.10282627716, 2.30986948498, 3.2323794896)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:51
+[Builder Position] (x, y, z): (-2.00174625789, 3.53292827534, -0.291431380509) (yaw, pitch): (272.10046, 28.949718)
+[Screenshot Path] 236631-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 10
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.0733034636558, -0.782656362703, 2.71699753775)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.146606927312, 0.18477693988, 4.46591131701)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.88870100362, -0.263457765108, 3.65559824446)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.889372904068, 0.593846094383, 3.13948445667)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.109955195484, 1.45114995387, 2.62337066888)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.146606927312, 1.93486660517, 3.49782755851)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.889372904068, 1.46889092703, 2.65544257743)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.85272117224, 1.95260757832, 3.52989946706)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.88870100362, 1.48663190018, 2.68751448597)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.85204927179, 1.97034855147, 3.5619713756)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:52
+[Builder Position] (x, y, z): (-1.86088127678, 3.53292827534, -0.291431380509) (yaw, pitch): (313.50043, 33.299706)
+[Screenshot Path] 237631-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 9
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.688360019548, -1.27337922302, 1.70430802317)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.06508005864, -0.476896954911, 2.91684995257)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.074018370802, -0.119293277929, 3.46125560955)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.651350834147, 0.338594495092, 2.33689876947)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.3767200391, 0.796482268113, 1.21254192939)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 2.06508005864, 1.19472340217, 1.81881289409)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.651350834147, 1.17440467363, 1.78788024023)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.33971085369, 1.57264580769, 2.39415120493)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.76237839035, 1.15408594509, 1.75694758637)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.074018370802, 1.55232707915, 2.36321855107)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.614341648746, 1.95056821321, 2.96948951576)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:53
+[Builder Position] (x, y, z): (-1.86088127678, 3.53292827534, -0.291431380509) (yaw, pitch): (298.65045, 38.099705)
+[Screenshot Path] 238231-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 8
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.47946475262, -1.03239324863, 1.92465002824)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.43839425786, 0.0505730497123, 3.30582279101)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.796192770836, 0.100779921696, 3.36985466735)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.081368367202, 0.591873110017, 2.37551371506)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.95892950524, 1.08296629834, 1.38117276278)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.43839425786, 1.62444944751, 2.07175914417)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.398096385418, 0.837328159745, 1.06789551025)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.081368367202, 1.37881130891, 1.75848189164)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.560833119822, 1.92029445808, 2.44906827303)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -1.27565752346, 1.13317317032, 1.44520463911)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.796192770836, 1.67465631949, 2.1357910205)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.316728018216, 2.21613946866, 2.82637740189)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:54
+[Builder Position] (x, y, z): (-1.8466707983, 3.53292827534, -0.291431380509) (yaw, pitch): (267.30048, 41.699707)
+[Screenshot Path] 239230-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 7
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.0470980824277, -0.828794853938, 2.0762660862)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.141294247283, 0.500181774747, 3.5678921127)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -2.09197670399, -0.226968328091, 2.7517483257)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.09308643442, 0.551004150297, 2.1216871761)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.0470980824277, 0.664488314342, 0.74581301325)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.0941961648554, 1.32897662868, 1.4916260265)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -0.141294247283, 1.99346494303, 2.23743903975)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.04598835199, 0.633157420094, 0.710647626376)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.09308643442, 1.29764573444, 1.45646063963)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.14018451685, 1.96213404878, 2.20227365288)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -2.04487862156, 0.601826525846, 0.675482239502)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.09197670399, 1.26631484019, 1.42129525275)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -2.13907478641, 1.93080315453, 2.167108266)
+
+--------------------
+[Timestamp] 2018-04-13 22:57:57
+[Builder Position] (x, y, z): (-5.47031221145, 3.53292827534, -1.27224393822) (yaw, pitch): (276.60025, 30.149704)
+[Screenshot Path] 242280-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 7
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.418664839593, 0.822959622968, 5.39883850574)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.188781869797, 1.82082404731, 7.11680835729)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -2.29046788286, 1.43735310057, 6.45660692174)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.29709561878, 2.24433850316, 5.85495411075)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.418664839593, 2.55239169357, 4.39431637399)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.303723354695, 3.05132390574, 5.25330129976)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -0.188781869797, 3.55025611791, 6.11228622554)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.41203710368, 2.61012232629, 4.4937081191)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.29709561878, 3.10905453846, 5.35269304487)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.18215413388, 3.60798675063, 6.21167797065)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -2.40540936776, 2.667852959, 4.59309986421)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.29046788286, 3.16678517117, 5.45208478999)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -2.17552639796, 3.66571738334, 6.31106971576)
+
+--------------------
+[Timestamp] 2018-04-13 22:58:21
+[Builder Position] (x, y, z): (-3.85450642089, 3.53292827534, -3.44945013392) (yaw, pitch): (312.3002, 29.849676)
+[Screenshot Path] 266776-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 7
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.199840951236, 0.374660786484, 4.67115541266)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.14618923937, 1.11092590075, 5.95416609363)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.00608334736, 1.41274774834, 6.48011883361)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.266454601648, 1.94510479197, 5.39866365812)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.199840951236, 2.10932927848, 3.67570314214)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.473174144069, 2.47746183561, 4.31720848262)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.14618923937, 2.84559439274, 4.95871382311)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.939469696953, 2.44430648083, 4.25943218237)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.266454601648, 2.81243903797, 4.90093752285)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.406560493657, 3.1805715951, 5.54244286334)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -1.67909844267, 2.77928368319, 4.8431612226)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.00608334736, 3.14741624033, 5.48466656309)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.33306825206, 3.51554879746, 6.12617190357)
+
+--------------------
+[Timestamp] 2018-04-13 22:58:23
+[Builder Position] (x, y, z): (-2.58664242522, 3.53292827534, -2.48730208018) (yaw, pitch): (316.65018, 30.749674)
+[Screenshot Path] 268376-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 7
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.081450477988, -0.273276985493, 3.452344929)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.5358027735, 0.428671508403, 4.63222954729)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.564275191778, 0.821290423324, 5.29217115639)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.122175716982, 1.30890316302, 4.15594100103)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.081450477988, 1.44554165577, 2.42976853652)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.808626625742, 1.79651590271, 3.01971084567)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.5358027735, 2.14749014966, 3.60965315481)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.605000430772, 1.8173382367, 3.05471049564)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.122175716982, 2.16831248365, 3.64465280478)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.849351864736, 2.5192867306, 4.23459511393)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -1.29145133953, 2.18913481763, 3.67965245476)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.564275191778, 2.54010906458, 4.2695947639)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.162900955976, 2.89108331153, 4.85953707305)
+
+--------------------
+[Timestamp] 2018-04-13 22:58:30
+[Builder Position] (x, y, z): (-2.20766620011, 1.0, -3.82155185009) (yaw, pitch): (327.90024, 4.199674)
+[Screenshot Path] 275274-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 7
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.100063201293, 0.263941912153, 3.59448494541)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.79431149588, 0.341772709437, 4.65442130354)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.115602713609, 0.426931387374, 5.81415218265)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.415792317488, 1.362209243, 4.89607013093)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.100063201293, 2.25857169999, 3.44801990014)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.947187348585, 2.29748709863, 3.97798807921)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.79431149588, 2.33640249727, 4.50795625827)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.431331829804, 2.32060873828, 4.29286942923)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.415792317488, 2.35952413692, 4.8228376083)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.26291646478, 2.39843953556, 5.35280578736)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.962726860901, 2.38264577657, 5.13771895832)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.115602713609, 2.42156117521, 5.66768713739)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.731521433683, 2.46047657385, 6.19765531646)
+
+--------------------
+[Timestamp] 2018-04-13 22:59:03
+[Builder Position] (x, y, z): (5.46220738496, 1.0, -1.8305437893) (yaw, pitch): (64.65033, 2.6996748)
+[Screenshot Path] 308520-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 7
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -1.66513700724, 0.275558968199, 5.84391871968)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.80885409439, 0.190427911153, 4.0385012399)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.570427911791, 0.273325033799, 5.79654254046)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.333283819511, 1.25204937905, 5.32177547892)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.66513700724, 2.27333925283, 5.74971715728)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.23699555081, 2.2307737243, 4.84700841739)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -0.80885409439, 2.18820819578, 3.9442996775)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.761425275934, 2.29350504989, 6.17738343762)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.333283819511, 2.25093952136, 5.27467469773)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.094857636912, 2.20837399284, 4.37196595784)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): 0.142286455368, 2.31367084695, 6.60504971795)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.570427911791, 2.27110531842, 5.70234097806)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.998569368214, 2.2285397899, 4.79963223817)
+
+--------------------
+[Timestamp] 2018-04-13 22:59:12
+[Builder Position] (x, y, z): (-5.62096232107, 1.0, 0.65380304874) (yaw, pitch): (268.20026, 6.299672)
+[Screenshot Path] 317318-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 7
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.842475585588, 0.551818622439, 4.9985729059)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.779663138667, 0.771167606779, 6.98551543642)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.18794404366, 0.654600791428, 5.92961101195)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.188437340765, 1.65200853665, 5.85109897057)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.842475585588, 2.53974178971, 4.77911566394)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.811069362128, 2.64941628187, 5.7725869292)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.779663138667, 2.75909077404, 6.76605819446)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.157031117305, 2.53629562811, 4.74789908433)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.188437340765, 2.64597012028, 5.74137034959)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.219843564226, 2.75564461245, 6.73484161485)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -1.1565378202, 2.53284946652, 4.71668250473)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.18794404366, 2.64252395869, 5.71015376999)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.21935026712, 2.75219845086, 6.70362503525)
+
+--------------------
+[Timestamp] 2018-04-13 22:59:38
+[Builder Position] (x, y, z): (-5.62096232107, 1.0, 0.65380304874) (yaw, pitch): (270.90018, 6.299672)
+[Screenshot Path] 343131-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 7
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.07842887572, 0.546851506143, 4.95357896781)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.10984979275, 0.766281663379, 6.94125679182)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.90561383203, 0.660014358657, 5.97864906427)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.0942627511008, 1.65225205534, 5.85330485106)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.07842887572, 2.53477467341, 4.73412172584)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.09413933423, 2.64448975203, 5.72796063785)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.10984979275, 2.75420483065, 6.72179954986)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.078552292584, 2.53649856036, 4.74973731807)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.0942627511008, 2.64621363897, 5.74357623008)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.109973209618, 2.75592871759, 6.73741514208)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.921324290547, 2.5382224473, 4.7653529103)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.90561383203, 2.64793752592, 5.7591918223)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.889903373513, 2.75765260454, 6.75303073431)
+
+--------------------
+[Timestamp] 2018-04-13 22:59:47
+[Builder Position] (x, y, z): (-3.31005122167, 4.61150041808, 0.658387844419) (yaw, pitch): (269.55014, 39.899654)
+[Screenshot Path] 352379-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 6
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.976414804324, -0.372195115877, 4.23179452781)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.960711889318, 0.910655338931, 5.76608528548)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.03137500685, 0.25915755523, 4.98689311664)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.0314058300124, 1.03136285879, 4.35147151287)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.976414804324, 1.16214293495, 2.94890453027)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.968563346821, 1.80356816235, 3.7160499091)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.960711889318, 2.44499338975, 4.48319528794)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.0235543725093, 1.1571066568, 2.94288113527)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.0314058300124, 1.7985318842, 3.7100265141)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.0392572875155, 2.43995711161, 4.47717189294)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -1.02352354934, 1.15207037865, 2.93685774027)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.03137500685, 1.79349560605, 3.7040031191)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.03922646435, 2.43492083346, 4.47114849793)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.0235543725093, 1.92427568221, 2.3014361365)
+
+--------------------
+[Timestamp] 2018-04-13 22:59:50
+[Builder Position] (x, y, z): (-3.21120137067, 4.61150041808, 0.658387844419) (yaw, pitch): (281.7, 39.149647)
+[Screenshot Path] 355331-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 5
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.58758469669, -0.599837114886, 4.01494337027)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.99315928741, 0.636623645662, 5.53371723065)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.168073629194, 0.274451979224, 5.08885324669)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.811149181428, 0.921922255236, 4.30024375597)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.58758469669, 0.951162150974, 2.75224733507)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.79037199205, 1.56939253125, 3.51163426526)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.99315928741, 2.18762291152, 4.27102119546)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.608361886071, 1.07919150789, 2.90950880818)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.811149181428, 1.69742188817, 3.66889573838)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.01393647678, 2.31565226844, 4.42828266857)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.370860924551, 1.20722086481, 3.06677028129)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.168073629194, 1.82545124508, 3.82615721149)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.034713666163, 2.44368162536, 4.58554414168)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 0.608361886071, 1.85469114082, 2.27816079058)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -0.370860924551, 1.98272049774, 2.43542226369)
+
+--------------------
+[Timestamp] 2018-04-13 22:59:57
+[Builder Position] (x, y, z): (-3.21813277641, 4.61150041808, -0.818278553375) (yaw, pitch): (283.0501, 38.999634)
+[Screenshot Path] 362528-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 4
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.677408901366, -0.492263666369, 4.15918185021)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.12901483561, 0.733860519011, 5.67333889695)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.04513411725, 0.405001007531, 5.26722591701)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.070961124383, 1.04004969841, 4.46242771859)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.677408901366, 1.06203629659, 2.90055099681)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.903211868488, 1.67509838928, 3.65762952017)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.12901483561, 2.28816048197, 4.41470804354)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.296764091505, 1.2041375872, 3.07603376852)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.070961124383, 1.81719967989, 3.83311229189)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.154841842739, 2.43026177258, 4.59019081526)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -1.27093708438, 1.3462388778, 3.25151654024)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.04513411725, 1.95930097049, 4.00859506361)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.819331150132, 2.57236306318, 4.76567358698)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, -1)  Perspective (x, y, z): 0.677408901366, 1.83918627807, 2.2712355701)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): -0.296764091505, 1.98128756868, 2.44671834182)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -1.27093708438, 2.12338885928, 2.62220111354)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:08
+[Builder Position] (x, y, z): (-3.21813277641, 4.61150041808, -0.941967920533) (yaw, pitch): (312.4501, 35.399635)
+[Screenshot Path] 373277-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 4
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 2.02484352726, -1.16311127837, 3.5422000006)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 3.37473921209, -0.308255825301, 4.74511470847)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.22406048633, 0.0462785933532, 5.24399983006)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.961925928, 0.470429006753, 4.1145526127)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 2.02484352726, 0.467151693615, 2.3836480414)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.69979136968, 0.894579420152, 2.98510539534)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 3.37473921209, 1.32200714669, 3.58656274927)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.28697808558, 0.858132766211, 2.93381927916)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.961925928, 1.28556049275, 3.5352766331)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 2.63687377042, 1.71298821928, 4.13673398703)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): 0.549112643913, 1.24911383881, 3.48399051692)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.22406048633, 1.67654156534, 4.08544787086)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 1.89900832875, 2.10396929188, 4.68690522479)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, -1)  Perspective (x, y, z): 2.02484352726, 1.28228317961, 1.8043720618)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 1.28697808558, 1.67326425221, 2.35454329956)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): 0.549112643913, 2.0642453248, 2.90471453732)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:18
+[Builder Position] (x, y, z): (-3.88673020928, 3.86754700612, 2.7513554707) (yaw, pitch): (244.3499, 18.449629)
+[Screenshot Path] 383524-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 4
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.40574062025, -0.630376349115, 4.43018272389)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.539992310538, -0.0598083383944, 6.14042598418)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.830042257818, -0.619076425421, 4.46405356484)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.071412103788, 0.46651785926, 4.55820813461)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.40574062025, 1.26682813858, 3.79724107424)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.972866465394, 1.55211214394, 4.65236270438)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.539992310538, 1.8373961493, 5.50748433453)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.504286258644, 1.12983609775, 3.38661567964)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.071412103788, 1.41512010311, 4.24173730978)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.361462051068, 1.70040410847, 5.09685893993)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.397168102962, 0.992844056914, 2.97599028504)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.830042257818, 1.27812806227, 3.83111191518)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.26291641267, 1.56341206764, 4.68623354533)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, -1)  Perspective (x, y, z): 1.40574062025, 2.21543038243, 3.48077024941)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 0)  Perspective (x, y, z): 0.504286258644, 2.0784383416, 3.07014485481)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -0.397168102962, 1.94144630076, 2.65951946021)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:19
+[Builder Position] (x, y, z): (-2.85302212961, 3.86754700612, 0.747564718174) (yaw, pitch): (257.84988, 25.199627)
+[Screenshot Path] 385276-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 5
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 0.55665188235, -0.887573774452, 2.81111214233)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.135704267748, -0.0551020490661, 4.58023450447)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -1.60902091885, -0.650566209296, 3.31478736724)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.631421421903, 0.343877763775, 3.07945694426)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.55665188235, 0.922085874154, 1.95956534021)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.346178075049, 1.33832173685, 2.84412652128)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.135704267748, 1.75455759954, 3.72868770234)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -0.420947614602, 0.832471725386, 1.76912236213)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.631421421903, 1.24870758808, 2.6536835432)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.841895229204, 1.66494345077, 3.53824472426)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -1.39854711155, 0.742857576617, 1.57867938405)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -1.60902091885, 1.15909343931, 2.46324056512)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.81949472616, 1.575329302, 3.34780174618)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, -1)  Perspective (x, y, z): 0.55665188235, 1.82691569846, 1.53379193915)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -1.39854711155, 1.64768740092, 1.15290598299)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:20
+[Builder Position] (x, y, z): (-2.18294947084, 3.86754700612, -0.0698171194176) (yaw, pitch): (251.84988, 26.549627)
+[Screenshot Path] 386024-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 6
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): -0.62301556574, -0.939629018842, 2.59402176394)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.24603113148, -0.0901629383144, 4.29409793367)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -2.83501055058, -0.793366988638, 2.88674280106)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -1.88476694959, 0.240416066077, 2.71842852782)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -0.62301556574, 0.849466080528, 1.70007616973)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.93452334861, 1.27419912079, 2.55011425459)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -1.24603113148, 1.69893216106, 3.40015233946)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): -1.57325916672, 0.710230575498, 1.42141764585)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -1.88476694959, 1.13496361576, 2.27145573072)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -2.19627473246, 1.55969665603, 3.12149381558)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -2.52350276771, 0.570995070468, 1.14275912198)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -2.83501055058, 0.995728110732, 1.99279720684)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -3.14651833345, 1.420461151, 2.84283529171)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -2.52350276771, 1.46554262015, 0.695786324874)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:39
+[Builder Position] (x, y, z): (-2.2833503315, 4.98513994397, 1.54560786121) (yaw, pitch): (269.09964, 38.849648)
+[Screenshot Path] 404572-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 6
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.9683258681, -1.06226762021, 3.46370910731)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.93689866865, 0.192135261873, 5.02110621163)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.0471407991651, -0.454779797912, 4.21793232289)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.952735734605, 0.333871718471, 3.60289110238)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.9683258681, 0.495321793814, 2.20915132971)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.95261226837, 1.12252323485, 2.98784988187)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.93689866865, 1.74972467589, 3.76654843404)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.968449334327, 0.485464984441, 2.19691366142)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.952735734605, 1.11266642548, 2.97561221358)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.937022134883, 1.73986786652, 3.75431076574)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.0314271994434, 0.475608175069, 2.18467599313)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.0471407991651, 1.10280961611, 2.96337454529)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.0628543988868, 1.73001105715, 3.74207309745)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -0.0314271994434, 1.25440288208, 1.55739710433)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:40
+[Builder Position] (x, y, z): (-2.31618079982, 4.98513994397, 1.54134803559) (yaw, pitch): (269.09964, 38.849648)
+[Screenshot Path] 405070-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 5
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.9683258681, -1.06226762021, 3.46370910731)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.93689866865, 0.192135261873, 5.02110621163)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.0471407991651, -0.454779797912, 4.21793232289)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.952735734605, 0.333871718471, 3.60289110238)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.9683258681, 0.495321793814, 2.20915132971)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.95261226837, 1.12252323485, 2.98784988187)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.93689866865, 1.74972467589, 3.76654843404)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.968449334327, 0.485464984441, 2.19691366142)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.952735734605, 1.11266642548, 2.97561221358)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.937022134883, 1.73986786652, 3.75431076574)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.0314271994434, 0.475608175069, 2.18467599313)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.0471407991651, 1.10280961611, 2.96337454529)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.0628543988868, 1.73001105715, 3.74207309745)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -0.0314271994434, 1.25440288208, 1.55739710433)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 5, 1)  Perspective (x, y, z): -0.0314271994434, 2.03319758909, 0.930118215528)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:49
+[Builder Position] (x, y, z): (-2.49971787847, 3.49007392452, 4.32554177139) (yaw, pitch): (215.69955, -9.300357)
+[Screenshot Path] 414919-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 6
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.29349794627, -2.81852718831, 4.83557313581)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.330678273711, -3.00713728213, 5.98730133246)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.68565983022, -2.650349165, 3.80861128245)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): -0.102124996971, -1.79473599065, 4.77163422832)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.29349794627, -0.84481776939, 5.15879307586)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.481409836278, -0.9391228163, 5.73465717418)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -0.330678273711, -1.03342786321, 6.31052127251)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.709963113018, -0.713576234276, 4.35738010002)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): -0.102124996971, -0.807881281187, 4.93324419834)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.91421310696, -0.902186328097, 5.50910829667)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): 0.126428279769, -0.582334699162, 3.55596712418)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.68565983022, -0.676639746073, 4.1318312225)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -1.49774794021, -0.770944792983, 4.70769532083)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): 0.126428279769, 0.4045200103, 3.7175770942)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:51
+[Builder Position] (x, y, z): (1.32749128372, 3.49007392452, 3.88825302488) (yaw, pitch): (166.64957, 28.949646)
+[Screenshot Path] 416369-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 5
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.02232718466, 0.35728543409, 4.77778130999)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.92362484148, 0.13374938991, 4.37367445666)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.511163592331, -0.696402723862, 2.87293143463)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.280257381961, 0.649602784976, 3.24028887934)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.02232718466, 2.1073763159, 3.80969975072)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.049351171591, 1.99560829381, 3.60764632406)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -0.92362484148, 1.88384027172, 3.4055928974)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 1.25323339503, 1.63641624797, 2.95830152637)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.280257381961, 1.52464822588, 2.75624809971)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.69271863111, 1.41288020379, 2.55419467305)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): 1.4841396054, 1.16545618004, 2.10690330202)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.511163592331, 1.05368815795, 1.90484987536)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.46181242074, 0.941920135862, 1.7027964487)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): 1.4841396054, 2.04050162095, 1.62286252239)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.511163592331, 1.92873359886, 1.42080909573)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:51
+[Builder Position] (x, y, z): (1.51407720009, 3.49007392452, 4.14864094544) (yaw, pitch): (180.44952, 24.299648)
+[Screenshot Path] 417119-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 4
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 2.03916606464, 0.2282118596, 5.36560538131)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0392276178321, 0.234668862938, 5.37990629275)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 1.02350579411, -0.591551827731, 3.5500003274)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.03135131767, 0.73135007155, 4.04986932288)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 2.03916606464, 2.05102346916, 4.54258786263)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.03919684124, 2.05425197083, 4.54973831835)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.0392276178321, 2.0574804725, 4.55688877407)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 2.03132054108, 1.63952737466, 3.63121010782)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.03135131767, 1.64275587633, 3.63836056354)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.0313820942656, 1.645984378, 3.64551101926)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): 2.02347501751, 1.22803128016, 2.719832353)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 1.02350579411, 1.23125978183, 2.72698280872)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.0235365706992, 1.2344882835, 2.73413326444)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): 2.02347501751, 2.13943708494, 2.30832359367)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 1.02350579411, 2.14266558661, 2.31547404939)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 4, 1)  Perspective (x, y, z): 0.0235365706992, 2.14589408828, 2.32262450511)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:56
+[Builder Position] (x, y, z): (-1.68322246191, 4.98513994397, 0.769754806034) (yaw, pitch): (282.59946, 25.649658)
+[Screenshot Path] 421268-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 3
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.19405286143, -2.3763529288, 1.98171252251)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.63032094861, -1.53146643521, 3.74121159016)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.539650730671, -1.76506353635, 3.25473928319)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.436268087176, -0.958028908256, 2.62523346906)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.19405286143, -0.573437526954, 1.1159781211)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.41218690502, -0.150994280159, 1.99572765493)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.63032094861, 0.271448966637, 2.87547718875)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.218134043588, -0.479014454128, 1.31261673453)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.436268087176, -0.0565712073324, 2.19236626835)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.654402130764, 0.365872039463, 3.07211580218)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.757784774259, -0.384591381302, 1.50925534795)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.539650730671, 0.0378518654938, 2.38900488178)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.321516687083, 0.46029511229, 3.2687544156)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -0.757784774259, 0.516866319622, 1.07638814725)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.539650730671, 0.939309566418, 1.95613768108)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 4, 1)  Perspective (x, y, z): -0.321516687083, 1.36175281321, 2.8358872149)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 5, 1)  Perspective (x, y, z): -0.321516687083, 2.26321051414, 2.4030200142)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:57
+[Builder Position] (x, y, z): (-1.62564047393, 4.98513994397, 0.805900611617) (yaw, pitch): (281.39948, 25.799658)
+[Screenshot Path] 422217-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 2
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.17792141217, -2.36034578142, 2.01029075978)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.5732182996, -1.50706575397, 3.77541216227)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): -0.584976081038, -1.76166239314, 3.24874569599)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 0.395296887424, -0.947362711128, 2.63557285317)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.17792141217, -0.55970304284, 1.1398393091)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.37556985589, -0.133063029112, 2.02240001035)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 1.5732182996, 0.293576984616, 2.90496071159)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.197648443712, -0.473681355564, 1.31778642658)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 0.395296887424, -0.0470413418358, 2.20034712783)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.592945331136, 0.379598671892, 3.08290782907)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.78262452475, -0.387659668287, 1.49573354406)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): -0.584976081038, 0.0389803454407, 2.37829424531)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): -0.387327637326, 0.465620359169, 3.26085494656)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -0.78262452475, 0.512661701005, 1.06050781873)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): -0.584976081038, 0.939301714733, 1.94306851997)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 4, 1)  Perspective (x, y, z): -0.387327637326, 1.36594172846, 2.82562922122)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): -0.584976081038, 1.83962308402, 1.50784279463)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 5, 1)  Perspective (x, y, z): -0.387327637326, 2.26626309775, 2.39040349588)
+
+--------------------
+[Timestamp] 2018-04-13 23:00:58
+[Builder Position] (x, y, z): (-3.01691676274, 4.98513994397, 0.469569182462) (yaw, pitch): (287.5494, 22.799658)
+[Screenshot Path] 423818-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 1
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.8580412561, -1.77401853544, 3.5214401779)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.46109720686, -1.03506987573, 5.27935894695)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.252654571551, -1.17085394356, 4.95633601669)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.20611190152, -0.365833609912, 4.29085770574)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.8580412561, 0.0697123938844, 2.74642001026)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.15956923148, 0.439186723738, 3.62537939479)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 2.46109720686, 0.808661053591, 4.50433877931)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.904583926137, 0.186557524898, 3.02438823739)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.20611190152, 0.556031854751, 3.90334762192)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.50763987689, 0.925506184605, 4.78230700644)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.048873403828, 0.303402655911, 3.30235646453)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.252654571551, 0.672876985764, 4.18131584905)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.55418254693, 1.04235131562, 5.06027523357)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -0.048873403828, 1.22526812057, 2.91484638071)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.252654571551, 1.59474245043, 3.79380576523)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 4, 1)  Perspective (x, y, z): 0.55418254693, 1.96421678028, 4.67276514975)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 5, 1)  Perspective (x, y, z): -0.048873403828, 2.14713358524, 2.52733629689)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): 0.252654571551, 2.51660791509, 3.40629568141)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 5, 1)  Perspective (x, y, z): 0.55418254693, 2.88608224494, 4.28525506593)
+
+--------------------
+[Timestamp] 2018-04-13 23:01:02
+[Builder Position] (x, y, z): (-3.70460451941, 4.98513994397, 0.327997184176) (yaw, pitch): (285.5994, 20.549658)
+[Screenshot Path] 427467-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+	<Architect> perfect
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 1
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.76989458602, -1.88922916497, 3.50689126102)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.3077140548, -1.2130503517, 5.3106463529)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.112473554677, -1.36235487434, 4.91236591633)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.07563893754, -0.520379002042, 4.30954830235)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.76989458602, -0.0164925363829, 2.80485314243)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.03880432041, 0.321596870254, 3.70673068837)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 2.3077140548, 0.65968627689, 4.60860823432)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.806729203158, 0.0778999056158, 3.05665169712)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.07563893754, 0.415989312252, 3.95852924306)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.34454867193, 0.754078718889, 4.860406789)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.156436179709, 0.172292347614, 3.3084502518)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.112473554677, 0.510381754251, 4.21032779774)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.381383289063, 0.848471160888, 5.11220534368)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -0.156436179709, 1.10866066191, 2.95743119251)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.112473554677, 1.44675006855, 3.85930873845)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 4, 1)  Perspective (x, y, z): 0.381383289063, 1.78483947518, 4.76118628439)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 5, 1)  Perspective (x, y, z): -0.156436179709, 2.0450289762, 2.60641213322)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): 0.112473554677, 2.38311838284, 3.50828967916)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 5, 1)  Perspective (x, y, z): 0.381383289063, 2.72120778948, 4.4101672251)
+
+--------------------
+[Timestamp] 2018-04-13 23:01:03
+[Builder Position] (x, y, z): (-3.70460451941, 4.98513994397, 0.327997184176) (yaw, pitch): (285.5994, 20.549658)
+[Screenshot Path] 428616-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+	<Architect> perfect
+	<Builder> is this what you mean?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 1
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.76989458602, -1.88922916497, 3.50689126102)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.3077140548, -1.2130503517, 5.3106463529)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.112473554677, -1.36235487434, 4.91236591633)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.07563893754, -0.520379002042, 4.30954830235)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.76989458602, -0.0164925363829, 2.80485314243)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.03880432041, 0.321596870254, 3.70673068837)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 2.3077140548, 0.65968627689, 4.60860823432)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.806729203158, 0.0778999056158, 3.05665169712)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.07563893754, 0.415989312252, 3.95852924306)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.34454867193, 0.754078718889, 4.860406789)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.156436179709, 0.172292347614, 3.3084502518)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.112473554677, 0.510381754251, 4.21032779774)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.381383289063, 0.848471160888, 5.11220534368)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -0.156436179709, 1.10866066191, 2.95743119251)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.112473554677, 1.44675006855, 3.85930873845)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 4, 1)  Perspective (x, y, z): 0.381383289063, 1.78483947518, 4.76118628439)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 5, 1)  Perspective (x, y, z): -0.156436179709, 2.0450289762, 2.60641213322)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): 0.112473554677, 2.38311838284, 3.50828967916)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 5, 1)  Perspective (x, y, z): 0.381383289063, 2.72120778948, 4.4101672251)
+
+--------------------
+[Timestamp] 2018-04-13 23:01:05
+[Builder Position] (x, y, z): (-3.70460451941, 4.98513994397, 0.327997184176) (yaw, pitch): (285.5994, 20.549658)
+[Screenshot Path] 430517-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> whoops! i got in trouble
+	<Architect> we're gonna need to make a 3x3 green square in the middle
+	<Architect> break the bottom middle top left and top right middle left and middle right
+	<Builder> crude
+	<Architect> ha
+	<Architect> place one on top of the middle then break the bottom one
+	<Architect> on top of that top black make a 3x3 matt
+	<Builder> 3x3 like what we started with?
+	<Architect> but on top of that block
+	<Builder> think i got it
+	<Architect> so don't include that block in the 3 x3 it should be resting on it
+	<Builder> i think it is
+	<Architect> go to the other side of the structure
+	<Builder> okay
+	<Architect> on that right row stack two on top
+	<Builder> hot or cold?
+	<Architect> remove the two left ones
+	<Architect> then put two on the other side of that green
+	<Architect> perfect
+	<Builder> is this what you mean?
+	<Builder> yay!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 1
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 1, -1)  Perspective (x, y, z): 1.76989458602, -1.88922916497, 3.50689126102)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.3077140548, -1.2130503517, 5.3106463529)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 1, 1)  Perspective (x, y, z): 0.112473554677, -1.36235487434, 4.91236591633)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 2, 0)  Perspective (x, y, z): 1.07563893754, -0.520379002042, 4.30954830235)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.76989458602, -0.0164925363829, 2.80485314243)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.03880432041, 0.321596870254, 3.70673068837)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 2.3077140548, 0.65968627689, 4.60860823432)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 0)  Perspective (x, y, z): 0.806729203158, 0.0778999056158, 3.05665169712)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 0)  Perspective (x, y, z): 1.07563893754, 0.415989312252, 3.95852924306)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 1.34454867193, 0.754078718889, 4.860406789)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 3, 1)  Perspective (x, y, z): -0.156436179709, 0.172292347614, 3.3084502518)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 3, 1)  Perspective (x, y, z): 0.112473554677, 0.510381754251, 4.21032779774)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 3, 1)  Perspective (x, y, z): 0.381383289063, 0.848471160888, 5.11220534368)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 4, 1)  Perspective (x, y, z): -0.156436179709, 1.10866066191, 2.95743119251)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 4, 1)  Perspective (x, y, z): 0.112473554677, 1.44675006855, 3.85930873845)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 4, 1)  Perspective (x, y, z): 0.381383289063, 1.78483947518, 4.76118628439)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-1, 5, 1)  Perspective (x, y, z): -0.156436179709, 2.0450289762, 2.60641213322)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (0, 5, 1)  Perspective (x, y, z): 0.112473554677, 2.38311838284, 3.50828967916)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (1, 5, 1)  Perspective (x, y, z): 0.381383289063, 2.72120778948, 4.4101672251)
+
+Time elapsed: 0:07:30 (450.79s)

@@ -1,0 +1,88 @@
+{
+
+  "red": ["yellow","purple","orange","green","blue"],
+  "yellow": ["red","purple","orange","green","blue"],
+  "purple": ["yellow","red","orange","green","blue"],
+  "orange": ["yellow","purple","red","green","blue"],
+  "green": ["yellow","purple","orange","red","blue"],
+  "blue": ["yellow","purple","orange","green","red"],
+
+  "2": ["3","4","5","6","7","8","9"],
+  "3": ["2","4","5","6","7","8","9"],
+  "4": ["3","2","5","6","7","8","9"],
+  "5": ["3","4","2","6","7","8","9"],
+  "6": ["3","4","5","2","7","8","9"],
+  "7": ["3","4","5","6","2","8","9"],
+  "8": ["3","4","5","6","7","2","9"],
+  "9": ["3","4","5","6","7","8","2"],
+
+  "two": ["three","four","five","six","seven","eight","nine"],
+  "three": ["two","four","five","six","seven","eight","nine"],
+  "four": ["three","two","five","six","seven","eight","nine"],
+  "five": ["three","four","two","six","seven","eight","nine"],
+  "six": ["three","four","five","two","seven","eight","nine"],
+  "seven": ["three","four","five","six","two","eight","nine"],
+  "eight": ["three","four","five","six","seven","two","nine"],
+  "nine": ["three","four","five","six","seven","eight","two"],
+
+  "okay": ["ok"],
+  "ok": ["okay"],
+
+  "put": ["place", "add"],
+  "place": ["put", "add"],
+  "add": ["put", "place"],
+
+  "make": ["build"],
+  "build": ["make"],
+
+  "row": ["column"],
+  "column": ["row"],
+
+  "up": ["down"],
+  "down": ["up"],
+
+  "yes": ["yep", "ya", "yeah", "yup"],
+  "yep": ["yes", "ya", "yeah", "yup"],
+  "ya": ["yep", "yes", "yeah", "yup"],
+  "yeah": ["yes", "yep", "ya", "yup"],
+  "yup": ["yes", "yep", "ya", "yeah"],
+
+  "that": ["this"],
+  "this": ["that"],
+
+  "now": ["then"],
+  "then": ["now"],
+
+  "corners": ["edges"],
+  "edges": ["corners"],
+
+  "with": ["without"],
+  "without": ["with"],
+
+  "middle": ["bottom"],
+  "bottom": ["middle"],
+
+  "could": ["would"],
+  "would": ["could"],
+
+  "perfect": ["nice"],
+  "nice": ["perfect"],
+
+  "above": ["below"],
+  "below": ["above"],
+
+  "last": ["first"],
+  "first": ["last"],
+
+  "towards": ["toward"],
+  "toward": ["towards"],
+
+  "brick": ["block"],
+  "block": ["brick"],
+  "bricks": ["blocks"],
+  "blocks": ["bricks"],
+
+  "those": ["these"],
+  "these": ["those"]
+
+}

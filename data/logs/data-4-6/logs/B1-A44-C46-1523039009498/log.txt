@@ -1,0 +1,1337 @@
+
+--------------------
+[Timestamp] 2018-04-06 18:23:40
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.15, 0.45000002)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 18:23:42
+[Builder Position] (x, y, z): (0.00152209057705, 1.0, -1.29149401265) (yaw, pitch): (0.15, 0.45000002)
+[Screenshot Path] 2862-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 18:23:43
+[Builder Position] (x, y, z): (0.00152209057705, 1.0, -1.29149401265) (yaw, pitch): (0.15, 0.45000002)
+[Screenshot Path] 3178-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 18:23:58
+[Builder Position] (x, y, z): (0.0153328341839, 1.0, -4.09337887083) (yaw, pitch): (1.65, 4.6500006)
+[Screenshot Path] 17992-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 18:24:03
+[Builder Position] (x, y, z): (0.65683484581, 1.0, -4.08416328681) (yaw, pitch): (2.4, 4.3500004)
+[Screenshot Path] 23043-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-06 18:24:07
+[Builder Position] (x, y, z): (3.00756049395, 1.0, -4.13589984805) (yaw, pitch): (-6.7499976, 32.099995)
+[Screenshot Path] 27041-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -0.35261206758, 1.58314528978, 2.52375032862)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:11
+[Builder Position] (x, y, z): (2.45267205494, 1.0, -5.02880874727) (yaw, pitch): (0.6000008, 18.149998)
+[Screenshot Path] 31006-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 1.04183236153, 1.24269269223, 3.7908178805)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:13
+[Builder Position] (x, y, z): (2.45267205494, 1.0, -5.02880874727) (yaw, pitch): (-1.649999, 24.149992)
+[Screenshot Path] 33106-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -0.115175739689, 1.63582855489, 3.64839683806)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 0.884409629007, 1.64760892463, 3.67467065729)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:15
+[Builder Position] (x, y, z): (1.87101710195, 1.49520087701, -4.16925193303) (yaw, pitch): (-12.149999, 31.499983)
+[Screenshot Path] 35706-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 0.346184713161, 1.64235408711, 2.68008007285)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 1.3237846546, 1.75232521737, 2.85953676682)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 0.346184713161, 2.49499440649, 2.15758176112)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:19
+[Builder Position] (x, y, z): (1.86562036626, 3.11650136793, -4.08421948303) (yaw, pitch): (-11.399999, 33.449974)
+[Screenshot Path] 39405-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 0.387299208261, 0.0612176013867, 3.7210551902)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 1.36757038633, 0.170168036398, 3.88597401919)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 0.387299208261, 0.895585011886, 3.16984649624)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 0.387299208261, 1.72995242238, 2.61863780228)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:26
+[Builder Position] (x, y, z): (1.74514593018, 1.0, -4.6854797655) (yaw, pitch): (-0.89999616, 2.249981)
+[Screenshot Path] 46753-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 0.952754882636, 0.118380581843, 3.01301247449)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 1.95263151617, 0.118997240391, 3.02870761528)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 0.952754882636, 1.1176096311, 2.97375299009)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 0.952754882636, 2.11683868036, 2.93449350569)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:33
+[Builder Position] (x, y, z): (1.69724807664, 1.0, -4.48166685288) (yaw, pitch): (5.100005, 27.299967)
+[Screenshot Path] 53555-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.266683151362, 1.37049983268, 2.65529853414)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 1.26272420902, 1.32972850866, 2.57630542934)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 2.25876526667, 1.28895718463, 2.49731232453)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 1.26272420902, 2.21834600547, 2.11765638666)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 1.26272420902, 3.10696350229, 1.65900734398)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:36
+[Builder Position] (x, y, z): (1.76280061993, 1.0, -5.1197955116) (yaw, pitch): (4.200005, 2.399968)
+[Screenshot Path] 56003-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.292953136639, 0.167050555691, 3.98575871969)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 1.29026760747, 0.163983695532, 3.91258467623)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 2.2875820783, 0.160916835373, 3.83941063278)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 1.29026760747, 1.16310654902, 3.87070958052)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 1.29026760747, 2.1622294025, 3.8288344848)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:39
+[Builder Position] (x, y, z): (0.864313247297, 1.0, -4.12423782246) (yaw, pitch): (2.7000053, 31.79997)
+[Screenshot Path] 59451-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.141319629328, 1.57911108561, 2.5468484332)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.14020949993, 1.55428804067, 2.50681291342)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 2.13909937054, 1.52946499574, 2.46677739364)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 3.13798924114, 1.5046419508, 2.42674187386)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 2.13909937054, 2.37935796464, 1.93982204315)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 2.13909937054, 3.22925093354, 1.41286669265)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:45
+[Builder Position] (x, y, z): (0.143207744237, 2.37631454238, -3.53254571064) (yaw, pitch): (-8.099996, 39.3)
+[Screenshot Path] 65101-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.281802325642, 0.480283899227, 2.1656211177)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.708221341911, 0.569528000689, 2.27465610308)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 1.69824500946, 0.658772102151, 2.38369108847)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 2.68826867702, 0.748016203613, 2.49272607386)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -0.281802325642, 1.25412410895, 1.53224024507)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 1.69824500946, 1.43261231188, 1.75031021584)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 1.69824500946, 2.2064525216, 1.11692934322)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:48
+[Builder Position] (x, y, z): (0.456775596355, 2.37631454238, -3.48178783166) (yaw, pitch): (-2.8499951, 28.799994)
+[Screenshot Path] 68150-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.0994425769066, 0.08600870282, 2.23219929149)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.899320554909, 0.109962111651, 2.27577039121)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 1.89808368673, 0.133915520481, 2.31934149093)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 2.89684681854, 0.157868929312, 2.36291259065)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -0.0994425769066, 0.962315433313, 1.75044570916)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 1.89808368673, 1.01022225097, 1.8375879086)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.0994425769066, 1.83862216381, 1.26869212682)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 1.89808368673, 1.88652898147, 1.35583432626)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:50
+[Builder Position] (x, y, z): (0.456775596355, 3.48073929027, -3.29995108999) (yaw, pitch): (-1.799995, 31.199997)
+[Screenshot Path] 70150-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.0628213437094, -0.675185872628, 2.74593836715)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.936685219398, -0.658914297631, 2.77280593409)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 1.9361917825, -0.642642722635, 2.79967350104)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 2.93569834561, -0.626371147638, 2.82654106798)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -0.0628213437094, 0.180178414656, 2.22791140256)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 1.9361917825, 0.212721564649, 2.28164653645)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.0628213437094, 1.03554270194, 1.70988443798)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 1.9361917825, 1.06808585193, 1.76361957186)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -0.0628213437094, 1.89090698922, 1.19185747339)
+
+--------------------
+[Timestamp] 2018-04-06 18:24:58
+[Builder Position] (x, y, z): (0.449490294083, 3.49390748023, -8.16658798749) (yaw, pitch): (-0.14999494, 21.600002)
+[Screenshot Path] 78048-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.0183253180184, 0.717310319703, 7.24466217901)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.981671255269, 0.718274034002, 7.24709624323)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 1.98166782856, 0.719237748301, 7.24953030745)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 2.98166440184, 0.7202014626, 7.25196437167)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -0.0183253180184, 1.64708679274, 6.87653759387)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 1.98166782856, 1.64901422134, 6.88140572231)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.0183253180184, 2.57686326578, 6.50841300873)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 1.98166782856, 2.57879069438, 6.51328113717)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -0.0183253180184, 3.50663973882, 6.14028842359)
+
+--------------------
+[Timestamp] 2018-04-06 18:25:13
+[Builder Position] (x, y, z): (0.449490294083, 3.49390748023, -8.16658798749) (yaw, pitch): (-0.14999494, 21.600002)
+[Screenshot Path] 93396-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -0.0183253180184, 0.717310319703, 7.24466217901)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 0.981671255269, 0.718274034002, 7.24709624323)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 1.98166782856, 0.719237748301, 7.24953030745)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 2.98166440184, 0.7202014626, 7.25196437167)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -0.0183253180184, 1.64708679274, 6.87653759387)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 1.98166782856, 1.64901422134, 6.88140572231)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.0183253180184, 2.57686326578, 6.50841300873)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 1.98166782856, 2.57879069438, 6.51328113717)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -0.0183253180184, 3.50663973882, 6.14028842359)
+
+--------------------
+[Timestamp] 2018-04-06 18:25:20
+[Builder Position] (x, y, z): (0.449997657667, 2.37631454238, -6.02176045772) (yaw, pitch): (1.8000048, 13.200006)
+[Screenshot Path] 100544-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): 0.157054214063, 0.167612591255, 5.09384334202)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): 1.1565607718, 0.160439894765, 5.06326240889)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 2.15606732953, 0.153267198275, 5.03268147576)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 3.15557388726, 0.146094501786, 5.00210054263)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): 0.157054214063, 1.14119147021, 4.86549236996)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 2.15606732953, 1.12684607724, 4.80433050369)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): 0.157054214063, 2.11477034917, 4.6371413979)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 2.15606732953, 2.1004249562, 4.57597953163)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): 0.157054214063, 3.08834922813, 4.40879042583)
+
+--------------------
+[Timestamp] 2018-04-06 18:25:35
+[Builder Position] (x, y, z): (2.41902949435, 2.37631454238, -5.87840803612) (yaw, pitch): (-1.0499926, 59.400013)
+[Screenshot Path] 114794-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 1, -5)  Perspective (x, y, z): -0.0183248022634, 0.351556392006, 1.36969788817)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -2.07296338248, 2.90180337027, 2.87790896576)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.07313129577, 2.91757629983, 2.88723704547)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -0.0732992090536, 2.93334922939, 2.89656512518)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 0.92653287766, 2.94912215895, 2.90589320489)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -2.07296338248, 3.41084459072, 2.01716682326)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -0.0732992090536, 3.44239044984, 2.03582298268)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -2.07296338248, 3.91988581117, 1.15642468076)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -0.0732992090536, 3.9514316703, 1.17508084018)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -2.07296338248, 4.42892703163, 0.295682538258)
+
+--------------------
+[Timestamp] 2018-04-06 18:25:39
+[Builder Position] (x, y, z): (2.42389084429, 2.37631454238, -7.3590012414) (yaw, pitch): (1.9500074, 35.850006)
+[Screenshot Path] 119443-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 1, -5)  Perspective (x, y, z): 0.102082438745, 0.945425513699, 3.01591607538)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -1.79467691778, 2.74126143411, 5.50132897677)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.795256020147, 2.72133271927, 5.47374790189)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 0.20416487749, 2.70140400442, 5.44616682702)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 1.20358577513, 2.68147528958, 5.41858575214)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -1.79467691778, 3.55181441114, 4.91566365302)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 0.20416487749, 3.51195698144, 4.86050150327)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -1.79467691778, 4.36236738816, 4.32999832928)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 0.20416487749, 4.32250995847, 4.27483617953)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -1.79467691778, 5.17292036518, 3.74433300553)
+
+--------------------
+[Timestamp] 2018-04-06 18:25:48
+[Builder Position] (x, y, z): (1.77903891024, 2.37631454238, -6.85204646086) (yaw, pitch): (-2.6999924, 30.45)
+[Screenshot Path] 127692-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (2, 1, -5)  Perspective (x, y, z): 0.904677244786, 0.174248418718, 2.26962476444)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -1.23442147227, 1.64517374008, 4.77175093584)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.23553159106, 1.66904657475, 4.81235996169)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 0.763358290151, 1.69291940941, 4.85296898755)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 1.76224817136, 1.71679224408, 4.8935780134)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -1.23442147227, 2.50724548316, 4.26496467933)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 0.763358290151, 2.55499115249, 4.34618273103)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -1.23442147227, 3.36931722624, 3.75817842282)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 0.763358290151, 3.41706289557, 3.83939647452)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -1.23442147227, 4.23138896932, 3.25139216631)
+
+--------------------
+[Timestamp] 2018-04-06 18:25:54
+[Builder Position] (x, y, z): (1.77903891024, 2.37631454238, -6.85204646086) (yaw, pitch): (-8.849993, 45.15)
+[Screenshot Path] 134606-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -1.75733476441, 2.68825091131, 4.08473763707)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -0.76924024577, 2.7973223407, 4.19323945972)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): 0.218854272873, 2.9063937701, 4.30174128237)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 1.20694879152, 3.01546519949, 4.41024310502)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -1.75733476441, 3.39350407017, 3.37578207999)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 0.218854272873, 3.61164692896, 3.59278572529)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -1.75733476441, 4.09875722903, 2.6668265229)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): 0.218854272873, 4.31690008782, 2.88383016821)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -1.75733476441, 4.8040103879, 1.95787096582)
+
+--------------------
+[Timestamp] 2018-04-06 18:25:56
+[Builder Position] (x, y, z): (4.8028964475, 2.37631454238, -7.72318855361) (yaw, pitch): (1.3500066, 43.35)
+[Screenshot Path] 136706-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -5)  Perspective (x, y, z): 0.0706796399802, 1.33161396696, 2.86736963635)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -3.85753043006, 3.45509294455, 5.11681460732)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.85780800255, 3.43892018969, 5.09968247536)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -1.85808557505, 3.42274743484, 5.08255034339)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -0.858363147544, 3.40657467998, 5.06541821142)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -3.85753043006, 4.18226693575, 4.43036141408)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -1.85808557505, 4.14992142604, 4.39609715014)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.85753043006, 4.90944092695, 3.74390822083)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -1.85808557505, 4.87709541724, 3.70964395689)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -3.85753043006, 5.63661491815, 3.05745502758)
+
+--------------------
+[Timestamp] 2018-04-06 18:25:59
+[Builder Position] (x, y, z): (3.18179630772, 1.0, -8.12023111279) (yaw, pitch): (-1.0499933, 25.199999)
+[Screenshot Path] 139356-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -5)  Perspective (x, y, z): 0.926532828575, 1.71063345296, 3.63528129685)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -3.12776996082, 2.95654749305, 6.28298352644)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.12793787433, 2.96434981929, 6.29956431445)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -1.12810578784, 2.97215214552, 6.31614510246)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -0.128273701351, 2.97995447176, 6.33272589047)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -3.12776996082, 3.86137455295, 5.85720425067)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -1.12810578784, 3.87697920542, 5.89036582669)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.12776996082, 4.76620161284, 5.4314249749)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -1.12810578784, 4.78180626532, 5.46458655091)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -3.12776996082, 5.67102867274, 5.00564569912)
+
+--------------------
+[Timestamp] 2018-04-06 18:26:11
+[Builder Position] (x, y, z): (3.60861450581, 1.0, -8.17881675516) (yaw, pitch): (-0.44999328, 22.050003)
+[Screenshot Path] 151103-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -5)  Perspective (x, y, z): 0.968554024141, 1.50456459864, 3.71459129257)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -3.05488396094, 2.61898299067, 6.46595793983)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.05491480238, 2.62193142371, 6.47323727082)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -1.05494564381, 2.62487985675, 6.4805166018)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -0.0549764852434, 2.62782828979, 6.48779593278)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -3.05488396094, 3.54583956666, 6.09054232008)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -1.05494564381, 3.55173643274, 6.10510098204)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.05488396094, 4.47269614264, 5.71512670032)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -1.05494564381, 4.47859300872, 5.72968536229)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -3.05488396094, 5.39955271862, 5.33971108057)
+
+--------------------
+[Timestamp] 2018-04-06 18:26:26
+[Builder Position] (x, y, z): (3.82527347951, 1.0, -5.36216902305) (yaw, pitch): (-22.34999, 45.450016)
+[Screenshot Path] 166654-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 19
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -4.29568788885, 1.82344537263, 1.79502438274)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -3.37080959431, 2.09443568734, 2.06179092792)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -2.44593129978, 2.36542600205, 2.32855747311)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -1.52105300524, 2.63641631677, 2.59532401829)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -4.29568788885, 2.5249765994, 1.08238566791)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.44593129978, 3.06695722882, 1.61591875828)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.29568788885, 3.22650782616, 0.369746953076)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -2.44593129978, 3.76848845558, 0.903280043448)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -4.29568788885, 3.92803905293, -0.342891761754)
+
+--------------------
+[Timestamp] 2018-04-06 18:26:27
+[Builder Position] (x, y, z): (3.82527347951, 1.0, -5.36216902305) (yaw, pitch): (-16.799992, 44.850018)
+[Screenshot Path] 167300-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -4)  Perspective (x, y, z): 0.379256211335, 1.55414624062, 1.56230412818)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -4.02808526678, 2.08908969169, 2.10005555729)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -3.07076572889, 2.2929302496, 2.3049660971)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -2.113446191, 2.49677080751, 2.50987663692)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -1.15612665311, 2.70061136542, 2.71478717673)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -4.02808526678, 2.79804502721, 1.3948021757)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.113446191, 3.20572614303, 1.80462325533)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.02808526678, 3.50700036272, 0.689548794115)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -2.113446191, 3.91468147855, 1.09936987374)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -4.02808526678, 4.21595569824, -0.0157045874715)
+
+--------------------
+[Timestamp] 2018-04-06 18:26:32
+[Builder Position] (x, y, z): (3.18422514772, 1.0, -5.34781824836) (yaw, pitch): (-2.54999, 30.750011)
+[Screenshot Path] 172000-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+	<Builder> here?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -4)  Perspective (x, y, z): 0.91002772319, 1.04432188401, 1.755346503)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -3.17499347285, 1.97490395032, 3.31951364425)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.175983689, 1.99765191386, 3.3577495166)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -1.17697390516, 2.0203998774, 3.39598538895)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -0.177964121313, 2.04314784094, 3.4342212613)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -3.17499347285, 2.83431026366, 2.80822039318)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -1.17697390516, 2.87980619074, 2.88469213788)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.17499347285, 3.693716577, 2.29692714211)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -1.17697390516, 3.73921250408, 2.37339888681)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -3.17499347285, 4.55312289034, 1.78563389104)
+
+--------------------
+[Timestamp] 2018-04-06 18:26:34
+[Builder Position] (x, y, z): (3.18700628647, 1.0, -5.2633515892) (yaw, pitch): (-2.3999898, 28.350018)
+[Screenshot Path] 174252-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+	<Builder> here?
+	<Architect> ok yeah you have it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -4)  Perspective (x, y, z): 0.91537188583, 0.968765128702, 1.79543544469)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -3.16487041611, 1.83810601306, 3.40660557359)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.16574757856, 1.85799086192, 3.44345863675)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -1.166624741, 1.87787571079, 3.48031169991)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -0.167501903447, 1.89776055966, 3.51716476307)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -3.16487041611, 2.71816916217, 2.93174890724)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -1.166624741, 2.75793885991, 3.00545503356)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.16487041611, 3.59823231128, 2.45689224089)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -1.166624741, 3.63800200902, 2.53059836721)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -3.16487041611, 4.47829546039, 1.98203557454)
+
+--------------------
+[Timestamp] 2018-04-06 18:26:44
+[Builder Position] (x, y, z): (3.17368495128, 1.0, -6.20148735517) (yaw, pitch): (-0.89998984, 27.600025)
+[Screenshot Path] 183998-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+	<Builder> here?
+	<Architect> ok yeah you have it
+	<Architect> now 1 red block 1 toward you 1 to the left
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -4)  Perspective (x, y, z): 0.952755215242, 1.39699486384, 2.67220187303)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -3.07816560584, 2.29436515151, 4.38871109263)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.07828897058, 2.30164221327, 4.40263081315)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -1.07841233531, 2.30891927504, 4.41655053367)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -0.078535700041, 2.3161963368, 4.43047025419)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -3.07816560584, 3.18056852859, 3.92541467083)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -1.07841233531, 3.19512265212, 3.95325411187)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.07816560584, 4.06677190567, 3.46211824903)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -1.07841233531, 4.0813260292, 3.48995769007)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -3.07816560584, 4.95297528275, 2.99882182723)
+
+--------------------
+[Timestamp] 2018-04-06 18:26:48
+[Builder Position] (x, y, z): (3.17368495128, 1.0, -6.20148735517) (yaw, pitch): (-0.89998984, 27.600025)
+[Screenshot Path] 187748-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+	<Builder> here?
+	<Architect> ok yeah you have it
+	<Architect> now 1 red block 1 toward you 1 to the left
+	<Architect> of the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 19
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -4)  Perspective (x, y, z): 0.952755215242, 1.39699486384, 2.67220187303)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -3.07816560584, 2.29436515151, 4.38871109263)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -2.07828897058, 2.30164221327, 4.40263081315)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -1.07841233531, 2.30891927504, 4.41655053367)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -0.078535700041, 2.3161963368, 4.43047025419)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -3.07816560584, 3.18056852859, 3.92541467083)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -1.07841233531, 3.19512265212, 3.95325411187)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -3.07816560584, 4.06677190567, 3.46211824903)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -1.07841233531, 4.0813260292, 3.48995769007)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -3.07816560584, 4.95297528275, 2.99882182723)
+
+--------------------
+[Timestamp] 2018-04-06 18:27:00
+[Builder Position] (x, y, z): (4.86803010467, 1.0, -6.27053782659) (yaw, pitch): (-8.84999, 38.700043)
+[Screenshot Path] 199646-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+	<Builder> here?
+	<Architect> ok yeah you have it
+	<Architect> now 1 red block 1 toward you 1 to the left
+	<Architect> of the orange
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (5, 1, -5)  Perspective (x, y, z): 0.680398531862, 1.33179127132, 1.66234468372)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -4)  Perspective (x, y, z): -0.461543992254, 1.85339827595, 2.31341565092)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -4.72161809388, 2.70422744383, 3.37542241913)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -3.73352356718, 2.80041986452, 3.49549000223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -2.74542904049, 2.89661228521, 3.61555758533)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -1.75733451379, 2.9928047059, 3.73562516843)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -4.72161809388, 3.48465738193, 2.75017917709)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.74542904049, 3.67704222331, 2.99031434329)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.72161809388, 4.26508732003, 2.12493593504)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -2.74542904049, 4.45747216141, 2.36507110125)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -4.72161809388, 5.04551725813, 1.499692693)
+
+--------------------
+[Timestamp] 2018-04-06 18:27:04
+[Builder Position] (x, y, z): (4.87930279292, 1.0, -6.27053782659) (yaw, pitch): (-8.84999, 38.700043)
+[Screenshot Path] 204345-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+	<Builder> here?
+	<Architect> ok yeah you have it
+	<Architect> now 1 red block 1 toward you 1 to the left
+	<Architect> of the orange
+	<Builder> at the corner?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (5, 1, -5)  Perspective (x, y, z): 0.680398531862, 1.33179127132, 1.66234468372)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -4)  Perspective (x, y, z): -0.461543992254, 1.85339827595, 2.31341565092)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -4.72161809388, 2.70422744383, 3.37542241913)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -3.73352356718, 2.80041986452, 3.49549000223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -2.74542904049, 2.89661228521, 3.61555758533)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -1.75733451379, 2.9928047059, 3.73562516843)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -4.72161809388, 3.48465738193, 2.75017917709)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.74542904049, 3.67704222331, 2.99031434329)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.72161809388, 4.26508732003, 2.12493593504)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -2.74542904049, 4.45747216141, 2.36507110125)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -4.72161809388, 5.04551725813, 1.499692693)
+
+--------------------
+[Timestamp] 2018-04-06 18:27:06
+[Builder Position] (x, y, z): (4.87930279292, 1.0, -6.27053782659) (yaw, pitch): (-8.84999, 38.700043)
+[Screenshot Path] 206245-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+	<Builder> here?
+	<Architect> ok yeah you have it
+	<Architect> now 1 red block 1 toward you 1 to the left
+	<Architect> of the orange
+	<Builder> at the corner?
+	<Architect> ok we are done
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (5, 1, -5)  Perspective (x, y, z): 0.680398531862, 1.33179127132, 1.66234468372)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -4)  Perspective (x, y, z): -0.461543992254, 1.85339827595, 2.31341565092)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -4.72161809388, 2.70422744383, 3.37542241913)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -3.73352356718, 2.80041986452, 3.49549000223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -2.74542904049, 2.89661228521, 3.61555758533)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -1.75733451379, 2.9928047059, 3.73562516843)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -4.72161809388, 3.48465738193, 2.75017917709)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.74542904049, 3.67704222331, 2.99031434329)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.72161809388, 4.26508732003, 2.12493593504)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -2.74542904049, 4.45747216141, 2.36507110125)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -4.72161809388, 5.04551725813, 1.499692693)
+
+--------------------
+[Timestamp] 2018-04-06 18:27:10
+[Builder Position] (x, y, z): (4.87930279292, 1.0, -6.27053782659) (yaw, pitch): (-8.84999, 38.700043)
+[Screenshot Path] 209894-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+	<Builder> here?
+	<Architect> ok yeah you have it
+	<Architect> now 1 red block 1 toward you 1 to the left
+	<Architect> of the orange
+	<Builder> at the corner?
+	<Architect> ok we are done
+	<Builder> good job
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (5, 1, -5)  Perspective (x, y, z): 0.680398531862, 1.33179127132, 1.66234468372)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -4)  Perspective (x, y, z): -0.461543992254, 1.85339827595, 2.31341565092)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -4.72161809388, 2.70422744383, 3.37542241913)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -3.73352356718, 2.80041986452, 3.49549000223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -2.74542904049, 2.89661228521, 3.61555758533)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): -1.75733451379, 2.9928047059, 3.73562516843)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -4.72161809388, 3.48465738193, 2.75017917709)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.74542904049, 3.67704222331, 2.99031434329)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -4.72161809388, 4.26508732003, 2.12493593504)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -2.74542904049, 4.45747216141, 2.36507110125)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -4.72161809388, 5.04551725813, 1.499692693)
+
+--------------------
+[Timestamp] 2018-04-06 18:27:12
+[Builder Position] (x, y, z): (4.87930279292, 1.0, -6.27053782659) (yaw, pitch): (17.850008, 17.550045)
+[Screenshot Path] 212494-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> hello
+	<Architect> ok lets begin with a 2d drawing
+	<Architect> 1st column: blue
+	<Architect> 2nd: blue, green, purple,
+	<Architect> 3rd column: blue
+	<Architect> 4th: blue, red, orange, yellow
+	<Architect> ok we're not quite done yet
+	<Builder> its all 2d right?
+	<Architect> lets look at the left most blue block. place an orange block 2 spaces towards you and 1 space to the right
+	<Builder> here?
+	<Architect> mb I meant to say 1 space to the left
+	<Architect> so like chess but the horse goes in the other direction. yep
+	<Builder> here?
+	<Builder> here?
+	<Architect> ok yeah you have it
+	<Architect> now 1 red block 1 toward you 1 to the left
+	<Architect> of the orange
+	<Builder> at the corner?
+	<Architect> ok we are done
+	<Builder> good job
+	<Architect> gj
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 18
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 18
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (5, 1, -5)  Perspective (x, y, z): 1.56491463996, 0.481617090413, 1.52285493329)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (4, 1, -4)  Perspective (x, y, z): 0.919578633009, 0.861069912432, 2.72267033326)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -2)  Perspective (x, y, z): -2.2748178168, 1.80483459222, 5.70681837761)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 1, -2)  Perspective (x, y, z): -1.32295559885, 1.71240507434, 5.4145597554)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 1, -2)  Perspective (x, y, z): -0.371093380893, 1.61997555647, 5.12230113319)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (3, 1, -2)  Perspective (x, y, z): 0.580768837061, 1.5275460386, 4.83004251098)
+	Type: cwc_minecraft_red_rn  Absolute (x, y, z): (0, 2, -2)  Perspective (x, y, z): -2.2748178168, 2.75828852771, 5.40527966883)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -0.371093380893, 2.57342949196, 4.82076242441)
+	Type: cwc_minecraft_orange_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -2.2748178168, 3.7117424632, 5.10374096004)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (2, 3, -2)  Perspective (x, y, z): -0.371093380893, 3.52688342745, 4.51922371562)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -2)  Perspective (x, y, z): -2.2748178168, 4.66519639869, 4.80220225126)
+
+Time elapsed: 0:03:53 (233.07s)

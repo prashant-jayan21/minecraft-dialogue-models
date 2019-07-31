@@ -1,0 +1,33 @@
+Namespace(all_data=True, data_path='../data/logs/', embed_size=300, lower=True, oov_as_unk=True, seed=1234, threshold=1, train_embeddings=False, use_speaker_tokens=True, vector_filename='../data/embeddings/glove.42B.300d.txt', verbose=False, vocab_filename='glove.42B.300d-lower-1r-speaker-oov_as_unk-all_data.pkl')
+Building vocabulary.
+	data path: ../data/logs/ 
+	embeddings file: ../data/embeddings/glove.42B.300d.txt 
+	embedding size: 300 
+	freeze embeddings: True 
+	use speaker tokens: True 
+	add words: False 
+	lowercase: True 
+	rare word threshold: 1 
+
+Using all three of train, val and test data...
+
+Tokenizations fixed: {'7x5 -> 7 x 5', 'them* -> them *', 'something.. -> something ..', 'chegg* -> chegg *', 'shape* -> shape *', '2x3 -> 2 x 3', 'a2x3 -> a2 x 3', 'please* -> please *', '5x5x5 -> 5 x 5 x 5', '1x6 -> 1 x 6', '3x3x1 -> 3 x 3 x 1', '9x3x4 -> 9 x 3 x 4', '5x3 -> 5 x 3', '3x6 -> 3 x 6', '3x3? -> 3 x 3?', 'red* -> red *', '2x4 -> 2 x 4', '6x6 -> 6 x 6', '1x3 -> 1 x 3', '*! -> * !', 'arrow.. -> arrow ..', 'build* -> build *', 'okay* -> okay *', '5x6 -> 5 x 6', 'out.. -> out ..', 'this* -> this *', 'orange.. -> orange ..', '*like -> * like', "*you're -> * you're", '9x1 -> 9 x 1', '4x4 -> 4 x 4', '*everything -> * everything', '9x7 -> 9 x 7', '7x4 -> 7 x 4', 'mess.. -> mess ..', '3x3u -> 3 x 3u', 'one* -> one *', 'grid* -> grid *', 'one.. -> one ..', 'diagonally* -> diagonally *', 'corners* -> corners *', 'plus* -> plus *', '4x1 -> 4 x 1', '*actually -> * actually', '*yup -> * yup', '4x1s... -> 4 x 1s...', '5x7 -> 5 x 7', '3x3x2 -> 3 x 3 x 2', 'tip* -> tip *', '3x4 -> 3 x 4', '5x5? -> 5 x 5?', 'ok* -> ok *', '4x1orange -> 4 x 1orange', 'it* -> it *', '7x7 -> 7 x 7', 'yellow* -> yellow *', '*oh -> * oh', '7x1 -> 7 x 1', 'ground* -> ground *', '8x6 -> 8 x 6', 'degrees* -> degrees *', '*forward -> * forward', '1x4 -> 1 x 4', '2x1 -> 2 x 1', '3x2 -> 3 x 2', 'hm.. -> hm ..', 'ball.. -> ball ..', '9x9 -> 9 x 9', '1x2 -> 1 x 2', '5x1 -> 5 x 1', '*in -> * in', 'good* -> good *', 'on* -> on *', '*built -> * built', '*mirrored -> * mirrored', '2* -> 2 *', '4x4? -> 4 x 4?', 'rectangle* -> rectangle *', 'edge* -> edge *', '4x3 -> 4 x 3', 'd0* -> d0 *', '3x2? -> 3 x 2?', 'bottom* -> bottom *', 'intersection.. -> intersection ..', 'like* -> like *', 'block* -> block *', '2x5 -> 2 x 5', 'meant* -> meant *', 'bricks* -> bricks *', 'you* -> you *', '*orange -> * orange', 'step.. -> step ..', '3x3x3 -> 3 x 3 x 3', 's&* -> s& *', '5x5 -> 5 x 5', 'guess* -> guess *', 'row* -> row *', '3x3 -> 3 x 3', '3x1 -> 3 x 1', 'orange* -> orange *', '3x7 -> 3 x 7', 'off* -> off *', '3x5 -> 3 x 5', 'its* -> its *', '2x2x2 -> 2 x 2 x 2', '5x5, -> 5 x 5,', 'purple* -> purple *', 'writing* -> writing *', 'other.. -> other ..', '6x3 -> 6 x 3', '5x4 -> 5 x 4', '*great -> * great', '10x4 -> 10 x 4', 'bit* -> bit *', 'hmm.. -> hmm ..', "*it's -> * it's", 'worries* -> worries *', 'float.. -> float ..', '*third -> * third', '11x1x4 -> 11 x 1 x 4', '2x2 -> 2 x 2', 'now* -> now *', 'wide.. -> wide ..', '*? -> * ?', 'many* -> many *', 'great.. -> great ..', '8x7 -> 8 x 7', '5x9 -> 5 x 9'} 
+
+
+Loading word embedding vectors from ../data/embeddings/glove.42B.300d.txt ...
+Adding random vector for rare bucket as there are no rare words...
+
+206 of 2671 total word types (7.7%) in the train set were treated as unk, as they did not meet the rare word threshold (1).
+There are 317 total rare word tokens out of 114023 total tokens (0.3%).
+Added 0 OOV word types to vocabulary, out of a total of 2671 word types in the train set (0.0%).
+There are 0 total OOV tokens out of 114023 total tokens (0.0%).
+
+OOV words: set() 
+
+There are 310 UNK utterances out of 15926 total utterances (1.9%).
+
+Wrote word counts to ../vocabulary/glove.42B.300d-lower-1r-speaker-oov_as_unk-all_data-word_counts.txt 
+
+Saving the vocabulary ...
+Saved the vocabulary to '/Users/prashant/Work/cwc-minecraft-models/vocabulary/glove.42B.300d-lower-1r-speaker-oov_as_unk-all_data.pkl'
+Total vocabulary size: 2473

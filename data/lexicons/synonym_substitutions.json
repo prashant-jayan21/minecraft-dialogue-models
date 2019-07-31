@@ -1,0 +1,157 @@
+{
+
+  "two": ["2"],
+  "three": ["3"],
+  "four": ["4"],
+  "five": ["5"],
+  "six": ["6"],
+  "seven": ["7"],
+  "eight": ["8"],
+  "nine": ["9"],
+
+  "second": ["2nd"],
+  "2nd": ["second"],
+  "third": ["3rd"],
+  "3rd": ["third"],
+
+  "okay": ["ok"],
+  "ok": ["okay"],
+
+  "put": ["place", "add"],
+  "place": ["put", "add"],
+  "add": ["put", "place"],
+
+  "placed": ["put", "added"],
+
+  "make": ["build"],
+  "build": ["make"],
+  "made": ["built"],
+  "built": ["made"],
+
+  "building": ["making"],
+
+  "yes": ["yep", "ya", "yeah", "yup", "yea"],
+  "yep": ["yes", "ya", "yeah", "yup", "yea"],
+  "ya": ["yep", "yes", "yeah", "yup", "yea"],
+  "yeah": ["yes", "yep", "ya", "yup", "yea"],
+  "yup": ["yes", "yep", "ya", "yeah", "yea"],
+  "yea": ["yes", "yep", "ya", "yeah", "yup"],
+
+  "ground": ["floor"],
+
+  "perfect": ["good", "great", "awesome", "nice", "cool", "alright"],
+  "great": ["good", "perfect", "awesome", "nice", "cool", "alright"],
+  "nice": ["good", "great", "awesome", "perfect", "cool", "alright"],
+  "cool": ["good", "great", "awesome", "perfect", "nice", "alright"],
+  "awesome": ["good", "perfect", "great", "nice", "cool", "alright"],
+  "alright": ["good", "perfect", "great", "nice", "cool", "awesome"],
+
+  "but": ["however"],
+  "however": ["but"],
+
+  "start": ["begin"],
+  "begin": ["start"],
+
+  "starting": ["beginning"],
+  "beginning": ["starting"],
+
+  "remove": ["delete", "break"],
+  "delete": ["remove", "break"],
+  "break": ["remove", "delete"],
+
+  "floating": ["hovering"],
+  "hovering": ["floating"],
+
+  "towards": ["toward"],
+  "toward": ["towards"],
+
+  "looks": ["seems"],
+
+  "brick": ["block"],
+  "block": ["brick"],
+  "bricks": ["blocks"],
+  "blocks": ["bricks"],
+  "ones": ["blocks", "bricks"],
+
+  "done": ["finished"],
+
+  "move": ["shift"],
+  "shift": ["move"],
+
+  "spaces": ["squares"],
+
+  "squares": ["blocks", "bricks"],
+
+  "think": ["believe"],
+  "believe": ["think"],
+
+  "gap": ["space"],
+
+  "shape": ["structure"],
+
+  "hello": ["hi"],
+  "hi": ["hello"],
+
+  "empty": ["blank"],
+  "blank": ["empty"],
+
+  "below": ["under", "underneath"],
+  "under": ["below", "underneath"],
+  "underneath": ["below", "under"],
+
+  "tower": ["stack", "pillar"],
+  "pillar": ["stack", "tower"],
+
+  "connect": ["join"],
+  "join": ["connect"],
+  "connected": ["joined"],
+  "joined": ["connected"],
+
+  "level": ["layer"],
+
+  "u": ["you"],
+  "you": ["u"],
+
+  "tall": ["high"],
+  "high": ["tall"],
+
+  "lol": ["haha"],
+  "haha": ["lol"],
+
+  "wait": ["stop"],
+  "stop": ["wait"],
+
+  "staircase": ["stairway"],
+  "stairway": ["staircase"],
+
+  "want": ["need"],
+  "need": ["want"],
+
+  "job": ["work", "stuff"],
+
+  "please": ["pls"],
+  "pls": ["please"],
+
+  "perpendicular": ["orthogonal"],
+  "orthogonal": ["perpendicular"],
+
+  "correct": ["right"],
+
+  "gotcha": ["understood"],
+  "understood": ["gotcha"],
+
+  "repeat": ["redo", "mimic"],
+  "redo": ["repeat", "mimic"],
+  "mimic": ["redo", "repeat"],
+
+  "sort": ["kind"],
+  "kind": ["sort"],
+
+  "table": ["desk"],
+  "desk": ["table"],
+
+  "problem": ["worries", "prob"],
+  "worries": ["problem", "prob"],
+  "prob": ["problem", "worries"]
+
+}

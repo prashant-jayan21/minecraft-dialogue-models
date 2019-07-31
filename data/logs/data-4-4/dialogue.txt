@@ -1,0 +1,1089 @@
+B11-A7-C46-1522854350889
+<Builder> Mission has started.
+<Architect> okay so start by putting a red block down, close to the bottom left corner
+<Builder> like that?
+<Architect> yeah, now put an orange one adjacent on a diagonal, towards teh center
+<Builder> then yellow?
+<Architect> nope, blue
+<Architect> go up two squares and then right
+<Architect> so not where you just put it
+<Architect> left one square
+<Builder> ok
+<Architect> oh sorry wrong way
+<Architect> yes
+<Builder> great. what's next?
+<Architect> not quite sorry we need to mvoe the blue block again
+<Architect> from the direction your facing now, two square forward
+<Architect> and one right
+<Builder> if red is (0,0) and orange is (1,1), what is blue?
+<Architect> okay not quite
+<Architect> (2,3)
+<Builder> got it
+<Architect> try (3,2) my bad
+<Architect> did you move it?
+<Builder> ywa
+<Builder> yes
+<Builder> it's one unit to my right from the diagonal
+<Architect> go back to (2,3)
+<Architect> yeah okay now blue at (3,3), (4,3), and (5,3) as well
+<Builder> got it
+<Architect> now put green on top of the (3,3) blue
+<Architect> and purple on top of that
+<Architect> and red on top of the (5,3) blue
+<Architect> then orange on top of that
+<Architect> then yellow on top of that
+<Builder> is that it?
+<Architect> yep!
+<Builder> cool!
+
+B11-A7-C47-1522854931177
+<Builder> Mission has started.
+<Architect> okay so now we're building a 3 block wide stair
+<Architect> put down 3 blue blocks
+<Architect> now three red blocks alongside it
+<Architect> and 3 more red blocks on top of that
+<Builder> will i remove the first 3 red?
+<Architect> and then the next layer is all purple
+<Architect> okay that should be it
+<Builder> really?
+<Architect> yes
+
+B11-A7-C65-1522855189755
+<Builder> Mission has started.
+<Architect> okay so this one is a person like shape?
+<Builder> ok. one color?
+<Architect> put a green block close to one side of the square
+<Architect> no
+<Builder> is this a hand?
+<Architect> diagonal upwards put another gree block
+<Builder> or head?
+<Architect> it's a foot
+<Architect> up like 3-d up
+<Builder> ok. similar foot?
+<Builder> like this?
+<Architect> liek that but build towards the center otherwise it won't all fit
+<Builder> ok
+<Architect> diagonal up one more
+<Architect> still green
+<Builder> ok. another foot on the other side?
+<Architect> yes, but we'll do the body first
+<Builder> k
+<Architect> put a red block next to the green block you just built
+<Architect> three more red blocks on top of that one
+<Architect> and orange on top of that
+<Architect> now build the leg on the other side of the red block, symmetric to the first leg
+<Builder> arms?
+<Architect> yep! on the fourth red block put a gree block on the right
+<Architect> left
+<Architect> sorry
+<Builder> my left?
+<Architect> yes
+<Architect> now one green block diagonal up
+<Architect> now on the other side one green block next to the same red block
+<Architect> not quite, the last one is diagonal towards you instead of diagonal up
+<Builder> tricky
+<Architect> it's not up at all
+<Builder> oh, on same level
+<Builder> i see
+<Architect> yeah that's it!
+<Builder> cool
+
+B11-A7-C69-1522855627706
+<Builder> Mission has started.
+<Architect> so this one is kind of like a truck or a dog or something
+<Builder> ok. so four legs/wheels?
+<Architect> yes, put four blue blocks on the corners of a 4x3 rectangle
+<Architect> now we're going to put a 5x3 red rectangle on top of that
+<Architect> 6x3 actually
+<Builder> ok. sticking out one on each side?
+<Architect> yes
+<Builder> filled in?
+<Architect> sticking out in the other dimension
+<Architect> and yes, filled in
+<Builder> thanks
+<Architect> go to the left side and face the shape from there
+<Architect> put a yellow on the leftmost red block and the rightmost
+<Architect> and a green in the middle
+<Architect> now put 3 green blocks on top of those
+<Architect> those three green blocks are the side of a 3x3 square
+<Architect> that sits on top of the red blocks
+<Builder> that lays flat?
+<Architect> yes
+<Builder> filled in?
+<Architect> yes
+<Architect> face the front of the truck again
+<Architect> and put three red blocks on top of the middle row
+<Builder> I'll assume all polygons are filled in from now on
+<Architect> sorry green
+<Builder> i'm out of red blocks
+<Architect> put orange behind the left and right of the blocks you just placed
+<Builder> like that?
+<Architect> yes except i made a mistake. There's not green block between the two orange blocks on the bottom layer of the square
+<Builder> ok, did I clean it up correctly?
+<Architect> yes, i think that's it
+
+B11-A7-C70-1522856162986
+<Builder> Mission has started.
+<Architect> this one doesn't really look like anything, it's just super snakey
+<Builder> ok. maybe back to coordinates?
+<Architect> put a yellow block in one corner of the square
+<Architect> okay let's call that square the bottom left corner
+<Builder> ok
+<Architect> (0,0)
+<Builder> does the whole thing stay on the ground/
+<Builder> ?
+<Architect> yellow blocks at (0,1), (1,1), and (2,1)
+<Architect> no unfortunately
+<Architect> on the right most block put a yellow block on top of that
+<Architect> and go right one more
+<Architect> now forward one
+<Builder> i'll face the same way as much as possible so relative directions work well
+<Architect> and two more in the same direction
+<Architect> put two blocks on top of the last block you built
+<Architect> one right
+<Architect> one up
+<Architect> on right
+<Architect> one right from the last thing you built
+<Architect> one up
+<Architect> now build two towards you
+<Architect> one to the right
+<Architect> one up
+<Architect> one away from you
+<Builder> that's my last yellow
+<Architect> now we're going to switch to green
+<Builder> ready
+<Architect> i think something might be wrong, give me a second to check
+<Builder> ok.
+<Architect> okay never mind it's fine
+<Builder> great
+<Architect> build one block right of the last block you built
+<Architect> another block right
+<Builder> feel free to give more than one direction at a time if you're comfortable
+<Builder> e.g. one right, then one up
+<Architect> one down, and then i have to check to see whats going on
+<Architect> one more down, then one away from you
+<Architect> down and away from you again
+<Architect> then down and right
+<Architect> i think that's it, i'm going to check really quickly
+<Builder> sounds good
+<Architect> yeah look good
+
+B11-A7-C157-1522857006209
+<Builder> Mission has started.
+<Architect> this one's like a butterfly when you look at it form the top
+<Builder> ok, thanks
+<Architect> but it's going to be built in the air
+<Builder> so all on one horizontal plane, but floating?
+<Architect> not quite all in one horizontal plane but more or less
+<Builder> ok.
+<Architect> the first purple block is going to be closer to your side of the box and about cells up?
+<Builder> how many cells up?
+<Architect> yes, but get rid of the bottom two blocks
+<Architect> and i think maybe go one more up?
+<Architect> cool that's right
+<Builder> great. Should we maybe build the others on this "floor" next?
+<Architect> now that's the bottom of a line of four blocks going away from you
+<Architect> and yes, sounds good
+<Architect> now there's a blue block one up and to the left
+<Architect> not up, away from you
+<Builder> floating?
+<Architect> and one more in teh same direction
+<Architect> okay apparently we should shift this all down by one
+<Builder> ok, that should be it. Everything's on the third level now
+<Architect> yep!
+<Architect> now a symmetric blue antenna on the other side
+<Architect> now on either side of the third purple block away from you, put an orange block
+<Architect> that's everything on this level
+<Architect> one level up, we're going to have an orange block twoards you and right from the last block you placed
+<Builder> like that?
+<Architect> yes, and then the same thing but away from you on the same side
+<Architect> and then symmetric on the left
+<Architect> now up one more level
+<Architect> on the left side, you're going to build a line of five blocks to the left of the blocks you just built
+<Builder> also orange?
+<Architect> liek that, and then symmetric on the other side
+<Architect> that's it!
+
+B11-A7-C58-1522857893533
+<Builder> Mission has started.
+<Architect> start with a 5x4 blue rectangle
+<Architect> don't fill it in
+<Architect> pick a side to stand on
+<Builder> south side
+<Architect> third block away from you on the left side is actually yellow
+<Architect> and fourth block to the right on your side is yellow
+<Architect> now fill in the blocks right next to the two yellow blocks as yello
+<Architect> and the rest of the middle is blue
+<Architect> build a yellow block on top of each edge yellow block
+<Architect> and then a yellow block out of the rectangle next to each of those
+<Architect> that's it!
+
+B11-A7-C73-1522858191853
+<Builder> Mission has started.
+<Architect> so this one says x=y when you look at it straight on
+<Builder> ok. is it standing up then?
+<Architect> yes, we're going to start witht the purple x, which is floating one block in teh air
+<Builder> what color is each symbol?
+<Architect> i think you're going to have to move the x one block left to fit it
+<Architect> okay the = sign is also floating one block in the air and it's yellow
+<Architect> it's two blocks long
+<Architect> with one block betwee the top and bottom line
+<Architect> one space between the x and =
+<Builder> directly touching the x?
+<Architect> the y is green and sits on the ground
+<Builder> how many spaces is base from =?
+<Architect> one
+<Architect> hold on, three block on the ground for the loopy part of the tail
+<Architect> four blocks up
+<Builder> on right side?
+<Architect> well three up form the one you placed, and yes on the right
+<Architect> exactly like that
+<Architect> yep!
+
+B11-A7-C64-1522858581349
+<Builder> Mission has started.
+<Architect> i can't easily describe this shape
+<Architect> start int he middle of the square
+<Builder> ok, no worries.
+<Architect> and build six red blocks in a line upwards
+<Architect> the top block is the middle of a five cube line that extends to your right and left
+<Architect> second to top is the same but a 3 cube line
+<Architect> now there's a three cube orange line on top of the long red line, centered the same
+<Architect> on the right two blocks build two more orange blocks up
+<Architect> and then one more orange block on the top right
+<Architect> yep! that's it!
+
+B11-A7-C77-1522858834557
+<Builder> Mission has started.
+<Architect> this one is a spiral. start on the right edge, and build a 9 block line going left in green
+<Architect> now 9 green blocks up on teh left side (8 new ones)
+<Architect> okay now a line going right and red, to the end of the green line
+<Architect> now red goes down, but leave a space above the green block
+<Architect> purple left, leaving a space before the green line
+<Architect> yellow is the next l
+<Architect> two orange blocks right and then taht's it
+<Architect> left sorry
+<Architect> that's it!
+<Builder> knew what you meant
+
+B29-A8-C17-1522860199086
+<Builder> Mission has started.
+<Architect> okay
+<Architect> we want to build a right angle in orange blocks
+<Architect> yeah and then one more
+<Builder> up?
+<Architect> on the ground
+<Architect> yes
+
+B29-A8-C4-1522860364994
+<Builder> Mission has started.
+<Architect> we're building a flower
+<Architect> hing is on the ground
+<Architect> *everything
+<Architect> start with four green blocks in a line
+<Architect> now on the second green block from your left add two green blkocks on either side
+<Architect> actually just one block on either side
+<Architect> now one on a diagonal to the ones you just placed
+<Architect> yeah
+<Architect> okay now we'll do the flower
+<Architect> it's a 3X3 griod
+<Architect> grid*
+<Architect> with a red block in the center
+<Architect> now yellow blocks on the sides and orange blocks on the diagonal
+<Architect> okay were done
+
+B29-A8-C8-1522860695010
+<Builder> Mission has started.
+<Architect> okay, place four orange blocks at the corners of a 3X3 grid
+<Architect> on the ground
+<Architect> now above that place red blocks on the grid
+<Builder> above?
+<Architect> yeah, like a line
+<Architect> above the orange blocks you just placed
+<Architect> yes
+<Architect> no center block sorry
+<Architect> yes
+
+B29-A8-C74-1522860898922
+<Builder> Mission has started.
+<Architect> starting in one corner of the space on the ground
+<Architect> place an orange block
+<Architect> now diagonally above and to the right
+<Architect> so up 1 over 1
+<Builder> orange?
+<Architect> yes
+<Architect> on the same x axis
+<Architect> now from that block
+<Architect> place another block on the end closest to you
+<Architect> yes
+<Architect> now a two more extending towards you
+<Architect> yes, now the rest is symmetric
+<Architect> to the left sorry
+<Architect> yeah
+<Architect> okay now on the middle block of the line of three place a green block
+<Architect> on the same plane
+<Architect> now another diaginally up and away from the orange structure
+<Architect> yes, now another one
+<Architect> hahaha okay so we have to move what we just built over two to the right
+<Builder> my right as I stand?
+<Architect> I was building the mirror image...
+<Architect> sorry facing from the orange to the green
+<Architect> as if you were behind the orange
+<Architect> yeah
+<Builder> shift the whole thing two spaces to the right as I stand?
+<Builder> orange and green blocks?
+<Architect> yes
+<Architect> yes
+<Builder> remind me please I can't believe I forgot...
+<Architect> one behind the line of three
+<Builder> Anjali took some cycles
+<Architect> yeah
+<Architect> okay now with purple
+<Architect> on the far edge of the ground
+<Architect> sorry the edge to your right
+<Architect> four blocks to the left from this corner
+<Architect> place a purple block on the ground
+<Architect> now another purple
+<Architect> up and towards the green blocks
+<Architect> yes
+<Architect> now forward two and over three on the ground
+<Architect> place red block
+<Architect> sorry
+<Architect> yeah there
+<Architect> now place another red up and over to the left
+<Architect> yes
+
+B29-A8-C75-1522861975747
+<Builder> Mission has started.
+<Architect> start with a green block on the ground
+<Architect> now a blue block next to it
+<Architect> now a tower of three purple blocks to the left of the blue block
+<Architect> now a yellow block to the right of the top purple
+<Architect> the highest purple
+<Architect> above the blue
+<Architect> now a tower of orange starting to the right of the yellow
+<Architect> above the greean
+<Architect> yes
+<Architect> one less orange
+<Architect> now a blue from there
+<Architect> above the yellow
+<Architect> and a red above the puple
+
+B29-A8-C76-1522862288898
+<Builder> Mission has started.
+<Architect> okay start with a green block on the ground
+<Architect> and then another above and behind
+<Architect> nowon the right edge
+<Architect> the edge facing the green
+<Architect> yes
+<Architect> one block towards the green and two blocks to the right
+<Architect> yes
+<Architect> place a yellow block
+<Architect> another above ahead and to the left
+<Architect> above that one
+<Architect> yes
+<Architect> now a red structure, like the yellow but mirroed
+<Architect> *mirrored
+<Architect> nope
+<Architect> across the green
+<Architect> there
+<Architect> but one block away
+<Architect> frome the yellow
+<Architect> okay,
+<Architect> now a three block tower in blue
+<Architect> starting from the block above wherer the three structures meet
+<Architect> one more block above and remove the bottom most block
+<Architect> now a purple block on top of the blue tower
+<Architect> now the rest is all on the same plane as the purple
+<Architect> so two more blocks extending towards the yellow/red side of the structure
+<Architect> in purple
+<Architect> yes
+<Architect> and two purple legs extending in the opposite direction
+<Architect> yes
+<Architect> now one more block for both legs
+<Architect> on the diagonal
+<Architect> yes
+
+B29-A8-C78-1522862991223
+<Builder> Mission has started.
+<Architect> start with a yellow tower of six
+<Architect> three blocks from an edge
+<Architect> we will run out of space
+<Architect> now three blocks over from the top
+<Architect> like a gate
+<Architect> to your right
+<Architect> in yellow
+<Architect> three blocks of space sorry
+<Architect> connect the topmost blocks
+<Architect> yes
+<Architect> okay now on the ground
+<Architect> place a red block back one and over one from the first tower
+<Builder> over?
+<Architect> to the right
+<Architect> yes
+<Architect> now a two block tower to the right of that
+<Architect> right again and back another red block
+<Architect> and diagonally back again
+<Architect> and one more block just back
+<Architect> now on the blocknext to the top of the red tower
+<Architect> beneath the gate
+<Architect> an orange block
+<Architect> now a diagonal line extending three block up out and to the left
+<Architect> yes
+
+B29-A8-C14-1522863579292
+<Builder> Mission has started.
+<Architect> 2 block wide stairs
+<Architect> so start with a line of blue blocks
+<Architect> length two
+<Architect> yeah
+<Architect> now another blue line on top of that
+<Architect> above
+<Architect> now another to the right of the last
+<Architect> yeah
+<Architect> now a red 2X2 square on top of the blue
+<Architect> but shifter
+<Architect> shifted to hang over
+<Architect> yeah
+<Architect> now a purple square like that
+<Architect> and one more line on top of the purple square
+<Architect> in purple
+<Architect> yes
+
+B29-A8-C1-1522863856364
+<Builder> Mission has started.
+<Architect> okay we are making a gate with a bell all on one vertical plane
+<Architect> so place an 8-tower
+<Architect> on an edge
+<Architect> in green
+<Architect> now an 8-line above that tower to the right
+<Architect> in purple
+<Architect> 9-line actually
+<Architect> but on top of the green tower
+<Architect> and a red tower below the other side
+<Architect> now using orange
+<Architect> from below the midpoint of the purple
+<Architect> a row of 1 orange
+<Architect> then 3
+<Architect> hen three
+<Architect> then five
+<Architect> two rows of three
+<Architect> nope
+<Architect> another row of three below that first line of three orange
+<Architect> THEN the row of five
+<Architect> yeah
+<Architect> and one final yellow block
+<Architect> the bell thingy
+<Architect> yeah
+
+B21-A15-C3-1522881214767
+<Builder> Mission has started.
+<Architect> hello
+<Architect> can you see this okay?
+<Builder> hello!
+<Builder> yes
+<Architect> excellent!
+<Architect> aparently, this first structure is a warm up
+<Architect> it's just 3 blocks arranged in an L shape
+<Builder> oh cool
+<Architect> so two blocks next to each other on the ground
+<Builder> any color?
+<Architect> and then one more block on top of either
+<Architect> they are blue!
+<Architect> i didn't know color was important
+<Architect> i'll assume it is :)
+<Builder> like that?
+<Architect> looks good to me!
+<Architect> are you ready for the next one?
+<Builder> yup
+
+B21-A15-C14-1522881524871
+<Builder> Mission has started.
+<Architect> all good?
+<Builder> we are good to go
+<Architect> alright, so, two blue blocks next to each other, like last time
+<Architect> and then you'll want to put two more blue blocks on top of those
+<Architect> okay, now put two more blue blocks on in front of the top two ones
+<Architect> good!
+<Architect> now two red blocks on top of the two you just put down
+<Architect> and two red blocks in front of those in a staircase shape
+<Architect> good!
+<Architect> okay, now two purple ones on top of those
+<Architect> and two more purple ones in front of the others
+<Architect> last up, two more purple ones on top
+<Architect> alright, looks good! :P)
+<Architect> :) *
+<Builder> solid!
+
+B21-A15-C22-1522881735199
+<Builder> Mission has started.
+<Architect> all good?
+<Builder> ye
+<Architect> okay, cool!
+<Architect> so we're building a smiley face
+<Architect> you're gonna want to put a single blue block down near the middle of the grid
+<Architect> then another blue block 3 spaces away in any direction
+<Builder> is there good
+<Architect> yep!
+<Architect> okay, now put an orange block three spaces in front of the blue block, on the opposite side you're standing on now
+<Architect> good!
+<Architect> now complete the square you're making with a red block
+<Architect> cool!
+<Architect> from your current position, put a purple block down one space forward and to the right of the red block
+<Architect> and a yellow block next to that to complete the face :)
+<Architect> looks good! :)
+<Builder> :)
+
+B4-A19-C17-1522881920236
+<Builder> Mission has started.
+<Builder> hello
+<Architect> t
+<Architect> hi
+<Builder> what's our mission?
+<Architect> im not sure yet
+
+B21-A15-C44-1522882153029
+<Builder> Mission has started.
+<Architect> ready?
+<Builder> yup
+<Architect> cool!
+<Architect> this one looks a little more complex
+<Architect> so you're going to want to start by making a row of 4 blue blocks
+<Architect> now, on each of the two end blocks, put another blue block
+<Architect> then make another row of blue blocks on top of those, so it's a hollow rectangle
+<Architect> okay, now on the side you're standing on now, place a purple block in front of both of the top corners of the structure
+<Builder> like that?
+<Architect> yep! :)
+<Architect> then diagonally in front of those blocks, put two more purple blocks, so they make an arc shape
+<Architect> perfect!
+<Architect> alright, now move over to the other side of the structure
+<Architect> you'll want a yellow block in front of the topright blue block
+<Architect> yep!
+<Architect> and on the opposite side, put a green block
+<Architect> yep! now, put another green block one cell above and in front of the current one
+<Builder> like that?
+<Architect> good!
+<Architect> this is hard to describe
+<Architect> you'll want another yellow block above, in front of, and to the right of the current one
+<Architect> from the perspective of where you currenrtly are
+<Architect> perfect!
+<Architect> now place one more yellow block in that exact same trajectory
+<Architect> so that its corners touch the highest yellow and green blocks
+<Architect> whoops, sorry, that was unclear
+<Architect> the 1st, 2nd, and 3rd yellow blocks should all be in a diagonal line :)
+<Architect> perfect! :)
+<Architect> oh wait
+<Architect> yeah now it's good, sorry D:
+<Builder> cool!
+
+B4-A19-C4-1522882189483
+<Builder> Mission has started.
+<Architect> ok now the mission has started
+<Architect> get some green blocks
+<Architect> place one two blocks up from the bottom
+<Builder> floating?
+<Architect> ok now place one one square up
+<Architect> none of them float
+<Architect> ok now place two on each side
+<Architect> of the one you just placed
+<Architect> oh i meant one on each side sorry
+<Builder> np
+<Architect> now place one up
+<Builder> above the original line?
+<Architect> yea
+<Architect> place another one up
+<Architect> ok then place one on each side of the previous one
+<Architect> not the one you just placed
+<Builder> like that?
+<Architect> uh there should be a one block space between the ones on the side and the one in the middle
+<Architect> so like removve the two blocks you placed
+<Builder> ?
+<Architect> yea
+<Architect> like that
+<Architect> then get some yellow blocks
+<Builder> is it a flower?
+<Architect> yea
+<Architect> a 3 by 3 square on top
+<Architect> yellow on the sides
+<Architect> orange in the corners
+<Architect> and red in the middle
+<Architect> in the very center
+<Architect> yea
+<Builder> cool
+
+B4-A19-C8-1522882559576
+<Builder> Mission has started.
+<Architect> ok get some orange blocks
+<Architect> ok place four in the corners of a 3 by 3 square
+<Architect> only in the corners
+<Architect> then place red blocks in a 3 by 3 square right on top
+<Architect> with the center missing
+<Architect> k thats it
+<Architect> next mission
+<Builder> easy
+
+B4-A19-C7-1522882673164
+<Builder> Mission has started.
+<Architect> ok get some blocks
+<Architect> doesnt mamtter which
+<Architect> cause this structure floats
+<Architect> so as a base put a line of 7 blocks
+<Architect> then get some orange blocks, these will be in the actual structure
+<Architect> put three on one end
+<Architect> two on the other end
+<Builder> stacked vertically?
+<Architect> horizontally
+<Architect> then put a block every other square on top of this row, starting from each end
+<Architect> so the next row should have 4 blocks in alternating spots
+<Builder> are some of them floating?
+<Architect> uhyeah one of them floats
+<Builder> like that?
+<Architect> yep
+<Architect> then the next row, fill the entire row with blocks
+<Architect> so 7 blocks
+<Builder> color?
+<Architect> oh yeah all should be orange, including the row you just made
+<Architect> yeah
+<Architect> then the very last row has a red block in the very center
+<Architect> then delete the base
+<Architect> nvm sorry that wasnt the last thing
+<Architect> the red top is a v shape
+<Architect> so the next row on top of the red block
+<Architect> should have two blocks
+<Architect> with one horizontal space between them
+<Architect> yeah like that
+<Architect> now another row except with three horizontal spaces
+<Builder> got it
+<Architect> ok now this is the last row, same thing except with 5 horizontal spaces
+<Architect> ok now we're done
+<Builder> great
+
+B21-A15-C66-1522882961544
+<Builder> Mission has started.
+<Architect> ready?
+<Builder> good to go
+<Architect> okay, so, you're gonna want to start by placing 5 orange blocks in a row near the center
+<Architect> yep! now, you're gonna build a 2d pyramid
+<Builder> is that close enought
+<Architect> yeah, it's fine
+<Architect> so, two orange blocks on either end
+<Builder> on top?
+<Architect> yeah on top, sorry
+<Architect> it'll be a vertical pyramid
+<Architect> and then two more blocks up and diagonally inwards from those two
+<Architect> and one more to complete it!
+<Architect> perfect
+<Architect> now move to the other side of the structure
+<Architect> sorry, trying to figure out how to explain this
+<Architect> okay, stand right there and face right
+<Architect> put a green block three spaces in front of you
+<Builder> there?
+<Architect> now another on top of that
+<Architect> now two green blocks on either side, paralell to the orange pyramid
+<Architect> whoops, my bad
+<Architect> those should both be connected to the top block
+<Architect> alright, now two more green blocks extending to the right of the top row
+<Builder> like that?
+<Architect> perfect!
+<Architect> now remove the bottom block
+<Architect> and build the exact same pyramid structure on top of those green blocks
+<Architect> so it should look like the orange one
+<Builder> is that good?
+<Architect> perfect!
+<Architect> okay, so now, place a red block on top and in front of the topmost green block, from your current perspective
+<Builder> there?
+<Architect> no, sorry, the top of the pyramid
+<Architect> start with a red block on top of the pyramid
+<Architect> like that, but on the other side!
+<Architect> perfect!
+<Architect> now extend that to a row of 5 red blocks, making a line towards the orange pyramid
+<Architect> okay, now, you're gonna want to build an UPSIDE DOWN pyramid structure
+<Architect> so just like the other two, but upside down
+<Builder> like that?
+<Architect> yes, perfect!
+<Builder> solid
+<Architect> i messed up though
+<Architect> i apologized
+<Architect> the orange pyramid should be one tile to the right of where it currently is, so it's directly underneath the red pyramid's ip
+<Architect> tip*
+<Builder> aight
+<Architect> no
+<Architect> sorry
+<Architect> move one space left
+<Architect> walk up against the orange pyramid
+<Architect> okay, place an orange block right in front of you
+<Architect> and one space down
+<Architect> so underneath that
+<Architect> yeah, that's the row you should rebuild the orange pyramid on
+<Builder> okie dokie
+<Builder> is that good
+<Architect> alright, looks perfect! sorry about that :(
+<Builder> no problemo
+
+B4-A19-C10-1522883113537
+<Builder> Mission has started.
+<Architect> ok get some yellow blocks
+<Architect> in the center of the row, there's a floating block with z=1
+<Architect> like in the xyz coordinate plane
+<Builder> center of which row?
+<Architect> we only need one entire row for this
+<Architect> so it doesn't matter which row
+<Architect> yeah now place two on the sides except they're on the ground, z = 0
+<Architect> ok so now two units from each yellow block on the ground, place a purple block
+<Architect> now place two purple blocks like before, except two units away from the yellow floating block
+<Architect> meaning z =1
+<Builder> on top of the other purples?
+<Architect> uh no right next to the ones you just placed, one horizontal space
+<Builder> so connecting the purple and yellow diagonally?
+<Architect> yea
+<Architect> yeah like that
+<Architect> then 3 purple stacked horizontally on top of the yellow floating block
+<Architect> the on the very ends place red blocks
+<Architect> the row ends
+<Builder> of which row?
+<Architect> the same row
+<Architect> oh sorry i meant on the ground
+<Architect> not conected to the other blocks
+<Architect> yeah
+<Architect> so like the yellow and the purple stack diagonally
+<Architect> stack the red ones diagonally in the air
+<Builder> okay how many?
+<Architect> till z = 4
+<Architect> yeah like that
+<Architect> then place 3 red ones directly on top ot the purple ones directly on top
+<Architect> ok we're done
+<Builder> nice
+
+B4-A19-C21-1522883588233
+<Builder> Mission has started.
+<Builder> hi
+<Architect> hi
+<Architect> ok get some purple blocks
+<Architect> ok so lets think of this like a coordinate system
+<Architect> place a purple block in x = 3, y =4
+<Architect> now x = 4, y=4
+<Architect> x = 5, y = 4
+<Architect> ok nvm can't use coordinates
+<Builder> you could just say a line too
+<Architect> place one to the right one spot of the block
+<Architect> you just placed
+<Architect> one space in between
+<Architect> ok now two blocks directly to the right of the one you just placed
+<Architect> in the same row
+<Builder> as in two spaces with one blank space or two blank spaces?
+<Architect> no spaces
+<Architect> yeah now anotehr block to the right
+<Builder> oh another line of three
+<Architect> ok yeah thats a better way to say it
+<Architect> ok so on top place purple blocks alternating
+<Architect> so one on each end of the line of 3
+<Architect> they are floating
+<Architect> yeah like taht
+<Architect> oh no what you were doing before was right
+<Architect> i meant theyre just not on the ground
+<Builder> ok
+<Architect> like the side on your left
+<Architect> ok now the next row should be completely filled, 7 blocks
+<Architect> ok now think of a window
+<Architect> youre missing a block in z = 1
+<Architect> on the 3rd block of each side
+<Architect> yeah
+<Architect> ok now get some red blocks
+<Architect> so for the very top row
+<Architect> extend the blocks on each end
+<Architect> by adding 4 blocks in the air
+<Architect> extend them in the perpendicular direction
+<Builder> a floating line?
+<Architect> yeah
+<Builder> behind the purple structure
+<Architect> in the front
+<Architect> wherever there is more space
+<Builder> jutting out from the upper corner purple one
+<Architect> yea
+<Architect> yeah like that
+<Builder> both sides?
+<Architect> yep
+<Architect> ok now make a diagonal line from the last red blocks of each line to the ground
+<Architect> yeah like that
+<Architect> for the other side too
+<Architect> ok done
+<Builder> cool
+
+B21-A15-C71-1522883831670
+<Builder> Mission has started.
+<Architect> ready?
+<Builder> ye
+<Architect> alright, so, place a row of 5 green blocks near the edge of the platform, but separate the blocks with a 1 space gap
+<Architect> so block space block space block space block space block
+<Architect> and put another green block on top of each of those!
+<Architect> now remove all the bottom blocks
+<Architect> alright, now, put a yellow block above the second green block from your left
+<Architect> and put another yellow block in front of it, towards your current position
+<Architect> and delete the first yellow block
+<Architect> okay, now, make a row of 4 yellow blocks, with 1-space gaps in between, towards you
+<Architect> so perpendicular to the green blocks :)
+<Builder> where's the starting point for the row
+<Architect> the first yellow block, sorry
+<Architect> looks good! it only needs 4 blocks though, so delete that last one
+<Architect> perfect!
+<Architect> now, on top of the 2nd closest yellow block to the green ones, put an orange block
+<Builder> there?
+<Architect> yep!
+<Architect> and make a 1-gap row of three orange blocks, perpendicular to the green ones
+<Architect> on the side you're currently on
+<Architect> yeah, that side
+<Builder> on top of the yellow blocks?
+<Architect> no, parallel to the green ones
+<Architect> yeah like that!
+<Architect> perfect!
+<Architect> now put a red block right next to the last orange one, in the same direction
+<Architect> put another red one on top of that
+<Architect> and three more below it so it touches the ground
+<Architect> now remove the 2nd block from the bottom
+<Architect> and the 2nd from the top
+<Architect> so it's also 1-gap
+<Architect> i think it's good! :)
+<Builder> sweet!
+
+B4-A19-C31-1522884235745
+<Builder> Mission has started.
+<Architect> ok we're creating shapes of the letters hot
+<Architect> and they're floating
+<Architect> so get some blue blocks
+<Architect> so one square from the edge
+<Architect> and three units up
+<Builder> like that?
+<Architect> yeah so each letter is basically a 3 by 3 square with some squares missing
+<Architect> and they start one unit up, not two units up
+<Builder> there's only one blank space underneath?
+<Architect> so basically just move that one down one row
+<Architect> yeah sory
+<Architect> ok make this the letter H
+<Architect> ok now two rows down from the H
+<Architect> get some orange blocks
+<Builder> behind it from where i'm facing?
+<Architect> like behind the H
+<Architect> yea
+<Builder> one blank row?
+<Architect> yeah and start 4 squares in
+<Architect> yea
+<Architect> make an O
+<Builder> good?
+<Architect> uh so this is actually the mirror image of the actual mission
+<Architect> so the H should be behind the O
+<Architect> from the direction you're facing
+<Builder> okay
+<Architect> not directly behind
+<Architect> it should be one square in
+<Architect> so form that side
+<Architect> your right
+<Builder> there?
+<Architect> uh you should start one from the right not 3 from the right
+<Builder> there?
+<Architect> yea
+<Architect> yep
+<Builder> good
+<Architect> ok now do the same thing for T
+<Architect> in front of hte O
+<Architect> green blocks
+<Builder> there?
+<Architect> uh move it two squares to the right
+<Builder> there?
+<Architect> uh actually one square to the left now
+<Architect> yeah there
+<Architect> ok done
+
+B21-A15-C74-1522884356798
+<Builder> Mission has started.
+<Architect> alright, last one i think. ready?
+<Builder> yee
+<Architect> alright, we'll start with an orange block on the ground
+<Architect> alright, now place another one 4 spaces to the right of the orange block
+<Architect> now place two more orange blocks up and inwards of those two
+<Architect> so it's almost a pyramid
+<Architect> alright, now move to the other side
+<Architect> and put two more orange blocks in front of the top two
+<Architect> and connect them with one more orange block
+<Architect> now, in front of the middle block, put a green block
+<Architect> and another green block up and forward, like a staircase
+<Architect> and one more up and forward
+<Architect> okay, now, put a red block on the ground two spaces left and one space forward from the last green block
+<Builder> there?
+<Architect> whoops, sorry, i meant your right
+<Architect> yep!
+<Architect> now another one in a staircase to the right
+<Architect> okay, now, put a purple block two spaces right and forward from the red block on the ground
+<Builder> there or one more forward?
+<Architect> one more space diagonally towards the orange blocks
+<Builder> there?
+<Architect> there!
+<Architect> and one more purple block to make a staircase in the opposite direction of the red staircase
+<Architect> i think that's good! :)
+<Builder> sweet
+<Architect> good work! and sorry for the confusion
+<Builder> yeah no prob
+<Architect> oh
+<Architect> we're getting more
+<Architect> apparently
+<Builder> o
+
+B4-A19-C30-1522884961579
+<Builder> Mission has started.
+<Architect> ok get some blue blocks
+<Architect> ok place then in a diagonal
+<Architect> 3 blue blocks
+<Architect> on the ground
+<Architect> ok now red blocks
+<Architect> place 2 diagonally from the last blue block on the ground
+<Architect> to the left
+<Architect> should be connected to the blue block
+<Builder> continuing the line?
+<Architect> diagonally connected
+<Architect> uh no on the otehr side
+<Architect> flipped
+<Architect> no on the other corner
+<Architect> yeah there
+<Architect> ok place a line of yellow blocks connecting the red and blue blocks on each side
+<Architect> uh right below you
+<Builder> horizontal or vertical?
+<Architect> horizontal
+<Architect> oh they should be one row above
+<Builder> floating?
+<Architect> no one horizontal row above
+<Architect> no on the other side
+<Architect> there should be 5 blocks on the other side sorry
+<Builder> other side of what?
+<Architect> right below you
+<Architect> line of 5 blocks
+<Architect> ok now place green blocks on top of all the yellow blocks
+<Architect> purple blocks on top of all the red blocks
+<Architect> then orange blocks on top of all the blue blocks
+<Architect> ok that seems to be good
+<Builder> great
+
+B21-A15-C28-1522884965167
+<Builder> Mission has started.
+<Architect> ready?
+<Builder> yee
+<Architect> okay, so, place 4 purple blocks in a 4 x 3 rectangle on the ground
+<Architect> so just the corner blocks
+<Builder> like that?
+<Architect> yep!
+<Architect> now, make a full rectangle of yellow blocks on top of those
+<Architect> good!
+<Architect> now, on the middle block of one of the short ends, stack two more yellow blocks
+<Architect> and put another yellow block in front to make a head
+<Architect> yep!
+<Builder> is this a camel
+<Architect> i think so!
+<Architect> actually, it has arms
+<Architect> put a block for an arm on both long sides
+<Architect> one space back from the head
+<Architect> yep!
+<Architect> looks good! :D
+<Builder> strange camel
+<Architect> yeah haha
+
+B21-A15-C76-1522885309277
+<Builder> Mission has started.
+<Architect> ready?
+<Builder> ye
+<Architect> looks like we're building a tripod thing
+<Architect> okay, so, start by placing two green blocks near the center in a staircase
+<Builder> like that?
+<Architect> yeah!
+<Architect> okay, now put a blue block to continue the staircase
+<Architect> okay, now put a red block two spaces right, down, and towards you with respect to the blue block
+<Architect> near the corner of the building space
+<Architect> does the building grid look white to you?
+<Architect> the first one was right!
+<Builder> yeah
+<Builder> there?
+<Architect> only the block closer to the grid edge needs to be there
+<Architect> the other one doesn't
+<Architect> perfect! :)
+<Builder> ok cool
+<Architect> now, put another red block so that it's halfway between the current red and blue one
+<Architect> one space higher, so it's touching the blue one
+<Architect> yeah! :)
+<Architect> now, if you can imagine a tripod, you'll want two yellow blocks in the reverse pattern of the red ones
+<Architect> yeah on that side :)
+<Builder> like that?
+<Architect> perfect!
+<Architect> now, make a tower of two more blue blocks on top of the first one
+<Architect> and a purple one on top of that
+<Architect> and now two more purple blocks to make a row of 3, opposite the green blocks
+<Builder> in that direction?
+<Architect> yep! :)
+<Architect> and now you'll want another diagonal row of purple blocks opposite the yellow ones
+<Architect> perfect! and one more diagonal purple row opposite the red ones
+<Architect> beautiful! :)
+<Builder> work of art
+<Architect> truly :o
+
+B4-A19-C75-1522885325283
+<Builder> Mission has started.
+<Architect> ok get a green block
+<Architect> place it anywhere
+<Architect> place a blue block next to it
+<Architect> doesnt matter where
+<Architect> just next to it
+<Architect> ok horizontally on top of the blue block place a purple block
+<Architect> so like one row up
+<Builder> but still aligned with blue?
+<Architect> yea
+<Architect> place another purple on top of the purple thats here
+<Architect> floating
+<Architect> or i mean stacked
+<Builder> like that?
+<Architect> and then another purple stacked
+<Architect> yeah
+<Architect> now a yellow block conncted to that purple and directly above the blue
+<Architect> now an orange connected to the yellow and above the green
+<Architect> now stack an orange on that orange
+<Architect> do it again
+<Architect> now a blue on top of the yellow and connected to that orange
+<Builder> on top of the yellow or with a space btw?
+<Architect> with a space btw
+<Architect> ok now a red connected to that blue and above the purple
+<Architect> ok thats good
+
+B4-A19-C76-1522885674536
+<Builder> Mission has started.
+<Builder> hi
+<Architect> hi
+<Architect> can you get some red blocks
+<Architect> place one anywhere on the ground
+<Architect> place a yellow one three units to your right
+<Architect> sorry mb actually one more unit over
+<Architect> tthen four units up from the yellow and two units to the left of the yellow, place a green block
+<Architect> get a red block
+<Architect> place it diagonal to the red block except it should be floating
+<Builder> towards which direction?
+<Architect> uh towards the center of the triangle that the three blocks make
+<Builder> there?
+<Architect> yeah now do the same for the other two colored blocks
+<Builder> with red or their own colors?
+<Architect> their own colors and directed towards the center
+<Architect> now in the center and three units above, place a blue block
+<Architect> ok now stack two blue blocks on top of that blue one
+<Architect> ok get some purple blocks, we will make a Y shape
+<Architect> so the center of the yshape should be on top of blue
+<Architect> so just place one there for now
+<Architect> extend that 2 blocks out toward the side with red and yellow
+<Architect> now diagonal to the center purple block place two purple blocks, one on each side
+<Architect> diagonally
+<Builder> like that?
+<Architect> oh no i mean the purple block on top of the blue block
+<Architect> so basically diagonal to the purple on top of the blue
+<Builder> there are diagonal. which direction should they point?
+<Architect> toward the side with green
+<Architect> yeah like that
+<Architect> so make a Y shape
+<Builder> how many>
+<Builder> ?
+<Architect> just one more row
+<Architect> ok done
+<Builder> phew
+<Architect> yep
+

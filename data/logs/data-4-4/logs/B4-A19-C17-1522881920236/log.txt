@@ -1,0 +1,502 @@
+
+--------------------
+[Timestamp] 2018-04-04 22:45:49
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:45:59
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 9761-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:46:34
+[Builder Position] (x, y, z): (-3.28348220368, 3.49390748023, -3.77043183042) (yaw, pitch): (-44.40012, 77.99997)
+[Screenshot Path] 44755-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-3, 1, -4)  Perspective (x, y, z): 0.71447121426, 0.268550999414, 2.10176384133)
+
+--------------------
+[Timestamp] 2018-04-04 22:46:34
+[Builder Position] (x, y, z): (-3.0180066905, 3.49390748023, -3.48901492559) (yaw, pitch): (-39.45012, 70.34997)
+[Screenshot Path] 45356-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 18
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-3, 1, -4)  Perspective (x, y, z): 0.772178041677, -0.0741452463019, 2.09719897826)
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-3, 1, -3)  Perspective (x, y, z): 0.136771815746, 0.653064374954, 2.35686240425)
+
+--------------------
+[Timestamp] 2018-04-04 22:46:35
+[Builder Position] (x, y, z): (-2.92235613095, 3.49390748023, -3.38762069871) (yaw, pitch): (-45.900127, 74.99997)
+[Screenshot Path] 46255-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 19
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_green_rn  Absolute (x, y, z): (-3, 1, -4)  Perspective (x, y, z): 0.0, -0.51763910172, 1.93185138154)
+
+--------------------
+[Timestamp] 2018-04-04 22:46:36
+[Builder Position] (x, y, z): (-2.92235613095, 3.49390748023, -3.38762069871) (yaw, pitch): (-71.700134, 75.14998)
+[Screenshot Path] 47106-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:46:53
+[Builder Position] (x, y, z): (-1.53071025317, 3.49390748023, -0.569208462928) (yaw, pitch): (-133.05013, 90.0)
+[Screenshot Path] 64252-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.0, -1.22464679915e-16, 2.0)
+
+--------------------
+[Timestamp] 2018-04-04 22:46:54
+[Builder Position] (x, y, z): (-1.53071025317, 3.49390748023, -0.569208462928) (yaw, pitch): (-122.85014, 68.4)
+[Screenshot Path] 65303-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -2)  Perspective (x, y, z): 0.297648639065, 0.549200188973, 2.3684983513)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.0, -0.73624910537, 1.85955297178)
+
+--------------------
+[Timestamp] 2018-04-04 22:46:55
+[Builder Position] (x, y, z): (-1.53071025317, 3.49390748023, -0.569208462928) (yaw, pitch): (-122.85014, 68.4)
+[Screenshot Path] 65853-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 1, -1)  Perspective (x, y, z): 0.0, -0.73624910537, 1.85955297178)
+
+--------------------
+[Timestamp] 2018-04-04 22:46:56
+[Builder Position] (x, y, z): (-1.53071025317, 3.49390748023, -0.569208462928) (yaw, pitch): (-124.20016, 88.8)
+[Screenshot Path] 66702-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:46:56
+[Builder Position] (x, y, z): (-1.53071025317, 3.49390748023, -0.569208462928) (yaw, pitch): (-124.20016, 88.8)
+[Screenshot Path] 67055-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:47:02
+[Builder Position] (x, y, z): (-1.53071025317, 3.49390748023, -0.569208462928) (yaw, pitch): (-51.600143, 40.650017)
+[Screenshot Path] 72901-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:47:25
+[Builder Position] (x, y, z): (-0.118597211391, 3.49390748023, -5.32420055753) (yaw, pitch): (-16.500145, 90.0)
+[Screenshot Path] 95214-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -6)  Perspective (x, y, z): 0.0, -1.22464679915e-16, 2.0)
+
+--------------------
+[Timestamp] 2018-04-04 22:47:25
+[Builder Position] (x, y, z): (-0.118597211391, 3.49390748023, -5.32420055753) (yaw, pitch): (-16.500145, 90.0)
+[Screenshot Path] 95963-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -6)  Perspective (x, y, z): 0.0, -1.22464679915e-16, 2.0)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -6)  Perspective (x, y, z): 0.0, -6.12323399574e-17, 1.0)
+
+--------------------
+[Timestamp] 2018-04-04 22:47:26
+[Builder Position] (x, y, z): (-0.118597211391, 3.49390748023, -5.32420055753) (yaw, pitch): (-16.500145, 90.0)
+[Screenshot Path] 97464-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -6)  Perspective (x, y, z): 0.0, -1.22464679915e-16, 2.0)
+
+--------------------
+[Timestamp] 2018-04-04 22:47:27
+[Builder Position] (x, y, z): (-0.118597211391, 3.49390748023, -5.32420055753) (yaw, pitch): (-16.500145, 90.0)
+[Screenshot Path] None
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -6)  Perspective (x, y, z): 0.0, -1.22464679915e-16, 2.0)
+
+--------------------
+[Timestamp] 2018-04-04 22:47:28
+[Builder Position] (x, y, z): (-0.118597211391, 3.49390748023, -5.32420055753) (yaw, pitch): (-16.500145, 90.0)
+[Screenshot Path] 98164-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -6)  Perspective (x, y, z): 0.0, -1.22464679915e-16, 2.0)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -6)  Perspective (x, y, z): 0.0, -6.12323399574e-17, 1.0)
+
+--------------------
+[Timestamp] 2018-04-04 22:47:28
+[Builder Position] (x, y, z): (-0.118597211391, 3.49390748023, -5.32420055753) (yaw, pitch): (-14.100144, 89.85)
+[Screenshot Path] 98717-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -6)  Perspective (x, y, z): 0.0, -0.00523598177484, 1.99999314611)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -6)  Perspective (x, y, z): 0.0, -0.00261799088742, 0.999996573056)
+
+--------------------
+[Timestamp] 2018-04-04 22:47:29
+[Builder Position] (x, y, z): (-0.118597211391, 3.49390748023, -5.32420055753) (yaw, pitch): (-14.100144, 89.85)
+[Screenshot Path] 99263-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -6)  Perspective (x, y, z): 0.0, -0.00523598177484, 1.99999314611)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 2, -6)  Perspective (x, y, z): 0.0, -0.00261799088742, 0.999996573056)
+
+--------------------
+[Timestamp] 2018-04-04 22:47:29
+[Builder Position] (x, y, z): (-0.118597211391, 3.49390748023, -5.32420055753) (yaw, pitch): (32.39986, 87.6)
+[Screenshot Path] 99813-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 1, -6)  Perspective (x, y, z): 0.0, -0.0837513074584, 1.9982456602)
+
+--------------------
+[Timestamp] 2018-04-04 22:47:31
+[Builder Position] (x, y, z): (-0.118597211391, 3.49390748023, -5.32420055753) (yaw, pitch): (32.39986, 87.6)
+[Screenshot Path] 101014-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:47:31
+[Builder Position] (x, y, z): (None)
+[Screenshot Path] 101712-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+
+[Builder Inventory]
+	None
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:48:07
+[Builder Position] (x, y, z): (1.89638242164, 3.49390748023, 4.92446496536) (yaw, pitch): (-154.05066, 75.89996)
+[Screenshot Path] 138007-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+	<Builder> what's our mission?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-04 22:48:21
+[Builder Position] (x, y, z): (1.89638242164, 3.49390748023, 4.92446496536) (yaw, pitch): (-154.05066, 75.89996)
+[Screenshot Path] 151755-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Builder> hello
+	<Architect> t
+	<Architect> hi
+	<Builder> what's our mission?
+	<Architect> im not sure yet
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+Time elapsed: 0:04:17 (257.13s)

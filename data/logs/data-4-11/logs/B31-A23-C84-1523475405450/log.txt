@@ -1,0 +1,868 @@
+
+--------------------
+[Timestamp] 2018-04-11 19:37:03
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-11 19:37:09
+[Builder Position] (x, y, z): (0.240404621796, 4.65767136312, -3.1873327671) (yaw, pitch): (-3.7500036, 81.149994)
+[Screenshot Path] 6215-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-11 19:37:13
+[Builder Position] (x, y, z): (0.207316292042, 4.65767136312, -4.45088807803) (yaw, pitch): (1.6499962, 57.599976)
+[Screenshot Path] 10101-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-11 19:37:31
+[Builder Position] (x, y, z): (0.19664179178, 4.65767136312, -4.45088807803) (yaw, pitch): (0.2999962, 55.799973)
+[Screenshot Path] 28062-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-11 19:37:48
+[Builder Position] (x, y, z): (0.19664179178, 4.65767136312, -4.45088807803) (yaw, pitch): (-3.8027763e-06, 55.799973)
+[Screenshot Path] 44810-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-11 19:37:52
+[Builder Position] (x, y, z): (0.21419158129, 3.16589470377, -1.51099673667) (yaw, pitch): (-8.550005, 72.90002)
+[Screenshot Path] 49610-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 19
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.148672520194, 0.35709091383, 2.20235840884)
+
+--------------------
+[Timestamp] 2018-04-11 19:37:53
+[Builder Position] (x, y, z): (0.21419158129, 3.16260534367, -1.26808285665) (yaw, pitch): (-9.150004, 70.95002)
+[Screenshot Path] 50358-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 18
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.159019756948, 0.280420849, 2.21270803866)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.159019756948, 0.60681367005, 1.26747382093)
+
+--------------------
+[Timestamp] 2018-04-11 19:37:54
+[Builder Position] (x, y, z): (-0.0968874571588, 3.16260534367, -3.09388595206) (yaw, pitch): (-11.700003, 34.800007)
+[Screenshot Path] 51258-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.37086076012, 0.150002739563, 3.72020986972)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.37086076012, 0.971151878971, 3.14949620171)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.37086076012, 1.79230101838, 2.5787825337)
+
+--------------------
+[Timestamp] 2018-04-11 19:38:10
+[Builder Position] (x, y, z): (0.376855426388, 3.16260534367, -5.49632426241) (yaw, pitch): (-2.706051e-06, 32.100002)
+[Screenshot Path] 67406-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -2.36147498385e-07, 0.962749239774, 5.29840673234)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.36147498385e-07, 1.80987114261, 4.76700812325)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.36147498385e-07, 2.65699304544, 4.23560951417)
+
+--------------------
+[Timestamp] 2018-04-11 19:38:23
+[Builder Position] (x, y, z): (0.376855426388, 3.16260534367, -5.49632426241) (yaw, pitch): (-2.706051e-06, 32.100002)
+[Screenshot Path] 80022-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -2.36147498385e-07, 0.962749239774, 5.29840673234)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.36147498385e-07, 1.80987114261, 4.76700812325)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.36147498385e-07, 2.65699304544, 4.23560951417)
+
+--------------------
+[Timestamp] 2018-04-11 19:38:39
+[Builder Position] (x, y, z): (0.376855426388, 3.16260534367, -5.49632426241) (yaw, pitch): (-0.1500027, 29.700005)
+[Screenshot Path] 96268-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 17
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.0130901900557, 0.740022288921, 5.33405996018)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.0130901900557, 1.60865376012, 4.83860121595)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.0130901900557, 2.47728523132, 4.34314247171)
+
+--------------------
+[Timestamp] 2018-04-11 19:38:45
+[Builder Position] (x, y, z): (-2.22371629829, 3.16260534367, -3.49707769842) (yaw, pitch): (-33.150005, 19.05001)
+[Screenshot Path] 101667-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 16
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 0.871226737749, -0.535209940503, 4.57761010693)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 0.871226737749, 0.410024106328, 4.25121679095)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.033984951631, 1.17677555828, 3.40793842499)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 0.871226737749, 1.35525815316, 3.92482347498)
+
+--------------------
+[Timestamp] 2018-04-11 19:38:46
+[Builder Position] (x, y, z): (-2.68861734674, 3.16260534367, -3.34063700466) (yaw, pitch): (-30.600008, 21.60001)
+[Screenshot Path] 102618-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 15
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 1.05510125999, -0.346799370777, 4.55702661037)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.05510125999, 0.582977050861, 4.1889018954)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -0.666382651871, 1.13797193186, 2.87418754495)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.194359304057, 1.32536270218, 3.3474823627)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.05510125999, 1.5127534725, 3.82077718044)
+
+--------------------
+[Timestamp] 2018-04-11 19:38:48
+[Builder Position] (x, y, z): (2.7973576792, 3.16260534367, -2.78043024898) (yaw, pitch): (37.649994, 28.800013)
+[Screenshot Path] 105117-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 14
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.361841403774, -0.401203723854, 3.42171102966)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.361841403774, 0.475102846883, 2.93995715673)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -1.94535531099, 1.9399548776, 3.52876292585)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.15359835738, 1.64568214761, 2.99348310482)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.361841403774, 1.35140941762, 2.4582032838)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.429915549833, 1.05713668763, 1.92292346277)
+
+--------------------
+[Timestamp] 2018-04-11 19:38:49
+[Builder Position] (x, y, z): (3.05346293574, 3.16260534367, -2.67790040581) (yaw, pitch): (28.349989, 28.800013)
+[Screenshot Path] 106066-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -1.69047772655, -0.218373778361, 3.75427728717)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -1.69047772655, 0.657932792376, 3.27252341424)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -3.45060450546, 1.99176701013, 3.62300879439)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -2.57054111601, 1.76300318662, 3.20688916785)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -1.69047772655, 1.53423936311, 2.79076954131)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -0.810414337092, 1.3054755396, 2.37464991477)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 0.069649052365, 1.0767117161, 1.95853028823)
+
+--------------------
+[Timestamp] 2018-04-11 19:38:52
+[Builder Position] (x, y, z): (0.65047861179, 3.16260534367, -5.75344827767) (yaw, pitch): (-0.7500144, 25.80001)
+[Screenshot Path] 108518-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.065449234386, 0.375332447912, 5.37167031297)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.065449234386, 1.27565114335, 4.93643905646)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.06527788295, 2.16457561778, 4.47763773223)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.06536355867, 2.17027272829, 4.48942276609)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.065449234386, 2.17596983879, 4.50120779996)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.934465089898, 2.1816669493, 4.51299283382)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.93437941418, 2.1873640598, 4.52477786768)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:01
+[Builder Position] (x, y, z): (0.279953304597, 3.16260534367, -6.23835700996) (yaw, pitch): (-0.45001444, 21.150015)
+[Screenshot Path] 118165-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.0471249174389, 0.299521792681, 6.31728311364)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.0471249174389, 1.23216072136, 5.95647204298)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.04706322877, 2.15913191941, 5.58101079483)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.0470940731, 2.16196578473, 5.58833588358)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.0471249174389, 2.16479965005, 5.59566097233)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.952844238226, 2.16763351537, 5.60298606109)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.95281339389, 2.17046738069, 5.61031114984)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:06
+[Builder Position] (x, y, z): (0.279953304597, 3.16260534367, -6.23835700996) (yaw, pitch): (-1.8000145, 20.850016)
+[Screenshot Path] 123064-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.188466072156, 0.26545282482, 6.31617093953)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.188466072156, 1.19996815662, 5.96024806218)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.18747917699, 2.11212369286, 5.54561704017)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.18797262457, 2.12330359065, 5.5749711125)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.188466072156, 2.13448348843, 5.60432518482)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.81104048026, 2.14566338621, 5.63367925715)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.81054703268, 2.15684328399, 5.66303332947)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:27
+[Builder Position] (x, y, z): (0.279953304597, 3.16260534367, -6.23835700996) (yaw, pitch): (-1.8000145, 20.850016)
+[Screenshot Path] 143961-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+	<Architect> two yellow stacked on the center, and two stacked on the ends.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.188466072156, 0.26545282482, 6.31617093953)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.188466072156, 1.19996815662, 5.96024806218)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.18747917699, 2.11212369286, 5.54561704017)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.18797262457, 2.12330359065, 5.5749711125)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.188466072156, 2.13448348843, 5.60432518482)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.81104048026, 2.14566338621, 5.63367925715)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.81054703268, 2.15684328399, 5.66303332947)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:33
+[Builder Position] (x, y, z): (0.287632976577, 4.63976262477, -3.55010170965) (yaw, pitch): (-5.850014, 42.90001)
+[Screenshot Path] 149810-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+	<Architect> two yellow stacked on the center, and two stacked on the ends.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.305774096607, -0.166100695714, 4.22834633879)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.305774096607, 0.566442084265, 3.54762534197)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 3, -2)  Perspective (x, y, z): -0.203849397738, 0.621808982836, 2.13817656238)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.29535833032, 1.16022029902, 2.71757594065)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.30056621346, 1.22960258163, 2.7922401429)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.305774096607, 1.29898486424, 2.86690434516)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.68901802025, 1.36836714686, 2.94156854742)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.68381013711, 1.43774942947, 3.01623274968)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:34
+[Builder Position] (x, y, z): (0.287632976577, 4.65767136312, -3.55010170965) (yaw, pitch): (-6.4500146, 52.65001)
+[Screenshot Path] 150912-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+	<Architect> two yellow stacked on the center, and two stacked on the ends.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.337009106901, 0.549691311342, 4.19335955102)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.337009106901, 1.1563735236, 3.39841509174)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.32434958121, 1.58445338769, 2.46716567879)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.33067934406, 1.67375456177, 2.53531815563)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.337009106901, 1.76305573586, 2.60347063247)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.656661130254, 1.85235690994, 2.67162310931)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.65033136741, 1.94165808403, 2.73977558615)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:35
+[Builder Position] (x, y, z): (0.287632976577, 4.65767136312, -3.55010170965) (yaw, pitch): (-4.5000143, 36.75001)
+[Screenshot Path] 151959-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+	<Architect> two yellow stacked on the center, and two stacked on the ends.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.235378033622, -0.614320245175, 4.19132530564)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.235378033622, 0.186933463089, 3.59300056522)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.22921266192, 0.894298837442, 2.86894414328)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.23229534777, 0.941243004397, 2.93180998404)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.235378033622, 0.988187171353, 2.9946758248)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.76153928053, 1.03513133831, 3.05754166557)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.75845659468, 1.08207550526, 3.12040750633)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): -0.235378033622, 1.78944087962, 2.39635108439)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:36
+[Builder Position] (x, y, z): (0.287632976577, 4.65767136312, -3.55010170965) (yaw, pitch): (-2.8500142, 23.550014)
+[Screenshot Path] 153009-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+	<Architect> two yellow stacked on the center, and two stacked on the ends.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.149164864197, -1.55296926938, 3.94538164081)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.149164864197, -0.636257615977, 3.54583221394)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.14669109468, 0.24072154676, 3.05512200754)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.14792797944, 0.260587792093, 3.1007023973)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.149164864197, 0.280454037426, 3.14628278706)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.849598251044, 0.300320282759, 3.19186317683)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.84836136629, 0.320186528093, 3.23744356659)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): -0.149164864197, 1.19716569083, 2.74673336019)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): -0.149164864197, 2.11387734423, 2.34718393332)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:37
+[Builder Position] (x, y, z): (3.30821584923, 4.65767136312, -3.77202152153) (yaw, pitch): (11.849982, 34.800022)
+[Screenshot Path] 154609-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+	<Architect> two yellow stacked on the center, and two stacked on the ends.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -2.32001620426, -0.436205317151, 4.62895773725)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.32001620426, 0.384943672844, 4.05824385427)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -4.27739345246, 1.44048472828, 3.82477567975)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -3.29870482836, 1.32328869556, 3.65615282551)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.32001620426, 1.20609266284, 3.48752997128)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -1.34132758016, 1.08889663012, 3.31890711705)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): -0.36263895606, 0.9717005974, 3.15028426282)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): -2.32001620426, 2.02724165283, 2.9168160883)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): -0.36263895606, 1.7928495874, 2.57957037983)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): -2.32001620426, 2.84839064283, 2.34610220532)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:38
+[Builder Position] (x, y, z): (3.08426969153, 4.65767136312, -3.86019155955) (yaw, pitch): (8.699983, 21.600025)
+[Screenshot Path] 155559-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+	<Architect> two yellow stacked on the center, and two stacked on the ends.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -2.5117002142, -1.53061278785, 4.28352501191)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -2.5117002142, -0.600836462586, 3.91540005354)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -4.48868807758, 0.440305413056, 3.82855200898)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -3.50019414589, 0.384622637867, 3.68791355207)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -2.5117002142, 0.328939862678, 3.54727509516)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): -1.52320628251, 0.273257087488, 3.40663663825)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): -0.534712350824, 0.217574312299, 3.26599818134)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): -2.5117002142, 1.25871618794, 3.17915013678)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): -0.534712350824, 1.14735063756, 2.89787322296)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): -2.5117002142, 2.18849251321, 2.81102517841)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): -0.534712350824, 2.07712696283, 2.52974826459)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:40
+[Builder Position] (x, y, z): (-2.70811765185, 4.65767136312, -3.31195616375) (yaw, pitch): (-22.950018, 37.800014)
+[Screenshot Path] 157209-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+	<Architect> two yellow stacked on the center, and two stacked on the ends.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 15
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 1.59275214169, 0.0396828391491, 4.94586351282)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 1.59275214169, 0.829837701763, 4.33295626609)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -0.248938573598, 1.14201319867, 3.10384204505)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 0.671906784044, 1.38100288152, 3.41194553221)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 1.59275214169, 1.61999256438, 3.72004901937)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 2.51359749933, 1.85898224723, 4.02815250653)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 3.43444285697, 2.09797193008, 4.33625599369)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 4, -1)  Perspective (x, y, z): -0.248938573598, 1.93216806129, 2.49093479833)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): 1.59275214169, 2.41014742699, 3.10714177265)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): 3.43444285697, 2.8881267927, 3.72334874696)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): 1.59275214169, 3.20030228961, 2.49423452592)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): 3.43444285697, 3.67828165531, 3.11044150024)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:41
+[Builder Position] (x, y, z): (-3.2715240621, 4.65767136312, -2.99584688656) (yaw, pitch): (-32.400013, 24.00002)
+[Screenshot Path] 158259-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+	<Architect> two yellow stacked on the center, and two stacked on the ends.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): 2.30565724261, -1.18203473266, 4.7208832405)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): 2.30565724261, -0.268489417, 4.31414627853)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): 0.617001634752, 0.20917461737, 2.92840484943)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): 1.46132943868, 0.427115258018, 3.417907083)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): 2.30565724261, 0.645055898665, 3.90740931657)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 3.14998504653, 0.862996539313, 4.39691155014)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 3.99431285046, 1.08093717996, 4.88641378371)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 4, -1)  Perspective (x, y, z): 0.617001634752, 1.12271993304, 2.52166788747)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): 2.30565724261, 1.55860121433, 3.50067235461)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): 3.99431285046, 1.99448249563, 4.47967682175)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 5, -1)  Perspective (x, y, z): 0.617001634752, 2.0362652487, 2.1149309255)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): 2.30565724261, 2.47214653, 3.09393539265)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): 3.99431285046, 2.90802781129, 4.07293985979)
+
+--------------------
+[Timestamp] 2018-04-11 19:39:46
+[Builder Position] (x, y, z): (0.649919343631, 4.65767136312, -7.23504458546) (yaw, pitch): (-1.0500153, 22.200027)
+[Screenshot Path] 163258-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> how were those instructions?
+	<Builder> Good
+	<Architect> sweet. we are building a blue and yellow trident.
+	<Architect> first, you need three blue block stacked in the center
+	<Architect> then off the the top block, stack two on opposite sides.
+	<Builder> what color?
+	<Architect> so the top row will have a total of five blue blocks across
+	<Architect> perfect
+	<Architect> color-yellow next
+	<Builder> got it
+	<Architect> two yellow stacked on the center, and two stacked on the ends.
+	<Architect> done!
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 13
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 1, -1)  Perspective (x, y, z): -0.128276388706, -0.13316678953, 7.61352820802)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 2, -1)  Perspective (x, y, z): -0.128276388706, 0.792703617227, 7.23568698489)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-2, 3, -1)  Perspective (x, y, z): -2.12794054761, 1.70472599324, 6.823912244)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (-1, 3, -1)  Perspective (x, y, z): -1.12810846816, 1.71165000861, 6.84087900288)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (0, 3, -1)  Perspective (x, y, z): -0.128276388706, 1.71857402398, 6.85784576177)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (1, 3, -1)  Perspective (x, y, z): 0.871555690747, 1.72549803936, 6.87481252065)
+	Type: cwc_minecraft_blue_rn  Absolute (x, y, z): (2, 3, -1)  Perspective (x, y, z): 1.8713877702, 1.73242205473, 6.89177927954)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 4, -1)  Perspective (x, y, z): -2.12794054761, 2.6305964, 6.44607102087)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, -1)  Perspective (x, y, z): -0.128276388706, 2.64444443074, 6.48000453864)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 4, -1)  Perspective (x, y, z): 1.8713877702, 2.65829246149, 6.51393805641)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (-2, 5, -1)  Perspective (x, y, z): -2.12794054761, 3.55646680675, 6.06822979775)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 5, -1)  Perspective (x, y, z): -0.128276388706, 3.5703148375, 6.10216331552)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 5, -1)  Perspective (x, y, z): 1.8713877702, 3.58416286824, 6.13609683329)
+
+Time elapsed: 0:03:17 (197.34s)

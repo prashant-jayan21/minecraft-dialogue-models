@@ -1,0 +1,1504 @@
+
+--------------------
+[Timestamp] 2018-04-05 22:49:21
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 0-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-05 22:50:02
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 40510-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-05 22:50:52
+[Builder Position] (x, y, z): (0.0, 1.0, 0.0) (yaw, pitch): (0.0, 0.0)
+[Screenshot Path] 90752-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-05 22:51:39
+[Builder Position] (x, y, z): (1.9852083172, 1.0, 1.60140106273) (yaw, pitch): (-53.399998, 22.349998)
+[Screenshot Path] 137561-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-05 22:51:56
+[Builder Position] (x, y, z): (2.05039910929, 1.0, 1.67456692648) (yaw, pitch): (-41.699993, 24.599997)
+[Screenshot Path] 155259-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-05 22:52:06
+[Builder Position] (x, y, z): (0.709201163756, 1.0, 1.10184527703) (yaw, pitch): (-80.54995, 28.8)
+[Screenshot Path] 164907-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 20
+
+[Blocks In Grid]
+
+--------------------
+[Timestamp] 2018-04-05 22:52:11
+[Builder Position] (x, y, z): (0.709201163756, 1.0, 1.10184527703) (yaw, pitch): (-79.64995, 22.349995)
+[Screenshot Path] 169356-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 19
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 0.718646428232, 1.49630346652, 3.63931631591)
+
+--------------------
+[Timestamp] 2018-04-05 22:52:20
+[Builder Position] (x, y, z): (0.709201163756, 1.0, 1.10184527703) (yaw, pitch): (-111.44998, 22.799994)
+[Screenshot Path] 178105-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 0.398719068392, 1.7261204522, 4.10627949475)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -1.46275527955, 1.44270028781, 3.43204936907)
+
+--------------------
+[Timestamp] 2018-04-05 22:53:02
+[Builder Position] (x, y, z): (0.709201163756, 1.0, 1.10184527703) (yaw, pitch): (-95.69999, 33.749996)
+[Screenshot Path] 220864-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 1.5928328703, 2.32165081548, 3.47459651446)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -0.397278304295, 2.21129282696, 3.30943408793)
+
+--------------------
+[Timestamp] 2018-04-05 22:53:44
+[Builder Position] (x, y, z): (0.709201163756, 1.0, 1.10184527703) (yaw, pitch): (-142.20003, 45.600014)
+[Screenshot Path] 262858-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -1.93480805331, 2.88070968349, 2.82099796461)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -3.16062133317, 1.75162061671, 1.71531280046)
+
+--------------------
+[Timestamp] 2018-04-05 22:53:52
+[Builder Position] (x, y, z): (-0.60789000023, 1.0, 0.678773006899) (yaw, pitch): (-264.59995, 28.05002)
+[Screenshot Path] 270657-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 18
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -1.46610779303, -2.29652198497, -4.31004811014)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 0.525015971927, -2.38503020436, -4.47615785619)
+
+--------------------
+[Timestamp] 2018-04-05 22:53:55
+[Builder Position] (x, y, z): (-0.939961735948, 1.0, 0.652936749787) (yaw, pitch): (-113.699974, 30.000025)
+[Screenshot Path] 273206-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.111768053456, 1.11663730021, 1.93407058868)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -1.09407402997, 2.49013250183, 4.31303166465)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -2.92539958144, 2.08818483692, 3.61683858857)
+
+--------------------
+[Timestamp] 2018-04-05 22:53:57
+[Builder Position] (x, y, z): (-0.939961735948, 1.0, 0.652936749787) (yaw, pitch): (-51.149975, 28.350029)
+[Screenshot Path] 275356-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.03335860591, 0.44175795863, 0.818720151073)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 3.91521064542, 1.55120004858, 2.87487460793)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 2.35762948628, 2.14694025125, 3.97897358159)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 2)  Perspective (x, y, z): -0.303013132792, 1.33536826264, 2.47486861156)
+
+--------------------
+[Timestamp] 2018-04-05 22:53:58
+[Builder Position] (x, y, z): (-0.939961735948, 1.0, 0.652936749787) (yaw, pitch): (-52.799984, 20.850027)
+[Screenshot Path] 276557-Builder-pickup.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 17
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 2.00572842378, 0.351815762026, 0.923731107863)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 3.81952643566, 1.20232567144, 3.15683873314)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 2.22646693729, 1.63270735994, 4.28685335111)
+
+--------------------
+[Timestamp] 2018-04-05 22:53:59
+[Builder Position] (x, y, z): (-0.939961735948, 1.0, 0.652936749787) (yaw, pitch): (-76.649994, 35.100018)
+[Screenshot Path] 277755-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.4347757421, 0.9861668976, 1.40317262657)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 2.12747277255, 2.66456954831, 3.79129644373)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.511179701494, 1.25170330335, 1.78099246297)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 0.181517328959, 2.93010595407, 4.16911628013)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:20
+[Builder Position] (x, y, z): (1.60590782486, 2.0, -0.118787455591) (yaw, pitch): (-54.299927, 55.799953)
+[Screenshot Path] 298768-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 20
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -0.56208405631, 0.827080113195)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 1.75062673807, 1.45288850496, 2.19645646807)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.62416556681, 0.40318831748, 1.48307969854)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 0.126461171255, 2.41816087875, 2.85245605341)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:31
+[Builder Position] (x, y, z): (1.60590782486, 2.0, -0.118787455591) (yaw, pitch): (-93.89995, 31.79996)
+[Screenshot Path] 309917-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 19
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -0.849893060871, 0.52695520216)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -0.204043260064, 0.727311795497, 3.07073019006)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.99536867638, -0.921574165775, 0.411345234929)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -2.19941193644, 0.655630690593, 2.95512022283)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -0.204043260064, 1.57720485637, 2.5437749879)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:32
+[Builder Position] (x, y, z): (1.60590782486, 2.0, -0.118787455591) (yaw, pitch): (-64.049934, 26.69996)
+[Screenshot Path] 311316-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 18
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -0.893371702011, 0.449318374925)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 1.31276300992, 0.318676859547, 2.85921288801)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.79835150189, -0.50013934049, 1.23117525793)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -0.485588491963, 0.711909221068, 3.64106977102)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.31276300992, 1.21204856156, 2.40989451308)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -0.485588491963, 1.60528092308, 3.19175139609)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:35
+[Builder Position] (x, y, z): (1.60590782486, 2.0, -0.118787455591) (yaw, pitch): (9.150064, 48.299965)
+[Screenshot Path] 313567-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 17
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -0.66523081075, 0.746637775919)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 2.96182570263, -1.0214235995, 0.429281187109)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.31804158164, 0.809043159432, 2.06016958489)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 3.27986728427, 0.452850370684, 1.74281299608)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.96182570263, -0.356192788748, -0.31735658881)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.31804158164, 1.47427397018, 1.31353180898)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): 3.27986728427, 1.11808118143, 0.996175220165)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:37
+[Builder Position] (x, y, z): (1.60590782486, 2.0, -0.118787455591) (yaw, pitch): (-58.199947, 23.99996)
+[Screenshot Path] 315815-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 16
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -0.913545741598, 0.406736005301)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 1.580869745, 0.123499540254, 2.73598222086)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.69978441108, -0.484881311609, 1.36953388768)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -0.118914666074, 0.552163970244, 3.69878010324)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.580869745, 1.03704528185, 2.32924621556)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.69978441108, 0.428664429989, 0.96279788238)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.645871247742, 1.12002795122, 2.51562869275)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -0.118914666074, 1.46570971184, 3.29204409794)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:38
+[Builder Position] (x, y, z): (1.60590782486, 2.0, -0.118787455591) (yaw, pitch): (-39.599953, 24.149958)
+[Screenshot Path] 317015-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 15
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -0.912477794054, 0.409126234014)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 2.31154129697, -0.130117940638, 2.15403021193)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.27484671539, -0.282003003656, 1.81527963636)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 1.03669458158, 0.500356849761, 3.56018361428)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.31154129697, 0.782359853416, 1.74490397792)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.27484671539, 0.630474790398, 1.40615340235)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -0.504332949729, 0.891261408204, 1.98778806166)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): 0.266180815928, 1.15204802601, 2.56942272096)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): 1.03669458158, 1.41283464381, 3.15105738027)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:40
+[Builder Position] (x, y, z): (1.60590782486, 2.0, -0.118787455591) (yaw, pitch): (-67.49998, 15.299959)
+[Screenshot Path] 319165-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 14
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -0.964557607281, 0.263872359742)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 1.14805126458, -0.233198895943, 2.93727706709)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.84775879786, -0.762598276421, 1.00211341361)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -0.69970753328, -0.0312395650833, 3.67551812095)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.14805126458, 0.731358711338, 2.67340470734)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 0.22417186565, 0.832338376768, 3.04252523428)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.84775879786, 0.20195933086, 0.738241053866)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -1.465075043, 0.445745567972, 1.62937595631)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -1.08239128814, 0.689531805085, 2.52051085876)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -0.69970753328, 0.933318042198, 3.41164576121)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:42
+[Builder Position] (x, y, z): (1.60590782486, 2.0, -0.118787455591) (yaw, pitch): (-98.54999, 27.899958)
+[Screenshot Path] 320365-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 13
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -0.883765973099, 0.467929166426)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -0.446016783912, 0.504420568469, 3.08976195177)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.97777304939, -1.0229021477, 0.205146195058)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -2.4237898333, 0.365284393864, 2.8269789804)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -0.297344522608, 0.925457694379, 1.74788852356)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -0.446016783912, 1.38818654157, 2.62183278534)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -1.43490330861, 1.31861845427, 2.49044129966)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.97777304939, -0.139136174605, -0.262782971368)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -2.12644531069, 0.323592672584, 0.611161290411)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -2.27511757199, 0.786321519774, 1.48510555219)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -2.4237898333, 1.24905036696, 2.35904981397)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:43
+[Builder Position] (x, y, z): (1.60590782486, 2.0, -0.118787455591) (yaw, pitch): (-68.25, 16.499956)
+[Screenshot Path] 321665-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 12
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -0.958819952976, 0.284014608383)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 1.11167231253, -0.167433508712, 2.95569800381)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.85761910574, -0.74833250198, 0.994610337999)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -0.745946793214, 0.0430539422836, 3.66629373342)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 0.74111487502, 0.527590962843, 1.78112226362)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.11167231253, 0.791386444264, 2.67168339543)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -0.187694677852, 0.63283468834, 2.13642012843)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 0.182862759658, 0.896630169762, 3.02698126023)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.85761910574, 0.210487450996, 0.710595729616)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -1.48706166823, 0.474282932417, 1.60115686142)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -1.11650423072, 0.738078413838, 2.49171799323)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -0.745946793214, 1.00187389526, 3.38227912504)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:47
+[Builder Position] (x, y, z): (1.60590782486, 4.10351920379, -0.118787455591) (yaw, pitch): (-187.80008, 79.35)
+[Screenshot Path] 325714-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 11
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -0.554427160107, 2.94832334118)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -2.97224295293, -0.954564628624, 2.87307817481)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.271433911558, -2.50179010983, 2.58212507017)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -2.70080904137, -2.90192757835, 2.5068799038)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.0, -0.369618106738, 1.96554889412)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.98149530195, -0.636376419082, 1.91538544987)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.97224295293, -0.769755575255, 1.89030372775)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -1.84577834617, -1.61005789395, 1.73228631437)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -2.83652599715, -1.74343705012, 1.70720459224)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.271433911558, -2.31698105646, 1.59935062311)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -0.719313739418, -2.45036021264, 1.57426890099)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -1.71006139039, -2.58373936881, 1.54918717886)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -2.70080904137, -2.71711852498, 1.52410545674)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:48
+[Builder Position] (x, y, z): (1.60590782486, 4.11650136793, -0.118787455591) (yaw, pitch): (-117.150055, 64.049965)
+[Screenshot Path] 327213-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 10
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -1.31276155042, 2.6975279631)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -1.36896733518, 1.0875379176, 3.86564221223)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.77962897946, -2.13338992092, 2.29816625612)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -3.14859631464, 0.266909547103, 3.46628050525)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.0, -0.875174366948, 1.7983519754)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -0.456322445061, -0.0750745442744, 2.18772339178)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -0.912644890122, 0.725025278399, 2.57709480815)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -1.36896733518, 1.52512510107, 2.96646622453)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -1.80245937985, 0.314711093151, 2.37741395466)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -2.25878182491, 1.11481091583, 2.76678537104)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.77962897946, -1.69580273744, 1.39899026842)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -2.23595142452, -0.89570291477, 1.7883616848)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -2.69227386958, -0.0956030920965, 2.17773310117)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -3.14859631464, 0.704496730577, 2.56710451755)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:51
+[Builder Position] (x, y, z): (1.60590782486, 4.11650136793, -0.118787455591) (yaw, pitch): (-59.85007, 65.099945)
+[Screenshot Path] 329413-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 9
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -1.2631100522, 2.72113083038)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 1.50679343009, 1.08989002002, 3.81335984446)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.72942810831, -0.35195848384, 3.14407436996)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -0.222634678218, 2.00104158838, 4.23630338404)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.0, -0.842073368134, 1.81408722025)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 0.502264476696, -0.0577400107284, 2.17816355828)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.00452895339, 0.726593346677, 2.54223989631)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.50679343009, 1.51092670408, 2.90631623433)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.362449577457, 0.397835773452, 2.38963532807)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.139814899239, 1.18216913086, 2.7537116661)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 0.642079375935, 1.96650248826, 3.11778800412)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.72942810831, 0.0690782002268, 2.23703075984)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -1.22716363161, 0.853411557632, 2.60110709786)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.724899154914, 1.63774491504, 2.96518343589)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -0.222634678218, 2.42207827244, 3.32925977392)
+
+--------------------
+[Timestamp] 2018-04-05 22:54:52
+[Builder Position] (x, y, z): (1.60590782486, 4.11650136793, -0.118787455591) (yaw, pitch): (14.849932, 69.749916)
+[Screenshot Path] 331163-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 8
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -1.03835529761, 2.81457248546)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 2.89980121856, -1.75969708671, 2.54845424833)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.512576451898, 0.775355974182, 3.48368892042)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 3.41237767046, 0.0540141850782, 3.21757068329)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.0, -0.692236865074, 1.87638165697)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 0.966600406187, -0.932684128109, 1.78767557793)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.93320081237, -1.17313139114, 1.69896949889)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.89980121856, -1.41357865418, 1.61026341984)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.256288225949, 0.214618770822, 2.21093987445)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 1.22288863214, -0.0258284922121, 2.12223379541)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 2.18948903832, -0.266275755247, 2.03352771637)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 3.15608944451, -0.506723018281, 1.94482163732)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.512576451898, 1.12147440672, 2.54549809193)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): 1.47917685809, 0.881027143684, 2.45679201289)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): 2.44577726427, 0.64057988065, 2.36808593385)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): 3.41237767046, 0.400132617615, 2.2793798548)
+
+--------------------
+[Timestamp] 2018-04-05 22:56:15
+[Builder Position] (x, y, z): (1.60590782486, 3.0, -0.118787455591) (yaw, pitch): (-44.85007, 56.54991)
+[Screenshot Path] 414116-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 8
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 0.0, -1.10242076641, 1.66873258906)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 2.12686408635, 0.662899796254, 2.83496261321)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.41050805003, 0.0806350380596, 2.45029896777)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 0.716356036325, 1.84595560072, 3.61652899192)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 0.0, -0.551210383204, 0.834366294531)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 0.708954695451, 0.03722980435, 1.22310963592)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.4179093909, 0.625669991904, 1.6118529773)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 2.12686408635, 1.21411017946, 2.00059631868)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.705254025014, 0.0403175190298, 1.22514948388)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 0.003700670437, 0.628757706584, 1.61389282527)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.712655365888, 1.21719789414, 2.00263616665)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 1.42161006134, 1.80563808169, 2.39137950804)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.41050805003, 0.631845421264, 1.61593267324)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -0.701553354577, 1.22028560882, 2.00467601462)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): 0.007401340874, 1.80872579637, 2.39341935601)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): 0.716356036325, 2.39716598393, 2.78216269739)
+
+--------------------
+[Timestamp] 2018-04-05 22:57:04
+[Builder Position] (x, y, z): (2.32593960694, 1.0, 3.84211354733) (yaw, pitch): (188.09993, 2.3999307)
+[Screenshot Path] 462508-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 7
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.55362391944, 0.159926684468, 3.81584540731)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -1.41644757014, 0.1776270153, 4.23817471613)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.27182387465, 0.0770132870952, 1.83753448552)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -1.69824761493, 0.0947136179271, 2.25986379434)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.55362391944, 1.15904956521, 3.77397096204)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 0.56360008958, 1.16494967549, 3.91474739831)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -0.426423740279, 1.17084978577, 4.05552383458)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -1.41644757014, 1.17674989605, 4.19630027086)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.41272389704, 1.11759286653, 2.78481550114)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 0.422700067185, 1.12349297681, 2.92559193741)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -0.567323762674, 1.12939308708, 3.06636837369)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -1.55734759253, 1.13529319736, 3.20714480996)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.27182387465, 1.07613616784, 1.79566004024)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): 0.28180004479, 1.08203627812, 1.93643647652)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.708223785069, 1.0879363884, 2.07721291279)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -1.69824761493, 1.09383649867, 2.21798934906)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.140900022395, 1.04057957943, 0.94728101562)
+
+--------------------
+[Timestamp] 2018-04-05 22:57:20
+[Builder Position] (x, y, z): (2.29245867765, 5.91224760685, 2.20268509754) (yaw, pitch): (180.14987, 69.89994)
+[Screenshot Path] 478106-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 7
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.00784374489, 1.44017291817, 4.78645515509)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -1.99214599208, 1.44754214374, 4.78915191744)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.00261230096, -0.438008440967, 4.09913615041)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -1.99737743602, -0.430639215398, 4.10183291277)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.00784374489, 1.78383359617, 3.84736126287)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 0.00784716590148, 1.7862900047, 3.84826018366)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -0.992149413092, 1.78874641322, 3.84915910444)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -1.99214599208, 1.79120282174, 3.85005802523)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 1.00522802293, 0.844742916604, 3.50370176054)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 0.00523144393432, 0.847199325127, 3.50460068132)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -0.994765135059, 0.849655733651, 3.5054996021)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -1.99476171405, 0.852112142174, 3.50639852289)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.00261230096, -0.0943477629639, 3.1600422582)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): 0.00261572196716, -0.0918913544408, 3.16094117898)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.997380857026, -0.0894349459177, 3.16184009977)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -1.99737743602, -0.0869785373946, 3.16273902055)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.0, -1.03098203401, 2.81728167664)
+
+--------------------
+[Timestamp] 2018-04-05 22:57:30
+[Builder Position] (x, y, z): (2.31256372178, 2.54285904949, -3.16945615655) (yaw, pitch): (358.0499, 29.099953)
+[Screenshot Path] 488354-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 6
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.1015081271, 0.567836847731, 3.07640068266)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 1.89675440082, 0.617485432885, 3.16560175688)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -1.16956631674, 1.53994284646, 4.82293382293)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 1.82869621118, 1.58959143161, 4.91213489714)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -0.0680581896414, 0.972105998729, 1.74653314027)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.1015081271, 1.44160946971, 2.590066019)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -0.102087284462, 1.45815899809, 2.6197997104)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 0.897333558179, 1.47470852648, 2.64953340181)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.89675440082, 1.49125805486, 2.67926709321)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.13553722192, 1.92766246907, 3.46333258913)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.136116379283, 1.94421199746, 3.49306628054)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.863304463358, 1.96076152584, 3.52279997194)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 1.862725306, 1.97731105423, 3.55253366335)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -1.16956631674, 2.41371546844, 4.33659915926)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -0.170145474103, 2.43026499682, 4.36633285067)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): 0.829275368537, 2.44681452521, 4.39606654207)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): 1.82869621118, 2.46336405359, 4.42580023348)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): -0.204174568924, 2.91631799619, 5.2395994208)
+
+--------------------
+[Timestamp] 2018-04-05 22:58:25
+[Builder Position] (x, y, z): (2.32591620738, 5.91224760685, 1.10893259166) (yaw, pitch): (92.39994, 50.549824)
+[Screenshot Path] 543711-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+	<Architect> ok now on the short edge closest to those 2 new blocks, build 2 yellow squares up in the middle
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 6
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.95637114045, -1.70545854613, 3.77677416696)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -2.0819949628, -4.01995891726, 1.87222522107)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.0418746074502, -1.77012779887, 3.72355933119)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -0.0837492149004, -4.08462817, 1.8190103853)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.99736862185, -1.80921706282, 2.39635451558)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.95637114045, -1.07005156549, 3.00459674632)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -1.9982457479, -1.8415516892, 2.36974709769)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.04012035535, -2.6130518129, 1.73489744906)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.0819949628, -3.38455193661, 1.10004780043)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.9572482665, -1.10238619186, 2.97798932844)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.99912287395, -1.87388631557, 2.34313967981)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -1.0409974814, -2.64538643928, 1.70829003117)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -1.08287208885, -3.41688656299, 1.07344038254)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.0418746074502, -1.13472081823, 2.95138191055)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): 0.0, -1.90622094194, 2.31653226192)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.0418746074502, -2.67772106565, 1.68168261329)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -0.0837492149004, -3.44922118936, 1.04683296466)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.99912287395, -1.93855556831, 2.28992484403)
+
+--------------------
+[Timestamp] 2018-04-05 22:58:31
+[Builder Position] (x, y, z): (2.32591620738, 5.91224760685, 1.10893259166) (yaw, pitch): (92.39994, 50.549824)
+[Screenshot Path] 549461-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+	<Architect> ok now on the short edge closest to those 2 new blocks, build 2 yellow squares up in the middle
+	<Architect> not overhanging
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 6
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.95637114045, -1.70545854613, 3.77677416696)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -2.0819949628, -4.01995891726, 1.87222522107)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.0418746074502, -1.77012779887, 3.72355933119)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -0.0837492149004, -4.08462817, 1.8190103853)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.99736862185, -1.80921706282, 2.39635451558)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.95637114045, -1.07005156549, 3.00459674632)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -1.9982457479, -1.8415516892, 2.36974709769)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.04012035535, -2.6130518129, 1.73489744906)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.0819949628, -3.38455193661, 1.10004780043)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.9572482665, -1.10238619186, 2.97798932844)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.99912287395, -1.87388631557, 2.34313967981)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -1.0409974814, -2.64538643928, 1.70829003117)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -1.08287208885, -3.41688656299, 1.07344038254)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.0418746074502, -1.13472081823, 2.95138191055)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): 0.0, -1.90622094194, 2.31653226192)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.0418746074502, -2.67772106565, 1.68168261329)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -0.0837492149004, -3.44922118936, 1.04683296466)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.99912287395, -1.93855556831, 2.28992484403)
+
+--------------------
+[Timestamp] 2018-04-05 22:59:05
+[Builder Position] (x, y, z): (2.32591620738, 3.0, 1.10893259166) (yaw, pitch): (128.09995, 57.29997)
+[Screenshot Path] 583006-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+	<Architect> ok now on the short edge closest to those 2 new blocks, build 2 yellow squares up in the middle
+	<Architect> not overhanging
+	<Builder> the two squares should be on top of each other?
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 6
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.956835932442, 0.620216192703, 2.77485078386)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -2.80794149767, -1.36642741588, 1.49944678558)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.61703518841, -0.418266985989, 2.10815566425)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -1.23407037682, -2.40491059457, 0.832751665962)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.36080668128, 1.01748400695, 1.8415531785)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.956835932442, 1.1604569538, 1.93334028479)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -1.57387112085, 0.498242417601, 1.50820561869)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.19090630926, -0.163972118594, 1.0830709526)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.80794149767, -0.826186654789, 0.657936286501)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.169900372016, 0.641215364449, 1.59999272498)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.786935560426, -0.0209991717456, 1.17485805888)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -1.40397074884, -0.68321370794, 0.749723392788)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -2.02100593725, -1.34542824414, 0.324588726693)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.61703518841, 0.121973775103, 1.26664516517)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): 0.0, -0.540240761092, 0.841510499076)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.61703518841, -1.20245529729, 0.416375832981)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -1.23407037682, -1.86466983348, -0.0087588331138)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.786935560426, -1.05948235044, 0.508162939269)
+
+--------------------
+[Timestamp] 2018-04-05 22:59:08
+[Builder Position] (x, y, z): (2.32591620738, 3.0, 1.10893259166) (yaw, pitch): (128.09995, 57.29997)
+[Screenshot Path] 586604-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+	<Architect> ok now on the short edge closest to those 2 new blocks, build 2 yellow squares up in the middle
+	<Architect> not overhanging
+	<Builder> the two squares should be on top of each other?
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 6
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.956835932442, 0.620216192703, 2.77485078386)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -2.80794149767, -1.36642741588, 1.49944678558)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.61703518841, -0.418266985989, 2.10815566425)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -1.23407037682, -2.40491059457, 0.832751665962)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.36080668128, 1.01748400695, 1.8415531785)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.956835932442, 1.1604569538, 1.93334028479)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -1.57387112085, 0.498242417601, 1.50820561869)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.19090630926, -0.163972118594, 1.0830709526)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.80794149767, -0.826186654789, 0.657936286501)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.169900372016, 0.641215364449, 1.59999272498)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.786935560426, -0.0209991717456, 1.17485805888)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -1.40397074884, -0.68321370794, 0.749723392788)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -2.02100593725, -1.34542824414, 0.324588726693)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.61703518841, 0.121973775103, 1.26664516517)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): 0.0, -0.540240761092, 0.841510499076)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.61703518841, -1.20245529729, 0.416375832981)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -1.23407037682, -1.86466983348, -0.0087588331138)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.786935560426, -1.05948235044, 0.508162939269)
+
+--------------------
+[Timestamp] 2018-04-05 22:59:10
+[Builder Position] (x, y, z): (2.32591620738, 3.0, 1.10893259166) (yaw, pitch): (129.59995, 55.19997)
+[Screenshot Path] 588755-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+	<Architect> ok now on the short edge closest to those 2 new blocks, build 2 yellow squares up in the middle
+	<Architect> not overhanging
+	<Builder> the two squares should be on top of each other?
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 5
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.903604280717, 0.538117496073, 2.80961365036)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -2.81587423276, -1.36000220329, 1.49038461892)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.637423317349, -0.50872142882, 2.0820408311)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -1.2748466347, -2.40684112818, 0.762811799657)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.3115413971, 0.999544389703, 1.9125081392)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.903604280717, 1.10883149371, 1.98846474005)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -1.54102759807, 0.476124927256, 1.54872172957)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.17845091542, -0.156581639198, 1.10897871909)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.81587423276, -0.789288205652, 0.66923570861)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.133090481684, 0.585412031264, 1.62467833042)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.770513799033, -0.0472945351903, 1.18493531994)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -1.40793711638, -0.680001101644, 0.74519230946)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -2.04536043373, -1.3127076681, 0.305449298979)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.637423317349, 0.061992568817, 1.26089192079)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): 0.0, -0.570713997637, 0.821148910309)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.637423317349, -1.20342056409, 0.381405899828)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -1.2748466347, -1.83612713054, -0.0583371106522)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.770513799033, -1.09413346008, 0.457362500678)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.133090481684, 1.1561260289, 0.803529420112)
+
+--------------------
+[Timestamp] 2018-04-05 22:59:11
+[Builder Position] (x, y, z): (2.32591620738, 3.0, 1.10893259166) (yaw, pitch): (126.14994, 34.79997)
+[Screenshot Path] 589704-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+	<Architect> ok now on the short edge closest to those 2 new blocks, build 2 yellow squares up in the middle
+	<Architect> not overhanging
+	<Builder> the two squares should be on top of each other?
+	<Architect> yes
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 4
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -1.02505165494, -0.508134034274, 2.77327764711)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -2.79475282949, -1.89064555885, 0.784102029621)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 0.589900391518, -1.18146184106, 1.80448481463)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -1.17980078304, -2.56397336564, -0.184690802859)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.42242806968, 0.188842202219, 2.02390238645)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -1.02505165494, 0.313015473685, 2.20256450937)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -1.61495204645, -0.147821701174, 1.53950597021)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -2.20485243797, -0.608658876033, 0.87644743105)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -2.79475282949, -1.06949605089, 0.213388891889)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -0.217575631709, -0.0236484297072, 1.71816809313)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.807476023227, -0.484485604566, 1.05510955397)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -1.39737641475, -0.945322779426, 0.39205101481)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -1.98727680626, -1.40615995428, -0.271007524351)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 0.589900391518, -0.3603123331, 1.23377167689)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): 0.0, -0.821149507959, 0.570713137732)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.589900391518, -1.28198668282, -0.0923454014295)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -1.17980078304, -1.74282385768, -0.755403940591)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.807476023227, -1.15781341135, 0.0863167214922)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -0.217575631709, 0.797501078252, 1.1474549554)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): -0.217575631709, 1.61865058621, 0.576741817669)
+
+--------------------
+[Timestamp] 2018-04-05 22:59:47
+[Builder Position] (x, y, z): (4.02034330057, 3.0, 0.400184920807) (yaw, pitch): (-297.9, 29.400024)
+[Screenshot Path] 625865-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+	<Architect> ok now on the short edge closest to those 2 new blocks, build 2 yellow squares up in the middle
+	<Architect> not overhanging
+	<Builder> the two squares should be on top of each other?
+	<Architect> yes
+	<Architect> now place one more yellow block on the edge of the top block that you just placed and make it overhang
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 4
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -2.28755507287, -0.670603321069, 2.88398733949)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -0.883765630089, -1.97213588399, 0.574141416497)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.520023812694, -0.211185975044, 3.69932098069)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 0.883765630089, -1.51271853797, 1.3894750577)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -2.7033908887, -0.462942576232, 1.21546775935)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -2.28755507287, 0.200610284422, 2.39308322095)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -1.81962525861, -0.233233903219, 1.62313457995)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -1.35169544435, -0.667078090861, 0.853185938948)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -0.883765630089, -1.1009222785, 0.0832372979489)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): -1.40378944278, 0.430318957435, 2.80075004154)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): -0.935859628522, -0.00352523020728, 2.03080140055)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): -0.467929814261, -0.437369417849, 1.26085275955)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 0.0, -0.871213605491, 0.490904118548)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.520023812694, 0.660027630447, 3.20841686214)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -0.052093998433, 0.226183442805, 2.43846822114)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): 0.415835815828, -0.207660744837, 1.66851958015)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): 0.883765630089, -0.641504932479, 0.898570939147)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 0.831671631656, 0.455892115817, 2.84613504174)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): -1.40378944278, 1.30153256293, 2.309845923)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): -1.40378944278, 2.17274616842, 1.81894180445)
+
+--------------------
+[Timestamp] 2018-04-05 23:00:05
+[Builder Position] (x, y, z): (-1.962169568, 4.03802502105, 0.407569521838) (yaw, pitch): (-87.74999, 19.350004)
+[Screenshot Path] 643762-Builder-putdown.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+	<Architect> ok now on the short edge closest to those 2 new blocks, build 2 yellow squares up in the middle
+	<Architect> not overhanging
+	<Builder> the two squares should be on top of each other?
+	<Architect> yes
+	<Architect> now place one more yellow block on the edge of the top block that you just placed and make it overhang
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 3
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): 1.11700899986, -1.85029723999, 3.78532574792)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): 1.23478897033, -0.857049732472, 6.61367991022)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): -0.881449058917, -1.82428059034, 3.85941030265)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): -0.763669088445, -0.831033082821, 6.68776446495)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): 2.15549801941, -0.588710921416, 4.35973023699)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): 1.11700899986, -0.906785099097, 3.45398779359)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): 1.15626899002, -0.57570259659, 4.39677251436)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): 1.19552898018, -0.244620094083, 5.33955723512)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): 1.23478897033, 0.0864624084236, 6.28234195588)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.117779970472, -0.893776774271, 3.49103007096)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 0.15703996063, -0.562694271764, 4.43381479172)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.196299950787, -0.231611769257, 5.37659951249)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): 0.235559940944, 0.0994707332494, 6.31938423325)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): -0.881449058917, -0.880768449445, 3.52807234832)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): -0.842189068759, -0.549685946939, 4.47085706909)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): -0.802929078602, -0.218603444432, 5.41364178985)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): -0.763669088445, 0.112479058075, 6.35642651061)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): -1.84141809815, -0.536677622113, 4.50789934645)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.117779970472, 0.0497353666247, 3.15969211662)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 0.0785199803148, 0.662165005014, 1.88556944153)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 0.117779970472, 0.993247507521, 2.82835416229)
+
+--------------------
+[Timestamp] 2018-04-05 23:00:14
+[Builder Position] (x, y, z): (3.37492691378, 3.0, 0.250944880207) (yaw, pitch): (-248.09996, 50.699986)
+[Screenshot Path] 653011-Builder-chat.png
+
+[Chat Log]
+	<Builder> Mission has started.
+	<Architect> start with purple blocks
+	<Architect> near one edge of the board place 2 purple blocks with one space between them
+	<Builder> does it matter if I place them near a corner?
+	<Architect> yes. try to make it near the center
+	<Architect> of an edge
+	<Architect> ok then replicate that towards the center of the board leaving two spaces between those blocks
+	<Builder> two spaces between my current two purple blocks and the new ones I'm about to place?
+	<Architect> yes
+	<Architect> now build a platform out of yellow blocks on top of the purple blocks
+	<Architect> ok now on the edge of the long side of the platform place an overhanging yellow block one space from the corner
+	<Architect> yes! now replicate that on the other side
+	<Architect> ok now on the short edge closest to those 2 new blocks, build 2 yellow squares up in the middle
+	<Architect> not overhanging
+	<Builder> the two squares should be on top of each other?
+	<Architect> yes
+	<Architect> now place one more yellow block on the edge of the top block that you just placed and make it overhang
+	<Architect> thats it
+
+[Builder Inventory]
+	Type: cwc_minecraft_red_rn Index: 0 Quantity: 20
+	Type: cwc_minecraft_orange_rn Index: 1 Quantity: 20
+	Type: cwc_minecraft_yellow_rn Index: 2 Quantity: 3
+	Type: cwc_minecraft_green_rn Index: 3 Quantity: 20
+	Type: cwc_minecraft_blue_rn Index: 4 Quantity: 20
+	Type: cwc_minecraft_purple_rn Index: 5 Quantity: 16
+
+[Blocks In Grid]
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, -1)  Perspective (x, y, z): -0.181859132848, 0.457864576419, 2.95927141125)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, -1)  Perspective (x, y, z): -1.30082442383, -1.69612539221, 1.19625017127)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (1, 1, 1)  Perspective (x, y, z): 1.67381285416, -0.119402198431, 2.48678379524)
+	Type: cwc_minecraft_purple_rn  Absolute (x, y, z): (4, 1, 1)  Perspective (x, y, z): 0.554847563176, -2.27339216706, 0.723762555256)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -2)  Perspective (x, y, z): -1.48268355668, 0.661882369347, 1.83400141764)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, -1)  Perspective (x, y, z): -0.181859132848, 1.09124563813, 2.18543135629)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, -1)  Perspective (x, y, z): -0.554847563176, 0.373248981922, 1.59775760963)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, -1)  Perspective (x, y, z): -0.927835993504, -0.344747674287, 1.01008386297)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, -1)  Perspective (x, y, z): -1.30082442383, -1.0627443305, 0.422410116309)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 0)  Perspective (x, y, z): 0.745976860656, 0.802612250706, 1.94918754828)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 0)  Perspective (x, y, z): 0.372988430328, 0.0846155944969, 1.36151380162)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 0)  Perspective (x, y, z): 0.0, -0.633381061712, 0.773840054962)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 0)  Perspective (x, y, z): -0.372988430328, -1.35137771792, 0.186166308302)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 2, 1)  Perspective (x, y, z): 1.67381285416, 0.513978863281, 1.71294374027)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 1)  Perspective (x, y, z): 1.30082442383, -0.204017792928, 1.12526999361)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (3, 2, 1)  Perspective (x, y, z): 0.927835993504, -0.922014449137, 0.537596246955)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (4, 2, 1)  Perspective (x, y, z): 0.554847563176, -1.64001110535, -0.0500774997056)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (2, 2, 2)  Perspective (x, y, z): 2.22866041734, -0.492651180354, 0.889026185607)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 3, 0)  Perspective (x, y, z): 0.745976860656, 1.43599331242, 1.17534749332)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (0, 4, 0)  Perspective (x, y, z): 1.11896529098, 2.78737103034, 0.989181185019)
+	Type: cwc_minecraft_yellow_rn  Absolute (x, y, z): (1, 4, 0)  Perspective (x, y, z): 0.745976860656, 2.06937437413, 0.401507438358)
+
+Time elapsed: 0:11:17 (677.51s)
