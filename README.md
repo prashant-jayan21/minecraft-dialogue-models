@@ -1,3 +1,25 @@
+# Introduction
+This repository contains modeling code for the ACL 2019 paper [Collaborative Dialogue in Minecraft](https://www.aclweb.org/anthology/P19-1537) (supplementary material available [here](https://www.aclweb.org/anthology/attachments/P19-1537.Supplementary.pdf)). 
+
+More details on this work, as well as a link to download [the full Minecraft Dialogue corpus](https://drive.google.com/drive/folders/16lDzswcQh8DR2jkQJdoVTK-RyVDFPHKa), can be found at [this landing page](http://juliahmr.cs.illinois.edu/Minecraft/). Related data collection code can be found in [this repository](https://github.com/prashant-jayan21/minecraft-dialogue).
+
+If you use this work, please cite:
+```
+@inproceedings{narayan-chen-etal-2019-collaborative,
+    title = "Collaborative Dialogue in {M}inecraft",
+    author = "Narayan-Chen, Anjali  and
+      Jayannavar, Prashant  and
+      Hockenmaier, Julia",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1537",
+    pages = "5405--5415",
+}
+```
+
 # Setup
 - [PyTorch](https://pytorch.org/get-started/locally/) (we recommend `v0.4.1` or `v1.0.1` -- these are the ones we have tried out)
 - [NLTK](https://www.nltk.org/install.html)
